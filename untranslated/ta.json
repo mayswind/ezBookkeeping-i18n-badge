@@ -1,0 +1,482 @@
+[
+    {
+        "source": "frontend",
+        "key": "dataExport.defaultExportFilename",
+        "defaultValue": "ezBookkeeping_export_data",
+        "value": "ezBookkeeping_export_data"
+    },
+    {
+        "source": "frontend",
+        "key": "dataExport.exportFilename",
+        "defaultValue": "ezBookkeeping_{nickname}_export_data",
+        "value": "ezBookkeeping_{nickname}_export_data"
+    },
+    {
+        "source": "frontend",
+        "key": "dataExport.defaultExportStatisticsFileName",
+        "defaultValue": "ezBookkeeping_statistics_data",
+        "value": "ezBookkeeping_statistics_data"
+    },
+    {
+        "source": "frontend",
+        "key": "dataExport.exportStatisticsFileName",
+        "defaultValue": "ezBookkeeping_{nickname}_statistics_data",
+        "value": "ezBookkeeping_{nickname}_statistics_data"
+    },
+    {
+        "source": "frontend",
+        "key": "dataExport.defaultExportReconciliationStatementsFileName",
+        "defaultValue": "ezBookkeeping_reconciliation_statements",
+        "value": "ezBookkeeping_reconciliation_statements"
+    },
+    {
+        "source": "frontend",
+        "key": "dataExport.exportReconciliationStatementsFileName",
+        "defaultValue": "ezBookkeeping_{nickname}_reconciliation_statements",
+        "value": "ezBookkeeping_{nickname}_reconciliation_statements"
+    },
+    {
+        "source": "frontend",
+        "key": "dataExport.defaultImportDataMappingFileName",
+        "defaultValue": "ezBookkeeping_import_data_mapping",
+        "value": "ezBookkeeping_import_data_mapping"
+    },
+    {
+        "source": "frontend",
+        "key": "dataExport.defaultImportHandlingScript",
+        "defaultValue": "ezBookkeeping_handling_script",
+        "value": "ezBookkeeping_handling_script"
+    },
+    {
+        "source": "frontend",
+        "key": "dataExport.defaultImportReplaceRuleFileName",
+        "defaultValue": "ezBookkeeping_import_replace_rule",
+        "value": "ezBookkeeping_import_replace_rule"
+    },
+    {
+        "source": "frontend",
+        "key": "dataExport.defaultImportCheckResultFileName",
+        "defaultValue": "ezBookkeeping_import_check_result",
+        "value": "ezBookkeeping_import_check_result"
+    },
+    {
+        "source": "frontend",
+        "key": "sample.importTransactionCustomScript.fieldTimeDescription",
+        "defaultValue": "[required] Transaction time, format: YYYY-MM-DD HH:mm:ss. You can also use the parseDateTime(value, format) function to convert a custom formatted time string to the standard format, where 'format' argument is the format of the custom time string, e.g. parseDateTime('12/31/2023 23:59', 'MM/DD/YYYY HH:mm') means converting '12/31/2023 23:59' to the standard format '2023-12-31 23:59:00'",
+        "value": "[required] Transaction time, format: YYYY-MM-DD HH:mm:ss. You can also use the parseDateTime(value, format) function to convert a custom formatted time string to the standard format, where 'format' argument is the format of the custom time string, e.g. parseDateTime('12/31/2023 23:59', 'MM/DD/YYYY HH:mm') means converting '12/31/2023 23:59' to the standard format '2023-12-31 23:59:00'"
+    },
+    {
+        "source": "frontend",
+        "key": "sample.importTransactionCustomScript.fieldUtcOffsetDescription",
+        "defaultValue": "[required] Transaction timezone offset in minutes, e.g. '480' for UTC+8, '-300' for UTC-5. You can also use the parseUtcOffset(timezoneName) function to get the timezone offset in minutes automatically according to the transaction time, where 'timezoneName' argument is the IANA time zone name, e.g. parseUtcOffset('Asia/Shanghai') means getting the timezone offset in minutes for Beijing Time",
+        "value": "[required] Transaction timezone offset in minutes, e.g. '480' for UTC+8, '-300' for UTC-5. You can also use the parseUtcOffset(timezoneName) function to get the timezone offset in minutes automatically according to the transaction time, where 'timezoneName' argument is the IANA time zone name, e.g. parseUtcOffset('Asia/Shanghai') means getting the timezone offset in minutes for Beijing Time"
+    },
+    {
+        "source": "frontend",
+        "key": "sample.importTransactionCustomScript.fieldSourceAmountDescription",
+        "defaultValue": "[required] Source amount (including two decimal places expressed without a decimal separator, for example '12345' represents 123.45)",
+        "value": "[required] Source amount (including two decimal places expressed without a decimal separator, for example '12345' represents 123.45)"
+    },
+    {
+        "source": "frontend",
+        "key": "sample.importTransactionCustomScript.fieldDestinationAmountDescription",
+        "defaultValue": "[optional] Destination amount (for transfer type only, format is the same as the source amount)",
+        "value": "[optional] Destination amount (for transfer type only, format is the same as the source amount)"
+    },
+    {
+        "source": "frontend",
+        "key": "Open Menu",
+        "defaultValue": "Open Menu",
+        "value": "Open Menu"
+    },
+    {
+        "source": "frontend",
+        "key": "Sort by Name (A to Z)",
+        "defaultValue": "Sort by Name (A to Z)",
+        "value": "Sort by Name (A to Z)"
+    },
+    {
+        "source": "frontend",
+        "key": "Sort by Name (Z to A)",
+        "defaultValue": "Sort by Name (Z to A)",
+        "value": "Sort by Name (Z to A)"
+    },
+    {
+        "source": "frontend",
+        "key": "AND",
+        "defaultValue": "AND",
+        "value": "AND"
+    },
+    {
+        "source": "frontend",
+        "key": "OR",
+        "defaultValue": "OR",
+        "value": "OR"
+    },
+    {
+        "source": "frontend",
+        "key": "AND SUB",
+        "defaultValue": "AND SUB",
+        "value": "AND SUB"
+    },
+    {
+        "source": "frontend",
+        "key": "OR SUB",
+        "defaultValue": "OR SUB",
+        "value": "OR SUB"
+    },
+    {
+        "source": "frontend",
+        "key": "In",
+        "defaultValue": "In",
+        "value": "In"
+    },
+    {
+        "source": "frontend",
+        "key": "Latitude between",
+        "defaultValue": "Latitude between",
+        "value": "Latitude between"
+    },
+    {
+        "source": "frontend",
+        "key": "Latitude not between",
+        "defaultValue": "Latitude not between",
+        "value": "Latitude not between"
+    },
+    {
+        "source": "frontend",
+        "key": "Longitude between",
+        "defaultValue": "Longitude between",
+        "value": "Longitude between"
+    },
+    {
+        "source": "frontend",
+        "key": "Longitude not between",
+        "defaultValue": "Longitude not between",
+        "value": "Longitude not between"
+    },
+    {
+        "source": "frontend",
+        "key": "Boxplot Chart",
+        "defaultValue": "Boxplot Chart",
+        "value": "Boxplot Chart"
+    },
+    {
+        "source": "frontend",
+        "key": "Username/password login is disabled",
+        "defaultValue": "Username/password login is disabled",
+        "value": "Username/password login is disabled"
+    },
+    {
+        "source": "frontend",
+        "key": "Forget password is disabled",
+        "defaultValue": "Forget password is disabled",
+        "value": "Forget password is disabled"
+    },
+    {
+        "source": "frontend",
+        "key": "Add Sub Condition",
+        "defaultValue": "Add Sub Condition",
+        "value": "Add Sub Condition"
+    },
+    {
+        "source": "frontend",
+        "key": "Transaction Hour of Day",
+        "defaultValue": "Transaction Hour of Day",
+        "value": "Transaction Hour of Day"
+    },
+    {
+        "source": "frontend",
+        "key": "90th Percentile Amount",
+        "defaultValue": "90th Percentile Amount",
+        "value": "90th Percentile Amount"
+    },
+    {
+        "source": "frontend",
+        "key": "Top 5 Amount Share",
+        "defaultValue": "Top 5 Amount Share",
+        "value": "Top 5 Amount Share"
+    },
+    {
+        "source": "frontend",
+        "key": "Transactions for 80% of Amount",
+        "defaultValue": "Transactions for 80% of Amount",
+        "value": "Transactions for 80% of Amount"
+    },
+    {
+        "source": "frontend",
+        "key": "Range (Max - Min)",
+        "defaultValue": "Range (Max - Min)",
+        "value": "Range (Max - Min)"
+    },
+    {
+        "source": "frontend",
+        "key": "Interquartile Range (Q3 - Q1)",
+        "defaultValue": "Interquartile Range (Q3 - Q1)",
+        "value": "Interquartile Range (Q3 - Q1)"
+    },
+    {
+        "source": "frontend",
+        "key": "Variance",
+        "defaultValue": "Variance",
+        "value": "Variance"
+    },
+    {
+        "source": "frontend",
+        "key": "Standard Deviation",
+        "defaultValue": "Standard Deviation",
+        "value": "Standard Deviation"
+    },
+    {
+        "source": "frontend",
+        "key": "Coefficient of Variation",
+        "defaultValue": "Coefficient of Variation",
+        "value": "Coefficient of Variation"
+    },
+    {
+        "source": "frontend",
+        "key": "Save & New",
+        "defaultValue": "Save & New",
+        "value": "Save & New"
+    },
+    {
+        "source": "frontend",
+        "key": "Save & Duplicate",
+        "defaultValue": "Save & Duplicate",
+        "value": "Save & Duplicate"
+    },
+    {
+        "source": "frontend",
+        "key": "Refresh Accounts, Categories and Tags",
+        "defaultValue": "Refresh Accounts, Categories and Tags",
+        "value": "Refresh Accounts, Categories and Tags"
+    },
+    {
+        "source": "frontend",
+        "key": "Excel Workbook File (.xlsx)",
+        "defaultValue": "Excel Workbook File (.xlsx)",
+        "value": "Excel Workbook File (.xlsx)"
+    },
+    {
+        "source": "frontend",
+        "key": "Excel 97-2003 Workbook File (.xls)",
+        "defaultValue": "Excel 97-2003 Workbook File (.xls)",
+        "value": "Excel 97-2003 Workbook File (.xls)"
+    },
+    {
+        "source": "frontend",
+        "key": "Batch Replace Selected Transaction Timezones",
+        "defaultValue": "Batch Replace Selected Transaction Timezones",
+        "value": "Batch Replace Selected Transaction Timezones"
+    },
+    {
+        "source": "frontend",
+        "key": "Target Timezone",
+        "defaultValue": "Target Timezone",
+        "value": "Target Timezone"
+    },
+    {
+        "source": "frontend",
+        "key": "Q1 Balance (First Quartile)",
+        "defaultValue": "Q1 Balance (First Quartile)",
+        "value": "Q1 Balance (First Quartile)"
+    },
+    {
+        "source": "frontend",
+        "key": "Q3 Balance (Third Quartile)",
+        "defaultValue": "Q3 Balance (Third Quartile)",
+        "value": "Q3 Balance (Third Quartile)"
+    },
+    {
+        "source": "frontend",
+        "key": "Value",
+        "defaultValue": "Value",
+        "value": "Value"
+    },
+    {
+        "source": "frontend",
+        "key": "Year-over-Year",
+        "defaultValue": "Year-over-Year",
+        "value": "Year-over-Year"
+    },
+    {
+        "source": "frontend",
+        "key": "Period-over-Period",
+        "defaultValue": "Period-over-Period",
+        "value": "Period-over-Period"
+    },
+    {
+        "source": "frontend",
+        "key": "Quick Save Button Style",
+        "defaultValue": "Quick Save Button Style",
+        "value": "Quick Save Button Style"
+    },
+    {
+        "source": "frontend",
+        "key": "Bottom Left Floating",
+        "defaultValue": "Bottom Left Floating",
+        "value": "Bottom Left Floating"
+    },
+    {
+        "source": "frontend",
+        "key": "Bottom Center Floating",
+        "defaultValue": "Bottom Center Floating",
+        "value": "Bottom Center Floating"
+    },
+    {
+        "source": "frontend",
+        "key": "Bottom Right Floating",
+        "defaultValue": "Bottom Right Floating",
+        "value": "Bottom Right Floating"
+    },
+    {
+        "source": "frontend",
+        "key": "Bottom Fixed",
+        "defaultValue": "Bottom Fixed",
+        "value": "Bottom Fixed"
+    },
+    {
+        "source": "frontend",
+        "key": "Quick Add Button Action",
+        "defaultValue": "Quick Add Button Action",
+        "value": "Quick Add Button Action"
+    },
+    {
+        "source": "frontend",
+        "key": "SSV (Semicolon-separated values) File",
+        "defaultValue": "SSV (Semicolon-separated values) File",
+        "value": "SSV (Semicolon-separated values) File"
+    },
+    {
+        "source": "frontend",
+        "key": "Export to SSV (Semicolon-separated values) File",
+        "defaultValue": "Export to SSV (Semicolon-separated values) File",
+        "value": "Export to SSV (Semicolon-separated values) File"
+    },
+    {
+        "source": "frontend",
+        "key": "Mermaid (Pie Chart)",
+        "defaultValue": "Mermaid (Pie Chart)",
+        "value": "Mermaid (Pie Chart)"
+    },
+    {
+        "source": "frontend",
+        "key": "Mermaid (XY Chart)",
+        "defaultValue": "Mermaid (XY Chart)",
+        "value": "Mermaid (XY Chart)"
+    },
+    {
+        "source": "frontend",
+        "key": "Browser Cache Management",
+        "defaultValue": "Browser Cache Management",
+        "value": "Browser Cache Management"
+    },
+    {
+        "source": "frontend",
+        "key": "File Cache",
+        "defaultValue": "File Cache",
+        "value": "File Cache"
+    },
+    {
+        "source": "frontend",
+        "key": "Used storage",
+        "defaultValue": "Used storage",
+        "value": "Used storage"
+    },
+    {
+        "source": "frontend",
+        "key": "Application Code",
+        "defaultValue": "Application Code",
+        "value": "Application Code"
+    },
+    {
+        "source": "frontend",
+        "key": "Resource Files",
+        "defaultValue": "Resource Files",
+        "value": "Resource Files"
+    },
+    {
+        "source": "frontend",
+        "key": "Map Data",
+        "defaultValue": "Map Data",
+        "value": "Map Data"
+    },
+    {
+        "source": "frontend",
+        "key": "Others",
+        "defaultValue": "Others",
+        "value": "Others"
+    },
+    {
+        "source": "frontend",
+        "key": "Cache Expiration Time",
+        "defaultValue": "Cache Expiration Time",
+        "value": "Cache Expiration Time"
+    },
+    {
+        "source": "frontend",
+        "key": "Cache Expiration for Map Data",
+        "defaultValue": "Cache Expiration for Map Data",
+        "value": "Cache Expiration for Map Data"
+    },
+    {
+        "source": "frontend",
+        "key": "Cache Expiration for Exchange Rates Data",
+        "defaultValue": "Cache Expiration for Exchange Rates Data",
+        "value": "Cache Expiration for Exchange Rates Data"
+    },
+    {
+        "source": "frontend",
+        "key": "Disable Cache",
+        "defaultValue": "Disable Cache",
+        "value": "Disable Cache"
+    },
+    {
+        "source": "frontend",
+        "key": "Clear All File Cache",
+        "defaultValue": "Clear All File Cache",
+        "value": "Clear All File Cache"
+    },
+    {
+        "source": "frontend",
+        "key": "Are you sure you want to clear all file cache?",
+        "defaultValue": "Are you sure you want to clear all file cache?",
+        "value": "Are you sure you want to clear all file cache?"
+    },
+    {
+        "source": "frontend",
+        "key": "Clear Map Data Cache",
+        "defaultValue": "Clear Map Data Cache",
+        "value": "Clear Map Data Cache"
+    },
+    {
+        "source": "frontend",
+        "key": "Are you sure you want to clear map data cache?",
+        "defaultValue": "Are you sure you want to clear map data cache?",
+        "value": "Are you sure you want to clear map data cache?"
+    },
+    {
+        "source": "frontend",
+        "key": "Clear Application Code Cache",
+        "defaultValue": "Clear Application Code Cache",
+        "value": "Clear Application Code Cache"
+    },
+    {
+        "source": "frontend",
+        "key": "Are you sure you want to clear application code cache?",
+        "defaultValue": "Are you sure you want to clear application code cache?",
+        "value": "Are you sure you want to clear application code cache?"
+    },
+    {
+        "source": "frontend",
+        "key": "Clear Exchange Rates Data Cache",
+        "defaultValue": "Clear Exchange Rates Data Cache",
+        "value": "Clear Exchange Rates Data Cache"
+    },
+    {
+        "source": "frontend",
+        "key": "Are you sure you want to clear exchange rates data cache?",
+        "defaultValue": "Are you sure you want to clear exchange rates data cache?",
+        "value": "Are you sure you want to clear exchange rates data cache?"
+    }
+]

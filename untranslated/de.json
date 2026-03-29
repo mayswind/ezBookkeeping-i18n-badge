@@ -1,0 +1,194 @@
+[
+    {
+        "source": "frontend",
+        "key": "language.Kannada",
+        "defaultValue": "Kannada",
+        "value": "Kannada"
+    },
+    {
+        "source": "frontend",
+        "key": "language.Tamil",
+        "defaultValue": "Tamil",
+        "value": "Tamil"
+    },
+    {
+        "source": "frontend",
+        "key": "dataExport.defaultExportFilename",
+        "defaultValue": "ezBookkeeping_export_data",
+        "value": "ezBookkeeping_export_data"
+    },
+    {
+        "source": "frontend",
+        "key": "dataExport.exportFilename",
+        "defaultValue": "ezBookkeeping_{nickname}_export_data",
+        "value": "ezBookkeeping_{nickname}_export_data"
+    },
+    {
+        "source": "frontend",
+        "key": "dataExport.defaultExportStatisticsFileName",
+        "defaultValue": "ezBookkeeping_statistics_data",
+        "value": "ezBookkeeping_statistics_data"
+    },
+    {
+        "source": "frontend",
+        "key": "dataExport.exportStatisticsFileName",
+        "defaultValue": "ezBookkeeping_{nickname}_statistics_data",
+        "value": "ezBookkeeping_{nickname}_statistics_data"
+    },
+    {
+        "source": "frontend",
+        "key": "dataExport.defaultExportReconciliationStatementsFileName",
+        "defaultValue": "ezBookkeeping_reconciliation_statements",
+        "value": "ezBookkeeping_reconciliation_statements"
+    },
+    {
+        "source": "frontend",
+        "key": "dataExport.exportReconciliationStatementsFileName",
+        "defaultValue": "ezBookkeeping_{nickname}_reconciliation_statements",
+        "value": "ezBookkeeping_{nickname}_reconciliation_statements"
+    },
+    {
+        "source": "frontend",
+        "key": "dataExport.defaultImportDataMappingFileName",
+        "defaultValue": "ezBookkeeping_import_data_mapping",
+        "value": "ezBookkeeping_import_data_mapping"
+    },
+    {
+        "source": "frontend",
+        "key": "dataExport.defaultImportHandlingScript",
+        "defaultValue": "ezBookkeeping_handling_script",
+        "value": "ezBookkeeping_handling_script"
+    },
+    {
+        "source": "frontend",
+        "key": "dataExport.defaultImportReplaceRuleFileName",
+        "defaultValue": "ezBookkeeping_import_replace_rule",
+        "value": "ezBookkeeping_import_replace_rule"
+    },
+    {
+        "source": "frontend",
+        "key": "dataExport.defaultImportCheckResultFileName",
+        "defaultValue": "ezBookkeeping_import_check_result",
+        "value": "ezBookkeeping_import_check_result"
+    },
+    {
+        "source": "frontend",
+        "key": "parameter.passcode",
+        "defaultValue": "Passcode",
+        "value": "Passcode"
+    },
+    {
+        "source": "frontend",
+        "key": "parameter.name",
+        "defaultValue": "Name",
+        "value": "Name"
+    },
+    {
+        "source": "frontend",
+        "key": "OK",
+        "defaultValue": "OK",
+        "value": "OK"
+    },
+    {
+        "source": "frontend",
+        "key": "Status",
+        "defaultValue": "Status",
+        "value": "Status"
+    },
+    {
+        "source": "frontend",
+        "key": "Token",
+        "defaultValue": "Token",
+        "value": "Token"
+    },
+    {
+        "source": "frontend",
+        "key": "Version",
+        "defaultValue": "Version",
+        "value": "Version"
+    },
+    {
+        "source": "frontend",
+        "key": "Format",
+        "defaultValue": "Format",
+        "value": "Format"
+    },
+    {
+        "source": "frontend",
+        "key": "Tab",
+        "defaultValue": "Tab",
+        "value": "Tab"
+    },
+    {
+        "source": "frontend",
+        "key": "In",
+        "defaultValue": "In",
+        "value": "In"
+    },
+    {
+        "source": "frontend",
+        "key": "Details",
+        "defaultValue": "Details",
+        "value": "Details"
+    },
+    {
+        "source": "frontend",
+        "key": "Passcode",
+        "defaultValue": "Passcode",
+        "value": "Passcode"
+    },
+    {
+        "source": "frontend",
+        "key": "Editor",
+        "defaultValue": "Editor",
+        "value": "Editor"
+    },
+    {
+        "source": "frontend",
+        "key": "Tags",
+        "defaultValue": "Tags",
+        "value": "Tags"
+    },
+    {
+        "source": "frontend",
+        "key": "Name",
+        "defaultValue": "Name",
+        "value": "Name"
+    },
+    {
+        "source": "frontend",
+        "key": "Latitude Longitude D.D°",
+        "defaultValue": "Latitude Longitude D.D°",
+        "value": "Latitude Longitude D.D°"
+    },
+    {
+        "source": "frontend",
+        "key": "Longitude Latitude D.D°",
+        "defaultValue": "Longitude Latitude D.D°",
+        "value": "Longitude Latitude D.D°"
+    },
+    {
+        "source": "frontend",
+        "key": "Latitude Longitude D°M.M'",
+        "defaultValue": "Latitude Longitude D°M.M'",
+        "value": "Latitude Longitude D°M.M'"
+    },
+    {
+        "source": "frontend",
+        "key": "Longitude Latitude D°M.M'",
+        "defaultValue": "Longitude Latitude D°M.M'",
+        "value": "Longitude Latitude D°M.M'"
+    },
+    {
+        "source": "frontend",
+        "key": "Latitude Longitude D°M'S\"",
+        "defaultValue": "Latitude Longitude D°M'S\"",
+        "value": "Latitude Longitude D°M'S\""
+    },
+    {
+        "source": "frontend",
+        "key": "Longitude Latitude D°M'S\"",
+        "defaultValue": "Longitude Latitude D°M'S\"",
+        "value": "Longitude Latitude D°M'S\""
+    }
+]

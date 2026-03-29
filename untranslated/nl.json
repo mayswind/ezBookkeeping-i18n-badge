@@ -1,0 +1,2450 @@
+[
+    {
+        "source": "frontend",
+        "key": "language.Kannada",
+        "defaultValue": "Kannada",
+        "value": "Kannada"
+    },
+    {
+        "source": "frontend",
+        "key": "language.Tamil",
+        "defaultValue": "Tamil",
+        "value": "Tamil"
+    },
+    {
+        "source": "frontend",
+        "key": "format.misc.nHour",
+        "defaultValue": "{n} Hour",
+        "value": "{n} Hour"
+    },
+    {
+        "source": "frontend",
+        "key": "format.misc.nHours",
+        "defaultValue": "{n} Hours",
+        "value": "{n} Hours"
+    },
+    {
+        "source": "frontend",
+        "key": "format.misc.nDay",
+        "defaultValue": "{n} Day",
+        "value": "{n} Day"
+    },
+    {
+        "source": "frontend",
+        "key": "format.misc.nDays",
+        "defaultValue": "{n} Days",
+        "value": "{n} Days"
+    },
+    {
+        "source": "frontend",
+        "key": "format.misc.loginWithCustomProvider",
+        "defaultValue": "Log in with {name}",
+        "value": "Log in with {name}"
+    },
+    {
+        "source": "frontend",
+        "key": "format.misc.previewCount",
+        "defaultValue": "Preview Count: {count}",
+        "value": "Preview Count: {count}"
+    },
+    {
+        "source": "frontend",
+        "key": "format.misc.queryIndex",
+        "defaultValue": "Query #{index}",
+        "value": "Query #{index}"
+    },
+    {
+        "source": "frontend",
+        "key": "format.misc.moveTransactionsInAccountTip",
+        "defaultValue": "You CANNOT undo this action. This will move all transactions from {fromAccount} to {toAccount}.",
+        "value": "You CANNOT undo this action. This will move all transactions from {fromAccount} to {toAccount}."
+    },
+    {
+        "source": "frontend",
+        "key": "format.misc.clearTransactionsInAccountTip",
+        "defaultValue": "You CANNOT undo this action. This will clear your transactions data in {account}. Please enter your current password to confirm.",
+        "value": "You CANNOT undo this action. This will clear your transactions data in {account}. Please enter your current password to confirm."
+    },
+    {
+        "source": "frontend",
+        "key": "format.misc.oauth2bindTip",
+        "defaultValue": "You're signing in to the {userName} user using {providerName}. Please enter your ezBookkeeping password to verify.",
+        "value": "You're signing in to the {userName} user using {providerName}. Please enter your ezBookkeeping password to verify."
+    },
+    {
+        "source": "frontend",
+        "key": "dataExport.defaultExportFilename",
+        "defaultValue": "ezBookkeeping_export_data",
+        "value": "ezBookkeeping_export_data"
+    },
+    {
+        "source": "frontend",
+        "key": "dataExport.exportFilename",
+        "defaultValue": "ezBookkeeping_{nickname}_export_data",
+        "value": "ezBookkeeping_{nickname}_export_data"
+    },
+    {
+        "source": "frontend",
+        "key": "dataExport.defaultExportStatisticsFileName",
+        "defaultValue": "ezBookkeeping_statistics_data",
+        "value": "ezBookkeeping_statistics_data"
+    },
+    {
+        "source": "frontend",
+        "key": "dataExport.exportStatisticsFileName",
+        "defaultValue": "ezBookkeeping_{nickname}_statistics_data",
+        "value": "ezBookkeeping_{nickname}_statistics_data"
+    },
+    {
+        "source": "frontend",
+        "key": "dataExport.defaultExportReconciliationStatementsFileName",
+        "defaultValue": "ezBookkeeping_reconciliation_statements",
+        "value": "ezBookkeeping_reconciliation_statements"
+    },
+    {
+        "source": "frontend",
+        "key": "dataExport.exportReconciliationStatementsFileName",
+        "defaultValue": "ezBookkeeping_{nickname}_reconciliation_statements",
+        "value": "ezBookkeeping_{nickname}_reconciliation_statements"
+    },
+    {
+        "source": "frontend",
+        "key": "dataExport.defaultImportDataMappingFileName",
+        "defaultValue": "ezBookkeeping_import_data_mapping",
+        "value": "ezBookkeeping_import_data_mapping"
+    },
+    {
+        "source": "frontend",
+        "key": "dataExport.defaultImportHandlingScript",
+        "defaultValue": "ezBookkeeping_handling_script",
+        "value": "ezBookkeeping_handling_script"
+    },
+    {
+        "source": "frontend",
+        "key": "dataExport.defaultImportReplaceRuleFileName",
+        "defaultValue": "ezBookkeeping_import_replace_rule",
+        "value": "ezBookkeeping_import_replace_rule"
+    },
+    {
+        "source": "frontend",
+        "key": "dataExport.defaultImportCheckResultFileName",
+        "defaultValue": "ezBookkeeping_import_check_result",
+        "value": "ezBookkeeping_import_check_result"
+    },
+    {
+        "source": "frontend",
+        "key": "calendar.Gregorian",
+        "defaultValue": "Gregorian",
+        "value": "Gregorian"
+    },
+    {
+        "source": "frontend",
+        "key": "calendar.Buddhist",
+        "defaultValue": "Buddhist",
+        "value": "Buddhist"
+    },
+    {
+        "source": "frontend",
+        "key": "calendar.Persian",
+        "defaultValue": "Persian",
+        "value": "Persian"
+    },
+    {
+        "source": "frontend",
+        "key": "calendar.Gregorian with Chinese Calendar",
+        "defaultValue": "Gregorian with Chinese Calendar",
+        "value": "Gregorian with Chinese Calendar"
+    },
+    {
+        "source": "frontend",
+        "key": "calendar.Gregorian with Persian Calendar",
+        "defaultValue": "Gregorian with Persian Calendar",
+        "value": "Gregorian with Persian Calendar"
+    },
+    {
+        "source": "frontend",
+        "key": "numeral.Western Arabic Numerals",
+        "defaultValue": "Western Arabic Numerals",
+        "value": "Western Arabic Numerals"
+    },
+    {
+        "source": "frontend",
+        "key": "numeral.Eastern Arabic Numerals",
+        "defaultValue": "Eastern Arabic Numerals",
+        "value": "Eastern Arabic Numerals"
+    },
+    {
+        "source": "frontend",
+        "key": "numeral.Persian Digits",
+        "defaultValue": "Persian Digits",
+        "value": "Persian Digits"
+    },
+    {
+        "source": "frontend",
+        "key": "numeral.Burmese Numerals",
+        "defaultValue": "Burmese Numerals",
+        "value": "Burmese Numerals"
+    },
+    {
+        "source": "frontend",
+        "key": "numeral.Devanagari Numerals",
+        "defaultValue": "Devanagari Numerals",
+        "value": "Devanagari Numerals"
+    },
+    {
+        "source": "frontend",
+        "key": "numeral.Indian Number Grouping",
+        "defaultValue": "Indian Number Grouping",
+        "value": "Indian Number Grouping"
+    },
+    {
+        "source": "frontend",
+        "key": "category.Entertainment",
+        "defaultValue": "Entertainment",
+        "value": "Entertainment"
+    },
+    {
+        "source": "frontend",
+        "key": "error.cannot login by password",
+        "defaultValue": "You cannot login by password",
+        "value": "You cannot login by password"
+    },
+    {
+        "source": "frontend",
+        "key": "error.user name is invalid",
+        "defaultValue": "User name is invalid",
+        "value": "User name is invalid"
+    },
+    {
+        "source": "frontend",
+        "key": "error.nick name is invalid",
+        "defaultValue": "User nickname is invalid",
+        "value": "User nickname is invalid"
+    },
+    {
+        "source": "frontend",
+        "key": "error.api token is not enabled",
+        "defaultValue": "API token is not enabled",
+        "value": "API token is not enabled"
+    },
+    {
+        "source": "frontend",
+        "key": "error.passcode is empty",
+        "defaultValue": "Passcode is empty",
+        "value": "Passcode is empty"
+    },
+    {
+        "source": "frontend",
+        "key": "error.cannot move transaction to same account",
+        "defaultValue": "Cannot move transaction to the same account",
+        "value": "Cannot move transaction to the same account"
+    },
+    {
+        "source": "frontend",
+        "key": "error.cannot move transaction from or to hidden account",
+        "defaultValue": "Cannot move transaction from or to hidden account",
+        "value": "Cannot move transaction from or to hidden account"
+    },
+    {
+        "source": "frontend",
+        "key": "error.cannot move transaction from or to parent account",
+        "defaultValue": "Cannot move transaction from or to parent account",
+        "value": "Cannot move transaction from or to parent account"
+    },
+    {
+        "source": "frontend",
+        "key": "error.cannot move transaction between accounts with different currencies",
+        "defaultValue": "Cannot move transaction between accounts with different currencies",
+        "value": "Cannot move transaction between accounts with different currencies"
+    },
+    {
+        "source": "frontend",
+        "key": "error.invalid json file",
+        "defaultValue": "Invalid JSON file",
+        "value": "Invalid JSON file"
+    },
+    {
+        "source": "frontend",
+        "key": "error.llm provider is not enabled",
+        "defaultValue": "Large Language Model provider is not enabled",
+        "value": "Large Language Model provider is not enabled"
+    },
+    {
+        "source": "frontend",
+        "key": "error.no image for AI recognition",
+        "defaultValue": "There is no image for AI recognition",
+        "value": "There is no image for AI recognition"
+    },
+    {
+        "source": "frontend",
+        "key": "error.image for AI recognition is empty",
+        "defaultValue": "Image for AI recognition file is empty",
+        "value": "Image for AI recognition file is empty"
+    },
+    {
+        "source": "frontend",
+        "key": "error.exceed the maximum size of image file for AI recognition",
+        "defaultValue": "The uploaded image for AI recognition exceeds the maximum allowed file size",
+        "value": "The uploaded image for AI recognition exceeds the maximum allowed file size"
+    },
+    {
+        "source": "frontend",
+        "key": "error.no transaction information detected",
+        "defaultValue": "No transaction information detected",
+        "value": "No transaction information detected"
+    },
+    {
+        "source": "frontend",
+        "key": "error.user external auth is not found",
+        "defaultValue": "User external authentication data not found",
+        "value": "User external authentication data not found"
+    },
+    {
+        "source": "frontend",
+        "key": "error.user external auth already exists",
+        "defaultValue": "User external authentication data already exists, please unlink it first",
+        "value": "User external authentication data already exists, please unlink it first"
+    },
+    {
+        "source": "frontend",
+        "key": "error.user external auth type invalid",
+        "defaultValue": "User external authentication type is invalid",
+        "value": "User external authentication type is invalid"
+    },
+    {
+        "source": "frontend",
+        "key": "error.oauth2 not enabled",
+        "defaultValue": "OAuth 2.0 is not enabled",
+        "value": "OAuth 2.0 is not enabled"
+    },
+    {
+        "source": "frontend",
+        "key": "error.oauth2 auto registration not enabled",
+        "defaultValue": "OAuth 2.0 auto registration is not enabled",
+        "value": "OAuth 2.0 auto registration is not enabled"
+    },
+    {
+        "source": "frontend",
+        "key": "error.invalid oauth2 login request",
+        "defaultValue": "Invalid OAuth 2.0 login request",
+        "value": "Invalid OAuth 2.0 login request"
+    },
+    {
+        "source": "frontend",
+        "key": "error.invalid oauth2 callback",
+        "defaultValue": "Invalid OAuth 2.0 callback",
+        "value": "Invalid OAuth 2.0 callback"
+    },
+    {
+        "source": "frontend",
+        "key": "error.missing state in oauth2 callback",
+        "defaultValue": "Missing state parameter in OAuth 2.0 callback",
+        "value": "Missing state parameter in OAuth 2.0 callback"
+    },
+    {
+        "source": "frontend",
+        "key": "error.missing code in oauth2 callback",
+        "defaultValue": "Missing code parameter in OAuth 2.0 callback",
+        "value": "Missing code parameter in OAuth 2.0 callback"
+    },
+    {
+        "source": "frontend",
+        "key": "error.invalid state in oauth2 callback",
+        "defaultValue": "Invalid state parameter in OAuth 2.0 callback",
+        "value": "Invalid state parameter in OAuth 2.0 callback"
+    },
+    {
+        "source": "frontend",
+        "key": "error.cannot retrieve oauth2 token",
+        "defaultValue": "Cannot retrieve OAuth 2.0 token",
+        "value": "Cannot retrieve OAuth 2.0 token"
+    },
+    {
+        "source": "frontend",
+        "key": "error.invalid oauth2 token",
+        "defaultValue": "Invalid OAuth 2.0 token",
+        "value": "Invalid OAuth 2.0 token"
+    },
+    {
+        "source": "frontend",
+        "key": "error.cannot retrieve user info from oauth2 provider",
+        "defaultValue": "Cannot retrieve user info from OAuth 2.0 provider",
+        "value": "Cannot retrieve user info from OAuth 2.0 provider"
+    },
+    {
+        "source": "frontend",
+        "key": "error.oauth2 user already bound to another user",
+        "defaultValue": "OAuth 2.0 user is already bound to another user",
+        "value": "OAuth 2.0 user is already bound to another user"
+    },
+    {
+        "source": "frontend",
+        "key": "error.user name and email from oauth2 provider are both empty",
+        "defaultValue": "User name and email from OAuth 2.0 provider are both empty",
+        "value": "User name and email from OAuth 2.0 provider are both empty"
+    },
+    {
+        "source": "frontend",
+        "key": "error.user name from oauth2 provider is empty",
+        "defaultValue": "User name from OAuth 2.0 provider is empty",
+        "value": "User name from OAuth 2.0 provider is empty"
+    },
+    {
+        "source": "frontend",
+        "key": "error.email from oauth2 provider is empty",
+        "defaultValue": "Email from OAuth 2.0 provider is empty",
+        "value": "Email from OAuth 2.0 provider is empty"
+    },
+    {
+        "source": "frontend",
+        "key": "error.user name from oauth2 provider is empty, cannot register new user",
+        "defaultValue": "User name from OAuth 2.0 provider is empty, cannot register new user",
+        "value": "User name from OAuth 2.0 provider is empty, cannot register new user"
+    },
+    {
+        "source": "frontend",
+        "key": "error.email from oauth2 provider is empty, cannot register new user",
+        "defaultValue": "Email from OAuth 2.0 provider is empty, cannot register new user",
+        "value": "Email from OAuth 2.0 provider is empty, cannot register new user"
+    },
+    {
+        "source": "frontend",
+        "key": "error.explorer id is invalid",
+        "defaultValue": "Explorer ID is invalid",
+        "value": "Explorer ID is invalid"
+    },
+    {
+        "source": "frontend",
+        "key": "error.explorer not found",
+        "defaultValue": "Explorer is not found",
+        "value": "Explorer is not found"
+    },
+    {
+        "source": "frontend",
+        "key": "error.explorer data is invalid",
+        "defaultValue": "Explorer data is invalid",
+        "value": "Explorer data is invalid"
+    },
+    {
+        "source": "frontend",
+        "key": "error.transaction tag group id is invalid",
+        "defaultValue": "Transaction tag group ID is invalid",
+        "value": "Transaction tag group ID is invalid"
+    },
+    {
+        "source": "frontend",
+        "key": "error.transaction tag group not found",
+        "defaultValue": "Transaction tag group is not found",
+        "value": "Transaction tag group is not found"
+    },
+    {
+        "source": "frontend",
+        "key": "error.transaction tag group is in use and cannot be deleted",
+        "defaultValue": "Transaction tag group is in use and it cannot be deleted",
+        "value": "Transaction tag group is in use and it cannot be deleted"
+    },
+    {
+        "source": "frontend",
+        "key": "parameter.type",
+        "defaultValue": "Type",
+        "value": "Type"
+    },
+    {
+        "source": "frontend",
+        "key": "parameter.tagFilter",
+        "defaultValue": "Tag Filter",
+        "value": "Tag Filter"
+    },
+    {
+        "source": "frontend",
+        "key": "parameter.expiredInSeconds",
+        "defaultValue": "Expiration Time (Seconds)",
+        "value": "Expiration Time (Seconds)"
+    },
+    {
+        "source": "frontend",
+        "key": "sample.importTransactionCustomScript.headerComment",
+        "defaultValue": "Example script:",
+        "value": "Example script:"
+    },
+    {
+        "source": "frontend",
+        "key": "sample.importTransactionCustomScript.functionDescription",
+        "defaultValue": "The parse function will be called for each row of the parsed file data, and the function name must be 'parse'",
+        "value": "The parse function will be called for each row of the parsed file data, and the function name must be 'parse'"
+    },
+    {
+        "source": "frontend",
+        "key": "sample.importTransactionCustomScript.functionParamRowDescription",
+        "defaultValue": "An array of string, each element is a column value",
+        "value": "An array of string, each element is a column value"
+    },
+    {
+        "source": "frontend",
+        "key": "sample.importTransactionCustomScript.functionParamIndexDescription",
+        "defaultValue": "The row index (0-based)",
+        "value": "The row index (0-based)"
+    },
+    {
+        "source": "frontend",
+        "key": "sample.importTransactionCustomScript.functionReturnDescription",
+        "defaultValue": "An object representing a transaction (with the fields defined below), or null to skip this row",
+        "value": "An object representing a transaction (with the fields defined below), or null to skip this row"
+    },
+    {
+        "source": "frontend",
+        "key": "sample.importTransactionCustomScript.fieldTimeDescription",
+        "defaultValue": "[required] Transaction time, format: YYYY-MM-DD HH:mm:ss. You can also use the parseDateTime(value, format) function to convert a custom formatted time string to the standard format, where 'format' argument is the format of the custom time string, e.g. parseDateTime('12/31/2023 23:59', 'MM/DD/YYYY HH:mm') means converting '12/31/2023 23:59' to the standard format '2023-12-31 23:59:00'",
+        "value": "[required] Transaction time, format: YYYY-MM-DD HH:mm:ss. You can also use the parseDateTime(value, format) function to convert a custom formatted time string to the standard format, where 'format' argument is the format of the custom time string, e.g. parseDateTime('12/31/2023 23:59', 'MM/DD/YYYY HH:mm') means converting '12/31/2023 23:59' to the standard format '2023-12-31 23:59:00'"
+    },
+    {
+        "source": "frontend",
+        "key": "sample.importTransactionCustomScript.fieldUtcOffsetDescription",
+        "defaultValue": "[required] Transaction timezone offset in minutes, e.g. '480' for UTC+8, '-300' for UTC-5. You can also use the parseUtcOffset(timezoneName) function to get the timezone offset in minutes automatically according to the transaction time, where 'timezoneName' argument is the IANA time zone name, e.g. parseUtcOffset('Asia/Shanghai') means getting the timezone offset in minutes for Beijing Time",
+        "value": "[required] Transaction timezone offset in minutes, e.g. '480' for UTC+8, '-300' for UTC-5. You can also use the parseUtcOffset(timezoneName) function to get the timezone offset in minutes automatically according to the transaction time, where 'timezoneName' argument is the IANA time zone name, e.g. parseUtcOffset('Asia/Shanghai') means getting the timezone offset in minutes for Beijing Time"
+    },
+    {
+        "source": "frontend",
+        "key": "sample.importTransactionCustomScript.fieldTypeDescription",
+        "defaultValue": "[required] Transaction type, must be one of 'TransactionType.Income', 'TransactionType.Expense' or 'TransactionType.Transfer'",
+        "value": "[required] Transaction type, must be one of 'TransactionType.Income', 'TransactionType.Expense' or 'TransactionType.Transfer'"
+    },
+    {
+        "source": "frontend",
+        "key": "sample.importTransactionCustomScript.fieldCategoryNameDescription",
+        "defaultValue": "[optional] Category name",
+        "value": "[optional] Category name"
+    },
+    {
+        "source": "frontend",
+        "key": "sample.importTransactionCustomScript.fieldSourceAccountNameDescription",
+        "defaultValue": "[optional] Source account name",
+        "value": "[optional] Source account name"
+    },
+    {
+        "source": "frontend",
+        "key": "sample.importTransactionCustomScript.fieldDestinationAccountNameDescription",
+        "defaultValue": "[optional] Destination account name (for transfer type only)",
+        "value": "[optional] Destination account name (for transfer type only)"
+    },
+    {
+        "source": "frontend",
+        "key": "sample.importTransactionCustomScript.fieldSourceAmountDescription",
+        "defaultValue": "[required] Source amount (including two decimal places expressed without a decimal separator, for example '12345' represents 123.45)",
+        "value": "[required] Source amount (including two decimal places expressed without a decimal separator, for example '12345' represents 123.45)"
+    },
+    {
+        "source": "frontend",
+        "key": "sample.importTransactionCustomScript.fieldDestinationAmountDescription",
+        "defaultValue": "[optional] Destination amount (for transfer type only, format is the same as the source amount)",
+        "value": "[optional] Destination amount (for transfer type only, format is the same as the source amount)"
+    },
+    {
+        "source": "frontend",
+        "key": "sample.importTransactionCustomScript.fieldGeoLocationDescription",
+        "defaultValue": "[optional] Geolocation, format: 'longitude latitude', e.g. '116.3912972 39.9057136'",
+        "value": "[optional] Geolocation, format: 'longitude latitude', e.g. '116.3912972 39.9057136'"
+    },
+    {
+        "source": "frontend",
+        "key": "sample.importTransactionCustomScript.fieldTagNamesDescription",
+        "defaultValue": "[optional] Comma separated tag names, e.g. 'tag1;tag2;tag3'",
+        "value": "[optional] Comma separated tag names, e.g. 'tag1;tag2;tag3'"
+    },
+    {
+        "source": "frontend",
+        "key": "sample.importTransactionCustomScript.fieldCommentDescription",
+        "defaultValue": "[optional] Description",
+        "value": "[optional] Description"
+    },
+    {
+        "source": "frontend",
+        "key": "OK",
+        "defaultValue": "OK",
+        "value": "OK"
+    },
+    {
+        "source": "frontend",
+        "key": "or",
+        "defaultValue": "or",
+        "value": "or"
+    },
+    {
+        "source": "frontend",
+        "key": "Reset to Default",
+        "defaultValue": "Reset to Default",
+        "value": "Reset to Default"
+    },
+    {
+        "source": "frontend",
+        "key": "Clear All",
+        "defaultValue": "Clear All",
+        "value": "Clear All"
+    },
+    {
+        "source": "frontend",
+        "key": "Recognize",
+        "defaultValue": "Recognize",
+        "value": "Recognize"
+    },
+    {
+        "source": "frontend",
+        "key": "Recognizing",
+        "defaultValue": "Recognizing",
+        "value": "Recognizing"
+    },
+    {
+        "source": "frontend",
+        "key": "Cancel Recognition",
+        "defaultValue": "Cancel Recognition",
+        "value": "Cancel Recognition"
+    },
+    {
+        "source": "frontend",
+        "key": "Detecting...",
+        "defaultValue": "Detecting...",
+        "value": "Detecting..."
+    },
+    {
+        "source": "frontend",
+        "key": "Included",
+        "defaultValue": "Included",
+        "value": "Included"
+    },
+    {
+        "source": "frontend",
+        "key": "Excluded",
+        "defaultValue": "Excluded",
+        "value": "Excluded"
+    },
+    {
+        "source": "frontend",
+        "key": "Confirm",
+        "defaultValue": "Confirm",
+        "value": "Confirm"
+    },
+    {
+        "source": "frontend",
+        "key": "Status",
+        "defaultValue": "Status",
+        "value": "Status"
+    },
+    {
+        "source": "frontend",
+        "key": "Example",
+        "defaultValue": "Example",
+        "value": "Example"
+    },
+    {
+        "source": "frontend",
+        "key": "Token",
+        "defaultValue": "Token",
+        "value": "Token"
+    },
+    {
+        "source": "frontend",
+        "key": "Paste",
+        "defaultValue": "Paste",
+        "value": "Paste"
+    },
+    {
+        "source": "frontend",
+        "key": "Move",
+        "defaultValue": "Move",
+        "value": "Move"
+    },
+    {
+        "source": "frontend",
+        "key": "Move to...",
+        "defaultValue": "Move to...",
+        "value": "Move to..."
+    },
+    {
+        "source": "frontend",
+        "key": "Open Menu",
+        "defaultValue": "Open Menu",
+        "value": "Open Menu"
+    },
+    {
+        "source": "frontend",
+        "key": "Sort by Name (A to Z)",
+        "defaultValue": "Sort by Name (A to Z)",
+        "value": "Sort by Name (A to Z)"
+    },
+    {
+        "source": "frontend",
+        "key": "Sort by Name (Z to A)",
+        "defaultValue": "Sort by Name (Z to A)",
+        "value": "Sort by Name (Z to A)"
+    },
+    {
+        "source": "frontend",
+        "key": "Type",
+        "defaultValue": "Type",
+        "value": "Type"
+    },
+    {
+        "source": "frontend",
+        "key": "Tab",
+        "defaultValue": "Tab",
+        "value": "Tab"
+    },
+    {
+        "source": "frontend",
+        "key": "WHERE",
+        "defaultValue": "WHERE",
+        "value": "WHERE"
+    },
+    {
+        "source": "frontend",
+        "key": "AND",
+        "defaultValue": "AND",
+        "value": "AND"
+    },
+    {
+        "source": "frontend",
+        "key": "OR",
+        "defaultValue": "OR",
+        "value": "OR"
+    },
+    {
+        "source": "frontend",
+        "key": "AND SUB",
+        "defaultValue": "AND SUB",
+        "value": "AND SUB"
+    },
+    {
+        "source": "frontend",
+        "key": "OR SUB",
+        "defaultValue": "OR SUB",
+        "value": "OR SUB"
+    },
+    {
+        "source": "frontend",
+        "key": "In",
+        "defaultValue": "In",
+        "value": "In"
+    },
+    {
+        "source": "frontend",
+        "key": "Has any",
+        "defaultValue": "Has any",
+        "value": "Has any"
+    },
+    {
+        "source": "frontend",
+        "key": "Has all",
+        "defaultValue": "Has all",
+        "value": "Has all"
+    },
+    {
+        "source": "frontend",
+        "key": "Not has any",
+        "defaultValue": "Not has any",
+        "value": "Not has any"
+    },
+    {
+        "source": "frontend",
+        "key": "Not has all",
+        "defaultValue": "Not has all",
+        "value": "Not has all"
+    },
+    {
+        "source": "frontend",
+        "key": "Is empty",
+        "defaultValue": "Is empty",
+        "value": "Is empty"
+    },
+    {
+        "source": "frontend",
+        "key": "Is not empty",
+        "defaultValue": "Is not empty",
+        "value": "Is not empty"
+    },
+    {
+        "source": "frontend",
+        "key": "Contains",
+        "defaultValue": "Contains",
+        "value": "Contains"
+    },
+    {
+        "source": "frontend",
+        "key": "Not contains",
+        "defaultValue": "Not contains",
+        "value": "Not contains"
+    },
+    {
+        "source": "frontend",
+        "key": "Starts with",
+        "defaultValue": "Starts with",
+        "value": "Starts with"
+    },
+    {
+        "source": "frontend",
+        "key": "Not starts with",
+        "defaultValue": "Not starts with",
+        "value": "Not starts with"
+    },
+    {
+        "source": "frontend",
+        "key": "Ends with",
+        "defaultValue": "Ends with",
+        "value": "Ends with"
+    },
+    {
+        "source": "frontend",
+        "key": "Not ends with",
+        "defaultValue": "Not ends with",
+        "value": "Not ends with"
+    },
+    {
+        "source": "frontend",
+        "key": "Latitude between",
+        "defaultValue": "Latitude between",
+        "value": "Latitude between"
+    },
+    {
+        "source": "frontend",
+        "key": "Latitude not between",
+        "defaultValue": "Latitude not between",
+        "value": "Latitude not between"
+    },
+    {
+        "source": "frontend",
+        "key": "Longitude between",
+        "defaultValue": "Longitude between",
+        "value": "Longitude between"
+    },
+    {
+        "source": "frontend",
+        "key": "Longitude not between",
+        "defaultValue": "Longitude not between",
+        "value": "Longitude not between"
+    },
+    {
+        "source": "frontend",
+        "key": "Radar Chart",
+        "defaultValue": "Radar Chart",
+        "value": "Radar Chart"
+    },
+    {
+        "source": "frontend",
+        "key": "Bubble Chart",
+        "defaultValue": "Bubble Chart",
+        "value": "Bubble Chart"
+    },
+    {
+        "source": "frontend",
+        "key": "Boxplot Chart",
+        "defaultValue": "Boxplot Chart",
+        "value": "Boxplot Chart"
+    },
+    {
+        "source": "frontend",
+        "key": "Sankey Chart",
+        "defaultValue": "Sankey Chart",
+        "value": "Sankey Chart"
+    },
+    {
+        "source": "frontend",
+        "key": "Column Chart (Stacked)",
+        "defaultValue": "Column Chart (Stacked)",
+        "value": "Column Chart (Stacked)"
+    },
+    {
+        "source": "frontend",
+        "key": "Column Chart (100% Stacked)",
+        "defaultValue": "Column Chart (100% Stacked)",
+        "value": "Column Chart (100% Stacked)"
+    },
+    {
+        "source": "frontend",
+        "key": "Column Chart (Grouped)",
+        "defaultValue": "Column Chart (Grouped)",
+        "value": "Column Chart (Grouped)"
+    },
+    {
+        "source": "frontend",
+        "key": "Line Chart (Grouped)",
+        "defaultValue": "Line Chart (Grouped)",
+        "value": "Line Chart (Grouped)"
+    },
+    {
+        "source": "frontend",
+        "key": "Area Chart (Stacked)",
+        "defaultValue": "Area Chart (Stacked)",
+        "value": "Area Chart (Stacked)"
+    },
+    {
+        "source": "frontend",
+        "key": "Area Chart (100% Stacked)",
+        "defaultValue": "Area Chart (100% Stacked)",
+        "value": "Area Chart (100% Stacked)"
+    },
+    {
+        "source": "frontend",
+        "key": "Bubble Chart (Grouped)",
+        "defaultValue": "Bubble Chart (Grouped)",
+        "value": "Bubble Chart (Grouped)"
+    },
+    {
+        "source": "frontend",
+        "key": "Provider",
+        "defaultValue": "Provider",
+        "value": "Provider"
+    },
+    {
+        "source": "frontend",
+        "key": "Details",
+        "defaultValue": "Details",
+        "value": "Details"
+    },
+    {
+        "source": "frontend",
+        "key": "Set All to Included",
+        "defaultValue": "Set All to Included",
+        "value": "Set All to Included"
+    },
+    {
+        "source": "frontend",
+        "key": "Set All to Default",
+        "defaultValue": "Set All to Default",
+        "value": "Set All to Default"
+    },
+    {
+        "source": "frontend",
+        "key": "Set All to Excluded",
+        "defaultValue": "Set All to Excluded",
+        "value": "Set All to Excluded"
+    },
+    {
+        "source": "frontend",
+        "key": "User Canceled",
+        "defaultValue": "User Canceled",
+        "value": "User Canceled"
+    },
+    {
+        "source": "frontend",
+        "key": "E-mail",
+        "defaultValue": "E-mail",
+        "value": "E-mail"
+    },
+    {
+        "source": "frontend",
+        "key": "Calendar Display Type",
+        "defaultValue": "Calendar Display Type",
+        "value": "Calendar Display Type"
+    },
+    {
+        "source": "frontend",
+        "key": "Date Display Type",
+        "defaultValue": "Date Display Type",
+        "value": "Date Display Type"
+    },
+    {
+        "source": "frontend",
+        "key": "Numeral System",
+        "defaultValue": "Numeral System",
+        "value": "Numeral System"
+    },
+    {
+        "source": "frontend",
+        "key": "Log in with OAuth 2.0",
+        "defaultValue": "Log in with OAuth 2.0",
+        "value": "Log in with OAuth 2.0"
+    },
+    {
+        "source": "frontend",
+        "key": "Log in with Connect ID",
+        "defaultValue": "Log in with Connect ID",
+        "value": "Log in with Connect ID"
+    },
+    {
+        "source": "frontend",
+        "key": "Logging in...",
+        "defaultValue": "Logging in...",
+        "value": "Logging in..."
+    },
+    {
+        "source": "frontend",
+        "key": "Username/password login is disabled",
+        "defaultValue": "Username/password login is disabled",
+        "value": "Username/password login is disabled"
+    },
+    {
+        "source": "frontend",
+        "key": "External login is disabled",
+        "defaultValue": "External login is disabled",
+        "value": "External login is disabled"
+    },
+    {
+        "source": "frontend",
+        "key": "Two-factor authentication is disabled",
+        "defaultValue": "Two-factor authentication is disabled",
+        "value": "Two-factor authentication is disabled"
+    },
+    {
+        "source": "frontend",
+        "key": "Email verification is disabled",
+        "defaultValue": "Email verification is disabled",
+        "value": "Email verification is disabled"
+    },
+    {
+        "source": "frontend",
+        "key": "Forget password is disabled",
+        "defaultValue": "Forget password is disabled",
+        "value": "Forget password is disabled"
+    },
+    {
+        "source": "frontend",
+        "key": "Insights Explorer",
+        "defaultValue": "Insights Explorer",
+        "value": "Insights Explorer"
+    },
+    {
+        "source": "frontend",
+        "key": "Insights Explorers",
+        "defaultValue": "Insights Explorers",
+        "value": "Insights Explorers"
+    },
+    {
+        "source": "frontend",
+        "key": "Query",
+        "defaultValue": "Query",
+        "value": "Query"
+    },
+    {
+        "source": "frontend",
+        "key": "Data Table",
+        "defaultValue": "Data Table",
+        "value": "Data Table"
+    },
+    {
+        "source": "frontend",
+        "key": "Chart",
+        "defaultValue": "Chart",
+        "value": "Chart"
+    },
+    {
+        "source": "frontend",
+        "key": "No available explorer",
+        "defaultValue": "No available explorer",
+        "value": "No available explorer"
+    },
+    {
+        "source": "frontend",
+        "key": "New Explorer",
+        "defaultValue": "New Explorer",
+        "value": "New Explorer"
+    },
+    {
+        "source": "frontend",
+        "key": "Untitled Explorer",
+        "defaultValue": "Untitled Explorer",
+        "value": "Untitled Explorer"
+    },
+    {
+        "source": "frontend",
+        "key": "Save Explorer",
+        "defaultValue": "Save Explorer",
+        "value": "Save Explorer"
+    },
+    {
+        "source": "frontend",
+        "key": "Save As New Explorer",
+        "defaultValue": "Save As New Explorer",
+        "value": "Save As New Explorer"
+    },
+    {
+        "source": "frontend",
+        "key": "Restore to Last Saved",
+        "defaultValue": "Restore to Last Saved",
+        "value": "Restore to Last Saved"
+    },
+    {
+        "source": "frontend",
+        "key": "Are you sure you want to restore to last saved state? All unsaved changes will be lost.",
+        "defaultValue": "Are you sure you want to restore to last saved state? All unsaved changes will be lost.",
+        "value": "Are you sure you want to restore to last saved state? All unsaved changes will be lost."
+    },
+    {
+        "source": "frontend",
+        "key": "Set Explorer Name",
+        "defaultValue": "Set Explorer Name",
+        "value": "Set Explorer Name"
+    },
+    {
+        "source": "frontend",
+        "key": "Rename Explorer",
+        "defaultValue": "Rename Explorer",
+        "value": "Rename Explorer"
+    },
+    {
+        "source": "frontend",
+        "key": "Hide Explorer",
+        "defaultValue": "Hide Explorer",
+        "value": "Hide Explorer"
+    },
+    {
+        "source": "frontend",
+        "key": "Unhide Explorer",
+        "defaultValue": "Unhide Explorer",
+        "value": "Unhide Explorer"
+    },
+    {
+        "source": "frontend",
+        "key": "Delete Explorer",
+        "defaultValue": "Delete Explorer",
+        "value": "Delete Explorer"
+    },
+    {
+        "source": "frontend",
+        "key": "Change Explorer Display Order",
+        "defaultValue": "Change Explorer Display Order",
+        "value": "Change Explorer Display Order"
+    },
+    {
+        "source": "frontend",
+        "key": "Explorer Name",
+        "defaultValue": "Explorer Name",
+        "value": "Explorer Name"
+    },
+    {
+        "source": "frontend",
+        "key": "Add Query",
+        "defaultValue": "Add Query",
+        "value": "Add Query"
+    },
+    {
+        "source": "frontend",
+        "key": "Remove Query",
+        "defaultValue": "Remove Query",
+        "value": "Remove Query"
+    },
+    {
+        "source": "frontend",
+        "key": "Modify Query Name",
+        "defaultValue": "Modify Query Name",
+        "value": "Modify Query Name"
+    },
+    {
+        "source": "frontend",
+        "key": "Add Condition",
+        "defaultValue": "Add Condition",
+        "value": "Add Condition"
+    },
+    {
+        "source": "frontend",
+        "key": "Add Sub Condition",
+        "defaultValue": "Add Sub Condition",
+        "value": "Add Sub Condition"
+    },
+    {
+        "source": "frontend",
+        "key": "Remove Condition",
+        "defaultValue": "Remove Condition",
+        "value": "Remove Condition"
+    },
+    {
+        "source": "frontend",
+        "key": "No conditions defined. All transactions will match.",
+        "defaultValue": "No conditions defined. All transactions will match.",
+        "value": "No conditions defined. All transactions will match."
+    },
+    {
+        "source": "frontend",
+        "key": "Unable to retrieve explorer list",
+        "defaultValue": "Unable to retrieve explorer list",
+        "value": "Unable to retrieve explorer list"
+    },
+    {
+        "source": "frontend",
+        "key": "Explorer list is up to date",
+        "defaultValue": "Explorer list is up to date",
+        "value": "Explorer list is up to date"
+    },
+    {
+        "source": "frontend",
+        "key": "Explorer list has been updated",
+        "defaultValue": "Explorer list has been updated",
+        "value": "Explorer list has been updated"
+    },
+    {
+        "source": "frontend",
+        "key": "Unable to retrieve explorer",
+        "defaultValue": "Unable to retrieve explorer",
+        "value": "Unable to retrieve explorer"
+    },
+    {
+        "source": "frontend",
+        "key": "Unable to add explorer",
+        "defaultValue": "Unable to add explorer",
+        "value": "Unable to add explorer"
+    },
+    {
+        "source": "frontend",
+        "key": "Unable to save explorer",
+        "defaultValue": "Unable to save explorer",
+        "value": "Unable to save explorer"
+    },
+    {
+        "source": "frontend",
+        "key": "Unable to move explorer",
+        "defaultValue": "Unable to move explorer",
+        "value": "Unable to move explorer"
+    },
+    {
+        "source": "frontend",
+        "key": "Unable to hide this explorer",
+        "defaultValue": "Unable to hide this explorer",
+        "value": "Unable to hide this explorer"
+    },
+    {
+        "source": "frontend",
+        "key": "Unable to unhide this explorer",
+        "defaultValue": "Unable to unhide this explorer",
+        "value": "Unable to unhide this explorer"
+    },
+    {
+        "source": "frontend",
+        "key": "Are you sure you want to delete this explorer?",
+        "defaultValue": "Are you sure you want to delete this explorer?",
+        "value": "Are you sure you want to delete this explorer?"
+    },
+    {
+        "source": "frontend",
+        "key": "Unable to delete this explorer",
+        "defaultValue": "Unable to delete this explorer",
+        "value": "Unable to delete this explorer"
+    },
+    {
+        "source": "frontend",
+        "key": "Show Hidden Explorers",
+        "defaultValue": "Show Hidden Explorers",
+        "value": "Show Hidden Explorers"
+    },
+    {
+        "source": "frontend",
+        "key": "Hide Hidden Explorers",
+        "defaultValue": "Hide Hidden Explorers",
+        "value": "Hide Hidden Explorers"
+    },
+    {
+        "source": "frontend",
+        "key": "Editor",
+        "defaultValue": "Editor",
+        "value": "Editor"
+    },
+    {
+        "source": "frontend",
+        "key": "Expression",
+        "defaultValue": "Expression",
+        "value": "Expression"
+    },
+    {
+        "source": "frontend",
+        "key": "Failed to generate expression",
+        "defaultValue": "Failed to generate expression",
+        "value": "Failed to generate expression"
+    },
+    {
+        "source": "frontend",
+        "key": "Data Source",
+        "defaultValue": "Data Source",
+        "value": "Data Source"
+    },
+    {
+        "source": "frontend",
+        "key": "All Queries",
+        "defaultValue": "All Queries",
+        "value": "All Queries"
+    },
+    {
+        "source": "frontend",
+        "key": "Axis / Category",
+        "defaultValue": "Axis / Category",
+        "value": "Axis / Category"
+    },
+    {
+        "source": "frontend",
+        "key": "Series",
+        "defaultValue": "Series",
+        "value": "Series"
+    },
+    {
+        "source": "frontend",
+        "key": "Transaction Date",
+        "defaultValue": "Transaction Date",
+        "value": "Transaction Date"
+    },
+    {
+        "source": "frontend",
+        "key": "Transaction Year-Month",
+        "defaultValue": "Transaction Year-Month",
+        "value": "Transaction Year-Month"
+    },
+    {
+        "source": "frontend",
+        "key": "Transaction Year-Quarter",
+        "defaultValue": "Transaction Year-Quarter",
+        "value": "Transaction Year-Quarter"
+    },
+    {
+        "source": "frontend",
+        "key": "Transaction Year",
+        "defaultValue": "Transaction Year",
+        "value": "Transaction Year"
+    },
+    {
+        "source": "frontend",
+        "key": "Transaction Fiscal Year",
+        "defaultValue": "Transaction Fiscal Year",
+        "value": "Transaction Fiscal Year"
+    },
+    {
+        "source": "frontend",
+        "key": "Transaction Day of Week",
+        "defaultValue": "Transaction Day of Week",
+        "value": "Transaction Day of Week"
+    },
+    {
+        "source": "frontend",
+        "key": "Transaction Day of Month",
+        "defaultValue": "Transaction Day of Month",
+        "value": "Transaction Day of Month"
+    },
+    {
+        "source": "frontend",
+        "key": "Transaction Month of Year",
+        "defaultValue": "Transaction Month of Year",
+        "value": "Transaction Month of Year"
+    },
+    {
+        "source": "frontend",
+        "key": "Transaction Quarter of Year",
+        "defaultValue": "Transaction Quarter of Year",
+        "value": "Transaction Quarter of Year"
+    },
+    {
+        "source": "frontend",
+        "key": "Transaction Hour of Day",
+        "defaultValue": "Transaction Hour of Day",
+        "value": "Transaction Hour of Day"
+    },
+    {
+        "source": "frontend",
+        "key": "Source Account Category",
+        "defaultValue": "Source Account Category",
+        "value": "Source Account Category"
+    },
+    {
+        "source": "frontend",
+        "key": "Source Account Currency",
+        "defaultValue": "Source Account Currency",
+        "value": "Source Account Currency"
+    },
+    {
+        "source": "frontend",
+        "key": "Destination Account Category",
+        "defaultValue": "Destination Account Category",
+        "value": "Destination Account Category"
+    },
+    {
+        "source": "frontend",
+        "key": "Destination Account Currency",
+        "defaultValue": "Destination Account Currency",
+        "value": "Destination Account Currency"
+    },
+    {
+        "source": "frontend",
+        "key": "Value Metric",
+        "defaultValue": "Value Metric",
+        "value": "Value Metric"
+    },
+    {
+        "source": "frontend",
+        "key": "Transaction Count",
+        "defaultValue": "Transaction Count",
+        "value": "Transaction Count"
+    },
+    {
+        "source": "frontend",
+        "key": "Average Amount",
+        "defaultValue": "Average Amount",
+        "value": "Average Amount"
+    },
+    {
+        "source": "frontend",
+        "key": "Median Amount",
+        "defaultValue": "Median Amount",
+        "value": "Median Amount"
+    },
+    {
+        "source": "frontend",
+        "key": "90th Percentile Amount",
+        "defaultValue": "90th Percentile Amount",
+        "value": "90th Percentile Amount"
+    },
+    {
+        "source": "frontend",
+        "key": "Top 5 Amount Share",
+        "defaultValue": "Top 5 Amount Share",
+        "value": "Top 5 Amount Share"
+    },
+    {
+        "source": "frontend",
+        "key": "Transactions for 80% of Amount",
+        "defaultValue": "Transactions for 80% of Amount",
+        "value": "Transactions for 80% of Amount"
+    },
+    {
+        "source": "frontend",
+        "key": "Range (Max - Min)",
+        "defaultValue": "Range (Max - Min)",
+        "value": "Range (Max - Min)"
+    },
+    {
+        "source": "frontend",
+        "key": "Interquartile Range (Q3 - Q1)",
+        "defaultValue": "Interquartile Range (Q3 - Q1)",
+        "value": "Interquartile Range (Q3 - Q1)"
+    },
+    {
+        "source": "frontend",
+        "key": "Variance",
+        "defaultValue": "Variance",
+        "value": "Variance"
+    },
+    {
+        "source": "frontend",
+        "key": "Standard Deviation",
+        "defaultValue": "Standard Deviation",
+        "value": "Standard Deviation"
+    },
+    {
+        "source": "frontend",
+        "key": "Coefficient of Variation",
+        "defaultValue": "Coefficient of Variation",
+        "value": "Coefficient of Variation"
+    },
+    {
+        "source": "frontend",
+        "key": "Move All Transactions",
+        "defaultValue": "Move All Transactions",
+        "value": "Move All Transactions"
+    },
+    {
+        "source": "frontend",
+        "key": "Are you sure you want to move all transactions?",
+        "defaultValue": "Are you sure you want to move all transactions?",
+        "value": "Are you sure you want to move all transactions?"
+    },
+    {
+        "source": "frontend",
+        "key": "Unable to move transactions",
+        "defaultValue": "Unable to move transactions",
+        "value": "Unable to move transactions"
+    },
+    {
+        "source": "frontend",
+        "key": "All transactions in this account have been moved.",
+        "defaultValue": "All transactions in this account have been moved.",
+        "value": "All transactions in this account have been moved."
+    },
+    {
+        "source": "frontend",
+        "key": "Paste Amount",
+        "defaultValue": "Paste Amount",
+        "value": "Paste Amount"
+    },
+    {
+        "source": "frontend",
+        "key": "Paste Destination Amount",
+        "defaultValue": "Paste Destination Amount",
+        "value": "Paste Destination Amount"
+    },
+    {
+        "source": "frontend",
+        "key": "Cannot parse amount from clipboard",
+        "defaultValue": "Cannot parse amount from clipboard",
+        "value": "Cannot parse amount from clipboard"
+    },
+    {
+        "source": "frontend",
+        "key": "Unable to read clipboard text",
+        "defaultValue": "Unable to read clipboard text",
+        "value": "Unable to read clipboard text"
+    },
+    {
+        "source": "frontend",
+        "key": "Save & New",
+        "defaultValue": "Save & New",
+        "value": "Save & New"
+    },
+    {
+        "source": "frontend",
+        "key": "Save & Duplicate",
+        "defaultValue": "Save & Duplicate",
+        "value": "Save & Duplicate"
+    },
+    {
+        "source": "frontend",
+        "key": "AI Image Recognition",
+        "defaultValue": "AI Image Recognition",
+        "value": "AI Image Recognition"
+    },
+    {
+        "source": "frontend",
+        "key": "Unable to load image",
+        "defaultValue": "Unable to load image",
+        "value": "Unable to load image"
+    },
+    {
+        "source": "frontend",
+        "key": "Unable to recognize image",
+        "defaultValue": "Unable to recognize image",
+        "value": "Unable to recognize image"
+    },
+    {
+        "source": "frontend",
+        "key": "AI image recognition is disabled",
+        "defaultValue": "AI image recognition is disabled",
+        "value": "AI image recognition is disabled"
+    },
+    {
+        "source": "frontend",
+        "key": "You can drag and drop, paste or click to select a receipt or transaction image",
+        "defaultValue": "You can drag and drop, paste or click to select a receipt or transaction image",
+        "value": "You can drag and drop, paste or click to select a receipt or transaction image"
+    },
+    {
+        "source": "frontend",
+        "key": "Release to load image",
+        "defaultValue": "Release to load image",
+        "value": "Release to load image"
+    },
+    {
+        "source": "frontend",
+        "key": "Loading image...",
+        "defaultValue": "Loading image...",
+        "value": "Loading image..."
+    },
+    {
+        "source": "frontend",
+        "key": "Click here to select a receipt or transaction image",
+        "defaultValue": "Click here to select a receipt or transaction image",
+        "value": "Click here to select a receipt or transaction image"
+    },
+    {
+        "source": "frontend",
+        "key": "Uploaded image and personal data will be sent to the large language model, please be aware of potential privacy risks.",
+        "defaultValue": "Uploaded image and personal data will be sent to the large language model, please be aware of potential privacy risks.",
+        "value": "Uploaded image and personal data will be sent to the large language model, please be aware of potential privacy risks."
+    },
+    {
+        "source": "frontend",
+        "key": "AI can make mistakes. Check important info.",
+        "defaultValue": "AI can make mistakes. Check important info.",
+        "value": "AI can make mistakes. Check important info."
+    },
+    {
+        "source": "frontend",
+        "key": "Include Any Selected Tags",
+        "defaultValue": "Include Any Selected Tags",
+        "value": "Include Any Selected Tags"
+    },
+    {
+        "source": "frontend",
+        "key": "Include All Selected Tags",
+        "defaultValue": "Include All Selected Tags",
+        "value": "Include All Selected Tags"
+    },
+    {
+        "source": "frontend",
+        "key": "Exclude Any Selected Tags",
+        "defaultValue": "Exclude Any Selected Tags",
+        "value": "Exclude Any Selected Tags"
+    },
+    {
+        "source": "frontend",
+        "key": "Exclude All Selected Tags",
+        "defaultValue": "Exclude All Selected Tags",
+        "value": "Exclude All Selected Tags"
+    },
+    {
+        "source": "frontend",
+        "key": "Refresh Accounts, Categories and Tags",
+        "defaultValue": "Refresh Accounts, Categories and Tags",
+        "value": "Refresh Accounts, Categories and Tags"
+    },
+    {
+        "source": "frontend",
+        "key": "Find file type",
+        "defaultValue": "Find file type",
+        "value": "Find file type"
+    },
+    {
+        "source": "frontend",
+        "key": "No available file type",
+        "defaultValue": "No available file type",
+        "value": "No available file type"
+    },
+    {
+        "source": "frontend",
+        "key": "ezBookkeeping File Format",
+        "defaultValue": "ezBookkeeping File Format",
+        "value": "ezBookkeeping File Format"
+    },
+    {
+        "source": "frontend",
+        "key": "Custom File Format",
+        "defaultValue": "Custom File Format",
+        "value": "Custom File Format"
+    },
+    {
+        "source": "frontend",
+        "key": "General Data Exchange Format",
+        "defaultValue": "General Data Exchange Format",
+        "value": "General Data Exchange Format"
+    },
+    {
+        "source": "frontend",
+        "key": "General Bank Statement Format",
+        "defaultValue": "General Bank Statement Format",
+        "value": "General Bank Statement Format"
+    },
+    {
+        "source": "frontend",
+        "key": "Other Bank/Payment App Statement File",
+        "defaultValue": "Other Bank/Payment App Statement File",
+        "value": "Other Bank/Payment App Statement File"
+    },
+    {
+        "source": "frontend",
+        "key": "Other Finance App File Format",
+        "defaultValue": "Other Finance App File Format",
+        "value": "Other Finance App File Format"
+    },
+    {
+        "source": "frontend",
+        "key": "Excel Workbook File (.xlsx)",
+        "defaultValue": "Excel Workbook File (.xlsx)",
+        "value": "Excel Workbook File (.xlsx)"
+    },
+    {
+        "source": "frontend",
+        "key": "Excel 97-2003 Workbook File (.xls)",
+        "defaultValue": "Excel 97-2003 Workbook File (.xls)",
+        "value": "Excel 97-2003 Workbook File (.xls)"
+    },
+    {
+        "source": "frontend",
+        "key": "Alipay (App) Statement File",
+        "defaultValue": "Alipay (App) Statement File",
+        "value": "Alipay (App) Statement File"
+    },
+    {
+        "source": "frontend",
+        "key": "Alipay (Web) Statement File",
+        "defaultValue": "Alipay (Web) Statement File",
+        "value": "Alipay (Web) Statement File"
+    },
+    {
+        "source": "frontend",
+        "key": "WeChat Pay Statement File",
+        "defaultValue": "WeChat Pay Statement File",
+        "value": "WeChat Pay Statement File"
+    },
+    {
+        "source": "frontend",
+        "key": "JD.com Finance Statement File",
+        "defaultValue": "JD.com Finance Statement File",
+        "value": "JD.com Finance Statement File"
+    },
+    {
+        "source": "frontend",
+        "key": "Handling Method",
+        "defaultValue": "Handling Method",
+        "value": "Handling Method"
+    },
+    {
+        "source": "frontend",
+        "key": "Column Mapping",
+        "defaultValue": "Column Mapping",
+        "value": "Column Mapping"
+    },
+    {
+        "source": "frontend",
+        "key": "Custom Script",
+        "defaultValue": "Custom Script",
+        "value": "Custom Script"
+    },
+    {
+        "source": "frontend",
+        "key": "Execute Custom Script",
+        "defaultValue": "Execute Custom Script",
+        "value": "Execute Custom Script"
+    },
+    {
+        "source": "frontend",
+        "key": "Execute Custom Script to Parse Data",
+        "defaultValue": "Execute Custom Script to Parse Data",
+        "value": "Execute Custom Script to Parse Data"
+    },
+    {
+        "source": "frontend",
+        "key": "Additional Options",
+        "defaultValue": "Additional Options",
+        "value": "Additional Options"
+    },
+    {
+        "source": "frontend",
+        "key": "Parse Payee as Tag",
+        "defaultValue": "Parse Payee as Tag",
+        "value": "Parse Payee as Tag"
+    },
+    {
+        "source": "frontend",
+        "key": "Parse Payee as Description",
+        "defaultValue": "Parse Payee as Description",
+        "value": "Parse Payee as Description"
+    },
+    {
+        "source": "frontend",
+        "key": "Parse Member as Tag",
+        "defaultValue": "Parse Member as Tag",
+        "value": "Parse Member as Tag"
+    },
+    {
+        "source": "frontend",
+        "key": "Parse Project as Tag",
+        "defaultValue": "Parse Project as Tag",
+        "value": "Parse Project as Tag"
+    },
+    {
+        "source": "frontend",
+        "key": "Parse Merchant as Tag",
+        "defaultValue": "Parse Merchant as Tag",
+        "value": "Parse Merchant as Tag"
+    },
+    {
+        "source": "frontend",
+        "key": "Unable to detect the file encoding automatically. Please select the actual encoding.",
+        "defaultValue": "Unable to detect the file encoding automatically. Please select the actual encoding.",
+        "value": "Unable to detect the file encoding automatically. Please select the actual encoding."
+    },
+    {
+        "source": "frontend",
+        "key": "IANA Time Zone Name",
+        "defaultValue": "IANA Time Zone Name",
+        "value": "IANA Time Zone Name"
+    },
+    {
+        "source": "frontend",
+        "key": "Transaction importing is disabled",
+        "defaultValue": "Transaction importing is disabled",
+        "value": "Transaction importing is disabled"
+    },
+    {
+        "source": "frontend",
+        "key": "Load Script File",
+        "defaultValue": "Load Script File",
+        "value": "Load Script File"
+    },
+    {
+        "source": "frontend",
+        "key": "Save Script File",
+        "defaultValue": "Save Script File",
+        "value": "Save Script File"
+    },
+    {
+        "source": "frontend",
+        "key": "Cannot load script file",
+        "defaultValue": "Cannot load script file",
+        "value": "Cannot load script file"
+    },
+    {
+        "source": "frontend",
+        "key": "No Preview Result",
+        "defaultValue": "No Preview Result",
+        "value": "No Preview Result"
+    },
+    {
+        "source": "frontend",
+        "key": "Please execute the custom script first",
+        "defaultValue": "Please execute the custom script first",
+        "value": "Please execute the custom script first"
+    },
+    {
+        "source": "frontend",
+        "key": "Executing Script...",
+        "defaultValue": "Executing Script...",
+        "value": "Executing Script..."
+    },
+    {
+        "source": "frontend",
+        "key": "No parse function defined",
+        "defaultValue": "No parse function defined",
+        "value": "No parse function defined"
+    },
+    {
+        "source": "frontend",
+        "key": "Failed to parse time",
+        "defaultValue": "Failed to parse time",
+        "value": "Failed to parse time"
+    },
+    {
+        "source": "frontend",
+        "key": "Failed to execute custom script",
+        "defaultValue": "Failed to execute custom script",
+        "value": "Failed to execute custom script"
+    },
+    {
+        "source": "frontend",
+        "key": "Batch Replace Selected Transaction Tags",
+        "defaultValue": "Batch Replace Selected Transaction Tags",
+        "value": "Batch Replace Selected Transaction Tags"
+    },
+    {
+        "source": "frontend",
+        "key": "Batch Replace Selected Transaction Timezones",
+        "defaultValue": "Batch Replace Selected Transaction Timezones",
+        "value": "Batch Replace Selected Transaction Timezones"
+    },
+    {
+        "source": "frontend",
+        "key": "Batch Add Transaction Tags",
+        "defaultValue": "Batch Add Transaction Tags",
+        "value": "Batch Add Transaction Tags"
+    },
+    {
+        "source": "frontend",
+        "key": "Batch Convert Selected Amounts to Positive Values",
+        "defaultValue": "Batch Convert Selected Amounts to Positive Values",
+        "value": "Batch Convert Selected Amounts to Positive Values"
+    },
+    {
+        "source": "frontend",
+        "key": "Batch Convert Selected Amounts to Negative Values",
+        "defaultValue": "Batch Convert Selected Amounts to Negative Values",
+        "value": "Batch Convert Selected Amounts to Negative Values"
+    },
+    {
+        "source": "frontend",
+        "key": "Clear All Filters",
+        "defaultValue": "Clear All Filters",
+        "value": "Clear All Filters"
+    },
+    {
+        "source": "frontend",
+        "key": "Confirm Target Account Name",
+        "defaultValue": "Confirm Target Account Name",
+        "value": "Confirm Target Account Name"
+    },
+    {
+        "source": "frontend",
+        "key": "Please re-enter the target account name to confirm",
+        "defaultValue": "Please re-enter the target account name to confirm",
+        "value": "Please re-enter the target account name to confirm"
+    },
+    {
+        "source": "frontend",
+        "key": "Remove Tag",
+        "defaultValue": "Remove Tag",
+        "value": "Remove Tag"
+    },
+    {
+        "source": "frontend",
+        "key": "Target Timezone",
+        "defaultValue": "Target Timezone",
+        "value": "Target Timezone"
+    },
+    {
+        "source": "frontend",
+        "key": "Tags",
+        "defaultValue": "Tags",
+        "value": "Tags"
+    },
+    {
+        "source": "frontend",
+        "key": "Transaction picture is disabled",
+        "defaultValue": "Transaction picture is disabled",
+        "value": "Transaction picture is disabled"
+    },
+    {
+        "source": "frontend",
+        "key": "Unable to retrieve all transactions",
+        "defaultValue": "Unable to retrieve all transactions",
+        "value": "Unable to retrieve all transactions"
+    },
+    {
+        "source": "frontend",
+        "key": "Select Month",
+        "defaultValue": "Select Month",
+        "value": "Select Month"
+    },
+    {
+        "source": "frontend",
+        "key": "Asset Trends",
+        "defaultValue": "Asset Trends",
+        "value": "Asset Trends"
+    },
+    {
+        "source": "frontend",
+        "key": "Net Worth",
+        "defaultValue": "Net Worth",
+        "value": "Net Worth"
+    },
+    {
+        "source": "frontend",
+        "key": "Q1 Balance (First Quartile)",
+        "defaultValue": "Q1 Balance (First Quartile)",
+        "value": "Q1 Balance (First Quartile)"
+    },
+    {
+        "source": "frontend",
+        "key": "Q3 Balance (Third Quartile)",
+        "defaultValue": "Q3 Balance (Third Quartile)",
+        "value": "Q3 Balance (Third Quartile)"
+    },
+    {
+        "source": "frontend",
+        "key": "Outflows By Account",
+        "defaultValue": "Outflows By Account",
+        "value": "Outflows By Account"
+    },
+    {
+        "source": "frontend",
+        "key": "Inflows By Account",
+        "defaultValue": "Inflows By Account",
+        "value": "Inflows By Account"
+    },
+    {
+        "source": "frontend",
+        "key": "Asset Trends Settings",
+        "defaultValue": "Asset Trends Settings",
+        "value": "Asset Trends Settings"
+    },
+    {
+        "source": "frontend",
+        "key": "Value",
+        "defaultValue": "Value",
+        "value": "Value"
+    },
+    {
+        "source": "frontend",
+        "key": "Aggregate by Day",
+        "defaultValue": "Aggregate by Day",
+        "value": "Aggregate by Day"
+    },
+    {
+        "source": "frontend",
+        "key": "Year-over-Year",
+        "defaultValue": "Year-over-Year",
+        "value": "Year-over-Year"
+    },
+    {
+        "source": "frontend",
+        "key": "Period-over-Period",
+        "defaultValue": "Period-over-Period",
+        "value": "Period-over-Period"
+    },
+    {
+        "source": "frontend",
+        "key": "Accounts Included in Overview Statistics",
+        "defaultValue": "Accounts Included in Overview Statistics",
+        "value": "Accounts Included in Overview Statistics"
+    },
+    {
+        "source": "frontend",
+        "key": "Transaction Categories Included in Overview Statistics",
+        "defaultValue": "Transaction Categories Included in Overview Statistics",
+        "value": "Transaction Categories Included in Overview Statistics"
+    },
+    {
+        "source": "frontend",
+        "key": "Quick Save Button Style",
+        "defaultValue": "Quick Save Button Style",
+        "value": "Quick Save Button Style"
+    },
+    {
+        "source": "frontend",
+        "key": "Bottom Left Floating",
+        "defaultValue": "Bottom Left Floating",
+        "value": "Bottom Left Floating"
+    },
+    {
+        "source": "frontend",
+        "key": "Bottom Center Floating",
+        "defaultValue": "Bottom Center Floating",
+        "value": "Bottom Center Floating"
+    },
+    {
+        "source": "frontend",
+        "key": "Bottom Right Floating",
+        "defaultValue": "Bottom Right Floating",
+        "value": "Bottom Right Floating"
+    },
+    {
+        "source": "frontend",
+        "key": "Bottom Fixed",
+        "defaultValue": "Bottom Fixed",
+        "value": "Bottom Fixed"
+    },
+    {
+        "source": "frontend",
+        "key": "Quick Add Button Action",
+        "defaultValue": "Quick Add Button Action",
+        "value": "Quick Add Button Action"
+    },
+    {
+        "source": "frontend",
+        "key": "Import Transaction Dialog",
+        "defaultValue": "Import Transaction Dialog",
+        "value": "Import Transaction Dialog"
+    },
+    {
+        "source": "frontend",
+        "key": "Remember Last Selected File Type",
+        "defaultValue": "Remember Last Selected File Type",
+        "value": "Remember Last Selected File Type"
+    },
+    {
+        "source": "frontend",
+        "key": "Insights Explorer Page",
+        "defaultValue": "Insights Explorer Page",
+        "value": "Insights Explorer Page"
+    },
+    {
+        "source": "frontend",
+        "key": "Account Category Order",
+        "defaultValue": "Account Category Order",
+        "value": "Account Category Order"
+    },
+    {
+        "source": "frontend",
+        "key": "Account category order saved",
+        "defaultValue": "Account category order saved",
+        "value": "Account category order saved"
+    },
+    {
+        "source": "frontend",
+        "key": "Unable to move account category",
+        "defaultValue": "Unable to move account category",
+        "value": "Unable to move account category"
+    },
+    {
+        "source": "frontend",
+        "key": "Hide Categories Without Accounts",
+        "defaultValue": "Hide Categories Without Accounts",
+        "value": "Hide Categories Without Accounts"
+    },
+    {
+        "source": "frontend",
+        "key": "Enable Swipe Back",
+        "defaultValue": "Enable Swipe Back",
+        "value": "Enable Swipe Back"
+    },
+    {
+        "source": "frontend",
+        "key": "SSV (Semicolon-separated values) File",
+        "defaultValue": "SSV (Semicolon-separated values) File",
+        "value": "SSV (Semicolon-separated values) File"
+    },
+    {
+        "source": "frontend",
+        "key": "Export to SSV (Semicolon-separated values) File",
+        "defaultValue": "Export to SSV (Semicolon-separated values) File",
+        "value": "Export to SSV (Semicolon-separated values) File"
+    },
+    {
+        "source": "frontend",
+        "key": "Mermaid (Pie Chart)",
+        "defaultValue": "Mermaid (Pie Chart)",
+        "value": "Mermaid (Pie Chart)"
+    },
+    {
+        "source": "frontend",
+        "key": "Mermaid (XY Chart)",
+        "defaultValue": "Mermaid (XY Chart)",
+        "value": "Mermaid (XY Chart)"
+    },
+    {
+        "source": "frontend",
+        "key": "Clear All Transactions",
+        "defaultValue": "Clear All Transactions",
+        "value": "Clear All Transactions"
+    },
+    {
+        "source": "frontend",
+        "key": "Clear All Data",
+        "defaultValue": "Clear All Data",
+        "value": "Clear All Data"
+    },
+    {
+        "source": "frontend",
+        "key": "Are you sure you want to clear all transactions?",
+        "defaultValue": "Are you sure you want to clear all transactions?",
+        "value": "Are you sure you want to clear all transactions?"
+    },
+    {
+        "source": "frontend",
+        "key": "You CANNOT undo this action. This will clear your transactions data. Please enter your current password to confirm.",
+        "defaultValue": "You CANNOT undo this action. This will clear your transactions data. Please enter your current password to confirm.",
+        "value": "You CANNOT undo this action. This will clear your transactions data. Please enter your current password to confirm."
+    },
+    {
+        "source": "frontend",
+        "key": "You CANNOT undo this action. \"Clear All Transactions\" will clear all your transactions data, and \"Clear All Data\" will clear your accounts, categories, tags and transactions data. Please enter your current password to confirm.",
+        "defaultValue": "You CANNOT undo this action. \"Clear All Transactions\" will clear all your transactions data, and \"Clear All Data\" will clear your accounts, categories, tags and transactions data. Please enter your current password to confirm.",
+        "value": "You CANNOT undo this action. \"Clear All Transactions\" will clear all your transactions data, and \"Clear All Data\" will clear your accounts, categories, tags and transactions data. Please enter your current password to confirm."
+    },
+    {
+        "source": "frontend",
+        "key": "All transactions in this account have been cleared",
+        "defaultValue": "All transactions in this account have been cleared",
+        "value": "All transactions in this account have been cleared"
+    },
+    {
+        "source": "frontend",
+        "key": "All transactions have been cleared",
+        "defaultValue": "All transactions have been cleared",
+        "value": "All transactions have been cleared"
+    },
+    {
+        "source": "frontend",
+        "key": "Third-Party Login",
+        "defaultValue": "Third-Party Login",
+        "value": "Third-Party Login"
+    },
+    {
+        "source": "frontend",
+        "key": "Linked Time",
+        "defaultValue": "Linked Time",
+        "value": "Linked Time"
+    },
+    {
+        "source": "frontend",
+        "key": "Link",
+        "defaultValue": "Link",
+        "value": "Link"
+    },
+    {
+        "source": "frontend",
+        "key": "Unlink",
+        "defaultValue": "Unlink",
+        "value": "Unlink"
+    },
+    {
+        "source": "frontend",
+        "key": "Are you sure you want to unlink this login method?",
+        "defaultValue": "Are you sure you want to unlink this login method?",
+        "value": "Are you sure you want to unlink this login method?"
+    },
+    {
+        "source": "frontend",
+        "key": "Unable to retrieve third-party login list",
+        "defaultValue": "Unable to retrieve third-party login list",
+        "value": "Unable to retrieve third-party login list"
+    },
+    {
+        "source": "frontend",
+        "key": "Third-party login list is up to date",
+        "defaultValue": "Third-party login list is up to date",
+        "value": "Third-party login list is up to date"
+    },
+    {
+        "source": "frontend",
+        "key": "Third-party login list has been updated",
+        "defaultValue": "Third-party login list has been updated",
+        "value": "Third-party login list has been updated"
+    },
+    {
+        "source": "frontend",
+        "key": "Unable to unlink third-party login",
+        "defaultValue": "Unable to unlink third-party login",
+        "value": "Unable to unlink third-party login"
+    },
+    {
+        "source": "frontend",
+        "key": "Total tags",
+        "defaultValue": "Total tags",
+        "value": "Total tags"
+    },
+    {
+        "source": "frontend",
+        "key": "Default Group",
+        "defaultValue": "Default Group",
+        "value": "Default Group"
+    },
+    {
+        "source": "frontend",
+        "key": "Add Tag Group",
+        "defaultValue": "Add Tag Group",
+        "value": "Add Tag Group"
+    },
+    {
+        "source": "frontend",
+        "key": "Rename Tag Group",
+        "defaultValue": "Rename Tag Group",
+        "value": "Rename Tag Group"
+    },
+    {
+        "source": "frontend",
+        "key": "Delete Tag Group",
+        "defaultValue": "Delete Tag Group",
+        "value": "Delete Tag Group"
+    },
+    {
+        "source": "frontend",
+        "key": "Change Group Display Order",
+        "defaultValue": "Change Group Display Order",
+        "value": "Change Group Display Order"
+    },
+    {
+        "source": "frontend",
+        "key": "Tag Group Name",
+        "defaultValue": "Tag Group Name",
+        "value": "Tag Group Name"
+    },
+    {
+        "source": "frontend",
+        "key": "New Tag Group Name",
+        "defaultValue": "New Tag Group Name",
+        "value": "New Tag Group Name"
+    },
+    {
+        "source": "frontend",
+        "key": "No available tag group",
+        "defaultValue": "No available tag group",
+        "value": "No available tag group"
+    },
+    {
+        "source": "frontend",
+        "key": "Unable to retrieve tag group list",
+        "defaultValue": "Unable to retrieve tag group list",
+        "value": "Unable to retrieve tag group list"
+    },
+    {
+        "source": "frontend",
+        "key": "Tag group list has been updated",
+        "defaultValue": "Tag group list has been updated",
+        "value": "Tag group list has been updated"
+    },
+    {
+        "source": "frontend",
+        "key": "Unable to add tag group",
+        "defaultValue": "Unable to add tag group",
+        "value": "Unable to add tag group"
+    },
+    {
+        "source": "frontend",
+        "key": "Unable to save tag group",
+        "defaultValue": "Unable to save tag group",
+        "value": "Unable to save tag group"
+    },
+    {
+        "source": "frontend",
+        "key": "Unable to move tag group",
+        "defaultValue": "Unable to move tag group",
+        "value": "Unable to move tag group"
+    },
+    {
+        "source": "frontend",
+        "key": "Unable to rename this tag group",
+        "defaultValue": "Unable to rename this tag group",
+        "value": "Unable to rename this tag group"
+    },
+    {
+        "source": "frontend",
+        "key": "Are you sure you want to delete this tag group?",
+        "defaultValue": "Are you sure you want to delete this tag group?",
+        "value": "Are you sure you want to delete this tag group?"
+    },
+    {
+        "source": "frontend",
+        "key": "Unable to delete this tag group",
+        "defaultValue": "Unable to delete this tag group",
+        "value": "Unable to delete this tag group"
+    },
+    {
+        "source": "frontend",
+        "key": "Generate Token",
+        "defaultValue": "Generate Token",
+        "value": "Generate Token"
+    },
+    {
+        "source": "frontend",
+        "key": "Token Type",
+        "defaultValue": "Token Type",
+        "value": "Token Type"
+    },
+    {
+        "source": "frontend",
+        "key": "Expiration Time",
+        "defaultValue": "Expiration Time",
+        "value": "Expiration Time"
+    },
+    {
+        "source": "frontend",
+        "key": "Custom Expiration Time (Seconds)",
+        "defaultValue": "Custom Expiration Time (Seconds)",
+        "value": "Custom Expiration Time (Seconds)"
+    },
+    {
+        "source": "frontend",
+        "key": "No Expiration",
+        "defaultValue": "No Expiration",
+        "value": "No Expiration"
+    },
+    {
+        "source": "frontend",
+        "key": "API Token",
+        "defaultValue": "API Token",
+        "value": "API Token"
+    },
+    {
+        "source": "frontend",
+        "key": "MCP Token",
+        "defaultValue": "MCP Token",
+        "value": "MCP Token"
+    },
+    {
+        "source": "frontend",
+        "key": "Your token does not expire, please keep it secure.",
+        "defaultValue": "Your token does not expire, please keep it secure.",
+        "value": "Your token does not expire, please keep it secure."
+    },
+    {
+        "source": "frontend",
+        "key": "When connecting to third-party apps, be aware that they and any large language models they use can access your private data.",
+        "defaultValue": "When connecting to third-party apps, be aware that they and any large language models they use can access your private data.",
+        "value": "When connecting to third-party apps, be aware that they and any large language models they use can access your private data."
+    },
+    {
+        "source": "frontend",
+        "key": "Browser Cache Management",
+        "defaultValue": "Browser Cache Management",
+        "value": "Browser Cache Management"
+    },
+    {
+        "source": "frontend",
+        "key": "File Cache",
+        "defaultValue": "File Cache",
+        "value": "File Cache"
+    },
+    {
+        "source": "frontend",
+        "key": "Used storage",
+        "defaultValue": "Used storage",
+        "value": "Used storage"
+    },
+    {
+        "source": "frontend",
+        "key": "Application Code",
+        "defaultValue": "Application Code",
+        "value": "Application Code"
+    },
+    {
+        "source": "frontend",
+        "key": "Resource Files",
+        "defaultValue": "Resource Files",
+        "value": "Resource Files"
+    },
+    {
+        "source": "frontend",
+        "key": "Map Data",
+        "defaultValue": "Map Data",
+        "value": "Map Data"
+    },
+    {
+        "source": "frontend",
+        "key": "Others",
+        "defaultValue": "Others",
+        "value": "Others"
+    },
+    {
+        "source": "frontend",
+        "key": "Cache Expiration Time",
+        "defaultValue": "Cache Expiration Time",
+        "value": "Cache Expiration Time"
+    },
+    {
+        "source": "frontend",
+        "key": "Cache Expiration for Map Data",
+        "defaultValue": "Cache Expiration for Map Data",
+        "value": "Cache Expiration for Map Data"
+    },
+    {
+        "source": "frontend",
+        "key": "Cache Expiration for Exchange Rates Data",
+        "defaultValue": "Cache Expiration for Exchange Rates Data",
+        "value": "Cache Expiration for Exchange Rates Data"
+    },
+    {
+        "source": "frontend",
+        "key": "Disable Cache",
+        "defaultValue": "Disable Cache",
+        "value": "Disable Cache"
+    },
+    {
+        "source": "frontend",
+        "key": "Clear All File Cache",
+        "defaultValue": "Clear All File Cache",
+        "value": "Clear All File Cache"
+    },
+    {
+        "source": "frontend",
+        "key": "Are you sure you want to clear all file cache?",
+        "defaultValue": "Are you sure you want to clear all file cache?",
+        "value": "Are you sure you want to clear all file cache?"
+    },
+    {
+        "source": "frontend",
+        "key": "Clear Map Data Cache",
+        "defaultValue": "Clear Map Data Cache",
+        "value": "Clear Map Data Cache"
+    },
+    {
+        "source": "frontend",
+        "key": "Are you sure you want to clear map data cache?",
+        "defaultValue": "Are you sure you want to clear map data cache?",
+        "value": "Are you sure you want to clear map data cache?"
+    },
+    {
+        "source": "frontend",
+        "key": "Clear Application Code Cache",
+        "defaultValue": "Clear Application Code Cache",
+        "value": "Clear Application Code Cache"
+    },
+    {
+        "source": "frontend",
+        "key": "Are you sure you want to clear application code cache?",
+        "defaultValue": "Are you sure you want to clear application code cache?",
+        "value": "Are you sure you want to clear application code cache?"
+    },
+    {
+        "source": "frontend",
+        "key": "Clear Exchange Rates Data Cache",
+        "defaultValue": "Clear Exchange Rates Data Cache",
+        "value": "Clear Exchange Rates Data Cache"
+    },
+    {
+        "source": "frontend",
+        "key": "Are you sure you want to clear exchange rates data cache?",
+        "defaultValue": "Are you sure you want to clear exchange rates data cache?",
+        "value": "Are you sure you want to clear exchange rates data cache?"
+    },
+    {
+        "source": "frontend",
+        "key": "Documentation",
+        "defaultValue": "Documentation",
+        "value": "Documentation"
+    },
+    {
+        "source": "frontend",
+        "key": "Are you sure you want to open this link?",
+        "defaultValue": "Are you sure you want to open this link?",
+        "value": "Are you sure you want to open this link?"
+    }
+]

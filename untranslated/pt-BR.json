@@ -1,0 +1,140 @@
+[
+    {
+        "source": "frontend",
+        "key": "OK",
+        "defaultValue": "OK",
+        "value": "OK"
+    },
+    {
+        "source": "frontend",
+        "key": "Status",
+        "defaultValue": "Status",
+        "value": "Status"
+    },
+    {
+        "source": "frontend",
+        "key": "Token",
+        "defaultValue": "Token",
+        "value": "Token"
+    },
+    {
+        "source": "frontend",
+        "key": "E-mail",
+        "defaultValue": "E-mail",
+        "value": "E-mail"
+    },
+    {
+        "source": "frontend",
+        "key": "Editor",
+        "defaultValue": "Editor",
+        "value": "Editor"
+    },
+    {
+        "source": "frontend",
+        "key": "Longitude",
+        "defaultValue": "Longitude",
+        "value": "Longitude"
+    },
+    {
+        "source": "frontend",
+        "key": "Latitude",
+        "defaultValue": "Latitude",
+        "value": "Latitude"
+    },
+    {
+        "source": "frontend",
+        "key": "Tags",
+        "defaultValue": "Tags",
+        "value": "Tags"
+    },
+    {
+        "source": "frontend",
+        "key": "Year-over-Year",
+        "defaultValue": "Year-over-Year",
+        "value": "Year-over-Year"
+    },
+    {
+        "source": "frontend",
+        "key": "Period-over-Period",
+        "defaultValue": "Period-over-Period",
+        "value": "Period-over-Period"
+    },
+    {
+        "source": "frontend",
+        "key": "Latitude Longitude D.D°",
+        "defaultValue": "Latitude Longitude D.D°",
+        "value": "Latitude Longitude D.D°"
+    },
+    {
+        "source": "frontend",
+        "key": "Longitude Latitude D.D°",
+        "defaultValue": "Longitude Latitude D.D°",
+        "value": "Longitude Latitude D.D°"
+    },
+    {
+        "source": "frontend",
+        "key": "Latitude Longitude D°M.M'",
+        "defaultValue": "Latitude Longitude D°M.M'",
+        "value": "Latitude Longitude D°M.M'"
+    },
+    {
+        "source": "frontend",
+        "key": "Longitude Latitude D°M.M'",
+        "defaultValue": "Longitude Latitude D°M.M'",
+        "value": "Longitude Latitude D°M.M'"
+    },
+    {
+        "source": "frontend",
+        "key": "Latitude Longitude D°M'S\"",
+        "defaultValue": "Latitude Longitude D°M'S\"",
+        "value": "Latitude Longitude D°M'S\""
+    },
+    {
+        "source": "frontend",
+        "key": "Longitude Latitude D°M'S\"",
+        "defaultValue": "Longitude Latitude D°M'S\"",
+        "value": "Longitude Latitude D°M'S\""
+    },
+    {
+        "source": "frontend",
+        "key": "Quick Save Button Style",
+        "defaultValue": "Quick Save Button Style",
+        "value": "Quick Save Button Style"
+    },
+    {
+        "source": "frontend",
+        "key": "Bottom Left Floating",
+        "defaultValue": "Bottom Left Floating",
+        "value": "Bottom Left Floating"
+    },
+    {
+        "source": "frontend",
+        "key": "Bottom Center Floating",
+        "defaultValue": "Bottom Center Floating",
+        "value": "Bottom Center Floating"
+    },
+    {
+        "source": "frontend",
+        "key": "Bottom Right Floating",
+        "defaultValue": "Bottom Right Floating",
+        "value": "Bottom Right Floating"
+    },
+    {
+        "source": "frontend",
+        "key": "Bottom Fixed",
+        "defaultValue": "Bottom Fixed",
+        "value": "Bottom Fixed"
+    },
+    {
+        "source": "frontend",
+        "key": "API Token",
+        "defaultValue": "API Token",
+        "value": "API Token"
+    },
+    {
+        "source": "frontend",
+        "key": "MCP Token",
+        "defaultValue": "MCP Token",
+        "value": "MCP Token"
+    }
+]

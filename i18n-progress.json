@@ -1,0 +1,154 @@
+{
+    "de": {
+        "languageTag": "de",
+        "frontendTranslated": 1596,
+        "frontendTotal": 1628,
+        "backendTranslated": 10,
+        "backendTotal": 10,
+        "totalProgress": 98.05
+    },
+    "en": {
+        "languageTag": "en",
+        "frontendTranslated": 1628,
+        "frontendTotal": 1628,
+        "backendTranslated": 10,
+        "backendTotal": 10,
+        "totalProgress": 100
+    },
+    "es": {
+        "languageTag": "es",
+        "frontendTranslated": 1443,
+        "frontendTotal": 1628,
+        "backendTranslated": 10,
+        "backendTotal": 10,
+        "totalProgress": 88.71
+    },
+    "fr": {
+        "languageTag": "fr",
+        "frontendTranslated": 1288,
+        "frontendTotal": 1628,
+        "backendTranslated": 10,
+        "backendTotal": 10,
+        "totalProgress": 79.24
+    },
+    "it": {
+        "languageTag": "it",
+        "frontendTranslated": 1094,
+        "frontendTotal": 1628,
+        "backendTranslated": 10,
+        "backendTotal": 10,
+        "totalProgress": 67.4
+    },
+    "ja": {
+        "languageTag": "ja",
+        "frontendTranslated": 1080,
+        "frontendTotal": 1628,
+        "backendTranslated": 10,
+        "backendTotal": 10,
+        "totalProgress": 66.54
+    },
+    "kn": {
+        "languageTag": "kn",
+        "frontendTranslated": 1402,
+        "frontendTotal": 1628,
+        "backendTranslated": 6,
+        "backendTotal": 10,
+        "totalProgress": 85.96
+    },
+    "ko": {
+        "languageTag": "ko",
+        "frontendTranslated": 1527,
+        "frontendTotal": 1628,
+        "backendTranslated": 10,
+        "backendTotal": 10,
+        "totalProgress": 93.83
+    },
+    "nl": {
+        "languageTag": "nl",
+        "frontendTranslated": 1220,
+        "frontendTotal": 1628,
+        "backendTranslated": 10,
+        "backendTotal": 10,
+        "totalProgress": 75.09
+    },
+    "pt-BR": {
+        "languageTag": "pt-BR",
+        "frontendTranslated": 1605,
+        "frontendTotal": 1628,
+        "backendTranslated": 10,
+        "backendTotal": 10,
+        "totalProgress": 98.6
+    },
+    "ru": {
+        "languageTag": "ru",
+        "frontendTranslated": 1555,
+        "frontendTotal": 1628,
+        "backendTranslated": 10,
+        "backendTotal": 10,
+        "totalProgress": 95.54
+    },
+    "sl": {
+        "languageTag": "sl",
+        "frontendTranslated": 1519,
+        "frontendTotal": 1628,
+        "backendTranslated": 10,
+        "backendTotal": 10,
+        "totalProgress": 93.35
+    },
+    "ta": {
+        "languageTag": "ta",
+        "frontendTranslated": 1548,
+        "frontendTotal": 1628,
+        "backendTranslated": 10,
+        "backendTotal": 10,
+        "totalProgress": 95.12
+    },
+    "th": {
+        "languageTag": "th",
+        "frontendTranslated": 1313,
+        "frontendTotal": 1628,
+        "backendTranslated": 10,
+        "backendTotal": 10,
+        "totalProgress": 80.77
+    },
+    "tr": {
+        "languageTag": "tr",
+        "frontendTranslated": 1421,
+        "frontendTotal": 1628,
+        "backendTranslated": 10,
+        "backendTotal": 10,
+        "totalProgress": 87.36
+    },
+    "uk": {
+        "languageTag": "uk",
+        "frontendTranslated": 1103,
+        "frontendTotal": 1628,
+        "backendTranslated": 10,
+        "backendTotal": 10,
+        "totalProgress": 67.95
+    },
+    "vi": {
+        "languageTag": "vi",
+        "frontendTranslated": 1020,
+        "frontendTotal": 1628,
+        "backendTranslated": 10,
+        "backendTotal": 10,
+        "totalProgress": 62.88
+    },
+    "zh-Hans": {
+        "languageTag": "zh-Hans",
+        "frontendTranslated": 1628,
+        "frontendTotal": 1628,
+        "backendTranslated": 10,
+        "backendTotal": 10,
+        "totalProgress": 100
+    },
+    "zh-Hant": {
+        "languageTag": "zh-Hant",
+        "frontendTranslated": 1628,
+        "frontendTotal": 1628,
+        "backendTranslated": 10,
+        "backendTotal": 10,
+        "totalProgress": 100
+    }
+}
