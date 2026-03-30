@@ -1,192 +1,174 @@
 [
     {
-        "source": "frontend",
-        "key": "language.Kannada",
-        "defaultValue": "Kannada",
-        "value": "Kannada"
-    },
-    {
-        "source": "frontend",
-        "key": "language.Tamil",
-        "defaultValue": "Tamil",
-        "value": "Tamil"
-    },
-    {
-        "source": "frontend",
+        "source": "src/locales/de.json",
         "key": "dataExport.defaultExportFilename",
         "defaultValue": "ezBookkeeping_export_data",
         "value": "ezBookkeeping_export_data"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/de.json",
         "key": "dataExport.exportFilename",
         "defaultValue": "ezBookkeeping_{nickname}_export_data",
         "value": "ezBookkeeping_{nickname}_export_data"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/de.json",
         "key": "dataExport.defaultExportStatisticsFileName",
         "defaultValue": "ezBookkeeping_statistics_data",
         "value": "ezBookkeeping_statistics_data"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/de.json",
         "key": "dataExport.exportStatisticsFileName",
         "defaultValue": "ezBookkeeping_{nickname}_statistics_data",
         "value": "ezBookkeeping_{nickname}_statistics_data"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/de.json",
         "key": "dataExport.defaultExportReconciliationStatementsFileName",
         "defaultValue": "ezBookkeeping_reconciliation_statements",
         "value": "ezBookkeeping_reconciliation_statements"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/de.json",
         "key": "dataExport.exportReconciliationStatementsFileName",
         "defaultValue": "ezBookkeeping_{nickname}_reconciliation_statements",
         "value": "ezBookkeeping_{nickname}_reconciliation_statements"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/de.json",
         "key": "dataExport.defaultImportDataMappingFileName",
         "defaultValue": "ezBookkeeping_import_data_mapping",
         "value": "ezBookkeeping_import_data_mapping"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/de.json",
         "key": "dataExport.defaultImportHandlingScript",
         "defaultValue": "ezBookkeeping_handling_script",
         "value": "ezBookkeeping_handling_script"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/de.json",
         "key": "dataExport.defaultImportReplaceRuleFileName",
         "defaultValue": "ezBookkeeping_import_replace_rule",
         "value": "ezBookkeeping_import_replace_rule"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/de.json",
         "key": "dataExport.defaultImportCheckResultFileName",
         "defaultValue": "ezBookkeeping_import_check_result",
         "value": "ezBookkeeping_import_check_result"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/de.json",
         "key": "parameter.passcode",
         "defaultValue": "Passcode",
         "value": "Passcode"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/de.json",
         "key": "parameter.name",
         "defaultValue": "Name",
         "value": "Name"
     },
     {
-        "source": "frontend",
-        "key": "OK",
-        "defaultValue": "OK",
-        "value": "OK"
-    },
-    {
-        "source": "frontend",
+        "source": "src/locales/de.json",
         "key": "Status",
         "defaultValue": "Status",
         "value": "Status"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/de.json",
         "key": "Token",
         "defaultValue": "Token",
         "value": "Token"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/de.json",
         "key": "Version",
         "defaultValue": "Version",
         "value": "Version"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/de.json",
         "key": "Format",
         "defaultValue": "Format",
         "value": "Format"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/de.json",
         "key": "Tab",
         "defaultValue": "Tab",
         "value": "Tab"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/de.json",
         "key": "In",
         "defaultValue": "In",
         "value": "In"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/de.json",
         "key": "Details",
         "defaultValue": "Details",
         "value": "Details"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/de.json",
         "key": "Passcode",
         "defaultValue": "Passcode",
         "value": "Passcode"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/de.json",
         "key": "Editor",
         "defaultValue": "Editor",
         "value": "Editor"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/de.json",
         "key": "Tags",
         "defaultValue": "Tags",
         "value": "Tags"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/de.json",
         "key": "Name",
         "defaultValue": "Name",
         "value": "Name"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/de.json",
         "key": "Latitude Longitude D.D°",
         "defaultValue": "Latitude Longitude D.D°",
         "value": "Latitude Longitude D.D°"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/de.json",
         "key": "Longitude Latitude D.D°",
         "defaultValue": "Longitude Latitude D.D°",
         "value": "Longitude Latitude D.D°"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/de.json",
         "key": "Latitude Longitude D°M.M'",
         "defaultValue": "Latitude Longitude D°M.M'",
         "value": "Latitude Longitude D°M.M'"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/de.json",
         "key": "Longitude Latitude D°M.M'",
         "defaultValue": "Longitude Latitude D°M.M'",
         "value": "Longitude Latitude D°M.M'"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/de.json",
         "key": "Latitude Longitude D°M'S\"",
         "defaultValue": "Latitude Longitude D°M'S\"",
         "value": "Latitude Longitude D°M'S\""
     },
     {
-        "source": "frontend",
+        "source": "src/locales/de.json",
         "key": "Longitude Latitude D°M'S\"",
         "defaultValue": "Longitude Latitude D°M'S\"",
         "value": "Longitude Latitude D°M'S\""

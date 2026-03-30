@@ -1,3204 +1,3180 @@
 [
     {
-        "source": "frontend",
-        "key": "language.Kannada",
-        "defaultValue": "Kannada",
-        "value": "Kannada"
-    },
-    {
-        "source": "frontend",
-        "key": "language.Tamil",
-        "defaultValue": "Tamil",
-        "value": "Tamil"
-    },
-    {
-        "source": "frontend",
-        "key": "language.Vietnamese",
-        "defaultValue": "Vietnamese",
-        "value": "Vietnamese"
-    },
-    {
-        "source": "frontend",
+        "source": "src/locales/it.json",
         "key": "format.misc.nHour",
         "defaultValue": "{n} Hour",
         "value": "{n} Hour"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/it.json",
         "key": "format.misc.nHours",
         "defaultValue": "{n} Hours",
         "value": "{n} Hours"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/it.json",
         "key": "format.misc.nDay",
         "defaultValue": "{n} Day",
         "value": "{n} Day"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/it.json",
         "key": "format.misc.nDays",
         "defaultValue": "{n} Days",
         "value": "{n} Days"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/it.json",
         "key": "format.misc.loginWithCustomProvider",
         "defaultValue": "Log in with {name}",
         "value": "Log in with {name}"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/it.json",
         "key": "format.misc.previewCount",
         "defaultValue": "Preview Count: {count}",
         "value": "Preview Count: {count}"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/it.json",
         "key": "format.misc.queryIndex",
         "defaultValue": "Query #{index}",
         "value": "Query #{index}"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/it.json",
         "key": "format.misc.importingTransactions",
         "defaultValue": "Importing ({process}%)",
         "value": "Importing ({process}%)"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/it.json",
         "key": "format.misc.moveTransactionsInAccountTip",
         "defaultValue": "You CANNOT undo this action. This will move all transactions from {fromAccount} to {toAccount}.",
         "value": "You CANNOT undo this action. This will move all transactions from {fromAccount} to {toAccount}."
     },
     {
-        "source": "frontend",
+        "source": "src/locales/it.json",
         "key": "format.misc.clearTransactionsInAccountTip",
         "defaultValue": "You CANNOT undo this action. This will clear your transactions data in {account}. Please enter your current password to confirm.",
         "value": "You CANNOT undo this action. This will clear your transactions data in {account}. Please enter your current password to confirm."
     },
     {
-        "source": "frontend",
+        "source": "src/locales/it.json",
         "key": "format.misc.oauth2bindTip",
         "defaultValue": "You're signing in to the {userName} user using {providerName}. Please enter your ezBookkeeping password to verify.",
         "value": "You're signing in to the {userName} user using {providerName}. Please enter your ezBookkeeping password to verify."
     },
     {
-        "source": "frontend",
+        "source": "src/locales/it.json",
         "key": "dataExport.defaultExportFilename",
         "defaultValue": "ezBookkeeping_export_data",
         "value": "ezBookkeeping_export_data"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/it.json",
         "key": "dataExport.exportFilename",
         "defaultValue": "ezBookkeeping_{nickname}_export_data",
         "value": "ezBookkeeping_{nickname}_export_data"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/it.json",
         "key": "dataExport.defaultExportStatisticsFileName",
         "defaultValue": "ezBookkeeping_statistics_data",
         "value": "ezBookkeeping_statistics_data"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/it.json",
         "key": "dataExport.exportStatisticsFileName",
         "defaultValue": "ezBookkeeping_{nickname}_statistics_data",
         "value": "ezBookkeeping_{nickname}_statistics_data"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/it.json",
         "key": "dataExport.defaultExportReconciliationStatementsFileName",
         "defaultValue": "ezBookkeeping_reconciliation_statements",
         "value": "ezBookkeeping_reconciliation_statements"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/it.json",
         "key": "dataExport.exportReconciliationStatementsFileName",
         "defaultValue": "ezBookkeeping_{nickname}_reconciliation_statements",
         "value": "ezBookkeeping_{nickname}_reconciliation_statements"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/it.json",
         "key": "dataExport.defaultImportDataMappingFileName",
         "defaultValue": "ezBookkeeping_import_data_mapping",
         "value": "ezBookkeeping_import_data_mapping"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/it.json",
         "key": "dataExport.defaultImportHandlingScript",
         "defaultValue": "ezBookkeeping_handling_script",
         "value": "ezBookkeeping_handling_script"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/it.json",
         "key": "dataExport.defaultImportReplaceRuleFileName",
         "defaultValue": "ezBookkeeping_import_replace_rule",
         "value": "ezBookkeeping_import_replace_rule"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/it.json",
         "key": "dataExport.defaultImportCheckResultFileName",
         "defaultValue": "ezBookkeeping_import_check_result",
         "value": "ezBookkeeping_import_check_result"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/it.json",
         "key": "calendar.Gregorian",
         "defaultValue": "Gregorian",
         "value": "Gregorian"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/it.json",
         "key": "calendar.Buddhist",
         "defaultValue": "Buddhist",
         "value": "Buddhist"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/it.json",
         "key": "calendar.Persian",
         "defaultValue": "Persian",
         "value": "Persian"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/it.json",
         "key": "calendar.Gregorian with Chinese Calendar",
         "defaultValue": "Gregorian with Chinese Calendar",
         "value": "Gregorian with Chinese Calendar"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/it.json",
         "key": "calendar.Gregorian with Persian Calendar",
         "defaultValue": "Gregorian with Persian Calendar",
         "value": "Gregorian with Persian Calendar"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/it.json",
         "key": "granularity.FiscalYearly",
         "defaultValue": "Fiscal Yearly",
         "value": "Fiscal Yearly"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/it.json",
         "key": "granularity.Yearly",
         "defaultValue": "Yearly",
         "value": "Yearly"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/it.json",
         "key": "granularity.Quarterly",
         "defaultValue": "Quarterly",
         "value": "Quarterly"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/it.json",
         "key": "granularity.Monthly",
         "defaultValue": "Monthly",
         "value": "Monthly"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/it.json",
         "key": "granularity.Daily",
         "defaultValue": "Daily",
         "value": "Daily"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/it.json",
         "key": "numeral.Western Arabic Numerals",
         "defaultValue": "Western Arabic Numerals",
         "value": "Western Arabic Numerals"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/it.json",
         "key": "numeral.Eastern Arabic Numerals",
         "defaultValue": "Eastern Arabic Numerals",
         "value": "Eastern Arabic Numerals"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/it.json",
         "key": "numeral.Persian Digits",
         "defaultValue": "Persian Digits",
         "value": "Persian Digits"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/it.json",
         "key": "numeral.Burmese Numerals",
         "defaultValue": "Burmese Numerals",
         "value": "Burmese Numerals"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/it.json",
         "key": "numeral.Devanagari Numerals",
         "defaultValue": "Devanagari Numerals",
         "value": "Devanagari Numerals"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/it.json",
         "key": "numeral.Indian Number Grouping",
         "defaultValue": "Indian Number Grouping",
         "value": "Indian Number Grouping"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/it.json",
         "key": "error.cannot login by password",
         "defaultValue": "You cannot login by password",
         "value": "You cannot login by password"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/it.json",
         "key": "error.user name is invalid",
         "defaultValue": "User name is invalid",
         "value": "User name is invalid"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/it.json",
         "key": "error.nick name is invalid",
         "defaultValue": "User nickname is invalid",
         "value": "User nickname is invalid"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/it.json",
         "key": "error.api token is not enabled",
         "defaultValue": "API token is not enabled",
         "value": "API token is not enabled"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/it.json",
         "key": "error.passcode is empty",
         "defaultValue": "Passcode is empty",
         "value": "Passcode is empty"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/it.json",
         "key": "error.not supported to modify account currency",
         "defaultValue": "Not supported to modify account currency",
         "value": "Not supported to modify account currency"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/it.json",
         "key": "error.not supported to modify account balance",
         "defaultValue": "Not supported to modify account balance",
         "value": "Not supported to modify account balance"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/it.json",
         "key": "error.not supported to modify account balance time",
         "defaultValue": "Not supported to modify account balance time",
         "value": "Not supported to modify account balance time"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/it.json",
         "key": "error.cannot move transaction to same account",
         "defaultValue": "Cannot move transaction to the same account",
         "value": "Cannot move transaction to the same account"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/it.json",
         "key": "error.cannot move transaction from or to hidden account",
         "defaultValue": "Cannot move transaction from or to hidden account",
         "value": "Cannot move transaction from or to hidden account"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/it.json",
         "key": "error.cannot move transaction from or to parent account",
         "defaultValue": "Cannot move transaction from or to parent account",
         "value": "Cannot move transaction from or to parent account"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/it.json",
         "key": "error.cannot move transaction between accounts with different currencies",
         "defaultValue": "Cannot move transaction between accounts with different currencies",
         "value": "Cannot move transaction between accounts with different currencies"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/it.json",
         "key": "error.invalid xml file",
         "defaultValue": "Invalid XML file",
         "value": "Invalid XML file"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/it.json",
         "key": "error.invalid mt940 file",
         "defaultValue": "Invalid MT940 file",
         "value": "Invalid MT940 file"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/it.json",
         "key": "error.invalid json file",
         "defaultValue": "Invalid JSON file",
         "value": "Invalid JSON file"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/it.json",
         "key": "error.user custom exchange rate data not found",
         "defaultValue": "User custom exchange rate data is not found",
         "value": "User custom exchange rate data is not found"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/it.json",
         "key": "error.cannot update exchange rate data for base currency",
         "defaultValue": "Cannot update exchange rate data for base currency",
         "value": "Cannot update exchange rate data for base currency"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/it.json",
         "key": "error.cannot delete exchange rate data for base currency",
         "defaultValue": "Cannot delete exchange rate data for base currency",
         "value": "Cannot delete exchange rate data for base currency"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/it.json",
         "key": "error.mcp server is not enabled",
         "defaultValue": "MCP Server is not enabled",
         "value": "MCP Server is not enabled"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/it.json",
         "key": "error.llm provider is not enabled",
         "defaultValue": "Large Language Model provider is not enabled",
         "value": "Large Language Model provider is not enabled"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/it.json",
         "key": "error.no image for AI recognition",
         "defaultValue": "There is no image for AI recognition",
         "value": "There is no image for AI recognition"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/it.json",
         "key": "error.image for AI recognition is empty",
         "defaultValue": "Image for AI recognition file is empty",
         "value": "Image for AI recognition file is empty"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/it.json",
         "key": "error.exceed the maximum size of image file for AI recognition",
         "defaultValue": "The uploaded image for AI recognition exceeds the maximum allowed file size",
         "value": "The uploaded image for AI recognition exceeds the maximum allowed file size"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/it.json",
         "key": "error.no transaction information detected",
         "defaultValue": "No transaction information detected",
         "value": "No transaction information detected"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/it.json",
         "key": "error.user external auth is not found",
         "defaultValue": "User external authentication data not found",
         "value": "User external authentication data not found"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/it.json",
         "key": "error.user external auth already exists",
         "defaultValue": "User external authentication data already exists, please unlink it first",
         "value": "User external authentication data already exists, please unlink it first"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/it.json",
         "key": "error.user external auth type invalid",
         "defaultValue": "User external authentication type is invalid",
         "value": "User external authentication type is invalid"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/it.json",
         "key": "error.oauth2 not enabled",
         "defaultValue": "OAuth 2.0 is not enabled",
         "value": "OAuth 2.0 is not enabled"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/it.json",
         "key": "error.oauth2 auto registration not enabled",
         "defaultValue": "OAuth 2.0 auto registration is not enabled",
         "value": "OAuth 2.0 auto registration is not enabled"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/it.json",
         "key": "error.invalid oauth2 login request",
         "defaultValue": "Invalid OAuth 2.0 login request",
         "value": "Invalid OAuth 2.0 login request"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/it.json",
         "key": "error.invalid oauth2 callback",
         "defaultValue": "Invalid OAuth 2.0 callback",
         "value": "Invalid OAuth 2.0 callback"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/it.json",
         "key": "error.missing state in oauth2 callback",
         "defaultValue": "Missing state parameter in OAuth 2.0 callback",
         "value": "Missing state parameter in OAuth 2.0 callback"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/it.json",
         "key": "error.missing code in oauth2 callback",
         "defaultValue": "Missing code parameter in OAuth 2.0 callback",
         "value": "Missing code parameter in OAuth 2.0 callback"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/it.json",
         "key": "error.invalid state in oauth2 callback",
         "defaultValue": "Invalid state parameter in OAuth 2.0 callback",
         "value": "Invalid state parameter in OAuth 2.0 callback"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/it.json",
         "key": "error.cannot retrieve oauth2 token",
         "defaultValue": "Cannot retrieve OAuth 2.0 token",
         "value": "Cannot retrieve OAuth 2.0 token"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/it.json",
         "key": "error.invalid oauth2 token",
         "defaultValue": "Invalid OAuth 2.0 token",
         "value": "Invalid OAuth 2.0 token"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/it.json",
         "key": "error.cannot retrieve user info from oauth2 provider",
         "defaultValue": "Cannot retrieve user info from OAuth 2.0 provider",
         "value": "Cannot retrieve user info from OAuth 2.0 provider"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/it.json",
         "key": "error.oauth2 user already bound to another user",
         "defaultValue": "OAuth 2.0 user is already bound to another user",
         "value": "OAuth 2.0 user is already bound to another user"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/it.json",
         "key": "error.user name and email from oauth2 provider are both empty",
         "defaultValue": "User name and email from OAuth 2.0 provider are both empty",
         "value": "User name and email from OAuth 2.0 provider are both empty"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/it.json",
         "key": "error.user name from oauth2 provider is empty",
         "defaultValue": "User name from OAuth 2.0 provider is empty",
         "value": "User name from OAuth 2.0 provider is empty"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/it.json",
         "key": "error.email from oauth2 provider is empty",
         "defaultValue": "Email from OAuth 2.0 provider is empty",
         "value": "Email from OAuth 2.0 provider is empty"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/it.json",
         "key": "error.user name from oauth2 provider is empty, cannot register new user",
         "defaultValue": "User name from OAuth 2.0 provider is empty, cannot register new user",
         "value": "User name from OAuth 2.0 provider is empty, cannot register new user"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/it.json",
         "key": "error.email from oauth2 provider is empty, cannot register new user",
         "defaultValue": "Email from OAuth 2.0 provider is empty, cannot register new user",
         "value": "Email from OAuth 2.0 provider is empty, cannot register new user"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/it.json",
         "key": "error.explorer id is invalid",
         "defaultValue": "Explorer ID is invalid",
         "value": "Explorer ID is invalid"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/it.json",
         "key": "error.explorer not found",
         "defaultValue": "Explorer is not found",
         "value": "Explorer is not found"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/it.json",
         "key": "error.explorer data is invalid",
         "defaultValue": "Explorer data is invalid",
         "value": "Explorer data is invalid"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/it.json",
         "key": "error.transaction tag group id is invalid",
         "defaultValue": "Transaction tag group ID is invalid",
         "value": "Transaction tag group ID is invalid"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/it.json",
         "key": "error.transaction tag group not found",
         "defaultValue": "Transaction tag group is not found",
         "value": "Transaction tag group is not found"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/it.json",
         "key": "error.transaction tag group is in use and cannot be deleted",
         "defaultValue": "Transaction tag group is in use and it cannot be deleted",
         "value": "Transaction tag group is in use and it cannot be deleted"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/it.json",
         "key": "error.repeated request",
         "defaultValue": "Repeated Request",
         "value": "Repeated Request"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/it.json",
         "key": "error.ip address is forbidden to access this resource",
         "defaultValue": "IP address is forbidden to access this resource",
         "value": "IP address is forbidden to access this resource"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/it.json",
         "key": "parameter.password",
         "defaultValue": "Password",
         "value": "Password"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/it.json",
         "key": "parameter.email",
         "defaultValue": "Email",
         "value": "Email"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/it.json",
         "key": "parameter.nickname",
         "defaultValue": "Nickname",
         "value": "Nickname"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/it.json",
         "key": "parameter.fiscalYearStart",
         "defaultValue": "Fiscal Year Start Date",
         "value": "Fiscal Year Start Date"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/it.json",
         "key": "parameter.tagFilter",
         "defaultValue": "Tag Filter",
         "value": "Tag Filter"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/it.json",
         "key": "parameter.expiredInSeconds",
         "defaultValue": "Expiration Time (Seconds)",
         "value": "Expiration Time (Seconds)"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/it.json",
         "key": "sample.importTransactionCustomScript.headerComment",
         "defaultValue": "Example script:",
         "value": "Example script:"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/it.json",
         "key": "sample.importTransactionCustomScript.functionDescription",
         "defaultValue": "The parse function will be called for each row of the parsed file data, and the function name must be 'parse'",
         "value": "The parse function will be called for each row of the parsed file data, and the function name must be 'parse'"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/it.json",
         "key": "sample.importTransactionCustomScript.functionParamRowDescription",
         "defaultValue": "An array of string, each element is a column value",
         "value": "An array of string, each element is a column value"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/it.json",
         "key": "sample.importTransactionCustomScript.functionParamIndexDescription",
         "defaultValue": "The row index (0-based)",
         "value": "The row index (0-based)"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/it.json",
         "key": "sample.importTransactionCustomScript.functionReturnDescription",
         "defaultValue": "An object representing a transaction (with the fields defined below), or null to skip this row",
         "value": "An object representing a transaction (with the fields defined below), or null to skip this row"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/it.json",
         "key": "sample.importTransactionCustomScript.fieldTimeDescription",
         "defaultValue": "[required] Transaction time, format: YYYY-MM-DD HH:mm:ss. You can also use the parseDateTime(value, format) function to convert a custom formatted time string to the standard format, where 'format' argument is the format of the custom time string, e.g. parseDateTime('12/31/2023 23:59', 'MM/DD/YYYY HH:mm') means converting '12/31/2023 23:59' to the standard format '2023-12-31 23:59:00'",
         "value": "[required] Transaction time, format: YYYY-MM-DD HH:mm:ss. You can also use the parseDateTime(value, format) function to convert a custom formatted time string to the standard format, where 'format' argument is the format of the custom time string, e.g. parseDateTime('12/31/2023 23:59', 'MM/DD/YYYY HH:mm') means converting '12/31/2023 23:59' to the standard format '2023-12-31 23:59:00'"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/it.json",
         "key": "sample.importTransactionCustomScript.fieldUtcOffsetDescription",
         "defaultValue": "[required] Transaction timezone offset in minutes, e.g. '480' for UTC+8, '-300' for UTC-5. You can also use the parseUtcOffset(timezoneName) function to get the timezone offset in minutes automatically according to the transaction time, where 'timezoneName' argument is the IANA time zone name, e.g. parseUtcOffset('Asia/Shanghai') means getting the timezone offset in minutes for Beijing Time",
         "value": "[required] Transaction timezone offset in minutes, e.g. '480' for UTC+8, '-300' for UTC-5. You can also use the parseUtcOffset(timezoneName) function to get the timezone offset in minutes automatically according to the transaction time, where 'timezoneName' argument is the IANA time zone name, e.g. parseUtcOffset('Asia/Shanghai') means getting the timezone offset in minutes for Beijing Time"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/it.json",
         "key": "sample.importTransactionCustomScript.fieldTypeDescription",
         "defaultValue": "[required] Transaction type, must be one of 'TransactionType.Income', 'TransactionType.Expense' or 'TransactionType.Transfer'",
         "value": "[required] Transaction type, must be one of 'TransactionType.Income', 'TransactionType.Expense' or 'TransactionType.Transfer'"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/it.json",
         "key": "sample.importTransactionCustomScript.fieldCategoryNameDescription",
         "defaultValue": "[optional] Category name",
         "value": "[optional] Category name"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/it.json",
         "key": "sample.importTransactionCustomScript.fieldSourceAccountNameDescription",
         "defaultValue": "[optional] Source account name",
         "value": "[optional] Source account name"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/it.json",
         "key": "sample.importTransactionCustomScript.fieldDestinationAccountNameDescription",
         "defaultValue": "[optional] Destination account name (for transfer type only)",
         "value": "[optional] Destination account name (for transfer type only)"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/it.json",
         "key": "sample.importTransactionCustomScript.fieldSourceAmountDescription",
         "defaultValue": "[required] Source amount (including two decimal places expressed without a decimal separator, for example '12345' represents 123.45)",
         "value": "[required] Source amount (including two decimal places expressed without a decimal separator, for example '12345' represents 123.45)"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/it.json",
         "key": "sample.importTransactionCustomScript.fieldDestinationAmountDescription",
         "defaultValue": "[optional] Destination amount (for transfer type only, format is the same as the source amount)",
         "value": "[optional] Destination amount (for transfer type only, format is the same as the source amount)"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/it.json",
         "key": "sample.importTransactionCustomScript.fieldGeoLocationDescription",
         "defaultValue": "[optional] Geolocation, format: 'longitude latitude', e.g. '116.3912972 39.9057136'",
         "value": "[optional] Geolocation, format: 'longitude latitude', e.g. '116.3912972 39.9057136'"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/it.json",
         "key": "sample.importTransactionCustomScript.fieldTagNamesDescription",
         "defaultValue": "[optional] Comma separated tag names, e.g. 'tag1;tag2;tag3'",
         "value": "[optional] Comma separated tag names, e.g. 'tag1;tag2;tag3'"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/it.json",
         "key": "sample.importTransactionCustomScript.fieldCommentDescription",
         "defaultValue": "[optional] Description",
         "value": "[optional] Description"
     },
     {
-        "source": "frontend",
-        "key": "OK",
-        "defaultValue": "OK",
-        "value": "OK"
-    },
-    {
-        "source": "frontend",
+        "source": "src/locales/it.json",
         "key": "Open",
         "defaultValue": "Open",
         "value": "Open"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/it.json",
         "key": "or",
         "defaultValue": "or",
         "value": "or"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/it.json",
         "key": "Export",
         "defaultValue": "Export",
         "value": "Export"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/it.json",
         "key": "Reset to Default",
         "defaultValue": "Reset to Default",
         "value": "Reset to Default"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/it.json",
         "key": "Clear All",
         "defaultValue": "Clear All",
         "value": "Clear All"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/it.json",
         "key": "Generate",
         "defaultValue": "Generate",
         "value": "Generate"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/it.json",
         "key": "Recognize",
         "defaultValue": "Recognize",
         "value": "Recognize"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/it.json",
         "key": "Recognizing",
         "defaultValue": "Recognizing",
         "value": "Recognizing"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/it.json",
         "key": "Cancel Recognition",
         "defaultValue": "Cancel Recognition",
         "value": "Cancel Recognition"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/it.json",
         "key": "No limit",
         "defaultValue": "No limit",
         "value": "No limit"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/it.json",
         "key": "Detecting...",
         "defaultValue": "Detecting...",
         "value": "Detecting..."
     },
     {
-        "source": "frontend",
+        "source": "src/locales/it.json",
         "key": "Included",
         "defaultValue": "Included",
         "value": "Included"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/it.json",
         "key": "Excluded",
         "defaultValue": "Excluded",
         "value": "Excluded"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/it.json",
         "key": "Confirm",
         "defaultValue": "Confirm",
         "value": "Confirm"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/it.json",
         "key": "Configuration",
         "defaultValue": "Configuration",
         "value": "Configuration"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/it.json",
         "key": "Example",
         "defaultValue": "Example",
         "value": "Example"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/it.json",
         "key": "Token",
         "defaultValue": "Token",
         "value": "Token"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/it.json",
         "key": "Paste",
         "defaultValue": "Paste",
         "value": "Paste"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/it.json",
         "key": "View",
         "defaultValue": "View",
         "value": "View"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/it.json",
         "key": "Move",
         "defaultValue": "Move",
         "value": "Move"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/it.json",
         "key": "Move to...",
         "defaultValue": "Move to...",
         "value": "Move to..."
     },
     {
-        "source": "frontend",
+        "source": "src/locales/it.json",
         "key": "Open Menu",
         "defaultValue": "Open Menu",
         "value": "Open Menu"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/it.json",
         "key": "Sort by Name (A to Z)",
         "defaultValue": "Sort by Name (A to Z)",
         "value": "Sort by Name (A to Z)"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/it.json",
         "key": "Sort by Name (Z to A)",
         "defaultValue": "Sort by Name (Z to A)",
         "value": "Sort by Name (Z to A)"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/it.json",
         "key": "Partial",
         "defaultValue": "Partial",
         "value": "Partial"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/it.json",
         "key": "WHERE",
         "defaultValue": "WHERE",
         "value": "WHERE"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/it.json",
         "key": "AND",
         "defaultValue": "AND",
         "value": "AND"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/it.json",
         "key": "OR",
         "defaultValue": "OR",
         "value": "OR"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/it.json",
         "key": "AND SUB",
         "defaultValue": "AND SUB",
         "value": "AND SUB"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/it.json",
         "key": "OR SUB",
         "defaultValue": "OR SUB",
         "value": "OR SUB"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/it.json",
         "key": "This fiscal year",
         "defaultValue": "This fiscal year",
         "value": "This fiscal year"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/it.json",
         "key": "Last fiscal year",
         "defaultValue": "Last fiscal year",
         "value": "Last fiscal year"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/it.json",
         "key": "In",
         "defaultValue": "In",
         "value": "In"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/it.json",
         "key": "Has any",
         "defaultValue": "Has any",
         "value": "Has any"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/it.json",
         "key": "Has all",
         "defaultValue": "Has all",
         "value": "Has all"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/it.json",
         "key": "Not has any",
         "defaultValue": "Not has any",
         "value": "Not has any"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/it.json",
         "key": "Not has all",
         "defaultValue": "Not has all",
         "value": "Not has all"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/it.json",
         "key": "Is empty",
         "defaultValue": "Is empty",
         "value": "Is empty"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/it.json",
         "key": "Is not empty",
         "defaultValue": "Is not empty",
         "value": "Is not empty"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/it.json",
         "key": "Contains",
         "defaultValue": "Contains",
         "value": "Contains"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/it.json",
         "key": "Not contains",
         "defaultValue": "Not contains",
         "value": "Not contains"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/it.json",
         "key": "Starts with",
         "defaultValue": "Starts with",
         "value": "Starts with"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/it.json",
         "key": "Not starts with",
         "defaultValue": "Not starts with",
         "value": "Not starts with"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/it.json",
         "key": "Ends with",
         "defaultValue": "Ends with",
         "value": "Ends with"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/it.json",
         "key": "Not ends with",
         "defaultValue": "Not ends with",
         "value": "Not ends with"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/it.json",
         "key": "Latitude between",
         "defaultValue": "Latitude between",
         "value": "Latitude between"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/it.json",
         "key": "Latitude not between",
         "defaultValue": "Latitude not between",
         "value": "Latitude not between"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/it.json",
         "key": "Longitude between",
         "defaultValue": "Longitude between",
         "value": "Longitude between"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/it.json",
         "key": "Longitude not between",
         "defaultValue": "Longitude not between",
         "value": "Longitude not between"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/it.json",
         "key": "Radar Chart",
         "defaultValue": "Radar Chart",
         "value": "Radar Chart"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/it.json",
         "key": "Bubble Chart",
         "defaultValue": "Bubble Chart",
         "value": "Bubble Chart"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/it.json",
         "key": "Boxplot Chart",
         "defaultValue": "Boxplot Chart",
         "value": "Boxplot Chart"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/it.json",
         "key": "Candlestick Chart",
         "defaultValue": "Candlestick Chart",
         "value": "Candlestick Chart"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/it.json",
         "key": "Sankey Chart",
         "defaultValue": "Sankey Chart",
         "value": "Sankey Chart"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/it.json",
         "key": "Column Chart (Stacked)",
         "defaultValue": "Column Chart (Stacked)",
         "value": "Column Chart (Stacked)"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/it.json",
         "key": "Column Chart (100% Stacked)",
         "defaultValue": "Column Chart (100% Stacked)",
         "value": "Column Chart (100% Stacked)"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/it.json",
         "key": "Column Chart (Grouped)",
         "defaultValue": "Column Chart (Grouped)",
         "value": "Column Chart (Grouped)"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/it.json",
         "key": "Line Chart (Grouped)",
         "defaultValue": "Line Chart (Grouped)",
         "value": "Line Chart (Grouped)"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/it.json",
         "key": "Area Chart (Stacked)",
         "defaultValue": "Area Chart (Stacked)",
         "value": "Area Chart (Stacked)"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/it.json",
         "key": "Area Chart (100% Stacked)",
         "defaultValue": "Area Chart (100% Stacked)",
         "value": "Area Chart (100% Stacked)"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/it.json",
         "key": "Bubble Chart (Grouped)",
         "defaultValue": "Bubble Chart (Grouped)",
         "value": "Bubble Chart (Grouped)"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/it.json",
         "key": "Set All to Included",
         "defaultValue": "Set All to Included",
         "value": "Set All to Included"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/it.json",
         "key": "Set All to Default",
         "defaultValue": "Set All to Default",
         "value": "Set All to Default"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/it.json",
         "key": "Set All to Excluded",
         "defaultValue": "Set All to Excluded",
         "value": "Set All to Excluded"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/it.json",
         "key": "Export Results",
         "defaultValue": "Export Results",
         "value": "Export Results"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/it.json",
         "key": "Data copied",
         "defaultValue": "Data copied",
         "value": "Data copied"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/it.json",
         "key": "Table",
         "defaultValue": "Table",
         "value": "Table"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/it.json",
         "key": "Raw Data",
         "defaultValue": "Raw Data",
         "value": "Raw Data"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/it.json",
         "key": "User Canceled",
         "defaultValue": "User Canceled",
         "value": "User Canceled"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/it.json",
         "key": "Password",
         "defaultValue": "Password",
         "value": "Password"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/it.json",
         "key": "E-mail",
         "defaultValue": "E-mail",
         "value": "E-mail"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/it.json",
         "key": "Nickname",
         "defaultValue": "Nickname",
         "value": "Nickname"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/it.json",
         "key": "Fiscal Year Start Date",
         "defaultValue": "Fiscal Year Start Date",
         "value": "Fiscal Year Start Date"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/it.json",
         "key": "Calendar Display Type",
         "defaultValue": "Calendar Display Type",
         "value": "Calendar Display Type"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/it.json",
         "key": "Date Display Type",
         "defaultValue": "Date Display Type",
         "value": "Date Display Type"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/it.json",
         "key": "Fiscal Year Format",
         "defaultValue": "Fiscal Year Format",
         "value": "Fiscal Year Format"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/it.json",
         "key": "Numeral System",
         "defaultValue": "Numeral System",
         "value": "Numeral System"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/it.json",
         "key": "Log in with OAuth 2.0",
         "defaultValue": "Log in with OAuth 2.0",
         "value": "Log in with OAuth 2.0"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/it.json",
         "key": "Log in with Connect ID",
         "defaultValue": "Log in with Connect ID",
         "value": "Log in with Connect ID"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/it.json",
         "key": "Logging in...",
         "defaultValue": "Logging in...",
         "value": "Logging in..."
     },
     {
-        "source": "frontend",
+        "source": "src/locales/it.json",
         "key": "Username/password login is disabled",
         "defaultValue": "Username/password login is disabled",
         "value": "Username/password login is disabled"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/it.json",
         "key": "External login is disabled",
         "defaultValue": "External login is disabled",
         "value": "External login is disabled"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/it.json",
         "key": "Two-factor authentication is disabled",
         "defaultValue": "Two-factor authentication is disabled",
         "value": "Two-factor authentication is disabled"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/it.json",
         "key": "Email verification is disabled",
         "defaultValue": "Email verification is disabled",
         "value": "Email verification is disabled"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/it.json",
         "key": "Forget password is disabled",
         "defaultValue": "Forget password is disabled",
         "value": "Forget password is disabled"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/it.json",
         "key": "Transaction Calendar",
         "defaultValue": "Transaction Calendar",
         "value": "Transaction Calendar"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/it.json",
         "key": "Insights Explorer",
         "defaultValue": "Insights Explorer",
         "value": "Insights Explorer"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/it.json",
         "key": "Insights Explorers",
         "defaultValue": "Insights Explorers",
         "value": "Insights Explorers"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/it.json",
         "key": "Query",
         "defaultValue": "Query",
         "value": "Query"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/it.json",
         "key": "Data Table",
         "defaultValue": "Data Table",
         "value": "Data Table"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/it.json",
         "key": "Chart",
         "defaultValue": "Chart",
         "value": "Chart"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/it.json",
         "key": "No available explorer",
         "defaultValue": "No available explorer",
         "value": "No available explorer"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/it.json",
         "key": "New Explorer",
         "defaultValue": "New Explorer",
         "value": "New Explorer"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/it.json",
         "key": "Untitled Explorer",
         "defaultValue": "Untitled Explorer",
         "value": "Untitled Explorer"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/it.json",
         "key": "Save Explorer",
         "defaultValue": "Save Explorer",
         "value": "Save Explorer"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/it.json",
         "key": "Save As New Explorer",
         "defaultValue": "Save As New Explorer",
         "value": "Save As New Explorer"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/it.json",
         "key": "Restore to Last Saved",
         "defaultValue": "Restore to Last Saved",
         "value": "Restore to Last Saved"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/it.json",
         "key": "Are you sure you want to restore to last saved state? All unsaved changes will be lost.",
         "defaultValue": "Are you sure you want to restore to last saved state? All unsaved changes will be lost.",
         "value": "Are you sure you want to restore to last saved state? All unsaved changes will be lost."
     },
     {
-        "source": "frontend",
+        "source": "src/locales/it.json",
         "key": "Set Explorer Name",
         "defaultValue": "Set Explorer Name",
         "value": "Set Explorer Name"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/it.json",
         "key": "Rename Explorer",
         "defaultValue": "Rename Explorer",
         "value": "Rename Explorer"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/it.json",
         "key": "Hide Explorer",
         "defaultValue": "Hide Explorer",
         "value": "Hide Explorer"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/it.json",
         "key": "Unhide Explorer",
         "defaultValue": "Unhide Explorer",
         "value": "Unhide Explorer"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/it.json",
         "key": "Delete Explorer",
         "defaultValue": "Delete Explorer",
         "value": "Delete Explorer"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/it.json",
         "key": "Change Explorer Display Order",
         "defaultValue": "Change Explorer Display Order",
         "value": "Change Explorer Display Order"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/it.json",
         "key": "Explorer Name",
         "defaultValue": "Explorer Name",
         "value": "Explorer Name"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/it.json",
         "key": "Add Query",
         "defaultValue": "Add Query",
         "value": "Add Query"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/it.json",
         "key": "Remove Query",
         "defaultValue": "Remove Query",
         "value": "Remove Query"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/it.json",
         "key": "Modify Query Name",
         "defaultValue": "Modify Query Name",
         "value": "Modify Query Name"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/it.json",
         "key": "Add Condition",
         "defaultValue": "Add Condition",
         "value": "Add Condition"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/it.json",
         "key": "Add Sub Condition",
         "defaultValue": "Add Sub Condition",
         "value": "Add Sub Condition"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/it.json",
         "key": "Remove Condition",
         "defaultValue": "Remove Condition",
         "value": "Remove Condition"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/it.json",
         "key": "No conditions defined. All transactions will match.",
         "defaultValue": "No conditions defined. All transactions will match.",
         "value": "No conditions defined. All transactions will match."
     },
     {
-        "source": "frontend",
+        "source": "src/locales/it.json",
         "key": "Unable to retrieve explorer list",
         "defaultValue": "Unable to retrieve explorer list",
         "value": "Unable to retrieve explorer list"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/it.json",
         "key": "Explorer list is up to date",
         "defaultValue": "Explorer list is up to date",
         "value": "Explorer list is up to date"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/it.json",
         "key": "Explorer list has been updated",
         "defaultValue": "Explorer list has been updated",
         "value": "Explorer list has been updated"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/it.json",
         "key": "Unable to retrieve explorer",
         "defaultValue": "Unable to retrieve explorer",
         "value": "Unable to retrieve explorer"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/it.json",
         "key": "Unable to add explorer",
         "defaultValue": "Unable to add explorer",
         "value": "Unable to add explorer"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/it.json",
         "key": "Unable to save explorer",
         "defaultValue": "Unable to save explorer",
         "value": "Unable to save explorer"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/it.json",
         "key": "Unable to move explorer",
         "defaultValue": "Unable to move explorer",
         "value": "Unable to move explorer"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/it.json",
         "key": "Unable to hide this explorer",
         "defaultValue": "Unable to hide this explorer",
         "value": "Unable to hide this explorer"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/it.json",
         "key": "Unable to unhide this explorer",
         "defaultValue": "Unable to unhide this explorer",
         "value": "Unable to unhide this explorer"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/it.json",
         "key": "Are you sure you want to delete this explorer?",
         "defaultValue": "Are you sure you want to delete this explorer?",
         "value": "Are you sure you want to delete this explorer?"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/it.json",
         "key": "Unable to delete this explorer",
         "defaultValue": "Unable to delete this explorer",
         "value": "Unable to delete this explorer"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/it.json",
         "key": "Show Hidden Explorers",
         "defaultValue": "Show Hidden Explorers",
         "value": "Show Hidden Explorers"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/it.json",
         "key": "Hide Hidden Explorers",
         "defaultValue": "Hide Hidden Explorers",
         "value": "Hide Hidden Explorers"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/it.json",
         "key": "Editor",
         "defaultValue": "Editor",
         "value": "Editor"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/it.json",
         "key": "Expression",
         "defaultValue": "Expression",
         "value": "Expression"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/it.json",
         "key": "Failed to generate expression",
         "defaultValue": "Failed to generate expression",
         "value": "Failed to generate expression"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/it.json",
         "key": "Data Source",
         "defaultValue": "Data Source",
         "value": "Data Source"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/it.json",
         "key": "All Queries",
         "defaultValue": "All Queries",
         "value": "All Queries"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/it.json",
         "key": "Axis / Category",
         "defaultValue": "Axis / Category",
         "value": "Axis / Category"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/it.json",
         "key": "Series",
         "defaultValue": "Series",
         "value": "Series"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/it.json",
         "key": "Transaction Date",
         "defaultValue": "Transaction Date",
         "value": "Transaction Date"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/it.json",
         "key": "Transaction Year-Month",
         "defaultValue": "Transaction Year-Month",
         "value": "Transaction Year-Month"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/it.json",
         "key": "Transaction Year-Quarter",
         "defaultValue": "Transaction Year-Quarter",
         "value": "Transaction Year-Quarter"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/it.json",
         "key": "Transaction Year",
         "defaultValue": "Transaction Year",
         "value": "Transaction Year"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/it.json",
         "key": "Transaction Fiscal Year",
         "defaultValue": "Transaction Fiscal Year",
         "value": "Transaction Fiscal Year"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/it.json",
         "key": "Transaction Day of Week",
         "defaultValue": "Transaction Day of Week",
         "value": "Transaction Day of Week"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/it.json",
         "key": "Transaction Day of Month",
         "defaultValue": "Transaction Day of Month",
         "value": "Transaction Day of Month"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/it.json",
         "key": "Transaction Month of Year",
         "defaultValue": "Transaction Month of Year",
         "value": "Transaction Month of Year"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/it.json",
         "key": "Transaction Quarter of Year",
         "defaultValue": "Transaction Quarter of Year",
         "value": "Transaction Quarter of Year"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/it.json",
         "key": "Transaction Hour of Day",
         "defaultValue": "Transaction Hour of Day",
         "value": "Transaction Hour of Day"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/it.json",
         "key": "Source Account Category",
         "defaultValue": "Source Account Category",
         "value": "Source Account Category"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/it.json",
         "key": "Source Account Currency",
         "defaultValue": "Source Account Currency",
         "value": "Source Account Currency"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/it.json",
         "key": "Destination Account Category",
         "defaultValue": "Destination Account Category",
         "value": "Destination Account Category"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/it.json",
         "key": "Destination Account Currency",
         "defaultValue": "Destination Account Currency",
         "value": "Destination Account Currency"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/it.json",
         "key": "Value Metric",
         "defaultValue": "Value Metric",
         "value": "Value Metric"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/it.json",
         "key": "Transaction Count",
         "defaultValue": "Transaction Count",
         "value": "Transaction Count"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/it.json",
         "key": "Average Amount",
         "defaultValue": "Average Amount",
         "value": "Average Amount"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/it.json",
         "key": "Median Amount",
         "defaultValue": "Median Amount",
         "value": "Median Amount"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/it.json",
         "key": "90th Percentile Amount",
         "defaultValue": "90th Percentile Amount",
         "value": "90th Percentile Amount"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/it.json",
         "key": "Top 5 Amount Share",
         "defaultValue": "Top 5 Amount Share",
         "value": "Top 5 Amount Share"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/it.json",
         "key": "Transactions for 80% of Amount",
         "defaultValue": "Transactions for 80% of Amount",
         "value": "Transactions for 80% of Amount"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/it.json",
         "key": "Range (Max - Min)",
         "defaultValue": "Range (Max - Min)",
         "value": "Range (Max - Min)"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/it.json",
         "key": "Interquartile Range (Q3 - Q1)",
         "defaultValue": "Interquartile Range (Q3 - Q1)",
         "value": "Interquartile Range (Q3 - Q1)"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/it.json",
         "key": "Variance",
         "defaultValue": "Variance",
         "value": "Variance"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/it.json",
         "key": "Standard Deviation",
         "defaultValue": "Standard Deviation",
         "value": "Standard Deviation"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/it.json",
         "key": "Coefficient of Variation",
         "defaultValue": "Coefficient of Variation",
         "value": "Coefficient of Variation"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/it.json",
         "key": "Transfer In",
         "defaultValue": "Transfer In",
         "value": "Transfer In"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/it.json",
         "key": "Transfer Out",
         "defaultValue": "Transfer Out",
         "value": "Transfer Out"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/it.json",
         "key": "Outstanding Balance",
         "defaultValue": "Outstanding Balance",
         "value": "Outstanding Balance"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/it.json",
         "key": "Set Accounts Included in Total",
         "defaultValue": "Set Accounts Included in Total",
         "value": "Set Accounts Included in Total"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/it.json",
         "key": "Move All Transactions",
         "defaultValue": "Move All Transactions",
         "value": "Move All Transactions"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/it.json",
         "key": "Are you sure you want to move all transactions?",
         "defaultValue": "Are you sure you want to move all transactions?",
         "value": "Are you sure you want to move all transactions?"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/it.json",
         "key": "Unable to move transactions",
         "defaultValue": "Unable to move transactions",
         "value": "Unable to move transactions"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/it.json",
         "key": "All transactions in this account have been moved.",
         "defaultValue": "All transactions in this account have been moved.",
         "value": "All transactions in this account have been moved."
     },
     {
-        "source": "frontend",
+        "source": "src/locales/it.json",
         "key": "Reconciliation Statement",
         "defaultValue": "Reconciliation Statement",
         "value": "Reconciliation Statement"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/it.json",
         "key": "Account Balance Trends",
         "defaultValue": "Account Balance Trends",
         "value": "Account Balance Trends"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/it.json",
         "key": "Update Closing Balance",
         "defaultValue": "Update Closing Balance",
         "value": "Update Closing Balance"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/it.json",
         "key": "Please enter the new closing balance for this account",
         "defaultValue": "Please enter the new closing balance for this account",
         "value": "Please enter the new closing balance for this account"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/it.json",
         "key": "Paste Amount",
         "defaultValue": "Paste Amount",
         "value": "Paste Amount"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/it.json",
         "key": "Paste Destination Amount",
         "defaultValue": "Paste Destination Amount",
         "value": "Paste Destination Amount"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/it.json",
         "key": "Cannot parse amount from clipboard",
         "defaultValue": "Cannot parse amount from clipboard",
         "value": "Cannot parse amount from clipboard"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/it.json",
         "key": "Unable to read clipboard text",
         "defaultValue": "Unable to read clipboard text",
         "value": "Unable to read clipboard text"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/it.json",
         "key": "Save & New",
         "defaultValue": "Save & New",
         "value": "Save & New"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/it.json",
         "key": "Save & Duplicate",
         "defaultValue": "Save & Duplicate",
         "value": "Save & Duplicate"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/it.json",
         "key": "AI Image Recognition",
         "defaultValue": "AI Image Recognition",
         "value": "AI Image Recognition"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/it.json",
         "key": "Unable to load image",
         "defaultValue": "Unable to load image",
         "value": "Unable to load image"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/it.json",
         "key": "Unable to recognize image",
         "defaultValue": "Unable to recognize image",
         "value": "Unable to recognize image"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/it.json",
         "key": "AI image recognition is disabled",
         "defaultValue": "AI image recognition is disabled",
         "value": "AI image recognition is disabled"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/it.json",
         "key": "You can drag and drop, paste or click to select a receipt or transaction image",
         "defaultValue": "You can drag and drop, paste or click to select a receipt or transaction image",
         "value": "You can drag and drop, paste or click to select a receipt or transaction image"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/it.json",
         "key": "Release to load image",
         "defaultValue": "Release to load image",
         "value": "Release to load image"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/it.json",
         "key": "Loading image...",
         "defaultValue": "Loading image...",
         "value": "Loading image..."
     },
     {
-        "source": "frontend",
+        "source": "src/locales/it.json",
         "key": "Click here to select a receipt or transaction image",
         "defaultValue": "Click here to select a receipt or transaction image",
         "value": "Click here to select a receipt or transaction image"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/it.json",
         "key": "Uploaded image and personal data will be sent to the large language model, please be aware of potential privacy risks.",
         "defaultValue": "Uploaded image and personal data will be sent to the large language model, please be aware of potential privacy risks.",
         "value": "Uploaded image and personal data will be sent to the large language model, please be aware of potential privacy risks."
     },
     {
-        "source": "frontend",
+        "source": "src/locales/it.json",
         "key": "AI can make mistakes. Check important info.",
         "defaultValue": "AI can make mistakes. Check important info.",
         "value": "AI can make mistakes. Check important info."
     },
     {
-        "source": "frontend",
+        "source": "src/locales/it.json",
         "key": "Expense Category",
         "defaultValue": "Expense Category",
         "value": "Expense Category"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/it.json",
         "key": "Income Category",
         "defaultValue": "Income Category",
         "value": "Income Category"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/it.json",
         "key": "Transfer Category",
         "defaultValue": "Transfer Category",
         "value": "Transfer Category"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/it.json",
         "key": "Transaction Tag",
         "defaultValue": "Transaction Tag",
         "value": "Transaction Tag"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/it.json",
         "key": "Include Any Selected Tags",
         "defaultValue": "Include Any Selected Tags",
         "value": "Include Any Selected Tags"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/it.json",
         "key": "Include All Selected Tags",
         "defaultValue": "Include All Selected Tags",
         "value": "Include All Selected Tags"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/it.json",
         "key": "Exclude Any Selected Tags",
         "defaultValue": "Exclude Any Selected Tags",
         "value": "Exclude Any Selected Tags"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/it.json",
         "key": "Exclude All Selected Tags",
         "defaultValue": "Exclude All Selected Tags",
         "value": "Exclude All Selected Tags"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/it.json",
         "key": "Longitude",
         "defaultValue": "Longitude",
         "value": "Longitude"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/it.json",
         "key": "Latitude",
         "defaultValue": "Latitude",
         "value": "Latitude"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/it.json",
         "key": "Click on Map to Set Geographic Location",
         "defaultValue": "Click on Map to Set Geographic Location",
         "value": "Click on Map to Set Geographic Location"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/it.json",
         "key": "Enable Click to Set Location",
         "defaultValue": "Enable Click to Set Location",
         "value": "Enable Click to Set Location"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/it.json",
         "key": "Disable Click to Set Location",
         "defaultValue": "Disable Click to Set Location",
         "value": "Disable Click to Set Location"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/it.json",
         "key": "Refresh Accounts, Categories and Tags",
         "defaultValue": "Refresh Accounts, Categories and Tags",
         "value": "Refresh Accounts, Categories and Tags"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/it.json",
         "key": "Find file type",
         "defaultValue": "Find file type",
         "value": "Find file type"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/it.json",
         "key": "No available file type",
         "defaultValue": "No available file type",
         "value": "No available file type"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/it.json",
         "key": "How to import this file?",
         "defaultValue": "How to import this file?",
         "value": "How to import this file?"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/it.json",
         "key": "ezBookkeeping File Format",
         "defaultValue": "ezBookkeeping File Format",
         "value": "ezBookkeeping File Format"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/it.json",
         "key": "Custom File Format",
         "defaultValue": "Custom File Format",
         "value": "Custom File Format"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/it.json",
         "key": "General Data Exchange Format",
         "defaultValue": "General Data Exchange Format",
         "value": "General Data Exchange Format"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/it.json",
         "key": "General Bank Statement Format",
         "defaultValue": "General Bank Statement Format",
         "value": "General Bank Statement Format"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/it.json",
         "key": "Other Bank/Payment App Statement File",
         "defaultValue": "Other Bank/Payment App Statement File",
         "value": "Other Bank/Payment App Statement File"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/it.json",
         "key": "Other Finance App File Format",
         "defaultValue": "Other Finance App File Format",
         "value": "Other Finance App File Format"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/it.json",
         "key": "Excel Workbook File",
         "defaultValue": "Excel Workbook File",
         "value": "Excel Workbook File"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/it.json",
         "key": "Excel Workbook File (.xlsx)",
         "defaultValue": "Excel Workbook File (.xlsx)",
         "value": "Excel Workbook File (.xlsx)"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/it.json",
         "key": "Excel 97-2003 Workbook File (.xls)",
         "defaultValue": "Excel 97-2003 Workbook File (.xls)",
         "value": "Excel 97-2003 Workbook File (.xls)"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/it.json",
         "key": "Camt.052 Bank to Customer Statement File",
         "defaultValue": "Camt.052 Bank to Customer Statement File",
         "value": "Camt.052 Bank to Customer Statement File"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/it.json",
         "key": "Camt.053 Bank to Customer Statement File",
         "defaultValue": "Camt.053 Bank to Customer Statement File",
         "value": "Camt.053 Bank to Customer Statement File"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/it.json",
         "key": "MT940 Consumer Statement Message File",
         "defaultValue": "MT940 Consumer Statement Message File",
         "value": "MT940 Consumer Statement Message File"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/it.json",
         "key": "Alipay (App) Statement File",
         "defaultValue": "Alipay (App) Statement File",
         "value": "Alipay (App) Statement File"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/it.json",
         "key": "Alipay (Web) Statement File",
         "defaultValue": "Alipay (Web) Statement File",
         "value": "Alipay (Web) Statement File"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/it.json",
         "key": "WeChat Pay Statement File",
         "defaultValue": "WeChat Pay Statement File",
         "value": "WeChat Pay Statement File"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/it.json",
         "key": "JD.com Finance Statement File",
         "defaultValue": "JD.com Finance Statement File",
         "value": "JD.com Finance Statement File"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/it.json",
         "key": "Handling Method",
         "defaultValue": "Handling Method",
         "value": "Handling Method"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/it.json",
         "key": "Column Mapping",
         "defaultValue": "Column Mapping",
         "value": "Column Mapping"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/it.json",
         "key": "Custom Script",
         "defaultValue": "Custom Script",
         "value": "Custom Script"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/it.json",
         "key": "Execute Custom Script",
         "defaultValue": "Execute Custom Script",
         "value": "Execute Custom Script"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/it.json",
         "key": "Execute Custom Script to Parse Data",
         "defaultValue": "Execute Custom Script to Parse Data",
         "value": "Execute Custom Script to Parse Data"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/it.json",
         "key": "Additional Options",
         "defaultValue": "Additional Options",
         "value": "Additional Options"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/it.json",
         "key": "Parse Payee as Tag",
         "defaultValue": "Parse Payee as Tag",
         "value": "Parse Payee as Tag"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/it.json",
         "key": "Parse Payee as Description",
         "defaultValue": "Parse Payee as Description",
         "value": "Parse Payee as Description"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/it.json",
         "key": "Parse Member as Tag",
         "defaultValue": "Parse Member as Tag",
         "value": "Parse Member as Tag"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/it.json",
         "key": "Parse Project as Tag",
         "defaultValue": "Parse Project as Tag",
         "value": "Parse Project as Tag"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/it.json",
         "key": "Parse Merchant as Tag",
         "defaultValue": "Parse Merchant as Tag",
         "value": "Parse Merchant as Tag"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/it.json",
         "key": "Unable to detect the file encoding automatically. Please select the actual encoding.",
         "defaultValue": "Unable to detect the file encoding automatically. Please select the actual encoding.",
         "value": "Unable to detect the file encoding automatically. Please select the actual encoding."
     },
     {
-        "source": "frontend",
+        "source": "src/locales/it.json",
         "key": "IANA Time Zone Name",
         "defaultValue": "IANA Time Zone Name",
         "value": "IANA Time Zone Name"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/it.json",
         "key": "Unable to import transactions",
         "defaultValue": "Unable to import transactions",
         "value": "Unable to import transactions"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/it.json",
         "key": "Transaction importing is disabled",
         "defaultValue": "Transaction importing is disabled",
         "value": "Transaction importing is disabled"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/it.json",
         "key": "Load Data Mapping File",
         "defaultValue": "Load Data Mapping File",
         "value": "Load Data Mapping File"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/it.json",
         "key": "Save Data Mapping File",
         "defaultValue": "Save Data Mapping File",
         "value": "Save Data Mapping File"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/it.json",
         "key": "Data mapping file is invalid",
         "defaultValue": "Data mapping file is invalid",
         "value": "Data mapping file is invalid"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/it.json",
         "key": "Load Script File",
         "defaultValue": "Load Script File",
         "value": "Load Script File"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/it.json",
         "key": "Save Script File",
         "defaultValue": "Save Script File",
         "value": "Save Script File"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/it.json",
         "key": "Cannot load script file",
         "defaultValue": "Cannot load script file",
         "value": "Cannot load script file"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/it.json",
         "key": "No Preview Result",
         "defaultValue": "No Preview Result",
         "value": "No Preview Result"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/it.json",
         "key": "Please execute the custom script first",
         "defaultValue": "Please execute the custom script first",
         "value": "Please execute the custom script first"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/it.json",
         "key": "Executing Script...",
         "defaultValue": "Executing Script...",
         "value": "Executing Script..."
     },
     {
-        "source": "frontend",
+        "source": "src/locales/it.json",
         "key": "No parse function defined",
         "defaultValue": "No parse function defined",
         "value": "No parse function defined"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/it.json",
         "key": "Failed to parse time",
         "defaultValue": "Failed to parse time",
         "value": "Failed to parse time"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/it.json",
         "key": "Failed to execute custom script",
         "defaultValue": "Failed to execute custom script",
         "value": "Failed to execute custom script"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/it.json",
         "key": "Batch Replace Selected Transaction Tags",
         "defaultValue": "Batch Replace Selected Transaction Tags",
         "value": "Batch Replace Selected Transaction Tags"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/it.json",
         "key": "Batch Replace Selected Transaction Timezones",
         "defaultValue": "Batch Replace Selected Transaction Timezones",
         "value": "Batch Replace Selected Transaction Timezones"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/it.json",
         "key": "Batch Add Transaction Tags",
         "defaultValue": "Batch Add Transaction Tags",
         "value": "Batch Add Transaction Tags"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/it.json",
         "key": "Batch Replace Categories / Accounts / Tags",
         "defaultValue": "Batch Replace Categories / Accounts / Tags",
         "value": "Batch Replace Categories / Accounts / Tags"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/it.json",
         "key": "Batch Convert Selected Amounts to Positive Values",
         "defaultValue": "Batch Convert Selected Amounts to Positive Values",
         "value": "Batch Convert Selected Amounts to Positive Values"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/it.json",
         "key": "Batch Convert Selected Amounts to Negative Values",
         "defaultValue": "Batch Convert Selected Amounts to Negative Values",
         "value": "Batch Convert Selected Amounts to Negative Values"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/it.json",
         "key": "Clear All Filters",
         "defaultValue": "Clear All Filters",
         "value": "Clear All Filters"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/it.json",
         "key": "Confirm Target Account Name",
         "defaultValue": "Confirm Target Account Name",
         "value": "Confirm Target Account Name"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/it.json",
         "key": "Please re-enter the target account name to confirm",
         "defaultValue": "Please re-enter the target account name to confirm",
         "value": "Please re-enter the target account name to confirm"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/it.json",
         "key": "Remove Tag",
         "defaultValue": "Remove Tag",
         "value": "Remove Tag"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/it.json",
         "key": "Target Timezone",
         "defaultValue": "Target Timezone",
         "value": "Target Timezone"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/it.json",
         "key": "Source Value",
         "defaultValue": "Source Value",
         "value": "Source Value"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/it.json",
         "key": "Target Value",
         "defaultValue": "Target Value",
         "value": "Target Value"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/it.json",
         "key": "Add Rule",
         "defaultValue": "Add Rule",
         "value": "Add Rule"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/it.json",
         "key": "Load Replace Rule File",
         "defaultValue": "Load Replace Rule File",
         "value": "Load Replace Rule File"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/it.json",
         "key": "Save Replace Rule File",
         "defaultValue": "Save Replace Rule File",
         "value": "Save Replace Rule File"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/it.json",
         "key": "Replace rule file is invalid",
         "defaultValue": "Replace rule file is invalid",
         "value": "Replace rule file is invalid"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/it.json",
         "key": "Transaction picture is disabled",
         "defaultValue": "Transaction picture is disabled",
         "value": "Transaction picture is disabled"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/it.json",
         "key": "Failed to load image, please check whether the config \"domain\" and \"root_url\" are set correctly.",
         "defaultValue": "Failed to load image, please check whether the config \"domain\" and \"root_url\" are set correctly.",
         "value": "Failed to load image, please check whether the config \"domain\" and \"root_url\" are set correctly."
     },
     {
-        "source": "frontend",
+        "source": "src/locales/it.json",
         "key": "Unable to retrieve all transactions",
         "defaultValue": "Unable to retrieve all transactions",
         "value": "Unable to retrieve all transactions"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/it.json",
         "key": "Unable to retrieve reconciliation statements",
         "defaultValue": "Unable to retrieve reconciliation statements",
         "value": "Unable to retrieve reconciliation statements"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/it.json",
         "key": "Select Month",
         "defaultValue": "Select Month",
         "value": "Select Month"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/it.json",
         "key": "Enter formula mode",
         "defaultValue": "Enter formula mode",
         "value": "Enter formula mode"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/it.json",
         "key": "Exit formula mode",
         "defaultValue": "Exit formula mode",
         "value": "Exit formula mode"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/it.json",
         "key": "Calculate formula result",
         "defaultValue": "Calculate formula result",
         "value": "Calculate formula result"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/it.json",
         "key": "Formula is invalid",
         "defaultValue": "Formula is invalid",
         "value": "Formula is invalid"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/it.json",
         "key": "Asset Trends",
         "defaultValue": "Asset Trends",
         "value": "Asset Trends"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/it.json",
         "key": "Total Outflows",
         "defaultValue": "Total Outflows",
         "value": "Total Outflows"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/it.json",
         "key": "Total Inflows",
         "defaultValue": "Total Inflows",
         "value": "Total Inflows"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/it.json",
         "key": "Net Income",
         "defaultValue": "Net Income",
         "value": "Net Income"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/it.json",
         "key": "Net Worth",
         "defaultValue": "Net Worth",
         "value": "Net Worth"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/it.json",
         "key": "Net Cash Flow",
         "defaultValue": "Net Cash Flow",
         "value": "Net Cash Flow"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/it.json",
         "key": "Total Transactions",
         "defaultValue": "Total Transactions",
         "value": "Total Transactions"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/it.json",
         "key": "Opening Balance",
         "defaultValue": "Opening Balance",
         "value": "Opening Balance"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/it.json",
         "key": "Closing Balance",
         "defaultValue": "Closing Balance",
         "value": "Closing Balance"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/it.json",
         "key": "Minimum Balance",
         "defaultValue": "Minimum Balance",
         "value": "Minimum Balance"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/it.json",
         "key": "Maximum Balance",
         "defaultValue": "Maximum Balance",
         "value": "Maximum Balance"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/it.json",
         "key": "Median Balance",
         "defaultValue": "Median Balance",
         "value": "Median Balance"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/it.json",
         "key": "Average Balance",
         "defaultValue": "Average Balance",
         "value": "Average Balance"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/it.json",
         "key": "Q1 Balance (First Quartile)",
         "defaultValue": "Q1 Balance (First Quartile)",
         "value": "Q1 Balance (First Quartile)"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/it.json",
         "key": "Q3 Balance (Third Quartile)",
         "defaultValue": "Q3 Balance (Third Quartile)",
         "value": "Q3 Balance (Third Quartile)"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/it.json",
         "key": "Outflows By Account",
         "defaultValue": "Outflows By Account",
         "value": "Outflows By Account"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/it.json",
         "key": "Inflows By Account",
         "defaultValue": "Inflows By Account",
         "value": "Inflows By Account"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/it.json",
         "key": "Asset Trends Settings",
         "defaultValue": "Asset Trends Settings",
         "value": "Asset Trends Settings"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/it.json",
         "key": "Value",
         "defaultValue": "Value",
         "value": "Value"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/it.json",
         "key": "Proportion (%)",
         "defaultValue": "Proportion (%)",
         "value": "Proportion (%)"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/it.json",
         "key": "Time Granularity",
         "defaultValue": "Time Granularity",
         "value": "Time Granularity"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/it.json",
         "key": "Aggregate by Day",
         "defaultValue": "Aggregate by Day",
         "value": "Aggregate by Day"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/it.json",
         "key": "Aggregate by Fiscal Year",
         "defaultValue": "Aggregate by Fiscal Year",
         "value": "Aggregate by Fiscal Year"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/it.json",
         "key": "Year-over-Year",
         "defaultValue": "Year-over-Year",
         "value": "Year-over-Year"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/it.json",
         "key": "Period-over-Period",
         "defaultValue": "Period-over-Period",
         "value": "Period-over-Period"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/it.json",
         "key": "Filter transaction description",
         "defaultValue": "Filter transaction description",
         "value": "Filter transaction description"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/it.json",
         "key": "Geographic Location Format",
         "defaultValue": "Geographic Location Format",
         "value": "Geographic Location Format"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/it.json",
         "key": "Latitude Longitude D.D°",
         "defaultValue": "Latitude Longitude D.D°",
         "value": "Latitude Longitude D.D°"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/it.json",
         "key": "Longitude Latitude D.D°",
         "defaultValue": "Longitude Latitude D.D°",
         "value": "Longitude Latitude D.D°"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/it.json",
         "key": "Latitude Longitude D°M.M'",
         "defaultValue": "Latitude Longitude D°M.M'",
         "value": "Latitude Longitude D°M.M'"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/it.json",
         "key": "Longitude Latitude D°M.M'",
         "defaultValue": "Longitude Latitude D°M.M'",
         "value": "Longitude Latitude D°M.M'"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/it.json",
         "key": "Latitude Longitude D°M'S\"",
         "defaultValue": "Latitude Longitude D°M'S\"",
         "value": "Latitude Longitude D°M'S\""
     },
     {
-        "source": "frontend",
+        "source": "src/locales/it.json",
         "key": "Longitude Latitude D°M'S\"",
         "defaultValue": "Longitude Latitude D°M'S\"",
         "value": "Longitude Latitude D°M'S\""
     },
     {
-        "source": "frontend",
+        "source": "src/locales/it.json",
         "key": "Accounts Included in Overview Statistics",
         "defaultValue": "Accounts Included in Overview Statistics",
         "value": "Accounts Included in Overview Statistics"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/it.json",
         "key": "Transaction Categories Included in Overview Statistics",
         "defaultValue": "Transaction Categories Included in Overview Statistics",
         "value": "Transaction Categories Included in Overview Statistics"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/it.json",
         "key": "Quick Save Button Style",
         "defaultValue": "Quick Save Button Style",
         "value": "Quick Save Button Style"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/it.json",
         "key": "Bottom Left Floating",
         "defaultValue": "Bottom Left Floating",
         "value": "Bottom Left Floating"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/it.json",
         "key": "Bottom Center Floating",
         "defaultValue": "Bottom Center Floating",
         "value": "Bottom Center Floating"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/it.json",
         "key": "Bottom Right Floating",
         "defaultValue": "Bottom Right Floating",
         "value": "Bottom Right Floating"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/it.json",
         "key": "Bottom Fixed",
         "defaultValue": "Bottom Fixed",
         "value": "Bottom Fixed"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/it.json",
         "key": "Quick Add Button Action",
         "defaultValue": "Quick Add Button Action",
         "value": "Quick Add Button Action"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/it.json",
         "key": "Always Show Transaction Pictures",
         "defaultValue": "Always Show Transaction Pictures",
         "value": "Always Show Transaction Pictures"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/it.json",
         "key": "Import Transaction Dialog",
         "defaultValue": "Import Transaction Dialog",
         "value": "Import Transaction Dialog"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/it.json",
         "key": "Remember Last Selected File Type",
         "defaultValue": "Remember Last Selected File Type",
         "value": "Remember Last Selected File Type"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/it.json",
         "key": "Insights Explorer Page",
         "defaultValue": "Insights Explorer Page",
         "value": "Insights Explorer Page"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/it.json",
         "key": "Account List Page",
         "defaultValue": "Account List Page",
         "value": "Account List Page"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/it.json",
         "key": "Accounts Included in Total",
         "defaultValue": "Accounts Included in Total",
         "value": "Accounts Included in Total"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/it.json",
         "key": "Account Category Order",
         "defaultValue": "Account Category Order",
         "value": "Account Category Order"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/it.json",
         "key": "Account category order saved",
         "defaultValue": "Account category order saved",
         "value": "Account category order saved"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/it.json",
         "key": "Unable to move account category",
         "defaultValue": "Unable to move account category",
         "value": "Unable to move account category"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/it.json",
         "key": "Hide Categories Without Accounts",
         "defaultValue": "Hide Categories Without Accounts",
         "value": "Hide Categories Without Accounts"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/it.json",
         "key": "Enable Swipe Back",
         "defaultValue": "Enable Swipe Back",
         "value": "Enable Swipe Back"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/it.json",
         "key": "File Format",
         "defaultValue": "File Format",
         "value": "File Format"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/it.json",
         "key": "SSV (Semicolon-separated values) File",
         "defaultValue": "SSV (Semicolon-separated values) File",
         "value": "SSV (Semicolon-separated values) File"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/it.json",
         "key": "Export to CSV (Comma-separated values) File",
         "defaultValue": "Export to CSV (Comma-separated values) File",
         "value": "Export to CSV (Comma-separated values) File"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/it.json",
         "key": "Export to TSV (Tab-separated values) File",
         "defaultValue": "Export to TSV (Tab-separated values) File",
         "value": "Export to TSV (Tab-separated values) File"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/it.json",
         "key": "Export to SSV (Semicolon-separated values) File",
         "defaultValue": "Export to SSV (Semicolon-separated values) File",
         "value": "Export to SSV (Semicolon-separated values) File"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/it.json",
         "key": "Markdown File",
         "defaultValue": "Markdown File",
         "value": "Markdown File"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/it.json",
         "key": "Mermaid (Pie Chart)",
         "defaultValue": "Mermaid (Pie Chart)",
         "value": "Mermaid (Pie Chart)"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/it.json",
         "key": "Mermaid (XY Chart)",
         "defaultValue": "Mermaid (XY Chart)",
         "value": "Mermaid (XY Chart)"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/it.json",
         "key": "Clear All Transactions",
         "defaultValue": "Clear All Transactions",
         "value": "Clear All Transactions"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/it.json",
         "key": "Clear All Data",
         "defaultValue": "Clear All Data",
         "value": "Clear All Data"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/it.json",
         "key": "Are you sure you want to clear all transactions?",
         "defaultValue": "Are you sure you want to clear all transactions?",
         "value": "Are you sure you want to clear all transactions?"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/it.json",
         "key": "You CANNOT undo this action. This will clear your transactions data. Please enter your current password to confirm.",
         "defaultValue": "You CANNOT undo this action. This will clear your transactions data. Please enter your current password to confirm.",
         "value": "You CANNOT undo this action. This will clear your transactions data. Please enter your current password to confirm."
     },
     {
-        "source": "frontend",
+        "source": "src/locales/it.json",
         "key": "You CANNOT undo this action. \"Clear All Transactions\" will clear all your transactions data, and \"Clear All Data\" will clear your accounts, categories, tags and transactions data. Please enter your current password to confirm.",
         "defaultValue": "You CANNOT undo this action. \"Clear All Transactions\" will clear all your transactions data, and \"Clear All Data\" will clear your accounts, categories, tags and transactions data. Please enter your current password to confirm.",
         "value": "You CANNOT undo this action. \"Clear All Transactions\" will clear all your transactions data, and \"Clear All Data\" will clear your accounts, categories, tags and transactions data. Please enter your current password to confirm."
     },
     {
-        "source": "frontend",
+        "source": "src/locales/it.json",
         "key": "All transactions in this account have been cleared",
         "defaultValue": "All transactions in this account have been cleared",
         "value": "All transactions in this account have been cleared"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/it.json",
         "key": "All transactions have been cleared",
         "defaultValue": "All transactions have been cleared",
         "value": "All transactions have been cleared"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/it.json",
         "key": "Third-Party Login",
         "defaultValue": "Third-Party Login",
         "value": "Third-Party Login"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/it.json",
         "key": "Linked Time",
         "defaultValue": "Linked Time",
         "value": "Linked Time"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/it.json",
         "key": "Link",
         "defaultValue": "Link",
         "value": "Link"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/it.json",
         "key": "Unlink",
         "defaultValue": "Unlink",
         "value": "Unlink"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/it.json",
         "key": "Are you sure you want to unlink this login method?",
         "defaultValue": "Are you sure you want to unlink this login method?",
         "value": "Are you sure you want to unlink this login method?"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/it.json",
         "key": "Unable to retrieve third-party login list",
         "defaultValue": "Unable to retrieve third-party login list",
         "value": "Unable to retrieve third-party login list"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/it.json",
         "key": "Third-party login list is up to date",
         "defaultValue": "Third-party login list is up to date",
         "value": "Third-party login list is up to date"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/it.json",
         "key": "Third-party login list has been updated",
         "defaultValue": "Third-party login list has been updated",
         "value": "Third-party login list has been updated"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/it.json",
         "key": "Unable to unlink third-party login",
         "defaultValue": "Unable to unlink third-party login",
         "value": "Unable to unlink third-party login"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/it.json",
         "key": "No secondary expense categories are available",
         "defaultValue": "No secondary expense categories are available",
         "value": "No secondary expense categories are available"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/it.json",
         "key": "No secondary income categories are available",
         "defaultValue": "No secondary income categories are available",
         "value": "No secondary income categories are available"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/it.json",
         "key": "No secondary transfer categories are available",
         "defaultValue": "No secondary transfer categories are available",
         "value": "No secondary transfer categories are available"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/it.json",
         "key": "Total tags",
         "defaultValue": "Total tags",
         "value": "Total tags"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/it.json",
         "key": "Default Group",
         "defaultValue": "Default Group",
         "value": "Default Group"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/it.json",
         "key": "Add Tag Group",
         "defaultValue": "Add Tag Group",
         "value": "Add Tag Group"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/it.json",
         "key": "Rename Tag Group",
         "defaultValue": "Rename Tag Group",
         "value": "Rename Tag Group"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/it.json",
         "key": "Delete Tag Group",
         "defaultValue": "Delete Tag Group",
         "value": "Delete Tag Group"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/it.json",
         "key": "Change Group Display Order",
         "defaultValue": "Change Group Display Order",
         "value": "Change Group Display Order"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/it.json",
         "key": "Tag Group Name",
         "defaultValue": "Tag Group Name",
         "value": "Tag Group Name"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/it.json",
         "key": "New Tag Group Name",
         "defaultValue": "New Tag Group Name",
         "value": "New Tag Group Name"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/it.json",
         "key": "No available tag group",
         "defaultValue": "No available tag group",
         "value": "No available tag group"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/it.json",
         "key": "Unable to retrieve tag group list",
         "defaultValue": "Unable to retrieve tag group list",
         "value": "Unable to retrieve tag group list"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/it.json",
         "key": "Tag group list has been updated",
         "defaultValue": "Tag group list has been updated",
         "value": "Tag group list has been updated"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/it.json",
         "key": "Unable to add tag group",
         "defaultValue": "Unable to add tag group",
         "value": "Unable to add tag group"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/it.json",
         "key": "Unable to save tag group",
         "defaultValue": "Unable to save tag group",
         "value": "Unable to save tag group"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/it.json",
         "key": "Unable to move tag group",
         "defaultValue": "Unable to move tag group",
         "value": "Unable to move tag group"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/it.json",
         "key": "Unable to rename this tag group",
         "defaultValue": "Unable to rename this tag group",
         "value": "Unable to rename this tag group"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/it.json",
         "key": "Are you sure you want to delete this tag group?",
         "defaultValue": "Are you sure you want to delete this tag group?",
         "value": "Are you sure you want to delete this tag group?"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/it.json",
         "key": "Unable to delete this tag group",
         "defaultValue": "Unable to delete this tag group",
         "value": "Unable to delete this tag group"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/it.json",
         "key": "Generate Token",
         "defaultValue": "Generate Token",
         "value": "Generate Token"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/it.json",
         "key": "Token Type",
         "defaultValue": "Token Type",
         "value": "Token Type"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/it.json",
         "key": "Expiration Time",
         "defaultValue": "Expiration Time",
         "value": "Expiration Time"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/it.json",
         "key": "Custom Expiration Time (Seconds)",
         "defaultValue": "Custom Expiration Time (Seconds)",
         "value": "Custom Expiration Time (Seconds)"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/it.json",
         "key": "No Expiration",
         "defaultValue": "No Expiration",
         "value": "No Expiration"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/it.json",
         "key": "API Token",
         "defaultValue": "API Token",
         "value": "API Token"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/it.json",
         "key": "MCP Token",
         "defaultValue": "MCP Token",
         "value": "MCP Token"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/it.json",
         "key": "Your token does not expire, please keep it secure.",
         "defaultValue": "Your token does not expire, please keep it secure.",
         "value": "Your token does not expire, please keep it secure."
     },
     {
-        "source": "frontend",
+        "source": "src/locales/it.json",
         "key": "When connecting to third-party apps, be aware that they and any large language models they use can access your private data.",
         "defaultValue": "When connecting to third-party apps, be aware that they and any large language models they use can access your private data.",
         "value": "When connecting to third-party apps, be aware that they and any large language models they use can access your private data."
     },
     {
-        "source": "frontend",
+        "source": "src/locales/it.json",
         "key": "Unable to generate token",
         "defaultValue": "Unable to generate token",
         "value": "Unable to generate token"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/it.json",
         "key": "Settings Sync",
         "defaultValue": "Settings Sync",
         "value": "Settings Sync"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/it.json",
         "key": "Synchronized Settings",
         "defaultValue": "Synchronized Settings",
         "value": "Synchronized Settings"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/it.json",
         "key": "Enable Settings Sync",
         "defaultValue": "Enable Settings Sync",
         "value": "Enable Settings Sync"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/it.json",
         "key": "Disable Settings Sync",
         "defaultValue": "Disable Settings Sync",
         "value": "Disable Settings Sync"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/it.json",
         "key": "Update Synchronized Settings",
         "defaultValue": "Update Synchronized Settings",
         "value": "Update Synchronized Settings"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/it.json",
         "key": "Settings sync is not enabled",
         "defaultValue": "Settings sync is not enabled",
         "value": "Settings sync is not enabled"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/it.json",
         "key": "Settings sync has been enabled",
         "defaultValue": "Settings sync has been enabled",
         "value": "Settings sync has been enabled"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/it.json",
         "key": "Settings sync has been disabled",
         "defaultValue": "Settings sync has been disabled",
         "value": "Settings sync has been disabled"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/it.json",
         "key": "Synchronized settings have been updated",
         "defaultValue": "Synchronized settings have been updated",
         "value": "Synchronized settings have been updated"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/it.json",
         "key": "Unable to retrieve user synchronized application settings",
         "defaultValue": "Unable to retrieve user synchronized application settings",
         "value": "Unable to retrieve user synchronized application settings"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/it.json",
         "key": "Unable to update user synchronized application settings",
         "defaultValue": "Unable to update user synchronized application settings",
         "value": "Unable to update user synchronized application settings"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/it.json",
         "key": "Unable to disable user synchronized application settings",
         "defaultValue": "Unable to disable user synchronized application settings",
         "value": "Unable to disable user synchronized application settings"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/it.json",
         "key": "Browser Cache Management",
         "defaultValue": "Browser Cache Management",
         "value": "Browser Cache Management"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/it.json",
         "key": "File Cache",
         "defaultValue": "File Cache",
         "value": "File Cache"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/it.json",
         "key": "Used storage",
         "defaultValue": "Used storage",
         "value": "Used storage"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/it.json",
         "key": "Application Code",
         "defaultValue": "Application Code",
         "value": "Application Code"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/it.json",
         "key": "Resource Files",
         "defaultValue": "Resource Files",
         "value": "Resource Files"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/it.json",
         "key": "Map Data",
         "defaultValue": "Map Data",
         "value": "Map Data"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/it.json",
         "key": "Others",
         "defaultValue": "Others",
         "value": "Others"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/it.json",
         "key": "Cache Expiration Time",
         "defaultValue": "Cache Expiration Time",
         "value": "Cache Expiration Time"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/it.json",
         "key": "Cache Expiration for Map Data",
         "defaultValue": "Cache Expiration for Map Data",
         "value": "Cache Expiration for Map Data"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/it.json",
         "key": "Cache Expiration for Exchange Rates Data",
         "defaultValue": "Cache Expiration for Exchange Rates Data",
         "value": "Cache Expiration for Exchange Rates Data"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/it.json",
         "key": "Disable Cache",
         "defaultValue": "Disable Cache",
         "value": "Disable Cache"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/it.json",
         "key": "Clear All File Cache",
         "defaultValue": "Clear All File Cache",
         "value": "Clear All File Cache"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/it.json",
         "key": "Are you sure you want to clear all file cache?",
         "defaultValue": "Are you sure you want to clear all file cache?",
         "value": "Are you sure you want to clear all file cache?"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/it.json",
         "key": "Clear Map Data Cache",
         "defaultValue": "Clear Map Data Cache",
         "value": "Clear Map Data Cache"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/it.json",
         "key": "Are you sure you want to clear map data cache?",
         "defaultValue": "Are you sure you want to clear map data cache?",
         "value": "Are you sure you want to clear map data cache?"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/it.json",
         "key": "Clear Application Code Cache",
         "defaultValue": "Clear Application Code Cache",
         "value": "Clear Application Code Cache"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/it.json",
         "key": "Are you sure you want to clear application code cache?",
         "defaultValue": "Are you sure you want to clear application code cache?",
         "value": "Are you sure you want to clear application code cache?"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/it.json",
         "key": "Clear Exchange Rates Data Cache",
         "defaultValue": "Clear Exchange Rates Data Cache",
         "value": "Clear Exchange Rates Data Cache"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/it.json",
         "key": "Are you sure you want to clear exchange rates data cache?",
         "defaultValue": "Are you sure you want to clear exchange rates data cache?",
         "value": "Are you sure you want to clear exchange rates data cache?"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/it.json",
         "key": "User Custom",
         "defaultValue": "User Custom",
         "value": "User Custom"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/it.json",
         "key": "Update User Custom Exchange Rate",
         "defaultValue": "Update User Custom Exchange Rate",
         "value": "Update User Custom Exchange Rate"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/it.json",
         "key": "You have updated exchange rate",
         "defaultValue": "You have updated exchange rate",
         "value": "You have updated exchange rate"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/it.json",
         "key": "Unable to update user custom exchange rate",
         "defaultValue": "Unable to update user custom exchange rate",
         "value": "Unable to update user custom exchange rate"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/it.json",
         "key": "Are you sure you want to delete this user custom exchange rate?",
         "defaultValue": "Are you sure you want to delete this user custom exchange rate?",
         "value": "Are you sure you want to delete this user custom exchange rate?"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/it.json",
         "key": "Unable to delete this user custom exchange rate",
         "defaultValue": "Unable to delete this user custom exchange rate",
         "value": "Unable to delete this user custom exchange rate"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/it.json",
         "key": "Refresh Browser Cache",
         "defaultValue": "Refresh Browser Cache",
         "value": "Refresh Browser Cache"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/it.json",
         "key": "Frontend Version",
         "defaultValue": "Frontend Version",
         "value": "Frontend Version"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/it.json",
         "key": "Backend Version",
         "defaultValue": "Backend Version",
         "value": "Backend Version"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/it.json",
         "key": "Documentation",
         "defaultValue": "Documentation",
         "value": "Documentation"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/it.json",
         "key": "Are you sure you want to open this link?",
         "defaultValue": "Are you sure you want to open this link?",
         "value": "Are you sure you want to open this link?"

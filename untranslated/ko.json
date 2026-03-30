@@ -1,606 +1,606 @@
 [
     {
-        "source": "frontend",
+        "source": "src/locales/ko.json",
         "key": "format.misc.nHour",
         "defaultValue": "{n} Hour",
         "value": "{n} Hour"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/ko.json",
         "key": "format.misc.nHours",
         "defaultValue": "{n} Hours",
         "value": "{n} Hours"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/ko.json",
         "key": "format.misc.nDay",
         "defaultValue": "{n} Day",
         "value": "{n} Day"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/ko.json",
         "key": "format.misc.nDays",
         "defaultValue": "{n} Days",
         "value": "{n} Days"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/ko.json",
         "key": "format.misc.loginWithCustomProvider",
         "defaultValue": "Log in with {name}",
         "value": "Log in with {name}"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/ko.json",
         "key": "format.misc.queryIndex",
         "defaultValue": "Query #{index}",
         "value": "Query #{index}"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/ko.json",
         "key": "dataExport.defaultExportFilename",
         "defaultValue": "ezBookkeeping_export_data",
         "value": "ezBookkeeping_export_data"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/ko.json",
         "key": "dataExport.exportFilename",
         "defaultValue": "ezBookkeeping_{nickname}_export_data",
         "value": "ezBookkeeping_{nickname}_export_data"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/ko.json",
         "key": "dataExport.defaultExportStatisticsFileName",
         "defaultValue": "ezBookkeeping_statistics_data",
         "value": "ezBookkeeping_statistics_data"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/ko.json",
         "key": "dataExport.exportStatisticsFileName",
         "defaultValue": "ezBookkeeping_{nickname}_statistics_data",
         "value": "ezBookkeeping_{nickname}_statistics_data"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/ko.json",
         "key": "dataExport.defaultExportReconciliationStatementsFileName",
         "defaultValue": "ezBookkeeping_reconciliation_statements",
         "value": "ezBookkeeping_reconciliation_statements"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/ko.json",
         "key": "dataExport.exportReconciliationStatementsFileName",
         "defaultValue": "ezBookkeeping_{nickname}_reconciliation_statements",
         "value": "ezBookkeeping_{nickname}_reconciliation_statements"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/ko.json",
         "key": "dataExport.defaultImportDataMappingFileName",
         "defaultValue": "ezBookkeeping_import_data_mapping",
         "value": "ezBookkeeping_import_data_mapping"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/ko.json",
         "key": "dataExport.defaultImportHandlingScript",
         "defaultValue": "ezBookkeeping_handling_script",
         "value": "ezBookkeeping_handling_script"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/ko.json",
         "key": "dataExport.defaultImportReplaceRuleFileName",
         "defaultValue": "ezBookkeeping_import_replace_rule",
         "value": "ezBookkeeping_import_replace_rule"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/ko.json",
         "key": "dataExport.defaultImportCheckResultFileName",
         "defaultValue": "ezBookkeeping_import_check_result",
         "value": "ezBookkeeping_import_check_result"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/ko.json",
         "key": "parameter.tagFilter",
         "defaultValue": "Tag Filter",
         "value": "Tag Filter"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/ko.json",
         "key": "parameter.expiredInSeconds",
         "defaultValue": "Expiration Time (Seconds)",
         "value": "Expiration Time (Seconds)"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/ko.json",
         "key": "sample.importTransactionCustomScript.fieldSourceAmountDescription",
         "defaultValue": "[required] Source amount (including two decimal places expressed without a decimal separator, for example '12345' represents 123.45)",
         "value": "[required] Source amount (including two decimal places expressed without a decimal separator, for example '12345' represents 123.45)"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/ko.json",
         "key": "sample.importTransactionCustomScript.fieldDestinationAmountDescription",
         "defaultValue": "[optional] Destination amount (for transfer type only, format is the same as the source amount)",
         "value": "[optional] Destination amount (for transfer type only, format is the same as the source amount)"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/ko.json",
         "key": "Open Menu",
         "defaultValue": "Open Menu",
         "value": "Open Menu"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/ko.json",
         "key": "Sort by Name (A to Z)",
         "defaultValue": "Sort by Name (A to Z)",
         "value": "Sort by Name (A to Z)"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/ko.json",
         "key": "Sort by Name (Z to A)",
         "defaultValue": "Sort by Name (Z to A)",
         "value": "Sort by Name (Z to A)"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/ko.json",
         "key": "WHERE",
         "defaultValue": "WHERE",
         "value": "WHERE"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/ko.json",
         "key": "AND",
         "defaultValue": "AND",
         "value": "AND"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/ko.json",
         "key": "OR",
         "defaultValue": "OR",
         "value": "OR"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/ko.json",
         "key": "AND SUB",
         "defaultValue": "AND SUB",
         "value": "AND SUB"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/ko.json",
         "key": "OR SUB",
         "defaultValue": "OR SUB",
         "value": "OR SUB"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/ko.json",
         "key": "In",
         "defaultValue": "In",
         "value": "In"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/ko.json",
         "key": "Has any",
         "defaultValue": "Has any",
         "value": "Has any"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/ko.json",
         "key": "Has all",
         "defaultValue": "Has all",
         "value": "Has all"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/ko.json",
         "key": "Not has any",
         "defaultValue": "Not has any",
         "value": "Not has any"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/ko.json",
         "key": "Not has all",
         "defaultValue": "Not has all",
         "value": "Not has all"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/ko.json",
         "key": "Is empty",
         "defaultValue": "Is empty",
         "value": "Is empty"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/ko.json",
         "key": "Is not empty",
         "defaultValue": "Is not empty",
         "value": "Is not empty"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/ko.json",
         "key": "Contains",
         "defaultValue": "Contains",
         "value": "Contains"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/ko.json",
         "key": "Not contains",
         "defaultValue": "Not contains",
         "value": "Not contains"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/ko.json",
         "key": "Starts with",
         "defaultValue": "Starts with",
         "value": "Starts with"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/ko.json",
         "key": "Not starts with",
         "defaultValue": "Not starts with",
         "value": "Not starts with"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/ko.json",
         "key": "Ends with",
         "defaultValue": "Ends with",
         "value": "Ends with"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/ko.json",
         "key": "Not ends with",
         "defaultValue": "Not ends with",
         "value": "Not ends with"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/ko.json",
         "key": "Latitude between",
         "defaultValue": "Latitude between",
         "value": "Latitude between"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/ko.json",
         "key": "Latitude not between",
         "defaultValue": "Latitude not between",
         "value": "Latitude not between"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/ko.json",
         "key": "Longitude between",
         "defaultValue": "Longitude between",
         "value": "Longitude between"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/ko.json",
         "key": "Longitude not between",
         "defaultValue": "Longitude not between",
         "value": "Longitude not between"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/ko.json",
         "key": "Boxplot Chart",
         "defaultValue": "Boxplot Chart",
         "value": "Boxplot Chart"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/ko.json",
         "key": "Add Sub Condition",
         "defaultValue": "Add Sub Condition",
         "value": "Add Sub Condition"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/ko.json",
         "key": "Transaction Hour of Day",
         "defaultValue": "Transaction Hour of Day",
         "value": "Transaction Hour of Day"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/ko.json",
         "key": "90th Percentile Amount",
         "defaultValue": "90th Percentile Amount",
         "value": "90th Percentile Amount"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/ko.json",
         "key": "Top 5 Amount Share",
         "defaultValue": "Top 5 Amount Share",
         "value": "Top 5 Amount Share"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/ko.json",
         "key": "Transactions for 80% of Amount",
         "defaultValue": "Transactions for 80% of Amount",
         "value": "Transactions for 80% of Amount"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/ko.json",
         "key": "Range (Max - Min)",
         "defaultValue": "Range (Max - Min)",
         "value": "Range (Max - Min)"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/ko.json",
         "key": "Interquartile Range (Q3 - Q1)",
         "defaultValue": "Interquartile Range (Q3 - Q1)",
         "value": "Interquartile Range (Q3 - Q1)"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/ko.json",
         "key": "Variance",
         "defaultValue": "Variance",
         "value": "Variance"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/ko.json",
         "key": "Standard Deviation",
         "defaultValue": "Standard Deviation",
         "value": "Standard Deviation"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/ko.json",
         "key": "Coefficient of Variation",
         "defaultValue": "Coefficient of Variation",
         "value": "Coefficient of Variation"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/ko.json",
         "key": "Save & New",
         "defaultValue": "Save & New",
         "value": "Save & New"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/ko.json",
         "key": "Save & Duplicate",
         "defaultValue": "Save & Duplicate",
         "value": "Save & Duplicate"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/ko.json",
         "key": "Refresh Accounts, Categories and Tags",
         "defaultValue": "Refresh Accounts, Categories and Tags",
         "value": "Refresh Accounts, Categories and Tags"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/ko.json",
         "key": "Excel Workbook File (.xlsx)",
         "defaultValue": "Excel Workbook File (.xlsx)",
         "value": "Excel Workbook File (.xlsx)"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/ko.json",
         "key": "Excel 97-2003 Workbook File (.xls)",
         "defaultValue": "Excel 97-2003 Workbook File (.xls)",
         "value": "Excel 97-2003 Workbook File (.xls)"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/ko.json",
         "key": "Batch Replace Selected Transaction Timezones",
         "defaultValue": "Batch Replace Selected Transaction Timezones",
         "value": "Batch Replace Selected Transaction Timezones"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/ko.json",
         "key": "Target Timezone",
         "defaultValue": "Target Timezone",
         "value": "Target Timezone"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/ko.json",
         "key": "Net Worth",
         "defaultValue": "Net Worth",
         "value": "Net Worth"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/ko.json",
         "key": "Q1 Balance (First Quartile)",
         "defaultValue": "Q1 Balance (First Quartile)",
         "value": "Q1 Balance (First Quartile)"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/ko.json",
         "key": "Q3 Balance (Third Quartile)",
         "defaultValue": "Q3 Balance (Third Quartile)",
         "value": "Q3 Balance (Third Quartile)"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/ko.json",
         "key": "Outflows By Account",
         "defaultValue": "Outflows By Account",
         "value": "Outflows By Account"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/ko.json",
         "key": "Inflows By Account",
         "defaultValue": "Inflows By Account",
         "value": "Inflows By Account"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/ko.json",
         "key": "Asset Trends Settings",
         "defaultValue": "Asset Trends Settings",
         "value": "Asset Trends Settings"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/ko.json",
         "key": "Value",
         "defaultValue": "Value",
         "value": "Value"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/ko.json",
         "key": "Aggregate by Day",
         "defaultValue": "Aggregate by Day",
         "value": "Aggregate by Day"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/ko.json",
         "key": "Year-over-Year",
         "defaultValue": "Year-over-Year",
         "value": "Year-over-Year"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/ko.json",
         "key": "Period-over-Period",
         "defaultValue": "Period-over-Period",
         "value": "Period-over-Period"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/ko.json",
         "key": "Quick Save Button Style",
         "defaultValue": "Quick Save Button Style",
         "value": "Quick Save Button Style"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/ko.json",
         "key": "Bottom Left Floating",
         "defaultValue": "Bottom Left Floating",
         "value": "Bottom Left Floating"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/ko.json",
         "key": "Bottom Center Floating",
         "defaultValue": "Bottom Center Floating",
         "value": "Bottom Center Floating"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/ko.json",
         "key": "Bottom Right Floating",
         "defaultValue": "Bottom Right Floating",
         "value": "Bottom Right Floating"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/ko.json",
         "key": "Bottom Fixed",
         "defaultValue": "Bottom Fixed",
         "value": "Bottom Fixed"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/ko.json",
         "key": "Quick Add Button Action",
         "defaultValue": "Quick Add Button Action",
         "value": "Quick Add Button Action"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/ko.json",
         "key": "Export to SSV (Semicolon-separated values) File",
         "defaultValue": "Export to SSV (Semicolon-separated values) File",
         "value": "Export to SSV (Semicolon-separated values) File"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/ko.json",
         "key": "Mermaid (Pie Chart)",
         "defaultValue": "Mermaid (Pie Chart)",
         "value": "Mermaid (Pie Chart)"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/ko.json",
         "key": "Mermaid (XY Chart)",
         "defaultValue": "Mermaid (XY Chart)",
         "value": "Mermaid (XY Chart)"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/ko.json",
         "key": "Browser Cache Management",
         "defaultValue": "Browser Cache Management",
         "value": "Browser Cache Management"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/ko.json",
         "key": "File Cache",
         "defaultValue": "File Cache",
         "value": "File Cache"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/ko.json",
         "key": "Used storage",
         "defaultValue": "Used storage",
         "value": "Used storage"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/ko.json",
         "key": "Application Code",
         "defaultValue": "Application Code",
         "value": "Application Code"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/ko.json",
         "key": "Resource Files",
         "defaultValue": "Resource Files",
         "value": "Resource Files"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/ko.json",
         "key": "Map Data",
         "defaultValue": "Map Data",
         "value": "Map Data"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/ko.json",
         "key": "Others",
         "defaultValue": "Others",
         "value": "Others"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/ko.json",
         "key": "Cache Expiration Time",
         "defaultValue": "Cache Expiration Time",
         "value": "Cache Expiration Time"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/ko.json",
         "key": "Cache Expiration for Map Data",
         "defaultValue": "Cache Expiration for Map Data",
         "value": "Cache Expiration for Map Data"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/ko.json",
         "key": "Cache Expiration for Exchange Rates Data",
         "defaultValue": "Cache Expiration for Exchange Rates Data",
         "value": "Cache Expiration for Exchange Rates Data"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/ko.json",
         "key": "Disable Cache",
         "defaultValue": "Disable Cache",
         "value": "Disable Cache"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/ko.json",
         "key": "Clear All File Cache",
         "defaultValue": "Clear All File Cache",
         "value": "Clear All File Cache"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/ko.json",
         "key": "Are you sure you want to clear all file cache?",
         "defaultValue": "Are you sure you want to clear all file cache?",
         "value": "Are you sure you want to clear all file cache?"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/ko.json",
         "key": "Clear Map Data Cache",
         "defaultValue": "Clear Map Data Cache",
         "value": "Clear Map Data Cache"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/ko.json",
         "key": "Are you sure you want to clear map data cache?",
         "defaultValue": "Are you sure you want to clear map data cache?",
         "value": "Are you sure you want to clear map data cache?"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/ko.json",
         "key": "Clear Application Code Cache",
         "defaultValue": "Clear Application Code Cache",
         "value": "Clear Application Code Cache"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/ko.json",
         "key": "Are you sure you want to clear application code cache?",
         "defaultValue": "Are you sure you want to clear application code cache?",
         "value": "Are you sure you want to clear application code cache?"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/ko.json",
         "key": "Clear Exchange Rates Data Cache",
         "defaultValue": "Clear Exchange Rates Data Cache",
         "value": "Clear Exchange Rates Data Cache"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/ko.json",
         "key": "Are you sure you want to clear exchange rates data cache?",
         "defaultValue": "Are you sure you want to clear exchange rates data cache?",
         "value": "Are you sure you want to clear exchange rates data cache?"

@@ -1,138 +1,132 @@
 [
     {
-        "source": "frontend",
-        "key": "OK",
-        "defaultValue": "OK",
-        "value": "OK"
-    },
-    {
-        "source": "frontend",
+        "source": "src/locales/pt_BR.json",
         "key": "Status",
         "defaultValue": "Status",
         "value": "Status"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/pt_BR.json",
         "key": "Token",
         "defaultValue": "Token",
         "value": "Token"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/pt_BR.json",
         "key": "E-mail",
         "defaultValue": "E-mail",
         "value": "E-mail"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/pt_BR.json",
         "key": "Editor",
         "defaultValue": "Editor",
         "value": "Editor"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/pt_BR.json",
         "key": "Longitude",
         "defaultValue": "Longitude",
         "value": "Longitude"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/pt_BR.json",
         "key": "Latitude",
         "defaultValue": "Latitude",
         "value": "Latitude"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/pt_BR.json",
         "key": "Tags",
         "defaultValue": "Tags",
         "value": "Tags"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/pt_BR.json",
         "key": "Year-over-Year",
         "defaultValue": "Year-over-Year",
         "value": "Year-over-Year"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/pt_BR.json",
         "key": "Period-over-Period",
         "defaultValue": "Period-over-Period",
         "value": "Period-over-Period"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/pt_BR.json",
         "key": "Latitude Longitude D.D°",
         "defaultValue": "Latitude Longitude D.D°",
         "value": "Latitude Longitude D.D°"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/pt_BR.json",
         "key": "Longitude Latitude D.D°",
         "defaultValue": "Longitude Latitude D.D°",
         "value": "Longitude Latitude D.D°"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/pt_BR.json",
         "key": "Latitude Longitude D°M.M'",
         "defaultValue": "Latitude Longitude D°M.M'",
         "value": "Latitude Longitude D°M.M'"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/pt_BR.json",
         "key": "Longitude Latitude D°M.M'",
         "defaultValue": "Longitude Latitude D°M.M'",
         "value": "Longitude Latitude D°M.M'"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/pt_BR.json",
         "key": "Latitude Longitude D°M'S\"",
         "defaultValue": "Latitude Longitude D°M'S\"",
         "value": "Latitude Longitude D°M'S\""
     },
     {
-        "source": "frontend",
+        "source": "src/locales/pt_BR.json",
         "key": "Longitude Latitude D°M'S\"",
         "defaultValue": "Longitude Latitude D°M'S\"",
         "value": "Longitude Latitude D°M'S\""
     },
     {
-        "source": "frontend",
+        "source": "src/locales/pt_BR.json",
         "key": "Quick Save Button Style",
         "defaultValue": "Quick Save Button Style",
         "value": "Quick Save Button Style"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/pt_BR.json",
         "key": "Bottom Left Floating",
         "defaultValue": "Bottom Left Floating",
         "value": "Bottom Left Floating"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/pt_BR.json",
         "key": "Bottom Center Floating",
         "defaultValue": "Bottom Center Floating",
         "value": "Bottom Center Floating"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/pt_BR.json",
         "key": "Bottom Right Floating",
         "defaultValue": "Bottom Right Floating",
         "value": "Bottom Right Floating"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/pt_BR.json",
         "key": "Bottom Fixed",
         "defaultValue": "Bottom Fixed",
         "value": "Bottom Fixed"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/pt_BR.json",
         "key": "API Token",
         "defaultValue": "API Token",
         "value": "API Token"
     },
     {
-        "source": "frontend",
+        "source": "src/locales/pt_BR.json",
         "key": "MCP Token",
         "defaultValue": "MCP Token",
         "value": "MCP Token"
