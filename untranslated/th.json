@@ -109,6 +109,12 @@
     },
     {
         "source": "src/locales/th.json",
+        "key": "granularity.BillingCycle",
+        "defaultValue": "Billing Cycle",
+        "value": "Billing Cycle"
+    },
+    {
+        "source": "src/locales/th.json",
         "key": "error.cannot login by password",
         "defaultValue": "You cannot login by password",
         "value": "You cannot login by password"
@@ -1438,6 +1444,12 @@
         "key": "Aggregate by Day",
         "defaultValue": "Aggregate by Day",
         "value": "Aggregate by Day"
+    },
+    {
+        "source": "src/locales/th.json",
+        "key": "Aggregate by Billing Cycle",
+        "defaultValue": "Aggregate by Billing Cycle",
+        "value": "Aggregate by Billing Cycle"
     },
     {
         "source": "src/locales/th.json",

@@ -115,6 +115,12 @@
     },
     {
         "source": "src/locales/fr.json",
+        "key": "granularity.BillingCycle",
+        "defaultValue": "Billing Cycle",
+        "value": "Billing Cycle"
+    },
+    {
+        "source": "src/locales/fr.json",
         "key": "numeral.Apostrophe",
         "defaultValue": "Apostrophe",
         "value": "Apostrophe"
@@ -1558,6 +1564,12 @@
         "key": "Aggregate by Day",
         "defaultValue": "Aggregate by Day",
         "value": "Aggregate by Day"
+    },
+    {
+        "source": "src/locales/fr.json",
+        "key": "Aggregate by Billing Cycle",
+        "defaultValue": "Aggregate by Billing Cycle",
+        "value": "Aggregate by Billing Cycle"
     },
     {
         "source": "src/locales/fr.json",

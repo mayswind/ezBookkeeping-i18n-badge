@@ -61,6 +61,12 @@
     },
     {
         "source": "src/locales/ta.json",
+        "key": "granularity.BillingCycle",
+        "defaultValue": "Billing Cycle",
+        "value": "Billing Cycle"
+    },
+    {
+        "source": "src/locales/ta.json",
         "key": "sample.importTransactionCustomScript.fieldTimeDescription",
         "defaultValue": "[required] Transaction time, format: YYYY-MM-DD HH:mm:ss. You can also use the parseDateTime(value, format) function to convert a custom formatted time string to the standard format, where 'format' argument is the format of the custom time string, e.g. parseDateTime('12/31/2023 23:59', 'MM/DD/YYYY HH:mm') means converting '12/31/2023 23:59' to the standard format '2023-12-31 23:59:00'",
         "value": "[required] Transaction time, format: YYYY-MM-DD HH:mm:ss. You can also use the parseDateTime(value, format) function to convert a custom formatted time string to the standard format, where 'format' argument is the format of the custom time string, e.g. parseDateTime('12/31/2023 23:59', 'MM/DD/YYYY HH:mm') means converting '12/31/2023 23:59' to the standard format '2023-12-31 23:59:00'"
@@ -292,6 +298,12 @@
         "key": "Value",
         "defaultValue": "Value",
         "value": "Value"
+    },
+    {
+        "source": "src/locales/ta.json",
+        "key": "Aggregate by Billing Cycle",
+        "defaultValue": "Aggregate by Billing Cycle",
+        "value": "Aggregate by Billing Cycle"
     },
     {
         "source": "src/locales/ta.json",

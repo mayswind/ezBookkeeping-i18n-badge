@@ -61,6 +61,12 @@
     },
     {
         "source": "src/locales/ru.json",
+        "key": "granularity.BillingCycle",
+        "defaultValue": "Billing Cycle",
+        "value": "Billing Cycle"
+    },
+    {
+        "source": "src/locales/ru.json",
         "key": "sample.importTransactionCustomScript.fieldSourceAmountDescription",
         "defaultValue": "[required] Source amount (including two decimal places expressed without a decimal separator, for example '12345' represents 123.45)",
         "value": "[required] Source amount (including two decimal places expressed without a decimal separator, for example '12345' represents 123.45)"
@@ -256,6 +262,12 @@
         "key": "Value",
         "defaultValue": "Value",
         "value": "Value"
+    },
+    {
+        "source": "src/locales/ru.json",
+        "key": "Aggregate by Billing Cycle",
+        "defaultValue": "Aggregate by Billing Cycle",
+        "value": "Aggregate by Billing Cycle"
     },
     {
         "source": "src/locales/ru.json",

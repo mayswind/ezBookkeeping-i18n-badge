@@ -151,6 +151,12 @@
     },
     {
         "source": "src/locales/nl.json",
+        "key": "granularity.BillingCycle",
+        "defaultValue": "Billing Cycle",
+        "value": "Billing Cycle"
+    },
+    {
+        "source": "src/locales/nl.json",
         "key": "numeral.Western Arabic Numerals",
         "defaultValue": "Western Arabic Numerals",
         "value": "Western Arabic Numerals"
@@ -2866,6 +2872,12 @@
         "key": "Aggregate by Day",
         "defaultValue": "Aggregate by Day",
         "value": "Aggregate by Day"
+    },
+    {
+        "source": "src/locales/nl.json",
+        "key": "Aggregate by Billing Cycle",
+        "defaultValue": "Aggregate by Billing Cycle",
+        "value": "Aggregate by Billing Cycle"
     },
     {
         "source": "src/locales/nl.json",

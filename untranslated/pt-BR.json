@@ -1,6 +1,12 @@
 [
     {
         "source": "src/locales/pt_BR.json",
+        "key": "granularity.BillingCycle",
+        "defaultValue": "Billing Cycle",
+        "value": "Billing Cycle"
+    },
+    {
+        "source": "src/locales/pt_BR.json",
         "key": "Status",
         "defaultValue": "Status",
         "value": "Status"
@@ -40,6 +46,12 @@
         "key": "Tags",
         "defaultValue": "Tags",
         "value": "Tags"
+    },
+    {
+        "source": "src/locales/pt_BR.json",
+        "key": "Aggregate by Billing Cycle",
+        "defaultValue": "Aggregate by Billing Cycle",
+        "value": "Aggregate by Billing Cycle"
     },
     {
         "source": "src/locales/pt_BR.json",

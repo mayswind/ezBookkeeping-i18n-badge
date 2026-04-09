@@ -67,6 +67,12 @@
     },
     {
         "source": "src/locales/es.json",
+        "key": "granularity.BillingCycle",
+        "defaultValue": "Billing Cycle",
+        "value": "Billing Cycle"
+    },
+    {
+        "source": "src/locales/es.json",
         "key": "currency.name.PKR",
         "defaultValue": "Pakistani Rupee",
         "value": "Pakistani Rupee"
@@ -688,6 +694,12 @@
         "key": "Proportion (%)",
         "defaultValue": "Proportion (%)",
         "value": "Proportion (%)"
+    },
+    {
+        "source": "src/locales/es.json",
+        "key": "Aggregate by Billing Cycle",
+        "defaultValue": "Aggregate by Billing Cycle",
+        "value": "Aggregate by Billing Cycle"
     },
     {
         "source": "src/locales/es.json",

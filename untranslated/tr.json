@@ -13,6 +13,12 @@
     },
     {
         "source": "src/locales/tr.json",
+        "key": "granularity.BillingCycle",
+        "defaultValue": "Billing Cycle",
+        "value": "Billing Cycle"
+    },
+    {
+        "source": "src/locales/tr.json",
         "key": "error.user name and email from oauth2 provider are both empty",
         "defaultValue": "User name and email from OAuth 2.0 provider are both empty",
         "value": "User name and email from OAuth 2.0 provider are both empty"
@@ -904,6 +910,12 @@
         "key": "Value",
         "defaultValue": "Value",
         "value": "Value"
+    },
+    {
+        "source": "src/locales/tr.json",
+        "key": "Aggregate by Billing Cycle",
+        "defaultValue": "Aggregate by Billing Cycle",
+        "value": "Aggregate by Billing Cycle"
     },
     {
         "source": "src/locales/tr.json",
