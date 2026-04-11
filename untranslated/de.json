@@ -115,6 +115,24 @@
     },
     {
         "source": "src/locales/de.json",
+        "key": "Not in",
+        "defaultValue": "Not in",
+        "value": "Not in"
+    },
+    {
+        "source": "src/locales/de.json",
+        "key": "Matches regex",
+        "defaultValue": "Matches regex",
+        "value": "Matches regex"
+    },
+    {
+        "source": "src/locales/de.json",
+        "key": "Does not match regex",
+        "defaultValue": "Does not match regex",
+        "value": "Does not match regex"
+    },
+    {
+        "source": "src/locales/de.json",
         "key": "Details",
         "defaultValue": "Details",
         "value": "Details"
@@ -148,6 +166,24 @@
         "key": "Aggregate by Billing Cycle",
         "defaultValue": "Aggregate by Billing Cycle",
         "value": "Aggregate by Billing Cycle"
+    },
+    {
+        "source": "src/locales/de.json",
+        "key": "Quarter-over-Quarter",
+        "defaultValue": "Quarter-over-Quarter",
+        "value": "Quarter-over-Quarter"
+    },
+    {
+        "source": "src/locales/de.json",
+        "key": "Month-over-Month",
+        "defaultValue": "Month-over-Month",
+        "value": "Month-over-Month"
+    },
+    {
+        "source": "src/locales/de.json",
+        "key": "Day-over-Day",
+        "defaultValue": "Day-over-Day",
+        "value": "Day-over-Day"
     },
     {
         "source": "src/locales/de.json",

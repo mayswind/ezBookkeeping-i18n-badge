@@ -181,6 +181,12 @@
     },
     {
         "source": "src/locales/ko.json",
+        "key": "Not in",
+        "defaultValue": "Not in",
+        "value": "Not in"
+    },
+    {
+        "source": "src/locales/ko.json",
         "key": "Has any",
         "defaultValue": "Has any",
         "value": "Has any"
@@ -193,15 +199,15 @@
     },
     {
         "source": "src/locales/ko.json",
-        "key": "Not has any",
-        "defaultValue": "Not has any",
-        "value": "Not has any"
+        "key": "Does not have any",
+        "defaultValue": "Does not have any",
+        "value": "Does not have any"
     },
     {
         "source": "src/locales/ko.json",
-        "key": "Not has all",
-        "defaultValue": "Not has all",
-        "value": "Not has all"
+        "key": "Does not have all",
+        "defaultValue": "Does not have all",
+        "value": "Does not have all"
     },
     {
         "source": "src/locales/ko.json",
@@ -223,9 +229,9 @@
     },
     {
         "source": "src/locales/ko.json",
-        "key": "Not contains",
-        "defaultValue": "Not contains",
-        "value": "Not contains"
+        "key": "Does not contain",
+        "defaultValue": "Does not contain",
+        "value": "Does not contain"
     },
     {
         "source": "src/locales/ko.json",
@@ -235,9 +241,9 @@
     },
     {
         "source": "src/locales/ko.json",
-        "key": "Not starts with",
-        "defaultValue": "Not starts with",
-        "value": "Not starts with"
+        "key": "Does not start with",
+        "defaultValue": "Does not start with",
+        "value": "Does not start with"
     },
     {
         "source": "src/locales/ko.json",
@@ -247,33 +253,45 @@
     },
     {
         "source": "src/locales/ko.json",
-        "key": "Not ends with",
-        "defaultValue": "Not ends with",
-        "value": "Not ends with"
+        "key": "Does not end with",
+        "defaultValue": "Does not end with",
+        "value": "Does not end with"
     },
     {
         "source": "src/locales/ko.json",
-        "key": "Latitude between",
-        "defaultValue": "Latitude between",
-        "value": "Latitude between"
+        "key": "Matches regex",
+        "defaultValue": "Matches regex",
+        "value": "Matches regex"
     },
     {
         "source": "src/locales/ko.json",
-        "key": "Latitude not between",
-        "defaultValue": "Latitude not between",
-        "value": "Latitude not between"
+        "key": "Does not match regex",
+        "defaultValue": "Does not match regex",
+        "value": "Does not match regex"
     },
     {
         "source": "src/locales/ko.json",
-        "key": "Longitude between",
-        "defaultValue": "Longitude between",
-        "value": "Longitude between"
+        "key": "Latitude is between",
+        "defaultValue": "Latitude is between",
+        "value": "Latitude is between"
     },
     {
         "source": "src/locales/ko.json",
-        "key": "Longitude not between",
-        "defaultValue": "Longitude not between",
-        "value": "Longitude not between"
+        "key": "Latitude is not between",
+        "defaultValue": "Latitude is not between",
+        "value": "Latitude is not between"
+    },
+    {
+        "source": "src/locales/ko.json",
+        "key": "Longitude is between",
+        "defaultValue": "Longitude is between",
+        "value": "Longitude is between"
+    },
+    {
+        "source": "src/locales/ko.json",
+        "key": "Longitude is not between",
+        "defaultValue": "Longitude is not between",
+        "value": "Longitude is not between"
     },
     {
         "source": "src/locales/ko.json",
@@ -442,6 +460,24 @@
         "key": "Year-over-Year",
         "defaultValue": "Year-over-Year",
         "value": "Year-over-Year"
+    },
+    {
+        "source": "src/locales/ko.json",
+        "key": "Quarter-over-Quarter",
+        "defaultValue": "Quarter-over-Quarter",
+        "value": "Quarter-over-Quarter"
+    },
+    {
+        "source": "src/locales/ko.json",
+        "key": "Month-over-Month",
+        "defaultValue": "Month-over-Month",
+        "value": "Month-over-Month"
+    },
+    {
+        "source": "src/locales/ko.json",
+        "key": "Day-over-Day",
+        "defaultValue": "Day-over-Day",
+        "value": "Day-over-Day"
     },
     {
         "source": "src/locales/ko.json",
