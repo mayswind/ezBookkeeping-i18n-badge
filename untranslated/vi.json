@@ -31,6 +31,30 @@
     },
     {
         "source": "src/locales/vi.json",
+        "key": "format.misc.lastMonthDay",
+        "defaultValue": "Last {ordinal} day",
+        "value": "Last {ordinal} day"
+    },
+    {
+        "source": "src/locales/vi.json",
+        "key": "format.misc.lastMonthDayInLowercase",
+        "defaultValue": "last {ordinal} day",
+        "value": "last {ordinal} day"
+    },
+    {
+        "source": "src/locales/vi.json",
+        "key": "format.misc.eachLastMonthDayInMonthDays",
+        "defaultValue": "last {ordinal}",
+        "value": "last {ordinal}"
+    },
+    {
+        "source": "src/locales/vi.json",
+        "key": "format.misc.everyMultiDaysOfYear",
+        "defaultValue": "Every {days} of year",
+        "value": "Every {days} of year"
+    },
+    {
+        "source": "src/locales/vi.json",
         "key": "format.misc.addNewTag",
         "defaultValue": "Add new tag \"{tag}\"",
         "value": "Add new tag \"{tag}\""
@@ -1951,6 +1975,18 @@
     },
     {
         "source": "src/locales/vi.json",
+        "key": "Last day",
+        "defaultValue": "Last day",
+        "value": "Last day"
+    },
+    {
+        "source": "src/locales/vi.json",
+        "key": "last day",
+        "defaultValue": "last day",
+        "value": "last day"
+    },
+    {
+        "source": "src/locales/vi.json",
         "key": "Start Date",
         "defaultValue": "Start Date",
         "value": "Start Date"
@@ -1960,6 +1996,18 @@
         "key": "End Date",
         "defaultValue": "End Date",
         "value": "End Date"
+    },
+    {
+        "source": "src/locales/vi.json",
+        "key": "Daily",
+        "defaultValue": "Daily",
+        "value": "Daily"
+    },
+    {
+        "source": "src/locales/vi.json",
+        "key": "Yearly",
+        "defaultValue": "Yearly",
+        "value": "Yearly"
     },
     {
         "source": "src/locales/vi.json",
@@ -2056,6 +2104,18 @@
         "key": "Does not match regex",
         "defaultValue": "Does not match regex",
         "value": "Does not match regex"
+    },
+    {
+        "source": "src/locales/vi.json",
+        "key": "Minute offset is between",
+        "defaultValue": "Minute offset is between",
+        "value": "Minute offset is between"
+    },
+    {
+        "source": "src/locales/vi.json",
+        "key": "Minute offset is not between",
+        "defaultValue": "Minute offset is not between",
+        "value": "Minute offset is not between"
     },
     {
         "source": "src/locales/vi.json",

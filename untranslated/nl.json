@@ -31,6 +31,30 @@
     },
     {
         "source": "src/locales/nl.json",
+        "key": "format.misc.lastMonthDay",
+        "defaultValue": "Last {ordinal} day",
+        "value": "Last {ordinal} day"
+    },
+    {
+        "source": "src/locales/nl.json",
+        "key": "format.misc.lastMonthDayInLowercase",
+        "defaultValue": "last {ordinal} day",
+        "value": "last {ordinal} day"
+    },
+    {
+        "source": "src/locales/nl.json",
+        "key": "format.misc.eachLastMonthDayInMonthDays",
+        "defaultValue": "last {ordinal}",
+        "value": "last {ordinal}"
+    },
+    {
+        "source": "src/locales/nl.json",
+        "key": "format.misc.everyMultiDaysOfYear",
+        "defaultValue": "Every {days} of year",
+        "value": "Every {days} of year"
+    },
+    {
+        "source": "src/locales/nl.json",
         "key": "format.misc.previewCount",
         "defaultValue": "Preview Count: {count}",
         "value": "Preview Count: {count}"
@@ -1657,6 +1681,30 @@
     },
     {
         "source": "src/locales/nl.json",
+        "key": "Last day",
+        "defaultValue": "Last day",
+        "value": "Last day"
+    },
+    {
+        "source": "src/locales/nl.json",
+        "key": "last day",
+        "defaultValue": "last day",
+        "value": "last day"
+    },
+    {
+        "source": "src/locales/nl.json",
+        "key": "Daily",
+        "defaultValue": "Daily",
+        "value": "Daily"
+    },
+    {
+        "source": "src/locales/nl.json",
+        "key": "Yearly",
+        "defaultValue": "Yearly",
+        "value": "Yearly"
+    },
+    {
+        "source": "src/locales/nl.json",
         "key": "In",
         "defaultValue": "In",
         "value": "In"
@@ -1750,6 +1798,18 @@
         "key": "Does not match regex",
         "defaultValue": "Does not match regex",
         "value": "Does not match regex"
+    },
+    {
+        "source": "src/locales/nl.json",
+        "key": "Minute offset is between",
+        "defaultValue": "Minute offset is between",
+        "value": "Minute offset is between"
+    },
+    {
+        "source": "src/locales/nl.json",
+        "key": "Minute offset is not between",
+        "defaultValue": "Minute offset is not between",
+        "value": "Minute offset is not between"
     },
     {
         "source": "src/locales/nl.json",
