@@ -721,6 +721,12 @@
     },
     {
         "source": "src/locales/th.json",
+        "key": "Heatmap Chart",
+        "defaultValue": "Heatmap Chart",
+        "value": "Heatmap Chart"
+    },
+    {
+        "source": "src/locales/th.json",
         "key": "Set All to Included",
         "defaultValue": "Set All to Included",
         "value": "Set All to Included"

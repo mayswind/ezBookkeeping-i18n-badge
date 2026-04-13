@@ -1903,6 +1903,12 @@
     },
     {
         "source": "src/locales/nl.json",
+        "key": "Heatmap Chart",
+        "defaultValue": "Heatmap Chart",
+        "value": "Heatmap Chart"
+    },
+    {
+        "source": "src/locales/nl.json",
         "key": "Provider",
         "defaultValue": "Provider",
         "value": "Provider"

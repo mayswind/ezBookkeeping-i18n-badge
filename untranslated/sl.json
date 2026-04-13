@@ -319,6 +319,12 @@
     },
     {
         "source": "src/locales/sl.json",
+        "key": "Heatmap Chart",
+        "defaultValue": "Heatmap Chart",
+        "value": "Heatmap Chart"
+    },
+    {
+        "source": "src/locales/sl.json",
         "key": "Change Explorer Display Order",
         "defaultValue": "Change Explorer Display Order",
         "value": "Change Explorer Display Order"

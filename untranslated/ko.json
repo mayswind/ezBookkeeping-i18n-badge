@@ -361,6 +361,12 @@
     },
     {
         "source": "src/locales/ko.json",
+        "key": "Heatmap Chart",
+        "defaultValue": "Heatmap Chart",
+        "value": "Heatmap Chart"
+    },
+    {
+        "source": "src/locales/ko.json",
         "key": "Add Sub Condition",
         "defaultValue": "Add Sub Condition",
         "value": "Add Sub Condition"

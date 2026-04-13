@@ -193,6 +193,12 @@
     },
     {
         "source": "src/locales/de.json",
+        "key": "Heatmap Chart",
+        "defaultValue": "Heatmap Chart",
+        "value": "Heatmap Chart"
+    },
+    {
+        "source": "src/locales/de.json",
         "key": "Details",
         "defaultValue": "Details",
         "value": "Details"

@@ -541,6 +541,12 @@
     },
     {
         "source": "src/locales/kn.json",
+        "key": "Heatmap Chart",
+        "defaultValue": "Heatmap Chart",
+        "value": "Heatmap Chart"
+    },
+    {
+        "source": "src/locales/kn.json",
         "key": "Username/password login is disabled",
         "defaultValue": "Username/password login is disabled",
         "value": "Username/password login is disabled"

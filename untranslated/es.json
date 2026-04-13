@@ -379,6 +379,12 @@
     },
     {
         "source": "src/locales/es.json",
+        "key": "Heatmap Chart",
+        "defaultValue": "Heatmap Chart",
+        "value": "Heatmap Chart"
+    },
+    {
+        "source": "src/locales/es.json",
         "key": "Data copied",
         "defaultValue": "Data copied",
         "value": "Data copied"

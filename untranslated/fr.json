@@ -793,6 +793,12 @@
     },
     {
         "source": "src/locales/fr.json",
+        "key": "Heatmap Chart",
+        "defaultValue": "Heatmap Chart",
+        "value": "Heatmap Chart"
+    },
+    {
+        "source": "src/locales/fr.json",
         "key": "Application",
         "defaultValue": "Application",
         "value": "Application"
