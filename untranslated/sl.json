@@ -343,9 +343,45 @@
     },
     {
         "source": "src/locales/sl.json",
+        "key": "Q1 Amount (First Quartile)",
+        "defaultValue": "Q1 Amount (First Quartile)",
+        "value": "Q1 Amount (First Quartile)"
+    },
+    {
+        "source": "src/locales/sl.json",
+        "key": "Q3 Amount (Third Quartile)",
+        "defaultValue": "Q3 Amount (Third Quartile)",
+        "value": "Q3 Amount (Third Quartile)"
+    },
+    {
+        "source": "src/locales/sl.json",
+        "key": "10th Percentile Amount",
+        "defaultValue": "10th Percentile Amount",
+        "value": "10th Percentile Amount"
+    },
+    {
+        "source": "src/locales/sl.json",
         "key": "90th Percentile Amount",
         "defaultValue": "90th Percentile Amount",
         "value": "90th Percentile Amount"
+    },
+    {
+        "source": "src/locales/sl.json",
+        "key": "95th Percentile Amount",
+        "defaultValue": "95th Percentile Amount",
+        "value": "95th Percentile Amount"
+    },
+    {
+        "source": "src/locales/sl.json",
+        "key": "99th Percentile Amount",
+        "defaultValue": "99th Percentile Amount",
+        "value": "99th Percentile Amount"
+    },
+    {
+        "source": "src/locales/sl.json",
+        "key": "Top 5 Amount Sum",
+        "defaultValue": "Top 5 Amount Sum",
+        "value": "Top 5 Amount Sum"
     },
     {
         "source": "src/locales/sl.json",

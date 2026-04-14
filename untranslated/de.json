@@ -217,6 +217,24 @@
     },
     {
         "source": "src/locales/de.json",
+        "key": "Q1 Amount (First Quartile)",
+        "defaultValue": "Q1 Amount (First Quartile)",
+        "value": "Q1 Amount (First Quartile)"
+    },
+    {
+        "source": "src/locales/de.json",
+        "key": "Q3 Amount (Third Quartile)",
+        "defaultValue": "Q3 Amount (Third Quartile)",
+        "value": "Q3 Amount (Third Quartile)"
+    },
+    {
+        "source": "src/locales/de.json",
+        "key": "Top 5 Amount Sum",
+        "defaultValue": "Top 5 Amount Sum",
+        "value": "Top 5 Amount Sum"
+    },
+    {
+        "source": "src/locales/de.json",
         "key": "Tags",
         "defaultValue": "Tags",
         "value": "Tags"
