@@ -379,6 +379,30 @@
     },
     {
         "source": "src/locales/ko.json",
+        "key": "Active Transaction Days",
+        "defaultValue": "Active Transaction Days",
+        "value": "Active Transaction Days"
+    },
+    {
+        "source": "src/locales/ko.json",
+        "key": "Transactions per Active Day",
+        "defaultValue": "Transactions per Active Day",
+        "value": "Transactions per Active Day"
+    },
+    {
+        "source": "src/locales/ko.json",
+        "key": "Expense / Income Ratio",
+        "defaultValue": "Expense / Income Ratio",
+        "value": "Expense / Income Ratio"
+    },
+    {
+        "source": "src/locales/ko.json",
+        "key": "Savings Rate",
+        "defaultValue": "Savings Rate",
+        "value": "Savings Rate"
+    },
+    {
+        "source": "src/locales/ko.json",
         "key": "Q1 Amount (First Quartile)",
         "defaultValue": "Q1 Amount (First Quartile)",
         "value": "Q1 Amount (First Quartile)"
@@ -445,6 +469,18 @@
     },
     {
         "source": "src/locales/ko.json",
+        "key": "Mean Absolute Deviation",
+        "defaultValue": "Mean Absolute Deviation",
+        "value": "Mean Absolute Deviation"
+    },
+    {
+        "source": "src/locales/ko.json",
+        "key": "Median Absolute Deviation",
+        "defaultValue": "Median Absolute Deviation",
+        "value": "Median Absolute Deviation"
+    },
+    {
+        "source": "src/locales/ko.json",
         "key": "Variance",
         "defaultValue": "Variance",
         "value": "Variance"
@@ -460,6 +496,18 @@
         "key": "Coefficient of Variation",
         "defaultValue": "Coefficient of Variation",
         "value": "Coefficient of Variation"
+    },
+    {
+        "source": "src/locales/ko.json",
+        "key": "Skewness",
+        "defaultValue": "Skewness",
+        "value": "Skewness"
+    },
+    {
+        "source": "src/locales/ko.json",
+        "key": "Kurtosis",
+        "defaultValue": "Kurtosis",
+        "value": "Kurtosis"
     },
     {
         "source": "src/locales/ko.json",
