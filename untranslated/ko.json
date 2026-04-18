@@ -379,6 +379,72 @@
     },
     {
         "source": "src/locales/ko.json",
+        "key": "Amount Range (Equal Frequency)",
+        "defaultValue": "Amount Range (Equal Frequency)",
+        "value": "Amount Range (Equal Frequency)"
+    },
+    {
+        "source": "src/locales/ko.json",
+        "key": "Amount Range (Equal Width)",
+        "defaultValue": "Amount Range (Equal Width)",
+        "value": "Amount Range (Equal Width)"
+    },
+    {
+        "source": "src/locales/ko.json",
+        "key": "Amount Range (Log Scale)",
+        "defaultValue": "Amount Range (Log Scale)",
+        "value": "Amount Range (Log Scale)"
+    },
+    {
+        "source": "src/locales/ko.json",
+        "key": "Amount Range (Standard Deviation)",
+        "defaultValue": "Amount Range (Standard Deviation)",
+        "value": "Amount Range (Standard Deviation)"
+    },
+    {
+        "source": "src/locales/ko.json",
+        "key": "Amount Range (Natural Breaks)",
+        "defaultValue": "Amount Range (Natural Breaks)",
+        "value": "Amount Range (Natural Breaks)"
+    },
+    {
+        "source": "src/locales/ko.json",
+        "key": "Transfer In Amount Range (Equal Frequency)",
+        "defaultValue": "Transfer In Amount Range (Equal Frequency)",
+        "value": "Transfer In Amount Range (Equal Frequency)"
+    },
+    {
+        "source": "src/locales/ko.json",
+        "key": "Transfer In Amount Range (Equal Width)",
+        "defaultValue": "Transfer In Amount Range (Equal Width)",
+        "value": "Transfer In Amount Range (Equal Width)"
+    },
+    {
+        "source": "src/locales/ko.json",
+        "key": "Transfer In Amount Range (Log Scale)",
+        "defaultValue": "Transfer In Amount Range (Log Scale)",
+        "value": "Transfer In Amount Range (Log Scale)"
+    },
+    {
+        "source": "src/locales/ko.json",
+        "key": "Transfer In Amount Range (Standard Deviation)",
+        "defaultValue": "Transfer In Amount Range (Standard Deviation)",
+        "value": "Transfer In Amount Range (Standard Deviation)"
+    },
+    {
+        "source": "src/locales/ko.json",
+        "key": "Transfer In Amount Range (Natural Breaks)",
+        "defaultValue": "Transfer In Amount Range (Natural Breaks)",
+        "value": "Transfer In Amount Range (Natural Breaks)"
+    },
+    {
+        "source": "src/locales/ko.json",
+        "key": "Number of Amount Ranges",
+        "defaultValue": "Number of Amount Ranges",
+        "value": "Number of Amount Ranges"
+    },
+    {
+        "source": "src/locales/ko.json",
         "key": "Active Transaction Days",
         "defaultValue": "Active Transaction Days",
         "value": "Active Transaction Days"
