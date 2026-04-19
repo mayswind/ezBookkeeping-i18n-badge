@@ -367,6 +367,12 @@
     },
     {
         "source": "src/locales/ko.json",
+        "key": "Calendar Heatmap Chart",
+        "defaultValue": "Calendar Heatmap Chart",
+        "value": "Calendar Heatmap Chart"
+    },
+    {
+        "source": "src/locales/ko.json",
         "key": "Add Sub Condition",
         "defaultValue": "Add Sub Condition",
         "value": "Add Sub Condition"

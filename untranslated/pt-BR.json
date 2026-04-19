@@ -103,6 +103,12 @@
     },
     {
         "source": "src/locales/pt_BR.json",
+        "key": "Calendar Heatmap Chart",
+        "defaultValue": "Calendar Heatmap Chart",
+        "value": "Calendar Heatmap Chart"
+    },
+    {
+        "source": "src/locales/pt_BR.json",
         "key": "E-mail",
         "defaultValue": "E-mail",
         "value": "E-mail"

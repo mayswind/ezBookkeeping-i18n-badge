@@ -253,6 +253,12 @@
     },
     {
         "source": "src/locales/ta.json",
+        "key": "Calendar Heatmap Chart",
+        "defaultValue": "Calendar Heatmap Chart",
+        "value": "Calendar Heatmap Chart"
+    },
+    {
+        "source": "src/locales/ta.json",
         "key": "Username/password login is disabled",
         "defaultValue": "Username/password login is disabled",
         "value": "Username/password login is disabled"

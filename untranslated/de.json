@@ -199,6 +199,12 @@
     },
     {
         "source": "src/locales/de.json",
+        "key": "Calendar Heatmap Chart",
+        "defaultValue": "Calendar Heatmap Chart",
+        "value": "Calendar Heatmap Chart"
+    },
+    {
+        "source": "src/locales/de.json",
         "key": "Details",
         "defaultValue": "Details",
         "value": "Details"

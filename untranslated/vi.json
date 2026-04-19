@@ -2221,6 +2221,12 @@
     },
     {
         "source": "src/locales/vi.json",
+        "key": "Calendar Heatmap Chart",
+        "defaultValue": "Calendar Heatmap Chart",
+        "value": "Calendar Heatmap Chart"
+    },
+    {
+        "source": "src/locales/vi.json",
         "key": "Set All to Included",
         "defaultValue": "Set All to Included",
         "value": "Set All to Included"

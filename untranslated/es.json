@@ -385,6 +385,12 @@
     },
     {
         "source": "src/locales/es.json",
+        "key": "Calendar Heatmap Chart",
+        "defaultValue": "Calendar Heatmap Chart",
+        "value": "Calendar Heatmap Chart"
+    },
+    {
+        "source": "src/locales/es.json",
         "key": "Data copied",
         "defaultValue": "Data copied",
         "value": "Data copied"
