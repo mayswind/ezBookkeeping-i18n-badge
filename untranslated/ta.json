@@ -271,6 +271,18 @@
     },
     {
         "source": "src/locales/ta.json",
+        "key": "Enter Edit Mode",
+        "defaultValue": "Enter Edit Mode",
+        "value": "Enter Edit Mode"
+    },
+    {
+        "source": "src/locales/ta.json",
+        "key": "Exit Edit Mode",
+        "defaultValue": "Exit Edit Mode",
+        "value": "Exit Edit Mode"
+    },
+    {
+        "source": "src/locales/ta.json",
         "key": "Add Sub Condition",
         "defaultValue": "Add Sub Condition",
         "value": "Add Sub Condition"
@@ -409,6 +421,12 @@
     },
     {
         "source": "src/locales/ta.json",
+        "key": "Maximum Amount Share",
+        "defaultValue": "Maximum Amount Share",
+        "value": "Maximum Amount Share"
+    },
+    {
+        "source": "src/locales/ta.json",
         "key": "Top 5 Amount Sum",
         "defaultValue": "Top 5 Amount Sum",
         "value": "Top 5 Amount Sum"
@@ -478,6 +496,30 @@
         "key": "Kurtosis",
         "defaultValue": "Kurtosis",
         "value": "Kurtosis"
+    },
+    {
+        "source": "src/locales/ta.json",
+        "key": "Update Categories for Expense Transactions",
+        "defaultValue": "Update Categories for Expense Transactions",
+        "value": "Update Categories for Expense Transactions"
+    },
+    {
+        "source": "src/locales/ta.json",
+        "key": "Update Categories for Income Transactions",
+        "defaultValue": "Update Categories for Income Transactions",
+        "value": "Update Categories for Income Transactions"
+    },
+    {
+        "source": "src/locales/ta.json",
+        "key": "Update Categories for Transfer Transactions",
+        "defaultValue": "Update Categories for Transfer Transactions",
+        "value": "Update Categories for Transfer Transactions"
+    },
+    {
+        "source": "src/locales/ta.json",
+        "key": "Unable to update categories for transactions",
+        "defaultValue": "Unable to update categories for transactions",
+        "value": "Unable to update categories for transactions"
     },
     {
         "source": "src/locales/ta.json",
