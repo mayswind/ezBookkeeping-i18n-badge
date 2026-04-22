@@ -1093,6 +1093,12 @@
     },
     {
         "source": "src/locales/uk.json",
+        "key": "Treemap Chart",
+        "defaultValue": "Treemap Chart",
+        "value": "Treemap Chart"
+    },
+    {
+        "source": "src/locales/uk.json",
         "key": "Heatmap Chart",
         "defaultValue": "Heatmap Chart",
         "value": "Heatmap Chart"

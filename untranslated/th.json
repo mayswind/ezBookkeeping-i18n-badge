@@ -721,6 +721,12 @@
     },
     {
         "source": "src/locales/th.json",
+        "key": "Treemap Chart",
+        "defaultValue": "Treemap Chart",
+        "value": "Treemap Chart"
+    },
+    {
+        "source": "src/locales/th.json",
         "key": "Heatmap Chart",
         "defaultValue": "Heatmap Chart",
         "value": "Heatmap Chart"

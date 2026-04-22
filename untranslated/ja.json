@@ -1117,6 +1117,12 @@
     },
     {
         "source": "src/locales/ja.json",
+        "key": "Treemap Chart",
+        "defaultValue": "Treemap Chart",
+        "value": "Treemap Chart"
+    },
+    {
+        "source": "src/locales/ja.json",
         "key": "Heatmap Chart",
         "defaultValue": "Heatmap Chart",
         "value": "Heatmap Chart"
