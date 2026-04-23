@@ -1123,6 +1123,12 @@
     },
     {
         "source": "src/locales/ja.json",
+        "key": "Sunburst Chart",
+        "defaultValue": "Sunburst Chart",
+        "value": "Sunburst Chart"
+    },
+    {
+        "source": "src/locales/ja.json",
         "key": "Heatmap Chart",
         "defaultValue": "Heatmap Chart",
         "value": "Heatmap Chart"

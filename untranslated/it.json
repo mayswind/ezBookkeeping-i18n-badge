@@ -1117,6 +1117,12 @@
     },
     {
         "source": "src/locales/it.json",
+        "key": "Sunburst Chart",
+        "defaultValue": "Sunburst Chart",
+        "value": "Sunburst Chart"
+    },
+    {
+        "source": "src/locales/it.json",
         "key": "Heatmap Chart",
         "defaultValue": "Heatmap Chart",
         "value": "Heatmap Chart"

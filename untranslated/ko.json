@@ -367,6 +367,12 @@
     },
     {
         "source": "src/locales/ko.json",
+        "key": "Sunburst Chart",
+        "defaultValue": "Sunburst Chart",
+        "value": "Sunburst Chart"
+    },
+    {
+        "source": "src/locales/ko.json",
         "key": "Heatmap Chart",
         "defaultValue": "Heatmap Chart",
         "value": "Heatmap Chart"
