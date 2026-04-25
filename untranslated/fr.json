@@ -61,6 +61,12 @@
     },
     {
         "source": "src/locales/fr.json",
+        "key": "format.misc.youHaveDeletedTransactions",
+        "defaultValue": "You have deleted {count} transactions",
+        "value": "You have deleted {count} transactions"
+    },
+    {
+        "source": "src/locales/fr.json",
         "key": "format.misc.moveTransactionsInAccountTip",
         "defaultValue": "You CANNOT undo this action. This will move all transactions from {fromAccount} to {toAccount}.",
         "value": "You CANNOT undo this action. This will move all transactions from {fromAccount} to {toAccount}."
@@ -70,6 +76,18 @@
         "key": "format.misc.clearTransactionsInAccountTip",
         "defaultValue": "You CANNOT undo this action. This will clear your transactions data in {account}. Please enter your current password to confirm.",
         "value": "You CANNOT undo this action. This will clear your transactions data in {account}. Please enter your current password to confirm."
+    },
+    {
+        "source": "src/locales/fr.json",
+        "key": "format.misc.deleteTransactionsTip",
+        "defaultValue": "You CANNOT undo this action. This will delete {count} transactions. Please enter your current password to confirm.",
+        "value": "You CANNOT undo this action. This will delete {count} transactions. Please enter your current password to confirm."
+    },
+    {
+        "source": "src/locales/fr.json",
+        "key": "format.misc.clearTransactionsTagsTip",
+        "defaultValue": "You CANNOT undo this action. This will clear all tags from {count} transactions.",
+        "value": "You CANNOT undo this action. This will clear all tags from {count} transactions."
     },
     {
         "source": "src/locales/fr.json",
@@ -208,6 +226,12 @@
         "key": "error.cannot move transaction between accounts with different currencies",
         "defaultValue": "Cannot move transaction between accounts with different currencies",
         "value": "Cannot move transaction between accounts with different currencies"
+    },
+    {
+        "source": "src/locales/fr.json",
+        "key": "error.cannot add tags to too many transactions one time",
+        "defaultValue": "You cannot add tags to too many transactions one time",
+        "value": "You cannot add tags to too many transactions one time"
     },
     {
         "source": "src/locales/fr.json",
@@ -1522,6 +1546,60 @@
         "key": "Unable to update categories for transactions",
         "defaultValue": "Unable to update categories for transactions",
         "value": "Unable to update categories for transactions"
+    },
+    {
+        "source": "src/locales/fr.json",
+        "key": "Update Accounts for Transactions",
+        "defaultValue": "Update Accounts for Transactions",
+        "value": "Update Accounts for Transactions"
+    },
+    {
+        "source": "src/locales/fr.json",
+        "key": "Update Destination Accounts for Transactions",
+        "defaultValue": "Update Destination Accounts for Transactions",
+        "value": "Update Destination Accounts for Transactions"
+    },
+    {
+        "source": "src/locales/fr.json",
+        "key": "Unable to update accounts for transactions",
+        "defaultValue": "Unable to update accounts for transactions",
+        "value": "Unable to update accounts for transactions"
+    },
+    {
+        "source": "src/locales/fr.json",
+        "key": "Add Tags to Transactions",
+        "defaultValue": "Add Tags to Transactions",
+        "value": "Add Tags to Transactions"
+    },
+    {
+        "source": "src/locales/fr.json",
+        "key": "Remove Tags from Transactions",
+        "defaultValue": "Remove Tags from Transactions",
+        "value": "Remove Tags from Transactions"
+    },
+    {
+        "source": "src/locales/fr.json",
+        "key": "Clear All Tags from Transactions",
+        "defaultValue": "Clear All Tags from Transactions",
+        "value": "Clear All Tags from Transactions"
+    },
+    {
+        "source": "src/locales/fr.json",
+        "key": "Unable to update tags for transactions",
+        "defaultValue": "Unable to update tags for transactions",
+        "value": "Unable to update tags for transactions"
+    },
+    {
+        "source": "src/locales/fr.json",
+        "key": "Delete Transactions",
+        "defaultValue": "Delete Transactions",
+        "value": "Delete Transactions"
+    },
+    {
+        "source": "src/locales/fr.json",
+        "key": "Unable to delete these transactions",
+        "defaultValue": "Unable to delete these transactions",
+        "value": "Unable to delete these transactions"
     },
     {
         "source": "src/locales/fr.json",
