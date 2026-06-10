@@ -25,6 +25,12 @@
     },
     {
         "source": "src/locales/ta.json",
+        "key": "format.misc.everyNDays",
+        "defaultValue": "Every {n} days",
+        "value": "Every {n} days"
+    },
+    {
+        "source": "src/locales/ta.json",
         "key": "format.misc.youHaveDeletedTransactions",
         "defaultValue": "You have deleted {count} transactions",
         "value": "You have deleted {count} transactions"
@@ -133,6 +139,12 @@
     },
     {
         "source": "src/locales/ta.json",
+        "key": "error.scheduled transaction start date is required",
+        "defaultValue": "Scheduled transaction start date is required",
+        "value": "Scheduled transaction start date is required"
+    },
+    {
+        "source": "src/locales/ta.json",
         "key": "sample.importTransactionCustomScript.fieldTimeDescription",
         "defaultValue": "[required] Transaction time, format: YYYY-MM-DD HH:mm:ss. You can also use the parseDateTime(value, format) function to convert a custom formatted time string to the standard format, where 'format' argument is the format of the custom time string, e.g. parseDateTime('12/31/2023 23:59', 'MM/DD/YYYY HH:mm') means converting '12/31/2023 23:59' to the standard format '2023-12-31 23:59:00'",
         "value": "[required] Transaction time, format: YYYY-MM-DD HH:mm:ss. You can also use the parseDateTime(value, format) function to convert a custom formatted time string to the standard format, where 'format' argument is the format of the custom time string, e.g. parseDateTime('12/31/2023 23:59', 'MM/DD/YYYY HH:mm') means converting '12/31/2023 23:59' to the standard format '2023-12-31 23:59:00'"
@@ -232,6 +244,12 @@
         "key": "Yearly",
         "defaultValue": "Yearly",
         "value": "Yearly"
+    },
+    {
+        "source": "src/locales/ta.json",
+        "key": "Every N Days",
+        "defaultValue": "Every N Days",
+        "value": "Every N Days"
     },
     {
         "source": "src/locales/ta.json",

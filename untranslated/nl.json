@@ -55,6 +55,12 @@
     },
     {
         "source": "src/locales/nl.json",
+        "key": "format.misc.everyNDays",
+        "defaultValue": "Every {n} days",
+        "value": "Every {n} days"
+    },
+    {
+        "source": "src/locales/nl.json",
         "key": "format.misc.previewCount",
         "defaultValue": "Preview Count: {count}",
         "value": "Preview Count: {count}"
@@ -1267,6 +1273,12 @@
     },
     {
         "source": "src/locales/nl.json",
+        "key": "error.scheduled transaction start date is required",
+        "defaultValue": "Scheduled transaction start date is required",
+        "value": "Scheduled transaction start date is required"
+    },
+    {
+        "source": "src/locales/nl.json",
         "key": "error.invalid json file",
         "defaultValue": "Invalid JSON file",
         "value": "Invalid JSON file"
@@ -1756,6 +1768,12 @@
         "key": "Yearly",
         "defaultValue": "Yearly",
         "value": "Yearly"
+    },
+    {
+        "source": "src/locales/nl.json",
+        "key": "Every N Days",
+        "defaultValue": "Every N Days",
+        "value": "Every N Days"
     },
     {
         "source": "src/locales/nl.json",

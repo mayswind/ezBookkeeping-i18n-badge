@@ -25,6 +25,12 @@
     },
     {
         "source": "src/locales/ru.json",
+        "key": "format.misc.everyNDays",
+        "defaultValue": "Every {n} days",
+        "value": "Every {n} days"
+    },
+    {
+        "source": "src/locales/ru.json",
         "key": "format.misc.youHaveDeletedTransactions",
         "defaultValue": "You have deleted {count} transactions",
         "value": "You have deleted {count} transactions"
@@ -133,6 +139,12 @@
     },
     {
         "source": "src/locales/ru.json",
+        "key": "error.scheduled transaction start date is required",
+        "defaultValue": "Scheduled transaction start date is required",
+        "value": "Scheduled transaction start date is required"
+    },
+    {
+        "source": "src/locales/ru.json",
         "key": "sample.importTransactionCustomScript.fieldSourceAmountDescription",
         "defaultValue": "[required] Source amount (including two decimal places expressed without a decimal separator, for example '12345' represents 123.45)",
         "value": "[required] Source amount (including two decimal places expressed without a decimal separator, for example '12345' represents 123.45)"
@@ -226,6 +238,12 @@
         "key": "Yearly",
         "defaultValue": "Yearly",
         "value": "Yearly"
+    },
+    {
+        "source": "src/locales/ru.json",
+        "key": "Every N Days",
+        "defaultValue": "Every N Days",
+        "value": "Every N Days"
     },
     {
         "source": "src/locales/ru.json",

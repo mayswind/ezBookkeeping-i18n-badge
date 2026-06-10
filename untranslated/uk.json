@@ -1,6 +1,12 @@
 [
     {
         "source": "src/locales/uk.json",
+        "key": "format.misc.everyNDays",
+        "defaultValue": "Every {n} days",
+        "value": "Every {n} days"
+    },
+    {
+        "source": "src/locales/uk.json",
         "key": "dataExport.defaultExportFilename",
         "defaultValue": "ezBookkeeping_export_data",
         "value": "ezBookkeeping_export_data"
@@ -58,6 +64,18 @@
         "key": "dataExport.defaultImportCheckResultFileName",
         "defaultValue": "ezBookkeeping_import_check_result",
         "value": "ezBookkeeping_import_check_result"
+    },
+    {
+        "source": "src/locales/uk.json",
+        "key": "error.scheduled transaction start date is required",
+        "defaultValue": "Scheduled transaction start date is required",
+        "value": "Scheduled transaction start date is required"
+    },
+    {
+        "source": "src/locales/uk.json",
+        "key": "Every N Days",
+        "defaultValue": "Every N Days",
+        "value": "Every N Days"
     },
     {
         "source": "src/locales/uk.json",

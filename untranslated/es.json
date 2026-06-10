@@ -25,6 +25,12 @@
     },
     {
         "source": "src/locales/es.json",
+        "key": "format.misc.everyNDays",
+        "defaultValue": "Every {n} days",
+        "value": "Every {n} days"
+    },
+    {
+        "source": "src/locales/es.json",
         "key": "format.misc.queryIndex",
         "defaultValue": "Query #{index}",
         "value": "Query #{index}"
@@ -148,6 +154,12 @@
         "key": "error.cannot add tags to too many transactions one time",
         "defaultValue": "You cannot add tags to too many transactions one time",
         "value": "You cannot add tags to too many transactions one time"
+    },
+    {
+        "source": "src/locales/es.json",
+        "key": "error.scheduled transaction start date is required",
+        "defaultValue": "Scheduled transaction start date is required",
+        "value": "Scheduled transaction start date is required"
     },
     {
         "source": "src/locales/es.json",
@@ -370,6 +382,12 @@
         "key": "Yearly",
         "defaultValue": "Yearly",
         "value": "Yearly"
+    },
+    {
+        "source": "src/locales/es.json",
+        "key": "Every N Days",
+        "defaultValue": "Every N Days",
+        "value": "Every N Days"
     },
     {
         "source": "src/locales/es.json",

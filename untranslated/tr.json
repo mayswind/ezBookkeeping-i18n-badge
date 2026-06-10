@@ -1,9 +1,27 @@
 [
     {
         "source": "src/locales/tr.json",
+        "key": "format.misc.everyNDays",
+        "defaultValue": "Every {n} days",
+        "value": "Every {n} days"
+    },
+    {
+        "source": "src/locales/tr.json",
+        "key": "error.scheduled transaction start date is required",
+        "defaultValue": "Scheduled transaction start date is required",
+        "value": "Scheduled transaction start date is required"
+    },
+    {
+        "source": "src/locales/tr.json",
         "key": "Move to...",
         "defaultValue": "Move to...",
         "value": "Move to..."
+    },
+    {
+        "source": "src/locales/tr.json",
+        "key": "Every N Days",
+        "defaultValue": "Every N Days",
+        "value": "Every N Days"
     },
     {
         "source": "src/locales/tr.json",
