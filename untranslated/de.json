@@ -319,6 +319,12 @@
     },
     {
         "source": "src/locales/de.json",
+        "key": "Description (Ignores Case)",
+        "defaultValue": "Description (Ignores Case)",
+        "value": "Description (Ignores Case)"
+    },
+    {
+        "source": "src/locales/de.json",
         "key": "Amount Range (Equal Frequency)",
         "defaultValue": "Amount Range (Equal Frequency)",
         "value": "Amount Range (Equal Frequency)"

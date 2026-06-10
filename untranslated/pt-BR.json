@@ -217,6 +217,12 @@
     },
     {
         "source": "src/locales/pt_BR.json",
+        "key": "Description (Ignores Case)",
+        "defaultValue": "Description (Ignores Case)",
+        "value": "Description (Ignores Case)"
+    },
+    {
+        "source": "src/locales/pt_BR.json",
         "key": "Amount Range (Equal Frequency)",
         "defaultValue": "Amount Range (Equal Frequency)",
         "value": "Amount Range (Equal Frequency)"

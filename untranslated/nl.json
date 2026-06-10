@@ -2395,6 +2395,12 @@
     },
     {
         "source": "src/locales/nl.json",
+        "key": "Description (Ignores Case)",
+        "defaultValue": "Description (Ignores Case)",
+        "value": "Description (Ignores Case)"
+    },
+    {
+        "source": "src/locales/nl.json",
         "key": "Transaction Date",
         "defaultValue": "Transaction Date",
         "value": "Transaction Date"

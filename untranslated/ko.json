@@ -475,6 +475,12 @@
     },
     {
         "source": "src/locales/ko.json",
+        "key": "Description (Ignores Case)",
+        "defaultValue": "Description (Ignores Case)",
+        "value": "Description (Ignores Case)"
+    },
+    {
+        "source": "src/locales/ko.json",
         "key": "Transaction Hour of Day",
         "defaultValue": "Transaction Hour of Day",
         "value": "Transaction Hour of Day"

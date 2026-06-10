@@ -517,6 +517,12 @@
     },
     {
         "source": "src/locales/es.json",
+        "key": "Description (Ignores Case)",
+        "defaultValue": "Description (Ignores Case)",
+        "value": "Description (Ignores Case)"
+    },
+    {
+        "source": "src/locales/es.json",
         "key": "Update Categories for Expense Transactions",
         "defaultValue": "Update Categories for Expense Transactions",
         "value": "Update Categories for Expense Transactions"

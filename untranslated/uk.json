@@ -58,5 +58,11 @@
         "key": "dataExport.defaultImportCheckResultFileName",
         "defaultValue": "ezBookkeeping_import_check_result",
         "value": "ezBookkeeping_import_check_result"
+    },
+    {
+        "source": "src/locales/uk.json",
+        "key": "Description (Ignores Case)",
+        "defaultValue": "Description (Ignores Case)",
+        "value": "Description (Ignores Case)"
     }
 ]

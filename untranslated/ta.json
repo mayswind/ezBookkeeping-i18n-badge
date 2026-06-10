@@ -373,6 +373,12 @@
     },
     {
         "source": "src/locales/ta.json",
+        "key": "Description (Ignores Case)",
+        "defaultValue": "Description (Ignores Case)",
+        "value": "Description (Ignores Case)"
+    },
+    {
+        "source": "src/locales/ta.json",
         "key": "Transaction Hour of Day",
         "defaultValue": "Transaction Hour of Day",
         "value": "Transaction Hour of Day"

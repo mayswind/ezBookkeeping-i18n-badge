@@ -19,6 +19,12 @@
     },
     {
         "source": "src/locales/tr.json",
+        "key": "Description (Ignores Case)",
+        "defaultValue": "Description (Ignores Case)",
+        "value": "Description (Ignores Case)"
+    },
+    {
+        "source": "src/locales/tr.json",
         "key": "Transfer",
         "defaultValue": "Transfer",
         "value": "Transfer"

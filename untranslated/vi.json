@@ -2731,6 +2731,12 @@
     },
     {
         "source": "src/locales/vi.json",
+        "key": "Description (Ignores Case)",
+        "defaultValue": "Description (Ignores Case)",
+        "value": "Description (Ignores Case)"
+    },
+    {
+        "source": "src/locales/vi.json",
         "key": "Transaction Date",
         "defaultValue": "Transaction Date",
         "value": "Transaction Date"
