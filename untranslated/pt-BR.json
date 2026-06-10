@@ -217,9 +217,9 @@
     },
     {
         "source": "src/locales/pt_BR.json",
-        "key": "Description (Ignores Case)",
-        "defaultValue": "Description (Ignores Case)",
-        "value": "Description (Ignores Case)"
+        "key": "Description (Case Insensitive)",
+        "defaultValue": "Description (Case Insensitive)",
+        "value": "Description (Case Insensitive)"
     },
     {
         "source": "src/locales/pt_BR.json",
