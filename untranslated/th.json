@@ -1195,9 +1195,9 @@
     },
     {
         "source": "src/locales/th.json",
-        "key": "Description (Case Insensitive)",
-        "defaultValue": "Description (Case Insensitive)",
-        "value": "Description (Case Insensitive)"
+        "key": "Description (Ignore Case)",
+        "defaultValue": "Description (Ignore Case)",
+        "value": "Description (Ignore Case)"
     },
     {
         "source": "src/locales/th.json",
