@@ -1,0 +1,56 @@
+[
+    {
+        "source": "src/locales/ro.json",
+        "key": "calendar.Gregorian",
+        "defaultValue": "Gregorian",
+        "value": "Gregorian"
+    },
+    {
+        "source": "src/locales/ro.json",
+        "key": "currency.name.ZWG",
+        "defaultValue": "Zimbabwe Gold",
+        "value": "Zimbabwe Gold"
+    },
+    {
+        "source": "src/locales/ro.json",
+        "key": "parameter.email",
+        "defaultValue": "Email",
+        "value": "Email"
+    },
+    {
+        "source": "src/locales/ro.json",
+        "key": "Original",
+        "defaultValue": "Original",
+        "value": "Original"
+    },
+    {
+        "source": "src/locales/ro.json",
+        "key": "Token",
+        "defaultValue": "Token",
+        "value": "Token"
+    },
+    {
+        "source": "src/locales/ro.json",
+        "key": "Format",
+        "defaultValue": "Format",
+        "value": "Format"
+    },
+    {
+        "source": "src/locales/ro.json",
+        "key": "Tab",
+        "defaultValue": "Tab",
+        "value": "Tab"
+    },
+    {
+        "source": "src/locales/ro.json",
+        "key": "Editor",
+        "defaultValue": "Editor",
+        "value": "Editor"
+    },
+    {
+        "source": "src/locales/ro.json",
+        "key": "Transfer",
+        "defaultValue": "Transfer",
+        "value": "Transfer"
+    }
+]
