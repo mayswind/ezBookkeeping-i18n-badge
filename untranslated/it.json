@@ -451,6 +451,18 @@
     },
     {
         "source": "src/locales/it.json",
+        "key": "error.no text for AI recognition",
+        "defaultValue": "There is no text for AI recognition",
+        "value": "There is no text for AI recognition"
+    },
+    {
+        "source": "src/locales/it.json",
+        "key": "error.text for AI recognition is empty",
+        "defaultValue": "Text for AI recognition is empty",
+        "value": "Text for AI recognition is empty"
+    },
+    {
+        "source": "src/locales/it.json",
         "key": "error.user external auth is not found",
         "defaultValue": "User external authentication data not found",
         "value": "User external authentication data not found"
@@ -2200,6 +2212,36 @@
         "key": "Save & Duplicate",
         "defaultValue": "Save & Duplicate",
         "value": "Save & Duplicate"
+    },
+    {
+        "source": "src/locales/it.json",
+        "key": "AI Clipboard Text Recognition",
+        "defaultValue": "AI Clipboard Text Recognition",
+        "value": "AI Clipboard Text Recognition"
+    },
+    {
+        "source": "src/locales/it.json",
+        "key": "Unable to recognize text",
+        "defaultValue": "Unable to recognize text",
+        "value": "Unable to recognize text"
+    },
+    {
+        "source": "src/locales/it.json",
+        "key": "AI text recognition is disabled",
+        "defaultValue": "AI text recognition is disabled",
+        "value": "AI text recognition is disabled"
+    },
+    {
+        "source": "src/locales/it.json",
+        "key": "Click here to paste a transaction description",
+        "defaultValue": "Click here to paste a transaction description",
+        "value": "Click here to paste a transaction description"
+    },
+    {
+        "source": "src/locales/it.json",
+        "key": "Uploaded text and personal data will be sent to the large language model, please be aware of potential privacy risks.",
+        "defaultValue": "Uploaded text and personal data will be sent to the large language model, please be aware of potential privacy risks.",
+        "value": "Uploaded text and personal data will be sent to the large language model, please be aware of potential privacy risks."
     },
     {
         "source": "src/locales/it.json",

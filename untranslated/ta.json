@@ -145,6 +145,18 @@
     },
     {
         "source": "src/locales/ta.json",
+        "key": "error.no text for AI recognition",
+        "defaultValue": "There is no text for AI recognition",
+        "value": "There is no text for AI recognition"
+    },
+    {
+        "source": "src/locales/ta.json",
+        "key": "error.text for AI recognition is empty",
+        "defaultValue": "Text for AI recognition is empty",
+        "value": "Text for AI recognition is empty"
+    },
+    {
+        "source": "src/locales/ta.json",
         "key": "sample.importTransactionCustomScript.fieldTimeDescription",
         "defaultValue": "[required] Transaction time, format: YYYY-MM-DD HH:mm:ss. You can also use the parseDateTime(value, format) function to convert a custom formatted time string to the standard format, where 'format' argument is the format of the custom time string, e.g. parseDateTime('12/31/2023 23:59', 'MM/DD/YYYY HH:mm') means converting '12/31/2023 23:59' to the standard format '2023-12-31 23:59:00'",
         "value": "[required] Transaction time, format: YYYY-MM-DD HH:mm:ss. You can also use the parseDateTime(value, format) function to convert a custom formatted time string to the standard format, where 'format' argument is the format of the custom time string, e.g. parseDateTime('12/31/2023 23:59', 'MM/DD/YYYY HH:mm') means converting '12/31/2023 23:59' to the standard format '2023-12-31 23:59:00'"
@@ -730,6 +742,36 @@
         "key": "Save & Duplicate",
         "defaultValue": "Save & Duplicate",
         "value": "Save & Duplicate"
+    },
+    {
+        "source": "src/locales/ta.json",
+        "key": "AI Clipboard Text Recognition",
+        "defaultValue": "AI Clipboard Text Recognition",
+        "value": "AI Clipboard Text Recognition"
+    },
+    {
+        "source": "src/locales/ta.json",
+        "key": "Unable to recognize text",
+        "defaultValue": "Unable to recognize text",
+        "value": "Unable to recognize text"
+    },
+    {
+        "source": "src/locales/ta.json",
+        "key": "AI text recognition is disabled",
+        "defaultValue": "AI text recognition is disabled",
+        "value": "AI text recognition is disabled"
+    },
+    {
+        "source": "src/locales/ta.json",
+        "key": "Click here to paste a transaction description",
+        "defaultValue": "Click here to paste a transaction description",
+        "value": "Click here to paste a transaction description"
+    },
+    {
+        "source": "src/locales/ta.json",
+        "key": "Uploaded text and personal data will be sent to the large language model, please be aware of potential privacy risks.",
+        "defaultValue": "Uploaded text and personal data will be sent to the large language model, please be aware of potential privacy risks.",
+        "value": "Uploaded text and personal data will be sent to the large language model, please be aware of potential privacy risks."
     },
     {
         "source": "src/locales/ta.json",
