@@ -100,5 +100,11 @@
         "key": "Excel 97-2003 Workbook File (.xls)",
         "defaultValue": "Excel 97-2003 Workbook File (.xls)",
         "value": "Excel 97-2003 Workbook File (.xls)"
+    },
+    {
+        "source": "src/locales/tr.json",
+        "key": "Always Require Confirmation of Clipboard Content Before Submission",
+        "defaultValue": "Always Require Confirmation of Clipboard Content Before Submission",
+        "value": "Always Require Confirmation of Clipboard Content Before Submission"
     }
 ]

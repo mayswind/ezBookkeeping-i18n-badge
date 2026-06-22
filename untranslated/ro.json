@@ -94,5 +94,11 @@
         "key": "Uploaded text and personal data will be sent to the large language model, please be aware of potential privacy risks.",
         "defaultValue": "Uploaded text and personal data will be sent to the large language model, please be aware of potential privacy risks.",
         "value": "Uploaded text and personal data will be sent to the large language model, please be aware of potential privacy risks."
+    },
+    {
+        "source": "src/locales/ro.json",
+        "key": "Always Require Confirmation of Clipboard Content Before Submission",
+        "defaultValue": "Always Require Confirmation of Clipboard Content Before Submission",
+        "value": "Always Require Confirmation of Clipboard Content Before Submission"
     }
 ]

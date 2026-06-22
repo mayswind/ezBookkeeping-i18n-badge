@@ -901,6 +901,12 @@
     },
     {
         "source": "src/locales/ta.json",
+        "key": "Always Require Confirmation of Clipboard Content Before Submission",
+        "defaultValue": "Always Require Confirmation of Clipboard Content Before Submission",
+        "value": "Always Require Confirmation of Clipboard Content Before Submission"
+    },
+    {
+        "source": "src/locales/ta.json",
         "key": "Auto Upload AI Recognition Image as Transaction Picture",
         "defaultValue": "Auto Upload AI Recognition Image as Transaction Picture",
         "value": "Auto Upload AI Recognition Image as Transaction Picture"
