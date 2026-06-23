@@ -1291,9 +1291,21 @@
     },
     {
         "source": "src/locales/fr.json",
+        "key": "Description (Exact)",
+        "defaultValue": "Description (Exact)",
+        "value": "Description (Exact)"
+    },
+    {
+        "source": "src/locales/fr.json",
         "key": "Description (Ignore Case)",
         "defaultValue": "Description (Ignore Case)",
         "value": "Description (Ignore Case)"
+    },
+    {
+        "source": "src/locales/fr.json",
+        "key": "Description (Normalized)",
+        "defaultValue": "Description (Normalized)",
+        "value": "Description (Normalized)"
     },
     {
         "source": "src/locales/fr.json",

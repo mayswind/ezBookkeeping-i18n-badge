@@ -61,6 +61,18 @@
     },
     {
         "source": "src/locales/ro.json",
+        "key": "Description (Exact)",
+        "defaultValue": "Description (Exact)",
+        "value": "Description (Exact)"
+    },
+    {
+        "source": "src/locales/ro.json",
+        "key": "Description (Normalized)",
+        "defaultValue": "Description (Normalized)",
+        "value": "Description (Normalized)"
+    },
+    {
+        "source": "src/locales/ro.json",
         "key": "Transfer",
         "defaultValue": "Transfer",
         "value": "Transfer"
