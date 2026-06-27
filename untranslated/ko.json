@@ -121,6 +121,18 @@
     },
     {
         "source": "src/locales/ko.json",
+        "key": "dataExport.defaultInsightsExplorerQueryFileName",
+        "defaultValue": "ezBookkeeping_insights_explorer_query",
+        "value": "ezBookkeeping_insights_explorer_query"
+    },
+    {
+        "source": "src/locales/ko.json",
+        "key": "dataExport.insightsExplorerQueryFileName",
+        "defaultValue": "ezBookkeeping_{nickname}_insights_explorer_query",
+        "value": "ezBookkeeping_{nickname}_insights_explorer_query"
+    },
+    {
+        "source": "src/locales/ko.json",
         "key": "dataExport.defaultImportDataMappingFileName",
         "defaultValue": "ezBookkeeping_import_data_mapping",
         "value": "ezBookkeeping_import_data_mapping"
@@ -484,6 +496,30 @@
         "key": "Transaction Gallery",
         "defaultValue": "Transaction Gallery",
         "value": "Transaction Gallery"
+    },
+    {
+        "source": "src/locales/ko.json",
+        "key": "Import Queries",
+        "defaultValue": "Import Queries",
+        "value": "Import Queries"
+    },
+    {
+        "source": "src/locales/ko.json",
+        "key": "Export Queries",
+        "defaultValue": "Export Queries",
+        "value": "Export Queries"
+    },
+    {
+        "source": "src/locales/ko.json",
+        "key": "No valid queries found in the input. Please make sure the queries are valid and try again.",
+        "defaultValue": "No valid queries found in the input. Please make sure the queries are valid and try again.",
+        "value": "No valid queries found in the input. Please make sure the queries are valid and try again."
+    },
+    {
+        "source": "src/locales/ko.json",
+        "key": "Queries import failed. Please make sure the queries are valid and try again.",
+        "defaultValue": "Queries import failed. Please make sure the queries are valid and try again.",
+        "value": "Queries import failed. Please make sure the queries are valid and try again."
     },
     {
         "source": "src/locales/ko.json",
