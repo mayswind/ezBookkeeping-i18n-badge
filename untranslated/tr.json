@@ -115,6 +115,30 @@
     },
     {
         "source": "src/locales/tr.json",
+        "key": "Default Keyword Search Matching Mode",
+        "defaultValue": "Default Keyword Search Matching Mode",
+        "value": "Default Keyword Search Matching Mode"
+    },
+    {
+        "source": "src/locales/tr.json",
+        "key": "Matching Mode",
+        "defaultValue": "Matching Mode",
+        "value": "Matching Mode"
+    },
+    {
+        "source": "src/locales/tr.json",
+        "key": "Database Default Setting",
+        "defaultValue": "Database Default Setting",
+        "value": "Database Default Setting"
+    },
+    {
+        "source": "src/locales/tr.json",
+        "key": "Ignore Case",
+        "defaultValue": "Ignore Case",
+        "value": "Ignore Case"
+    },
+    {
+        "source": "src/locales/tr.json",
         "key": "Always Require Confirmation of Clipboard Content Before Submission",
         "defaultValue": "Always Require Confirmation of Clipboard Content Before Submission",
         "value": "Always Require Confirmation of Clipboard Content Before Submission"

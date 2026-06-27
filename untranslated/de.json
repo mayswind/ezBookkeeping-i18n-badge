@@ -721,6 +721,30 @@
     },
     {
         "source": "src/locales/de.json",
+        "key": "Default Keyword Search Matching Mode",
+        "defaultValue": "Default Keyword Search Matching Mode",
+        "value": "Default Keyword Search Matching Mode"
+    },
+    {
+        "source": "src/locales/de.json",
+        "key": "Matching Mode",
+        "defaultValue": "Matching Mode",
+        "value": "Matching Mode"
+    },
+    {
+        "source": "src/locales/de.json",
+        "key": "Database Default Setting",
+        "defaultValue": "Database Default Setting",
+        "value": "Database Default Setting"
+    },
+    {
+        "source": "src/locales/de.json",
+        "key": "Ignore Case",
+        "defaultValue": "Ignore Case",
+        "value": "Ignore Case"
+    },
+    {
+        "source": "src/locales/de.json",
         "key": "Transaction Picture Upload Quality",
         "defaultValue": "Transaction Picture Upload Quality",
         "value": "Transaction Picture Upload Quality"

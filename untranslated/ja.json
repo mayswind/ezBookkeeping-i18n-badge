@@ -3157,6 +3157,30 @@
     },
     {
         "source": "src/locales/ja.json",
+        "key": "Default Keyword Search Matching Mode",
+        "defaultValue": "Default Keyword Search Matching Mode",
+        "value": "Default Keyword Search Matching Mode"
+    },
+    {
+        "source": "src/locales/ja.json",
+        "key": "Matching Mode",
+        "defaultValue": "Matching Mode",
+        "value": "Matching Mode"
+    },
+    {
+        "source": "src/locales/ja.json",
+        "key": "Database Default Setting",
+        "defaultValue": "Database Default Setting",
+        "value": "Database Default Setting"
+    },
+    {
+        "source": "src/locales/ja.json",
+        "key": "Ignore Case",
+        "defaultValue": "Ignore Case",
+        "value": "Ignore Case"
+    },
+    {
+        "source": "src/locales/ja.json",
         "key": "Quick Save Button Style",
         "defaultValue": "Quick Save Button Style",
         "value": "Quick Save Button Style"
