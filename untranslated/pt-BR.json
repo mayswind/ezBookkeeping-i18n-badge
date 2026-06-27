@@ -37,6 +37,24 @@
     },
     {
         "source": "src/locales/pt_BR.json",
+        "key": "format.misc.queryIdInvalidTip",
+        "defaultValue": "Query ID \"{id}\" is invalid. Please check and try again.",
+        "value": "Query ID \"{id}\" is invalid. Please check and try again."
+    },
+    {
+        "source": "src/locales/pt_BR.json",
+        "key": "format.misc.queryInvalidTip",
+        "defaultValue": "Query (ID: \"{id}\") is invalid. Please check and try again.",
+        "value": "Query (ID: \"{id}\") is invalid. Please check and try again."
+    },
+    {
+        "source": "src/locales/pt_BR.json",
+        "key": "format.misc.queryIdDuplicatedTip",
+        "defaultValue": "Query ID \"{id}\" is duplicated. Please check and try again.",
+        "value": "Query ID \"{id}\" is duplicated. Please check and try again."
+    },
+    {
+        "source": "src/locales/pt_BR.json",
         "key": "format.misc.deleteTransactionsTip",
         "defaultValue": "You CANNOT undo this action. This will delete {count} transactions. Please enter your current password to confirm.",
         "value": "You CANNOT undo this action. This will delete {count} transactions. Please enter your current password to confirm."

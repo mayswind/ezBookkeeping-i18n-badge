@@ -1,6 +1,24 @@
 [
     {
         "source": "src/locales/ro.json",
+        "key": "format.misc.queryIdInvalidTip",
+        "defaultValue": "Query ID \"{id}\" is invalid. Please check and try again.",
+        "value": "Query ID \"{id}\" is invalid. Please check and try again."
+    },
+    {
+        "source": "src/locales/ro.json",
+        "key": "format.misc.queryInvalidTip",
+        "defaultValue": "Query (ID: \"{id}\") is invalid. Please check and try again.",
+        "value": "Query (ID: \"{id}\") is invalid. Please check and try again."
+    },
+    {
+        "source": "src/locales/ro.json",
+        "key": "format.misc.queryIdDuplicatedTip",
+        "defaultValue": "Query ID \"{id}\" is duplicated. Please check and try again.",
+        "value": "Query ID \"{id}\" is duplicated. Please check and try again."
+    },
+    {
+        "source": "src/locales/ro.json",
         "key": "dataExport.defaultInsightsExplorerQueryFileName",
         "defaultValue": "ezBookkeeping_insights_explorer_query",
         "value": "ezBookkeeping_insights_explorer_query"

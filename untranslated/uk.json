@@ -7,6 +7,24 @@
     },
     {
         "source": "src/locales/uk.json",
+        "key": "format.misc.queryIdInvalidTip",
+        "defaultValue": "Query ID \"{id}\" is invalid. Please check and try again.",
+        "value": "Query ID \"{id}\" is invalid. Please check and try again."
+    },
+    {
+        "source": "src/locales/uk.json",
+        "key": "format.misc.queryInvalidTip",
+        "defaultValue": "Query (ID: \"{id}\") is invalid. Please check and try again.",
+        "value": "Query (ID: \"{id}\") is invalid. Please check and try again."
+    },
+    {
+        "source": "src/locales/uk.json",
+        "key": "format.misc.queryIdDuplicatedTip",
+        "defaultValue": "Query ID \"{id}\" is duplicated. Please check and try again.",
+        "value": "Query ID \"{id}\" is duplicated. Please check and try again."
+    },
+    {
+        "source": "src/locales/uk.json",
         "key": "dataExport.defaultExportFilename",
         "defaultValue": "ezBookkeeping_export_data",
         "value": "ezBookkeeping_export_data"
