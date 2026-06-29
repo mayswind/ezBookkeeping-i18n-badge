@@ -607,21 +607,21 @@
     },
     {
         "source": "src/locales/it.json",
-        "key": "error.explorer id is invalid",
-        "defaultValue": "Explorer ID is invalid",
-        "value": "Explorer ID is invalid"
+        "key": "error.exploration id is invalid",
+        "defaultValue": "Exploration ID is invalid",
+        "value": "Exploration ID is invalid"
     },
     {
         "source": "src/locales/it.json",
-        "key": "error.explorer not found",
-        "defaultValue": "Explorer is not found",
-        "value": "Explorer is not found"
+        "key": "error.exploration not found",
+        "defaultValue": "Exploration is not found",
+        "value": "Exploration is not found"
     },
     {
         "source": "src/locales/it.json",
-        "key": "error.explorer data is invalid",
-        "defaultValue": "Explorer data is invalid",
-        "value": "Explorer data is invalid"
+        "key": "error.exploration data is invalid",
+        "defaultValue": "Exploration data is invalid",
+        "value": "Exploration data is invalid"
     },
     {
         "source": "src/locales/it.json",
@@ -1423,9 +1423,9 @@
     },
     {
         "source": "src/locales/it.json",
-        "key": "Insights Explorers",
-        "defaultValue": "Insights Explorers",
-        "value": "Insights Explorers"
+        "key": "Explorations",
+        "defaultValue": "Explorations",
+        "value": "Explorations"
     },
     {
         "source": "src/locales/it.json",
@@ -1447,33 +1447,33 @@
     },
     {
         "source": "src/locales/it.json",
-        "key": "No available explorer",
-        "defaultValue": "No available explorer",
-        "value": "No available explorer"
+        "key": "No available exploration",
+        "defaultValue": "No available exploration",
+        "value": "No available exploration"
     },
     {
         "source": "src/locales/it.json",
-        "key": "New Explorer",
-        "defaultValue": "New Explorer",
-        "value": "New Explorer"
+        "key": "New Exploration",
+        "defaultValue": "New Exploration",
+        "value": "New Exploration"
     },
     {
         "source": "src/locales/it.json",
-        "key": "Untitled Explorer",
-        "defaultValue": "Untitled Explorer",
-        "value": "Untitled Explorer"
+        "key": "Untitled Exploration",
+        "defaultValue": "Untitled Exploration",
+        "value": "Untitled Exploration"
     },
     {
         "source": "src/locales/it.json",
-        "key": "Save Explorer",
-        "defaultValue": "Save Explorer",
-        "value": "Save Explorer"
+        "key": "Save Exploration",
+        "defaultValue": "Save Exploration",
+        "value": "Save Exploration"
     },
     {
         "source": "src/locales/it.json",
-        "key": "Save As New Explorer",
-        "defaultValue": "Save As New Explorer",
-        "value": "Save As New Explorer"
+        "key": "Save As New Exploration",
+        "defaultValue": "Save As New Exploration",
+        "value": "Save As New Exploration"
     },
     {
         "source": "src/locales/it.json",
@@ -1525,45 +1525,45 @@
     },
     {
         "source": "src/locales/it.json",
-        "key": "Set Explorer Name",
-        "defaultValue": "Set Explorer Name",
-        "value": "Set Explorer Name"
+        "key": "Set Exploration Name",
+        "defaultValue": "Set Exploration Name",
+        "value": "Set Exploration Name"
     },
     {
         "source": "src/locales/it.json",
-        "key": "Rename Explorer",
-        "defaultValue": "Rename Explorer",
-        "value": "Rename Explorer"
+        "key": "Rename Exploration",
+        "defaultValue": "Rename Exploration",
+        "value": "Rename Exploration"
     },
     {
         "source": "src/locales/it.json",
-        "key": "Hide Explorer",
-        "defaultValue": "Hide Explorer",
-        "value": "Hide Explorer"
+        "key": "Hide Exploration",
+        "defaultValue": "Hide Exploration",
+        "value": "Hide Exploration"
     },
     {
         "source": "src/locales/it.json",
-        "key": "Unhide Explorer",
-        "defaultValue": "Unhide Explorer",
-        "value": "Unhide Explorer"
+        "key": "Unhide Exploration",
+        "defaultValue": "Unhide Exploration",
+        "value": "Unhide Exploration"
     },
     {
         "source": "src/locales/it.json",
-        "key": "Delete Explorer",
-        "defaultValue": "Delete Explorer",
-        "value": "Delete Explorer"
+        "key": "Delete Exploration",
+        "defaultValue": "Delete Exploration",
+        "value": "Delete Exploration"
     },
     {
         "source": "src/locales/it.json",
-        "key": "Change Explorer Display Order",
-        "defaultValue": "Change Explorer Display Order",
-        "value": "Change Explorer Display Order"
+        "key": "Change Exploration Display Order",
+        "defaultValue": "Change Exploration Display Order",
+        "value": "Change Exploration Display Order"
     },
     {
         "source": "src/locales/it.json",
-        "key": "Explorer Name",
-        "defaultValue": "Explorer Name",
-        "value": "Explorer Name"
+        "key": "Exploration Name",
+        "defaultValue": "Exploration Name",
+        "value": "Exploration Name"
     },
     {
         "source": "src/locales/it.json",
@@ -1609,81 +1609,81 @@
     },
     {
         "source": "src/locales/it.json",
-        "key": "Unable to retrieve explorer list",
-        "defaultValue": "Unable to retrieve explorer list",
-        "value": "Unable to retrieve explorer list"
+        "key": "Unable to retrieve exploration list",
+        "defaultValue": "Unable to retrieve exploration list",
+        "value": "Unable to retrieve exploration list"
     },
     {
         "source": "src/locales/it.json",
-        "key": "Explorer list is up to date",
-        "defaultValue": "Explorer list is up to date",
-        "value": "Explorer list is up to date"
+        "key": "Exploration list is up to date",
+        "defaultValue": "Exploration list is up to date",
+        "value": "Exploration list is up to date"
     },
     {
         "source": "src/locales/it.json",
-        "key": "Explorer list has been updated",
-        "defaultValue": "Explorer list has been updated",
-        "value": "Explorer list has been updated"
+        "key": "Exploration list has been updated",
+        "defaultValue": "Exploration list has been updated",
+        "value": "Exploration list has been updated"
     },
     {
         "source": "src/locales/it.json",
-        "key": "Unable to retrieve explorer",
-        "defaultValue": "Unable to retrieve explorer",
-        "value": "Unable to retrieve explorer"
+        "key": "Unable to retrieve exploration",
+        "defaultValue": "Unable to retrieve exploration",
+        "value": "Unable to retrieve exploration"
     },
     {
         "source": "src/locales/it.json",
-        "key": "Unable to add explorer",
-        "defaultValue": "Unable to add explorer",
-        "value": "Unable to add explorer"
+        "key": "Unable to add exploration",
+        "defaultValue": "Unable to add exploration",
+        "value": "Unable to add exploration"
     },
     {
         "source": "src/locales/it.json",
-        "key": "Unable to save explorer",
-        "defaultValue": "Unable to save explorer",
-        "value": "Unable to save explorer"
+        "key": "Unable to save exploration",
+        "defaultValue": "Unable to save exploration",
+        "value": "Unable to save exploration"
     },
     {
         "source": "src/locales/it.json",
-        "key": "Unable to move explorer",
-        "defaultValue": "Unable to move explorer",
-        "value": "Unable to move explorer"
+        "key": "Unable to move exploration",
+        "defaultValue": "Unable to move exploration",
+        "value": "Unable to move exploration"
     },
     {
         "source": "src/locales/it.json",
-        "key": "Unable to hide this explorer",
-        "defaultValue": "Unable to hide this explorer",
-        "value": "Unable to hide this explorer"
+        "key": "Unable to hide this exploration",
+        "defaultValue": "Unable to hide this exploration",
+        "value": "Unable to hide this exploration"
     },
     {
         "source": "src/locales/it.json",
-        "key": "Unable to unhide this explorer",
-        "defaultValue": "Unable to unhide this explorer",
-        "value": "Unable to unhide this explorer"
+        "key": "Unable to unhide this exploration",
+        "defaultValue": "Unable to unhide this exploration",
+        "value": "Unable to unhide this exploration"
     },
     {
         "source": "src/locales/it.json",
-        "key": "Are you sure you want to delete this explorer?",
-        "defaultValue": "Are you sure you want to delete this explorer?",
-        "value": "Are you sure you want to delete this explorer?"
+        "key": "Are you sure you want to delete this exploration?",
+        "defaultValue": "Are you sure you want to delete this exploration?",
+        "value": "Are you sure you want to delete this exploration?"
     },
     {
         "source": "src/locales/it.json",
-        "key": "Unable to delete this explorer",
-        "defaultValue": "Unable to delete this explorer",
-        "value": "Unable to delete this explorer"
+        "key": "Unable to delete this exploration",
+        "defaultValue": "Unable to delete this exploration",
+        "value": "Unable to delete this exploration"
     },
     {
         "source": "src/locales/it.json",
-        "key": "Show Hidden Explorers",
-        "defaultValue": "Show Hidden Explorers",
-        "value": "Show Hidden Explorers"
+        "key": "Show Hidden Explorations",
+        "defaultValue": "Show Hidden Explorations",
+        "value": "Show Hidden Explorations"
     },
     {
         "source": "src/locales/it.json",
-        "key": "Hide Hidden Explorers",
-        "defaultValue": "Hide Hidden Explorers",
-        "value": "Hide Hidden Explorers"
+        "key": "Hide Hidden Explorations",
+        "defaultValue": "Hide Hidden Explorations",
+        "value": "Hide Hidden Explorations"
     },
     {
         "source": "src/locales/it.json",
@@ -2545,6 +2545,12 @@
     },
     {
         "source": "src/locales/it.json",
+        "key": "AI Text Content Recognition",
+        "defaultValue": "AI Text Content Recognition",
+        "value": "AI Text Content Recognition"
+    },
+    {
+        "source": "src/locales/it.json",
         "key": "Alipay (App) Statement File",
         "defaultValue": "Alipay (App) Statement File",
         "value": "Alipay (App) Statement File"
@@ -2632,6 +2638,12 @@
         "key": "Parse Merchant as Tag",
         "defaultValue": "Parse Merchant as Tag",
         "value": "Parse Merchant as Tag"
+    },
+    {
+        "source": "src/locales/it.json",
+        "key": "Additional Prompt",
+        "defaultValue": "Additional Prompt",
+        "value": "Additional Prompt"
     },
     {
         "source": "src/locales/it.json",

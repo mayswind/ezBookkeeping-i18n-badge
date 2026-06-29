@@ -187,6 +187,24 @@
     },
     {
         "source": "src/locales/ta.json",
+        "key": "error.exploration id is invalid",
+        "defaultValue": "Exploration ID is invalid",
+        "value": "Exploration ID is invalid"
+    },
+    {
+        "source": "src/locales/ta.json",
+        "key": "error.exploration not found",
+        "defaultValue": "Exploration is not found",
+        "value": "Exploration is not found"
+    },
+    {
+        "source": "src/locales/ta.json",
+        "key": "error.exploration data is invalid",
+        "defaultValue": "Exploration data is invalid",
+        "value": "Exploration data is invalid"
+    },
+    {
+        "source": "src/locales/ta.json",
         "key": "sample.importTransactionCustomScript.fieldTimeDescription",
         "defaultValue": "[required] Transaction time, format: YYYY-MM-DD HH:mm:ss. You can also use the parseDateTime(value, format) function to convert a custom formatted time string to the standard format, where 'format' argument is the format of the custom time string, e.g. parseDateTime('12/31/2023 23:59', 'MM/DD/YYYY HH:mm') means converting '12/31/2023 23:59' to the standard format '2023-12-31 23:59:00'",
         "value": "[required] Transaction time, format: YYYY-MM-DD HH:mm:ss. You can also use the parseDateTime(value, format) function to convert a custom formatted time string to the standard format, where 'format' argument is the format of the custom time string, e.g. parseDateTime('12/31/2023 23:59', 'MM/DD/YYYY HH:mm') means converting '12/31/2023 23:59' to the standard format '2023-12-31 23:59:00'"
@@ -415,6 +433,42 @@
     },
     {
         "source": "src/locales/ta.json",
+        "key": "Explorations",
+        "defaultValue": "Explorations",
+        "value": "Explorations"
+    },
+    {
+        "source": "src/locales/ta.json",
+        "key": "No available exploration",
+        "defaultValue": "No available exploration",
+        "value": "No available exploration"
+    },
+    {
+        "source": "src/locales/ta.json",
+        "key": "New Exploration",
+        "defaultValue": "New Exploration",
+        "value": "New Exploration"
+    },
+    {
+        "source": "src/locales/ta.json",
+        "key": "Untitled Exploration",
+        "defaultValue": "Untitled Exploration",
+        "value": "Untitled Exploration"
+    },
+    {
+        "source": "src/locales/ta.json",
+        "key": "Save Exploration",
+        "defaultValue": "Save Exploration",
+        "value": "Save Exploration"
+    },
+    {
+        "source": "src/locales/ta.json",
+        "key": "Save As New Exploration",
+        "defaultValue": "Save As New Exploration",
+        "value": "Save As New Exploration"
+    },
+    {
+        "source": "src/locales/ta.json",
         "key": "Import Queries",
         "defaultValue": "Import Queries",
         "value": "Import Queries"
@@ -451,9 +505,129 @@
     },
     {
         "source": "src/locales/ta.json",
+        "key": "Set Exploration Name",
+        "defaultValue": "Set Exploration Name",
+        "value": "Set Exploration Name"
+    },
+    {
+        "source": "src/locales/ta.json",
+        "key": "Rename Exploration",
+        "defaultValue": "Rename Exploration",
+        "value": "Rename Exploration"
+    },
+    {
+        "source": "src/locales/ta.json",
+        "key": "Hide Exploration",
+        "defaultValue": "Hide Exploration",
+        "value": "Hide Exploration"
+    },
+    {
+        "source": "src/locales/ta.json",
+        "key": "Unhide Exploration",
+        "defaultValue": "Unhide Exploration",
+        "value": "Unhide Exploration"
+    },
+    {
+        "source": "src/locales/ta.json",
+        "key": "Delete Exploration",
+        "defaultValue": "Delete Exploration",
+        "value": "Delete Exploration"
+    },
+    {
+        "source": "src/locales/ta.json",
+        "key": "Change Exploration Display Order",
+        "defaultValue": "Change Exploration Display Order",
+        "value": "Change Exploration Display Order"
+    },
+    {
+        "source": "src/locales/ta.json",
+        "key": "Exploration Name",
+        "defaultValue": "Exploration Name",
+        "value": "Exploration Name"
+    },
+    {
+        "source": "src/locales/ta.json",
         "key": "Add Sub Condition",
         "defaultValue": "Add Sub Condition",
         "value": "Add Sub Condition"
+    },
+    {
+        "source": "src/locales/ta.json",
+        "key": "Unable to retrieve exploration list",
+        "defaultValue": "Unable to retrieve exploration list",
+        "value": "Unable to retrieve exploration list"
+    },
+    {
+        "source": "src/locales/ta.json",
+        "key": "Exploration list is up to date",
+        "defaultValue": "Exploration list is up to date",
+        "value": "Exploration list is up to date"
+    },
+    {
+        "source": "src/locales/ta.json",
+        "key": "Exploration list has been updated",
+        "defaultValue": "Exploration list has been updated",
+        "value": "Exploration list has been updated"
+    },
+    {
+        "source": "src/locales/ta.json",
+        "key": "Unable to retrieve exploration",
+        "defaultValue": "Unable to retrieve exploration",
+        "value": "Unable to retrieve exploration"
+    },
+    {
+        "source": "src/locales/ta.json",
+        "key": "Unable to add exploration",
+        "defaultValue": "Unable to add exploration",
+        "value": "Unable to add exploration"
+    },
+    {
+        "source": "src/locales/ta.json",
+        "key": "Unable to save exploration",
+        "defaultValue": "Unable to save exploration",
+        "value": "Unable to save exploration"
+    },
+    {
+        "source": "src/locales/ta.json",
+        "key": "Unable to move exploration",
+        "defaultValue": "Unable to move exploration",
+        "value": "Unable to move exploration"
+    },
+    {
+        "source": "src/locales/ta.json",
+        "key": "Unable to hide this exploration",
+        "defaultValue": "Unable to hide this exploration",
+        "value": "Unable to hide this exploration"
+    },
+    {
+        "source": "src/locales/ta.json",
+        "key": "Unable to unhide this exploration",
+        "defaultValue": "Unable to unhide this exploration",
+        "value": "Unable to unhide this exploration"
+    },
+    {
+        "source": "src/locales/ta.json",
+        "key": "Are you sure you want to delete this exploration?",
+        "defaultValue": "Are you sure you want to delete this exploration?",
+        "value": "Are you sure you want to delete this exploration?"
+    },
+    {
+        "source": "src/locales/ta.json",
+        "key": "Unable to delete this exploration",
+        "defaultValue": "Unable to delete this exploration",
+        "value": "Unable to delete this exploration"
+    },
+    {
+        "source": "src/locales/ta.json",
+        "key": "Show Hidden Explorations",
+        "defaultValue": "Show Hidden Explorations",
+        "value": "Show Hidden Explorations"
+    },
+    {
+        "source": "src/locales/ta.json",
+        "key": "Hide Hidden Explorations",
+        "defaultValue": "Hide Hidden Explorations",
+        "value": "Hide Hidden Explorations"
     },
     {
         "source": "src/locales/ta.json",
@@ -856,6 +1030,18 @@
         "key": "Excel 97-2003 Workbook File (.xls)",
         "defaultValue": "Excel 97-2003 Workbook File (.xls)",
         "value": "Excel 97-2003 Workbook File (.xls)"
+    },
+    {
+        "source": "src/locales/ta.json",
+        "key": "AI Text Content Recognition",
+        "defaultValue": "AI Text Content Recognition",
+        "value": "AI Text Content Recognition"
+    },
+    {
+        "source": "src/locales/ta.json",
+        "key": "Additional Prompt",
+        "defaultValue": "Additional Prompt",
+        "value": "Additional Prompt"
     },
     {
         "source": "src/locales/ta.json",
