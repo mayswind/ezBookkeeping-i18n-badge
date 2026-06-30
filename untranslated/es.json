@@ -793,6 +793,36 @@
     },
     {
         "source": "src/locales/es.json",
+        "key": "Median-to-Mean Ratio",
+        "defaultValue": "Median-to-Mean Ratio",
+        "value": "Median-to-Mean Ratio"
+    },
+    {
+        "source": "src/locales/es.json",
+        "key": "Outlier Count",
+        "defaultValue": "Outlier Count",
+        "value": "Outlier Count"
+    },
+    {
+        "source": "src/locales/es.json",
+        "key": "Outlier Ratio",
+        "defaultValue": "Outlier Ratio",
+        "value": "Outlier Ratio"
+    },
+    {
+        "source": "src/locales/es.json",
+        "key": "Gini Coefficient",
+        "defaultValue": "Gini Coefficient",
+        "value": "Gini Coefficient"
+    },
+    {
+        "source": "src/locales/es.json",
+        "key": "Herfindahl-Hirschman Index",
+        "defaultValue": "Herfindahl-Hirschman Index",
+        "value": "Herfindahl-Hirschman Index"
+    },
+    {
+        "source": "src/locales/es.json",
         "key": "Update Categories for Expense Transactions",
         "defaultValue": "Update Categories for Expense Transactions",
         "value": "Update Categories for Expense Transactions"

@@ -1291,6 +1291,12 @@
     },
     {
         "source": "src/locales/kn.json",
+        "key": "Median-to-Mean Ratio",
+        "defaultValue": "Median-to-Mean Ratio",
+        "value": "Median-to-Mean Ratio"
+    },
+    {
+        "source": "src/locales/kn.json",
         "key": "Maximum Amount Share",
         "defaultValue": "Maximum Amount Share",
         "value": "Maximum Amount Share"
@@ -1312,6 +1318,18 @@
         "key": "Transactions for 80% of Amount",
         "defaultValue": "Transactions for 80% of Amount",
         "value": "Transactions for 80% of Amount"
+    },
+    {
+        "source": "src/locales/kn.json",
+        "key": "Outlier Count",
+        "defaultValue": "Outlier Count",
+        "value": "Outlier Count"
+    },
+    {
+        "source": "src/locales/kn.json",
+        "key": "Outlier Ratio",
+        "defaultValue": "Outlier Ratio",
+        "value": "Outlier Ratio"
     },
     {
         "source": "src/locales/kn.json",
@@ -1366,6 +1384,18 @@
         "key": "Kurtosis",
         "defaultValue": "Kurtosis",
         "value": "Kurtosis"
+    },
+    {
+        "source": "src/locales/kn.json",
+        "key": "Gini Coefficient",
+        "defaultValue": "Gini Coefficient",
+        "value": "Gini Coefficient"
+    },
+    {
+        "source": "src/locales/kn.json",
+        "key": "Herfindahl-Hirschman Index",
+        "defaultValue": "Herfindahl-Hirschman Index",
+        "value": "Herfindahl-Hirschman Index"
     },
     {
         "source": "src/locales/kn.json",
