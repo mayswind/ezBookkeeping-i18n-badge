@@ -73,6 +73,18 @@
     },
     {
         "source": "src/locales/ko.json",
+        "key": "format.misc.recognizingImagesProcess",
+        "defaultValue": "Recognizing images, Completed: {success}, Failed: {failed}, Total: {total} images.",
+        "value": "Recognizing images, Completed: {success}, Failed: {failed}, Total: {total} images."
+    },
+    {
+        "source": "src/locales/ko.json",
+        "key": "format.misc.recognizedImagesProcess",
+        "defaultValue": "Completed: {success}, Failed: {failed}, Total: {total} images.",
+        "value": "Completed: {success}, Failed: {failed}, Total: {total} images."
+    },
+    {
+        "source": "src/locales/ko.json",
         "key": "format.misc.queryIdInvalidTip",
         "defaultValue": "Query ID \"{id}\" is invalid. Please check and try again.",
         "value": "Query ID \"{id}\" is invalid. Please check and try again."
@@ -1174,6 +1186,30 @@
         "key": "Additional Prompt",
         "defaultValue": "Additional Prompt",
         "value": "Additional Prompt"
+    },
+    {
+        "source": "src/locales/ko.json",
+        "key": "AI Batch Image Recognition",
+        "defaultValue": "AI Batch Image Recognition",
+        "value": "AI Batch Image Recognition"
+    },
+    {
+        "source": "src/locales/ko.json",
+        "key": "Image Files",
+        "defaultValue": "Image Files",
+        "value": "Image Files"
+    },
+    {
+        "source": "src/locales/ko.json",
+        "key": "Recognize Images",
+        "defaultValue": "Recognize Images",
+        "value": "Recognize Images"
+    },
+    {
+        "source": "src/locales/ko.json",
+        "key": "Recognize Transactions from Images",
+        "defaultValue": "Recognize Transactions from Images",
+        "value": "Recognize Transactions from Images"
     },
     {
         "source": "src/locales/ko.json",
