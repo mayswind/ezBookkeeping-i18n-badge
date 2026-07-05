@@ -25,6 +25,18 @@
     },
     {
         "source": "src/locales/fr.json",
+        "key": "format.misc.charactersRemaining",
+        "defaultValue": "{count} character(s) remaining",
+        "value": "{count} character(s) remaining"
+    },
+    {
+        "source": "src/locales/fr.json",
+        "key": "format.misc.charactersOverLimit",
+        "defaultValue": "{count} character(s) over limit",
+        "value": "{count} character(s) over limit"
+    },
+    {
+        "source": "src/locales/fr.json",
         "key": "format.misc.loginWithCustomProvider",
         "defaultValue": "Log in with {name}",
         "value": "Log in with {name}"

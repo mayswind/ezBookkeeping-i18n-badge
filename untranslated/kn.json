@@ -1,6 +1,18 @@
 [
     {
         "source": "src/locales/kn.json",
+        "key": "format.misc.charactersRemaining",
+        "defaultValue": "{count} character(s) remaining",
+        "value": "{count} character(s) remaining"
+    },
+    {
+        "source": "src/locales/kn.json",
+        "key": "format.misc.charactersOverLimit",
+        "defaultValue": "{count} character(s) over limit",
+        "value": "{count} character(s) over limit"
+    },
+    {
+        "source": "src/locales/kn.json",
         "key": "format.misc.lastMonthDay",
         "defaultValue": "Last {ordinal} day",
         "value": "Last {ordinal} day"
