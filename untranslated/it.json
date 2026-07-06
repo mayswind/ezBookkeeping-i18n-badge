@@ -26,14 +26,14 @@
     {
         "source": "src/locales/it.json",
         "key": "format.misc.charactersRemaining",
-        "defaultValue": "{count} character(s) remaining",
-        "value": "{count} character(s) remaining"
+        "defaultValue": "{count} remaining",
+        "value": "{count} remaining"
     },
     {
         "source": "src/locales/it.json",
         "key": "format.misc.charactersOverLimit",
-        "defaultValue": "{count} character(s) over limit",
-        "value": "{count} character(s) over limit"
+        "defaultValue": "{count} over",
+        "value": "{count} over"
     },
     {
         "source": "src/locales/it.json",
