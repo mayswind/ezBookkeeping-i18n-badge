@@ -2413,6 +2413,12 @@
     },
     {
         "source": "src/locales/vi.json",
+        "key": "List",
+        "defaultValue": "List",
+        "value": "List"
+    },
+    {
+        "source": "src/locales/vi.json",
         "key": "Raw Data",
         "defaultValue": "Raw Data",
         "value": "Raw Data"
@@ -4558,6 +4564,48 @@
         "key": "Longitude Latitude D°M'S\"",
         "defaultValue": "Longitude Latitude D°M'S\"",
         "value": "Longitude Latitude D°M'S\""
+    },
+    {
+        "source": "src/locales/vi.json",
+        "key": "General Settings",
+        "defaultValue": "General Settings",
+        "value": "General Settings"
+    },
+    {
+        "source": "src/locales/vi.json",
+        "key": "Chart Color Scheme",
+        "defaultValue": "Chart Color Scheme",
+        "value": "Chart Color Scheme"
+    },
+    {
+        "source": "src/locales/vi.json",
+        "key": "Chart color scheme saved",
+        "defaultValue": "Chart color scheme saved",
+        "value": "Chart color scheme saved"
+    },
+    {
+        "source": "src/locales/vi.json",
+        "key": "Chart color scheme imported",
+        "defaultValue": "Chart color scheme imported",
+        "value": "Chart color scheme imported"
+    },
+    {
+        "source": "src/locales/vi.json",
+        "key": "No valid colors found",
+        "defaultValue": "No valid colors found",
+        "value": "No valid colors found"
+    },
+    {
+        "source": "src/locales/vi.json",
+        "key": "Each line should be a hex color value (e.g. c67e48 or #c67e48)",
+        "defaultValue": "Each line should be a hex color value (e.g. c67e48 or #c67e48)",
+        "value": "Each line should be a hex color value (e.g. c67e48 or #c67e48)"
+    },
+    {
+        "source": "src/locales/vi.json",
+        "key": "Unable to move color",
+        "defaultValue": "Unable to move color",
+        "value": "Unable to move color"
     },
     {
         "source": "src/locales/vi.json",
