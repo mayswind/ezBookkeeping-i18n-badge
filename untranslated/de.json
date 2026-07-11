@@ -127,6 +127,54 @@
     },
     {
         "source": "src/locales/de.json",
+        "key": "sample.importInsightsExplorerQueries.queryIdDescription",
+        "defaultValue": "[optional] Unique UUID for the query. Must be a valid UUID and unique within the same exploration. If omitted, a UUID is generated automatically.",
+        "value": "[optional] Unique UUID for the query. Must be a valid UUID and unique within the same exploration. If omitted, a UUID is generated automatically."
+    },
+    {
+        "source": "src/locales/de.json",
+        "key": "sample.importInsightsExplorerQueries.queryNameDescription",
+        "defaultValue": "[required] Query name",
+        "value": "[required] Query name"
+    },
+    {
+        "source": "src/locales/de.json",
+        "key": "sample.importInsightsExplorerQueries.conditionDescription",
+        "defaultValue": "[optional] Omit this field when relation is \")\", otherwise it is required",
+        "value": "[optional] Omit this field when relation is \")\", otherwise it is required"
+    },
+    {
+        "source": "src/locales/de.json",
+        "key": "sample.importInsightsExplorerQueries.conditionFieldDescription",
+        "defaultValue": "[required] Query field name",
+        "value": "[required] Query field name"
+    },
+    {
+        "source": "src/locales/de.json",
+        "key": "sample.importInsightsExplorerQueries.conditionOperatorDescription",
+        "defaultValue": "[required] Match type",
+        "value": "[required] Match type"
+    },
+    {
+        "source": "src/locales/de.json",
+        "key": "sample.importInsightsExplorerQueries.conditionValueDescription",
+        "defaultValue": "[required] Match value(s). Depending on the match type, this may be a string, an array of strings, or an array of numbers",
+        "value": "[required] Match value(s). Depending on the match type, this may be a string, an array of strings, or an array of numbers"
+    },
+    {
+        "source": "src/locales/de.json",
+        "key": "sample.importInsightsExplorerQueries.conditionRelationDescription",
+        "defaultValue": "[required] Logical relationship with the previous condition",
+        "value": "[required] Logical relationship with the previous condition"
+    },
+    {
+        "source": "src/locales/de.json",
+        "key": "sample.importInsightsExplorerQueries.additionalQueryDescription",
+        "defaultValue": "Additional query conditions",
+        "value": "Additional query conditions"
+    },
+    {
+        "source": "src/locales/de.json",
         "key": "Original",
         "defaultValue": "Original",
         "value": "Original"
@@ -562,5 +610,17 @@
         "key": "Unable to move color",
         "defaultValue": "Unable to move color",
         "value": "Unable to move color"
+    },
+    {
+        "source": "src/locales/de.json",
+        "key": "Show Diagnosis Information",
+        "defaultValue": "Show Diagnosis Information",
+        "value": "Show Diagnosis Information"
+    },
+    {
+        "source": "src/locales/de.json",
+        "key": "Diagnosis Information",
+        "defaultValue": "Diagnosis Information",
+        "value": "Diagnosis Information"
     }
 ]
