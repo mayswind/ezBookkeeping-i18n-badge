@@ -1513,6 +1513,12 @@
     },
     {
         "source": "src/locales/ta.json",
+        "key": "Failed to load QR code",
+        "defaultValue": "Failed to load QR code",
+        "value": "Failed to load QR code"
+    },
+    {
+        "source": "src/locales/ta.json",
         "key": "Show Diagnosis Information",
         "defaultValue": "Show Diagnosis Information",
         "value": "Show Diagnosis Information"

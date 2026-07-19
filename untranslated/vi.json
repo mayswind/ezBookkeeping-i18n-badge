@@ -5401,6 +5401,12 @@
     },
     {
         "source": "src/locales/vi.json",
+        "key": "Failed to load QR code",
+        "defaultValue": "Failed to load QR code",
+        "value": "Failed to load QR code"
+    },
+    {
+        "source": "src/locales/vi.json",
         "key": "Are you sure you want to switch to desktop version?",
         "defaultValue": "Are you sure you want to switch to desktop version?",
         "value": "Are you sure you want to switch to desktop version?"

@@ -553,6 +553,12 @@
     },
     {
         "source": "src/locales/ro.json",
+        "key": "Failed to load QR code",
+        "defaultValue": "Failed to load QR code",
+        "value": "Failed to load QR code"
+    },
+    {
+        "source": "src/locales/ro.json",
         "key": "Show Diagnosis Information",
         "defaultValue": "Show Diagnosis Information",
         "value": "Show Diagnosis Information"

@@ -1861,6 +1861,12 @@
     },
     {
         "source": "src/locales/es.json",
+        "key": "Failed to load QR code",
+        "defaultValue": "Failed to load QR code",
+        "value": "Failed to load QR code"
+    },
+    {
+        "source": "src/locales/es.json",
         "key": "Refresh Browser Cache",
         "defaultValue": "Refresh Browser Cache",
         "value": "Refresh Browser Cache"
