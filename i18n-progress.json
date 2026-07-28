@@ -1,160 +1,160 @@
 {
     "de": {
         "languageTag": "de",
-        "frontendTranslated": 2097,
-        "frontendTotal": 2202,
+        "frontendTranslated": 2098,
+        "frontendTotal": 2203,
         "backendTranslated": 10,
         "backendTotal": 10,
-        "totalProgress": 95.25
+        "totalProgress": 95.26
     },
     "en": {
         "languageTag": "en",
-        "frontendTranslated": 2202,
-        "frontendTotal": 2202,
+        "frontendTranslated": 2203,
+        "frontendTotal": 2203,
         "backendTranslated": 10,
         "backendTotal": 10,
         "totalProgress": 100
     },
     "es": {
         "languageTag": "es",
-        "frontendTranslated": 1888,
-        "frontendTotal": 2202,
+        "frontendTranslated": 1889,
+        "frontendTotal": 2203,
         "backendTranslated": 10,
         "backendTotal": 10,
-        "totalProgress": 85.8
+        "totalProgress": 85.81
     },
     "fr": {
         "languageTag": "fr",
-        "frontendTranslated": 1718,
-        "frontendTotal": 2202,
+        "frontendTranslated": 1719,
+        "frontendTotal": 2203,
         "backendTranslated": 10,
         "backendTotal": 10,
-        "totalProgress": 78.12
+        "totalProgress": 78.13
     },
     "it": {
         "languageTag": "it",
-        "frontendTranslated": 1526,
-        "frontendTotal": 2202,
+        "frontendTranslated": 1527,
+        "frontendTotal": 2203,
         "backendTranslated": 10,
         "backendTotal": 10,
-        "totalProgress": 69.44
+        "totalProgress": 69.45
     },
     "ja": {
         "languageTag": "ja",
-        "frontendTranslated": 2197,
-        "frontendTotal": 2202,
+        "frontendTranslated": 2198,
+        "frontendTotal": 2203,
         "backendTranslated": 10,
         "backendTotal": 10,
         "totalProgress": 99.77
     },
     "kn": {
         "languageTag": "kn",
-        "frontendTranslated": 1830,
-        "frontendTotal": 2202,
+        "frontendTranslated": 1831,
+        "frontendTotal": 2203,
         "backendTranslated": 6,
         "backendTotal": 10,
-        "totalProgress": 83
+        "totalProgress": 83.01
     },
     "ko": {
         "languageTag": "ko",
-        "frontendTranslated": 1926,
-        "frontendTotal": 2202,
+        "frontendTranslated": 1927,
+        "frontendTotal": 2203,
         "backendTranslated": 10,
         "backendTotal": 10,
-        "totalProgress": 87.52
+        "totalProgress": 87.53
     },
     "nl": {
         "languageTag": "nl",
-        "frontendTranslated": 1493,
-        "frontendTotal": 2202,
+        "frontendTranslated": 1494,
+        "frontendTotal": 2203,
         "backendTranslated": 10,
         "backendTotal": 10,
-        "totalProgress": 67.95
+        "totalProgress": 67.96
     },
     "pt-BR": {
         "languageTag": "pt-BR",
-        "frontendTranslated": 2008,
-        "frontendTotal": 2202,
+        "frontendTranslated": 2009,
+        "frontendTotal": 2203,
         "backendTranslated": 10,
         "backendTotal": 10,
         "totalProgress": 91.23
     },
     "ro": {
         "languageTag": "ro",
-        "frontendTranslated": 2107,
-        "frontendTotal": 2202,
+        "frontendTranslated": 2108,
+        "frontendTotal": 2203,
         "backendTranslated": 10,
         "backendTotal": 10,
         "totalProgress": 95.71
     },
     "ru": {
         "languageTag": "ru",
-        "frontendTranslated": 1954,
-        "frontendTotal": 2202,
+        "frontendTranslated": 1955,
+        "frontendTotal": 2203,
         "backendTranslated": 10,
         "backendTotal": 10,
         "totalProgress": 88.79
     },
     "sl": {
         "languageTag": "sl",
-        "frontendTranslated": 1922,
-        "frontendTotal": 2202,
+        "frontendTranslated": 1923,
+        "frontendTotal": 2203,
         "backendTranslated": 10,
         "backendTotal": 10,
-        "totalProgress": 87.34
+        "totalProgress": 87.35
     },
     "ta": {
         "languageTag": "ta",
-        "frontendTranslated": 1947,
-        "frontendTotal": 2202,
+        "frontendTranslated": 1948,
+        "frontendTotal": 2203,
         "backendTranslated": 10,
         "backendTotal": 10,
-        "totalProgress": 88.47
+        "totalProgress": 88.48
     },
     "th": {
         "languageTag": "th",
-        "frontendTranslated": 1741,
-        "frontendTotal": 2202,
+        "frontendTranslated": 1742,
+        "frontendTotal": 2203,
         "backendTranslated": 10,
         "backendTotal": 10,
-        "totalProgress": 79.16
+        "totalProgress": 79.17
     },
     "tr": {
         "languageTag": "tr",
-        "frontendTranslated": 2106,
-        "frontendTotal": 2202,
+        "frontendTranslated": 2107,
+        "frontendTotal": 2203,
         "backendTranslated": 10,
         "backendTotal": 10,
         "totalProgress": 95.66
     },
     "uk": {
         "languageTag": "uk",
-        "frontendTranslated": 2102,
-        "frontendTotal": 2202,
+        "frontendTranslated": 2103,
+        "frontendTotal": 2203,
         "backendTranslated": 10,
         "backendTotal": 10,
         "totalProgress": 95.48
     },
     "vi": {
         "languageTag": "vi",
-        "frontendTranslated": 1292,
-        "frontendTotal": 2202,
+        "frontendTranslated": 1293,
+        "frontendTotal": 2203,
         "backendTranslated": 10,
         "backendTotal": 10,
-        "totalProgress": 58.86
+        "totalProgress": 58.88
     },
     "zh-Hans": {
         "languageTag": "zh-Hans",
-        "frontendTranslated": 2202,
-        "frontendTotal": 2202,
+        "frontendTranslated": 2203,
+        "frontendTotal": 2203,
         "backendTranslated": 10,
         "backendTotal": 10,
         "totalProgress": 100
     },
     "zh-Hant": {
         "languageTag": "zh-Hant",
-        "frontendTranslated": 2202,
-        "frontendTotal": 2202,
+        "frontendTranslated": 2203,
+        "frontendTotal": 2203,
         "backendTranslated": 10,
         "backendTotal": 10,
         "totalProgress": 100
