@@ -127,9 +127,21 @@
     },
     {
         "source": "src/locales/pt_BR.json",
+        "key": "error.account balance overflow",
+        "defaultValue": "Account balance would exceed the supported range",
+        "value": "Account balance would exceed the supported range"
+    },
+    {
+        "source": "src/locales/pt_BR.json",
         "key": "error.cannot add tags to too many transactions one time",
         "defaultValue": "You cannot add tags to too many transactions one time",
         "value": "You cannot add tags to too many transactions one time"
+    },
+    {
+        "source": "src/locales/pt_BR.json",
+        "key": "error.merged balance modification transaction amount overflow",
+        "defaultValue": "The amount of merged balance modification transaction exceeds the supported range",
+        "value": "The amount of merged balance modification transaction exceeds the supported range"
     },
     {
         "source": "src/locales/pt_BR.json",
@@ -166,6 +178,12 @@
         "key": "error.exploration data is invalid",
         "defaultValue": "Exploration data is invalid",
         "value": "Exploration data is invalid"
+    },
+    {
+        "source": "src/locales/pt_BR.json",
+        "key": "parameterizedError.parameter invalid transaction amount",
+        "defaultValue": "{parameter} is invalid transaction amount",
+        "value": "{parameter} is invalid transaction amount"
     },
     {
         "source": "src/locales/pt_BR.json",

@@ -121,6 +121,18 @@
     },
     {
         "source": "src/locales/uk.json",
+        "key": "error.account balance overflow",
+        "defaultValue": "Account balance would exceed the supported range",
+        "value": "Account balance would exceed the supported range"
+    },
+    {
+        "source": "src/locales/uk.json",
+        "key": "error.merged balance modification transaction amount overflow",
+        "defaultValue": "The amount of merged balance modification transaction exceeds the supported range",
+        "value": "The amount of merged balance modification transaction exceeds the supported range"
+    },
+    {
+        "source": "src/locales/uk.json",
         "key": "error.scheduled transaction start date is required",
         "defaultValue": "Scheduled transaction start date is required",
         "value": "Scheduled transaction start date is required"
@@ -154,6 +166,12 @@
         "key": "error.exploration data is invalid",
         "defaultValue": "Exploration data is invalid",
         "value": "Exploration data is invalid"
+    },
+    {
+        "source": "src/locales/uk.json",
+        "key": "parameterizedError.parameter invalid transaction amount",
+        "defaultValue": "{parameter} is invalid transaction amount",
+        "value": "{parameter} is invalid transaction amount"
     },
     {
         "source": "src/locales/uk.json",
