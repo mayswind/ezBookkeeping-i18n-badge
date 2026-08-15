@@ -2899,6 +2899,18 @@
     },
     {
         "source": "src/locales/fr.json",
+        "key": "Custom Color",
+        "defaultValue": "Custom Color",
+        "value": "Custom Color"
+    },
+    {
+        "source": "src/locales/fr.json",
+        "key": "System Colors",
+        "defaultValue": "System Colors",
+        "value": "System Colors"
+    },
+    {
+        "source": "src/locales/fr.json",
         "key": "Generate Token",
         "defaultValue": "Generate Token",
         "value": "Generate Token"

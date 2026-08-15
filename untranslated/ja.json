@@ -220,5 +220,17 @@
         "key": "Unable to delete custom icon",
         "defaultValue": "Unable to delete custom icon",
         "value": "Unable to delete custom icon"
+    },
+    {
+        "source": "src/locales/ja.json",
+        "key": "Custom Color",
+        "defaultValue": "Custom Color",
+        "value": "Custom Color"
+    },
+    {
+        "source": "src/locales/ja.json",
+        "key": "System Colors",
+        "defaultValue": "System Colors",
+        "value": "System Colors"
     }
 ]

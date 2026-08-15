@@ -4249,6 +4249,18 @@
     },
     {
         "source": "src/locales/nl.json",
+        "key": "Custom Color",
+        "defaultValue": "Custom Color",
+        "value": "Custom Color"
+    },
+    {
+        "source": "src/locales/nl.json",
+        "key": "System Colors",
+        "defaultValue": "System Colors",
+        "value": "System Colors"
+    },
+    {
+        "source": "src/locales/nl.json",
         "key": "Generate Token",
         "defaultValue": "Generate Token",
         "value": "Generate Token"

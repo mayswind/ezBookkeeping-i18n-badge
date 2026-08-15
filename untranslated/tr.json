@@ -751,6 +751,18 @@
     },
     {
         "source": "src/locales/tr.json",
+        "key": "Custom Color",
+        "defaultValue": "Custom Color",
+        "value": "Custom Color"
+    },
+    {
+        "source": "src/locales/tr.json",
+        "key": "System Colors",
+        "defaultValue": "System Colors",
+        "value": "System Colors"
+    },
+    {
+        "source": "src/locales/tr.json",
         "key": "Failed to load QR code",
         "defaultValue": "Failed to load QR code",
         "value": "Failed to load QR code"

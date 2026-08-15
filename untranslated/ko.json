@@ -1717,6 +1717,18 @@
     },
     {
         "source": "src/locales/ko.json",
+        "key": "Custom Color",
+        "defaultValue": "Custom Color",
+        "value": "Custom Color"
+    },
+    {
+        "source": "src/locales/ko.json",
+        "key": "System Colors",
+        "defaultValue": "System Colors",
+        "value": "System Colors"
+    },
+    {
+        "source": "src/locales/ko.json",
         "key": "Browser Cache Management",
         "defaultValue": "Browser Cache Management",
         "value": "Browser Cache Management"

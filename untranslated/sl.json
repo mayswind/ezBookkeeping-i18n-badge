@@ -1735,6 +1735,18 @@
     },
     {
         "source": "src/locales/sl.json",
+        "key": "Custom Color",
+        "defaultValue": "Custom Color",
+        "value": "Custom Color"
+    },
+    {
+        "source": "src/locales/sl.json",
+        "key": "System Colors",
+        "defaultValue": "System Colors",
+        "value": "System Colors"
+    },
+    {
+        "source": "src/locales/sl.json",
         "key": "Browser Cache Management",
         "defaultValue": "Browser Cache Management",
         "value": "Browser Cache Management"

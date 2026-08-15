@@ -5311,6 +5311,18 @@
     },
     {
         "source": "src/locales/vi.json",
+        "key": "Custom Color",
+        "defaultValue": "Custom Color",
+        "value": "Custom Color"
+    },
+    {
+        "source": "src/locales/vi.json",
+        "key": "System Colors",
+        "defaultValue": "System Colors",
+        "value": "System Colors"
+    },
+    {
+        "source": "src/locales/vi.json",
         "key": "Generate Token",
         "defaultValue": "Generate Token",
         "value": "Generate Token"
