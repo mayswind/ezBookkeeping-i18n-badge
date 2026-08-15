@@ -1651,6 +1651,18 @@
     },
     {
         "source": "src/locales/ru.json",
+        "key": "Clear Custom Icon Cache",
+        "defaultValue": "Clear Custom Icon Cache",
+        "value": "Clear Custom Icon Cache"
+    },
+    {
+        "source": "src/locales/ru.json",
+        "key": "Are you sure you want to clear custom icon cache?",
+        "defaultValue": "Are you sure you want to clear custom icon cache?",
+        "value": "Are you sure you want to clear custom icon cache?"
+    },
+    {
+        "source": "src/locales/ru.json",
         "key": "Clear Application Code Cache",
         "defaultValue": "Clear Application Code Cache",
         "value": "Clear Application Code Cache"

@@ -232,5 +232,17 @@
         "key": "System Colors",
         "defaultValue": "System Colors",
         "value": "System Colors"
+    },
+    {
+        "source": "src/locales/ja.json",
+        "key": "Clear Custom Icon Cache",
+        "defaultValue": "Clear Custom Icon Cache",
+        "value": "Clear Custom Icon Cache"
+    },
+    {
+        "source": "src/locales/ja.json",
+        "key": "Are you sure you want to clear custom icon cache?",
+        "defaultValue": "Are you sure you want to clear custom icon cache?",
+        "value": "Are you sure you want to clear custom icon cache?"
     }
 ]

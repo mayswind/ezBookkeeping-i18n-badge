@@ -787,6 +787,18 @@
     },
     {
         "source": "src/locales/uk.json",
+        "key": "Clear Custom Icon Cache",
+        "defaultValue": "Clear Custom Icon Cache",
+        "value": "Clear Custom Icon Cache"
+    },
+    {
+        "source": "src/locales/uk.json",
+        "key": "Are you sure you want to clear custom icon cache?",
+        "defaultValue": "Are you sure you want to clear custom icon cache?",
+        "value": "Are you sure you want to clear custom icon cache?"
+    },
+    {
+        "source": "src/locales/uk.json",
         "key": "Failed to load QR code",
         "defaultValue": "Failed to load QR code",
         "value": "Failed to load QR code"
