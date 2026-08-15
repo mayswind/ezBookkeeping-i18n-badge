@@ -7,9 +7,81 @@
     },
     {
         "source": "src/locales/ja.json",
+        "key": "error.account icon is invalid",
+        "defaultValue": "Account icon is invalid",
+        "value": "Account icon is invalid"
+    },
+    {
+        "source": "src/locales/ja.json",
         "key": "error.merged balance modification transaction amount overflow",
         "defaultValue": "The amount of merged balance modification transaction exceeds the supported range",
         "value": "The amount of merged balance modification transaction exceeds the supported range"
+    },
+    {
+        "source": "src/locales/ja.json",
+        "key": "error.transaction category icon is invalid",
+        "defaultValue": "Transaction category icon is invalid",
+        "value": "Transaction category icon is invalid"
+    },
+    {
+        "source": "src/locales/ja.json",
+        "key": "error.user custom icon id is invalid",
+        "defaultValue": "Custom icon ID is invalid",
+        "value": "Custom icon ID is invalid"
+    },
+    {
+        "source": "src/locales/ja.json",
+        "key": "error.user custom icon not found",
+        "defaultValue": "Custom icon was not found",
+        "value": "Custom icon was not found"
+    },
+    {
+        "source": "src/locales/ja.json",
+        "key": "error.no user custom icon",
+        "defaultValue": "There is no custom icon file",
+        "value": "There is no custom icon file"
+    },
+    {
+        "source": "src/locales/ja.json",
+        "key": "error.user custom icon is empty",
+        "defaultValue": "Custom icon file is empty",
+        "value": "Custom icon file is empty"
+    },
+    {
+        "source": "src/locales/ja.json",
+        "key": "error.user custom icon not exists",
+        "defaultValue": "Custom icon does not exist",
+        "value": "Custom icon does not exist"
+    },
+    {
+        "source": "src/locales/ja.json",
+        "key": "error.user custom icon file extension invalid",
+        "defaultValue": "Custom icon file type is invalid",
+        "value": "Custom icon file type is invalid"
+    },
+    {
+        "source": "src/locales/ja.json",
+        "key": "error.exceed the maximum size of user custom icon file",
+        "defaultValue": "The uploaded custom icon exceeds the maximum allowed file size",
+        "value": "The uploaded custom icon exceeds the maximum allowed file size"
+    },
+    {
+        "source": "src/locales/ja.json",
+        "key": "error.user custom icon dimensions must not exceed 256 pixels",
+        "defaultValue": "Custom icon dimensions must not exceed 256 pixels",
+        "value": "Custom icon dimensions must not exceed 256 pixels"
+    },
+    {
+        "source": "src/locales/ja.json",
+        "key": "error.user custom icon is in use",
+        "defaultValue": "This custom icon is used by an account or category and cannot be deleted",
+        "value": "This custom icon is used by an account or category and cannot be deleted"
+    },
+    {
+        "source": "src/locales/ja.json",
+        "key": "parameter.iconType",
+        "defaultValue": "Icon Type",
+        "value": "Icon Type"
     },
     {
         "source": "src/locales/ja.json",
@@ -46,5 +118,107 @@
         "key": "OR SUB",
         "defaultValue": "OR SUB",
         "value": "OR SUB"
+    },
+    {
+        "source": "src/locales/ja.json",
+        "key": "Custom Icons",
+        "defaultValue": "Custom Icons",
+        "value": "Custom Icons"
+    },
+    {
+        "source": "src/locales/ja.json",
+        "key": "System Icons",
+        "defaultValue": "System Icons",
+        "value": "System Icons"
+    },
+    {
+        "source": "src/locales/ja.json",
+        "key": "No available custom icons",
+        "defaultValue": "No available custom icons",
+        "value": "No available custom icons"
+    },
+    {
+        "source": "src/locales/ja.json",
+        "key": "Upload",
+        "defaultValue": "Upload",
+        "value": "Upload"
+    },
+    {
+        "source": "src/locales/ja.json",
+        "key": "Upload Custom Icon",
+        "defaultValue": "Upload Custom Icon",
+        "value": "Upload Custom Icon"
+    },
+    {
+        "source": "src/locales/ja.json",
+        "key": "Select Another Image",
+        "defaultValue": "Select Another Image",
+        "value": "Select Another Image"
+    },
+    {
+        "source": "src/locales/ja.json",
+        "key": "You can drag and drop, paste or click to select an icon",
+        "defaultValue": "You can drag and drop, paste or click to select an icon",
+        "value": "You can drag and drop, paste or click to select an icon"
+    },
+    {
+        "source": "src/locales/ja.json",
+        "key": "Use the mouse wheel to zoom and drag the image to adjust the crop",
+        "defaultValue": "Use the mouse wheel to zoom and drag the image to adjust the crop",
+        "value": "Use the mouse wheel to zoom and drag the image to adjust the crop"
+    },
+    {
+        "source": "src/locales/ja.json",
+        "key": "Unable to crop image",
+        "defaultValue": "Unable to crop image",
+        "value": "Unable to crop image"
+    },
+    {
+        "source": "src/locales/ja.json",
+        "key": "You have added a new custom icon",
+        "defaultValue": "You have added a new custom icon",
+        "value": "You have added a new custom icon"
+    },
+    {
+        "source": "src/locales/ja.json",
+        "key": "Unable to retrieve custom icon list",
+        "defaultValue": "Unable to retrieve custom icon list",
+        "value": "Unable to retrieve custom icon list"
+    },
+    {
+        "source": "src/locales/ja.json",
+        "key": "Custom icon list is up to date",
+        "defaultValue": "Custom icon list is up to date",
+        "value": "Custom icon list is up to date"
+    },
+    {
+        "source": "src/locales/ja.json",
+        "key": "Custom icon list has been updated",
+        "defaultValue": "Custom icon list has been updated",
+        "value": "Custom icon list has been updated"
+    },
+    {
+        "source": "src/locales/ja.json",
+        "key": "Unable to upload custom icon",
+        "defaultValue": "Unable to upload custom icon",
+        "value": "Unable to upload custom icon"
+    },
+    {
+        "source": "src/locales/ja.json",
+        "key": "Unable to move custom icon",
+        "defaultValue": "Unable to move custom icon",
+        "value": "Unable to move custom icon"
+    },
+    {
+        "source": "src/locales/ja.json",
+        "key": "Are you sure you want to delete this custom icon?",
+        "defaultValue": "Are you sure you want to delete this custom icon?",
+        "value": "Are you sure you want to delete this custom icon?"
+    },
+    {
+        "source": "src/locales/ja.json",
+        "key": "Unable to delete custom icon",
+        "defaultValue": "Unable to delete custom icon",
+        "value": "Unable to delete custom icon"
     }
 ]
