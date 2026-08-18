@@ -25,6 +25,18 @@
     },
     {
         "source": "src/locales/th.json",
+        "key": "format.misc.nMonth",
+        "defaultValue": "{n} Month",
+        "value": "{n} Month"
+    },
+    {
+        "source": "src/locales/th.json",
+        "key": "format.misc.nMonths",
+        "defaultValue": "{n} Months",
+        "value": "{n} Months"
+    },
+    {
+        "source": "src/locales/th.json",
         "key": "format.misc.charactersRemaining",
         "defaultValue": "{count} remaining",
         "value": "{count} remaining"
@@ -208,6 +220,12 @@
         "key": "dataExport.defaultImportCheckResultFileName",
         "defaultValue": "ezBookkeeping_import_check_result",
         "value": "ezBookkeeping_import_check_result"
+    },
+    {
+        "source": "src/locales/th.json",
+        "key": "dataExport.defaultOverviewLayoutFileName",
+        "defaultValue": "ezBookkeeping_overview_layout",
+        "value": "ezBookkeeping_overview_layout"
     },
     {
         "source": "src/locales/th.json",
@@ -1108,6 +1126,18 @@
         "key": "Forget password is disabled",
         "defaultValue": "Forget password is disabled",
         "value": "Forget password is disabled"
+    },
+    {
+        "source": "src/locales/th.json",
+        "key": "Monthly Expense Overview",
+        "defaultValue": "Monthly Expense Overview",
+        "value": "Monthly Expense Overview"
+    },
+    {
+        "source": "src/locales/th.json",
+        "key": "Period Income and Expense",
+        "defaultValue": "Period Income and Expense",
+        "value": "Period Income and Expense"
     },
     {
         "source": "src/locales/th.json",
@@ -2344,6 +2374,90 @@
         "key": "Unable to move color",
         "defaultValue": "Unable to move color",
         "value": "Unable to move color"
+    },
+    {
+        "source": "src/locales/th.json",
+        "key": "Home Page Layout",
+        "defaultValue": "Home Page Layout",
+        "value": "Home Page Layout"
+    },
+    {
+        "source": "src/locales/th.json",
+        "key": "Add Widget",
+        "defaultValue": "Add Widget",
+        "value": "Add Widget"
+    },
+    {
+        "source": "src/locales/th.json",
+        "key": "Remove Widget",
+        "defaultValue": "Remove Widget",
+        "value": "Remove Widget"
+    },
+    {
+        "source": "src/locales/th.json",
+        "key": "Clear Layout",
+        "defaultValue": "Clear Layout",
+        "value": "Clear Layout"
+    },
+    {
+        "source": "src/locales/th.json",
+        "key": "Import Layout",
+        "defaultValue": "Import Layout",
+        "value": "Import Layout"
+    },
+    {
+        "source": "src/locales/th.json",
+        "key": "Export Layout",
+        "defaultValue": "Export Layout",
+        "value": "Export Layout"
+    },
+    {
+        "source": "src/locales/th.json",
+        "key": "Widget Settings",
+        "defaultValue": "Widget Settings",
+        "value": "Widget Settings"
+    },
+    {
+        "source": "src/locales/th.json",
+        "key": "No widgets",
+        "defaultValue": "No widgets",
+        "value": "No widgets"
+    },
+    {
+        "source": "src/locales/th.json",
+        "key": "Resize",
+        "defaultValue": "Resize",
+        "value": "Resize"
+    },
+    {
+        "source": "src/locales/th.json",
+        "key": "This widget has no configurable parameters",
+        "defaultValue": "This widget has no configurable parameters",
+        "value": "This widget has no configurable parameters"
+    },
+    {
+        "source": "src/locales/th.json",
+        "key": "Discard unsaved layout changes?",
+        "defaultValue": "Discard unsaved layout changes?",
+        "value": "Discard unsaved layout changes?"
+    },
+    {
+        "source": "src/locales/th.json",
+        "key": "Clear all widgets from the layout?",
+        "defaultValue": "Clear all widgets from the layout?",
+        "value": "Clear all widgets from the layout?"
+    },
+    {
+        "source": "src/locales/th.json",
+        "key": "Reset the layout to its default value?",
+        "defaultValue": "Reset the layout to its default value?",
+        "value": "Reset the layout to its default value?"
+    },
+    {
+        "source": "src/locales/th.json",
+        "key": "Layout import failed. Please make sure the layout is valid and try again.",
+        "defaultValue": "Layout import failed. Please make sure the layout is valid and try again.",
+        "value": "Layout import failed. Please make sure the layout is valid and try again."
     },
     {
         "source": "src/locales/th.json",
