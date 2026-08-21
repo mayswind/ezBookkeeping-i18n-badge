@@ -1,6 +1,11 @@
 [
     {
         "source": "src/locales/it.json",
+        "key": "language.Greek",
+        "defaultValue": "Greek"
+    },
+    {
+        "source": "src/locales/it.json",
         "key": "format.misc.nHour",
         "defaultValue": "{n} Hour",
         "value": "{n} Hour"

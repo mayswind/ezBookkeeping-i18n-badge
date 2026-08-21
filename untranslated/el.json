@@ -1,0 +1,128 @@
+[
+    {
+        "source": "src/locales/el.json",
+        "key": "dataExport.defaultExportFilename",
+        "defaultValue": "ezBookkeeping_export_data",
+        "value": "ezBookkeeping_export_data"
+    },
+    {
+        "source": "src/locales/el.json",
+        "key": "dataExport.exportFilename",
+        "defaultValue": "ezBookkeeping_{nickname}_export_data",
+        "value": "ezBookkeeping_{nickname}_export_data"
+    },
+    {
+        "source": "src/locales/el.json",
+        "key": "dataExport.defaultExportStatisticsFileName",
+        "defaultValue": "ezBookkeeping_statistics_data",
+        "value": "ezBookkeeping_statistics_data"
+    },
+    {
+        "source": "src/locales/el.json",
+        "key": "dataExport.exportStatisticsFileName",
+        "defaultValue": "ezBookkeeping_{nickname}_statistics_data",
+        "value": "ezBookkeeping_{nickname}_statistics_data"
+    },
+    {
+        "source": "src/locales/el.json",
+        "key": "dataExport.defaultExportReconciliationStatementsFileName",
+        "defaultValue": "ezBookkeeping_reconciliation_statements",
+        "value": "ezBookkeeping_reconciliation_statements"
+    },
+    {
+        "source": "src/locales/el.json",
+        "key": "dataExport.exportReconciliationStatementsFileName",
+        "defaultValue": "ezBookkeeping_{nickname}_reconciliation_statements",
+        "value": "ezBookkeeping_{nickname}_reconciliation_statements"
+    },
+    {
+        "source": "src/locales/el.json",
+        "key": "dataExport.defaultInsightsExplorerQueryFileName",
+        "defaultValue": "ezBookkeeping_insights_explorer_query",
+        "value": "ezBookkeeping_insights_explorer_query"
+    },
+    {
+        "source": "src/locales/el.json",
+        "key": "dataExport.insightsExplorerQueryFileName",
+        "defaultValue": "ezBookkeeping_{nickname}_insights_explorer_query",
+        "value": "ezBookkeeping_{nickname}_insights_explorer_query"
+    },
+    {
+        "source": "src/locales/el.json",
+        "key": "dataExport.defaultImportDataMappingFileName",
+        "defaultValue": "ezBookkeeping_import_data_mapping",
+        "value": "ezBookkeeping_import_data_mapping"
+    },
+    {
+        "source": "src/locales/el.json",
+        "key": "dataExport.defaultImportHandlingScript",
+        "defaultValue": "ezBookkeeping_handling_script",
+        "value": "ezBookkeeping_handling_script"
+    },
+    {
+        "source": "src/locales/el.json",
+        "key": "dataExport.defaultImportReplaceRuleFileName",
+        "defaultValue": "ezBookkeeping_import_replace_rule",
+        "value": "ezBookkeeping_import_replace_rule"
+    },
+    {
+        "source": "src/locales/el.json",
+        "key": "dataExport.defaultImportCheckResultFileName",
+        "defaultValue": "ezBookkeeping_import_check_result",
+        "value": "ezBookkeeping_import_check_result"
+    },
+    {
+        "source": "src/locales/el.json",
+        "key": "dataExport.defaultOverviewLayoutFileName",
+        "defaultValue": "ezBookkeeping_overview_layout",
+        "value": "ezBookkeeping_overview_layout"
+    },
+    {
+        "source": "src/locales/el.json",
+        "key": "Token",
+        "defaultValue": "Token",
+        "value": "Token"
+    },
+    {
+        "source": "src/locales/el.json",
+        "key": "WHERE",
+        "defaultValue": "WHERE",
+        "value": "WHERE"
+    },
+    {
+        "source": "src/locales/el.json",
+        "key": "AND",
+        "defaultValue": "AND",
+        "value": "AND"
+    },
+    {
+        "source": "src/locales/el.json",
+        "key": "OR",
+        "defaultValue": "OR",
+        "value": "OR"
+    },
+    {
+        "source": "src/locales/el.json",
+        "key": "AND SUB",
+        "defaultValue": "AND SUB",
+        "value": "AND SUB"
+    },
+    {
+        "source": "src/locales/el.json",
+        "key": "OR SUB",
+        "defaultValue": "OR SUB",
+        "value": "OR SUB"
+    },
+    {
+        "source": "src/locales/el.json",
+        "key": "API Token",
+        "defaultValue": "API Token",
+        "value": "API Token"
+    },
+    {
+        "source": "src/locales/el.json",
+        "key": "MCP Token",
+        "defaultValue": "MCP Token",
+        "value": "MCP Token"
+    }
+]

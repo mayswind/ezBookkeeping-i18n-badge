@@ -1,1 +1,7 @@
-[]
+[
+    {
+        "source": "src/locales/zh_Hans.json",
+        "key": "language.Greek",
+        "defaultValue": "Greek"
+    }
+]

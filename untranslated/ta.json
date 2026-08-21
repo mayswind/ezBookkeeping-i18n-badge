@@ -1,6 +1,11 @@
 [
     {
         "source": "src/locales/ta.json",
+        "key": "language.Greek",
+        "defaultValue": "Greek"
+    },
+    {
+        "source": "src/locales/ta.json",
         "key": "format.misc.nMonth",
         "defaultValue": "{n} Month",
         "value": "{n} Month"
