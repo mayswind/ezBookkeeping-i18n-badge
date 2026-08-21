@@ -1,11 +1,6 @@
 [
     {
         "source": "src/locales/vi.json",
-        "key": "language.Greek",
-        "defaultValue": "Greek"
-    },
-    {
-        "source": "src/locales/vi.json",
         "key": "format.misc.nHour",
         "defaultValue": "{n} Hour",
         "value": "{n} Hour"
