@@ -1627,6 +1627,12 @@
     },
     {
         "source": "src/locales/nl.json",
+        "key": "error.date range is invalid",
+        "defaultValue": "Date range is invalid",
+        "value": "Date range is invalid"
+    },
+    {
+        "source": "src/locales/nl.json",
         "key": "parameter.type",
         "defaultValue": "Type",
         "value": "Type"
@@ -1933,6 +1939,12 @@
     },
     {
         "source": "src/locales/nl.json",
+        "key": "Item Count",
+        "defaultValue": "Item Count",
+        "value": "Item Count"
+    },
+    {
+        "source": "src/locales/nl.json",
         "key": "WHERE",
         "defaultValue": "WHERE",
         "value": "WHERE"
@@ -2221,6 +2233,12 @@
     },
     {
         "source": "src/locales/nl.json",
+        "key": "Sort By",
+        "defaultValue": "Sort By",
+        "value": "Sort By"
+    },
+    {
+        "source": "src/locales/nl.json",
         "key": "Provider",
         "defaultValue": "Provider",
         "value": "Provider"
@@ -2347,15 +2365,81 @@
     },
     {
         "source": "src/locales/nl.json",
-        "key": "Monthly Expense Overview",
-        "defaultValue": "Monthly Expense Overview",
-        "value": "Monthly Expense Overview"
+        "key": "Account Balance List",
+        "defaultValue": "Account Balance List",
+        "value": "Account Balance List"
+    },
+    {
+        "source": "src/locales/nl.json",
+        "key": "This Month's Income and Expense Overview",
+        "defaultValue": "This Month's Income and Expense Overview",
+        "value": "This Month's Income and Expense Overview"
+    },
+    {
+        "source": "src/locales/nl.json",
+        "key": "This Month's Expense Progress",
+        "defaultValue": "This Month's Expense Progress",
+        "value": "This Month's Expense Progress"
     },
     {
         "source": "src/locales/nl.json",
         "key": "Period Income and Expense",
         "defaultValue": "Period Income and Expense",
         "value": "Period Income and Expense"
+    },
+    {
+        "source": "src/locales/nl.json",
+        "key": "Period Net Income and Savings Rate",
+        "defaultValue": "Period Net Income and Savings Rate",
+        "value": "Period Net Income and Savings Rate"
+    },
+    {
+        "source": "src/locales/nl.json",
+        "key": "Net Assets Trends",
+        "defaultValue": "Net Assets Trends",
+        "value": "Net Assets Trends"
+    },
+    {
+        "source": "src/locales/nl.json",
+        "key": "Expense Category Ranking",
+        "defaultValue": "Expense Category Ranking",
+        "value": "Expense Category Ranking"
+    },
+    {
+        "source": "src/locales/nl.json",
+        "key": "Recent Transactions",
+        "defaultValue": "Recent Transactions",
+        "value": "Recent Transactions"
+    },
+    {
+        "source": "src/locales/nl.json",
+        "key": "Transaction Calendar Heatmap",
+        "defaultValue": "Transaction Calendar Heatmap",
+        "value": "Transaction Calendar Heatmap"
+    },
+    {
+        "source": "src/locales/nl.json",
+        "key": "Monthly Expense Progress",
+        "defaultValue": "Monthly Expense Progress",
+        "value": "Monthly Expense Progress"
+    },
+    {
+        "source": "src/locales/nl.json",
+        "key": "Month elapsed",
+        "defaultValue": "Month elapsed",
+        "value": "Month elapsed"
+    },
+    {
+        "source": "src/locales/nl.json",
+        "key": "Estimated month-end expense",
+        "defaultValue": "Estimated month-end expense",
+        "value": "Estimated month-end expense"
+    },
+    {
+        "source": "src/locales/nl.json",
+        "key": "Last month total",
+        "defaultValue": "Last month total",
+        "value": "Last month total"
     },
     {
         "source": "src/locales/nl.json",
@@ -3847,6 +3931,24 @@
     },
     {
         "source": "src/locales/nl.json",
+        "key": "Widget Title",
+        "defaultValue": "Widget Title",
+        "value": "Widget Title"
+    },
+    {
+        "source": "src/locales/nl.json",
+        "key": "Show Horizontal Axis Labels",
+        "defaultValue": "Show Horizontal Axis Labels",
+        "value": "Show Horizontal Axis Labels"
+    },
+    {
+        "source": "src/locales/nl.json",
+        "key": "Show Legend",
+        "defaultValue": "Show Legend",
+        "value": "Show Legend"
+    },
+    {
+        "source": "src/locales/nl.json",
         "key": "No widgets",
         "defaultValue": "No widgets",
         "value": "No widgets"
@@ -4156,6 +4258,12 @@
         "key": "Unable to unlink third-party login",
         "defaultValue": "Unable to unlink third-party login",
         "value": "Unable to unlink third-party login"
+    },
+    {
+        "source": "src/locales/nl.json",
+        "key": "Category Level",
+        "defaultValue": "Category Level",
+        "value": "Category Level"
     },
     {
         "source": "src/locales/nl.json",
@@ -4582,5 +4690,11 @@
         "key": "Are you sure you want to open this link?",
         "defaultValue": "Are you sure you want to open this link?",
         "value": "Are you sure you want to open this link?"
+    },
+    {
+        "source": "src/locales/nl.json",
+        "key": "Invalid date range",
+        "defaultValue": "Invalid date range",
+        "value": "Invalid date range"
     }
 ]

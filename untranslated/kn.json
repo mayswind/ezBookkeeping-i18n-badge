@@ -451,6 +451,12 @@
     },
     {
         "source": "src/locales/kn.json",
+        "key": "error.date range is invalid",
+        "defaultValue": "Date range is invalid",
+        "value": "Date range is invalid"
+    },
+    {
+        "source": "src/locales/kn.json",
         "key": "parameter.iconType",
         "defaultValue": "Icon Type",
         "value": "Icon Type"
@@ -586,6 +592,12 @@
         "key": "Sort by Name (Z to A)",
         "defaultValue": "Sort by Name (Z to A)",
         "value": "Sort by Name (Z to A)"
+    },
+    {
+        "source": "src/locales/kn.json",
+        "key": "Item Count",
+        "defaultValue": "Item Count",
+        "value": "Item Count"
     },
     {
         "source": "src/locales/kn.json",
@@ -859,6 +871,12 @@
     },
     {
         "source": "src/locales/kn.json",
+        "key": "Sort By",
+        "defaultValue": "Sort By",
+        "value": "Sort By"
+    },
+    {
+        "source": "src/locales/kn.json",
         "key": "List",
         "defaultValue": "List",
         "value": "List"
@@ -907,15 +925,81 @@
     },
     {
         "source": "src/locales/kn.json",
-        "key": "Monthly Expense Overview",
-        "defaultValue": "Monthly Expense Overview",
-        "value": "Monthly Expense Overview"
+        "key": "Account Balance List",
+        "defaultValue": "Account Balance List",
+        "value": "Account Balance List"
+    },
+    {
+        "source": "src/locales/kn.json",
+        "key": "This Month's Income and Expense Overview",
+        "defaultValue": "This Month's Income and Expense Overview",
+        "value": "This Month's Income and Expense Overview"
+    },
+    {
+        "source": "src/locales/kn.json",
+        "key": "This Month's Expense Progress",
+        "defaultValue": "This Month's Expense Progress",
+        "value": "This Month's Expense Progress"
     },
     {
         "source": "src/locales/kn.json",
         "key": "Period Income and Expense",
         "defaultValue": "Period Income and Expense",
         "value": "Period Income and Expense"
+    },
+    {
+        "source": "src/locales/kn.json",
+        "key": "Period Net Income and Savings Rate",
+        "defaultValue": "Period Net Income and Savings Rate",
+        "value": "Period Net Income and Savings Rate"
+    },
+    {
+        "source": "src/locales/kn.json",
+        "key": "Net Assets Trends",
+        "defaultValue": "Net Assets Trends",
+        "value": "Net Assets Trends"
+    },
+    {
+        "source": "src/locales/kn.json",
+        "key": "Expense Category Ranking",
+        "defaultValue": "Expense Category Ranking",
+        "value": "Expense Category Ranking"
+    },
+    {
+        "source": "src/locales/kn.json",
+        "key": "Recent Transactions",
+        "defaultValue": "Recent Transactions",
+        "value": "Recent Transactions"
+    },
+    {
+        "source": "src/locales/kn.json",
+        "key": "Transaction Calendar Heatmap",
+        "defaultValue": "Transaction Calendar Heatmap",
+        "value": "Transaction Calendar Heatmap"
+    },
+    {
+        "source": "src/locales/kn.json",
+        "key": "Monthly Expense Progress",
+        "defaultValue": "Monthly Expense Progress",
+        "value": "Monthly Expense Progress"
+    },
+    {
+        "source": "src/locales/kn.json",
+        "key": "Month elapsed",
+        "defaultValue": "Month elapsed",
+        "value": "Month elapsed"
+    },
+    {
+        "source": "src/locales/kn.json",
+        "key": "Estimated month-end expense",
+        "defaultValue": "Estimated month-end expense",
+        "value": "Estimated month-end expense"
+    },
+    {
+        "source": "src/locales/kn.json",
+        "key": "Last month total",
+        "defaultValue": "Last month total",
+        "value": "Last month total"
     },
     {
         "source": "src/locales/kn.json",
@@ -1999,6 +2083,24 @@
     },
     {
         "source": "src/locales/kn.json",
+        "key": "Widget Title",
+        "defaultValue": "Widget Title",
+        "value": "Widget Title"
+    },
+    {
+        "source": "src/locales/kn.json",
+        "key": "Show Horizontal Axis Labels",
+        "defaultValue": "Show Horizontal Axis Labels",
+        "value": "Show Horizontal Axis Labels"
+    },
+    {
+        "source": "src/locales/kn.json",
+        "key": "Show Legend",
+        "defaultValue": "Show Legend",
+        "value": "Show Legend"
+    },
+    {
+        "source": "src/locales/kn.json",
         "key": "No widgets",
         "defaultValue": "No widgets",
         "value": "No widgets"
@@ -2194,6 +2296,12 @@
         "key": "Mermaid (XY Chart)",
         "defaultValue": "Mermaid (XY Chart)",
         "value": "Mermaid (XY Chart)"
+    },
+    {
+        "source": "src/locales/kn.json",
+        "key": "Category Level",
+        "defaultValue": "Category Level",
+        "value": "Category Level"
     },
     {
         "source": "src/locales/kn.json",
@@ -2560,6 +2668,12 @@
         "key": "Documentation",
         "defaultValue": "Documentation",
         "value": "Documentation"
+    },
+    {
+        "source": "src/locales/kn.json",
+        "key": "Invalid date range",
+        "defaultValue": "Invalid date range",
+        "value": "Invalid date range"
     },
     {
         "source": "pkg/locales/kn.go",
