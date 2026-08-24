@@ -205,9 +205,45 @@
     },
     {
         "source": "src/locales/el.json",
+        "key": "Desktop Home Page Layout",
+        "defaultValue": "Desktop Home Page Layout",
+        "value": "Desktop Home Page Layout"
+    },
+    {
+        "source": "src/locales/el.json",
+        "key": "Mobile Home Page Layout",
+        "defaultValue": "Mobile Home Page Layout",
+        "value": "Mobile Home Page Layout"
+    },
+    {
+        "source": "src/locales/el.json",
         "key": "Widget Title",
         "defaultValue": "Widget Title",
         "value": "Widget Title"
+    },
+    {
+        "source": "src/locales/el.json",
+        "key": "Widget Height",
+        "defaultValue": "Widget Height",
+        "value": "Widget Height"
+    },
+    {
+        "source": "src/locales/el.json",
+        "key": "Small",
+        "defaultValue": "Small",
+        "value": "Small"
+    },
+    {
+        "source": "src/locales/el.json",
+        "key": "Medium",
+        "defaultValue": "Medium",
+        "value": "Medium"
+    },
+    {
+        "source": "src/locales/el.json",
+        "key": "Large",
+        "defaultValue": "Large",
+        "value": "Large"
     },
     {
         "source": "src/locales/el.json",
