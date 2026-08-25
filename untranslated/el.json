@@ -229,6 +229,18 @@
     },
     {
         "source": "src/locales/el.json",
+        "key": "Light Mode Background Color",
+        "defaultValue": "Light Mode Background Color",
+        "value": "Light Mode Background Color"
+    },
+    {
+        "source": "src/locales/el.json",
+        "key": "Dark Mode Background Color",
+        "defaultValue": "Dark Mode Background Color",
+        "value": "Dark Mode Background Color"
+    },
+    {
+        "source": "src/locales/el.json",
         "key": "Small",
         "defaultValue": "Small",
         "value": "Small"
