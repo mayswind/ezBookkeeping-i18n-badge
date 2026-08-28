@@ -1153,6 +1153,12 @@
     },
     {
         "source": "src/locales/th.json",
+        "key": "Always Show Amount",
+        "defaultValue": "Always Show Amount",
+        "value": "Always Show Amount"
+    },
+    {
+        "source": "src/locales/th.json",
         "key": "This Month's Income and Expense Overview",
         "defaultValue": "This Month's Income and Expense Overview",
         "value": "This Month's Income and Expense Overview"
