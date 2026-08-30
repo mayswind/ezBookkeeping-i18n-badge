@@ -5197,6 +5197,12 @@
     },
     {
         "source": "src/locales/vi.json",
+        "key": "Preferences",
+        "defaultValue": "Preferences",
+        "value": "Preferences"
+    },
+    {
+        "source": "src/locales/vi.json",
         "key": "File Format",
         "defaultValue": "File Format",
         "value": "File Format"

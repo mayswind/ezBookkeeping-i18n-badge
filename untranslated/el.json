@@ -277,6 +277,12 @@
     },
     {
         "source": "src/locales/el.json",
+        "key": "Preferences",
+        "defaultValue": "Preferences",
+        "value": "Preferences"
+    },
+    {
+        "source": "src/locales/el.json",
         "key": "Category Level",
         "defaultValue": "Category Level",
         "value": "Category Level"

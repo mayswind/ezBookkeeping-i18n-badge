@@ -1693,6 +1693,12 @@
     },
     {
         "source": "src/locales/ru.json",
+        "key": "Preferences",
+        "defaultValue": "Preferences",
+        "value": "Preferences"
+    },
+    {
+        "source": "src/locales/ru.json",
         "key": "File Format",
         "defaultValue": "File Format",
         "value": "File Format"

@@ -919,6 +919,12 @@
     },
     {
         "source": "src/locales/tr.json",
+        "key": "Preferences",
+        "defaultValue": "Preferences",
+        "value": "Preferences"
+    },
+    {
+        "source": "src/locales/tr.json",
         "key": "Category Level",
         "defaultValue": "Category Level",
         "value": "Category Level"

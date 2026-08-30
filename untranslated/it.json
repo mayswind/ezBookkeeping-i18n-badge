@@ -3823,6 +3823,12 @@
     },
     {
         "source": "src/locales/it.json",
+        "key": "Preferences",
+        "defaultValue": "Preferences",
+        "value": "Preferences"
+    },
+    {
+        "source": "src/locales/it.json",
         "key": "File Format",
         "defaultValue": "File Format",
         "value": "File Format"

@@ -973,6 +973,12 @@
     },
     {
         "source": "src/locales/de.json",
+        "key": "Preferences",
+        "defaultValue": "Preferences",
+        "value": "Preferences"
+    },
+    {
+        "source": "src/locales/de.json",
         "key": "Category Level",
         "defaultValue": "Category Level",
         "value": "Category Level"

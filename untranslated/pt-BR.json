@@ -1495,6 +1495,12 @@
     },
     {
         "source": "src/locales/pt_BR.json",
+        "key": "Preferences",
+        "defaultValue": "Preferences",
+        "value": "Preferences"
+    },
+    {
+        "source": "src/locales/pt_BR.json",
         "key": "Category Level",
         "defaultValue": "Category Level",
         "value": "Category Level"

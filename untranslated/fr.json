@@ -2881,6 +2881,12 @@
     },
     {
         "source": "src/locales/fr.json",
+        "key": "Preferences",
+        "defaultValue": "Preferences",
+        "value": "Preferences"
+    },
+    {
+        "source": "src/locales/fr.json",
         "key": "SSV (Semicolon-separated values) File",
         "defaultValue": "SSV (Semicolon-separated values) File",
         "value": "SSV (Semicolon-separated values) File"

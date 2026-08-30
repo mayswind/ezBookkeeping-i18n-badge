@@ -1867,6 +1867,12 @@
     },
     {
         "source": "src/locales/ko.json",
+        "key": "Preferences",
+        "defaultValue": "Preferences",
+        "value": "Preferences"
+    },
+    {
+        "source": "src/locales/ko.json",
         "key": "Export to SSV (Semicolon-separated values) File",
         "defaultValue": "Export to SSV (Semicolon-separated values) File",
         "value": "Export to SSV (Semicolon-separated values) File"

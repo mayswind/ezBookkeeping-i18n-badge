@@ -4195,6 +4195,12 @@
     },
     {
         "source": "src/locales/nl.json",
+        "key": "Preferences",
+        "defaultValue": "Preferences",
+        "value": "Preferences"
+    },
+    {
+        "source": "src/locales/nl.json",
         "key": "SSV (Semicolon-separated values) File",
         "defaultValue": "SSV (Semicolon-separated values) File",
         "value": "SSV (Semicolon-separated values) File"
