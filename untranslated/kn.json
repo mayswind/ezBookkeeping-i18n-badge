@@ -799,6 +799,18 @@
     },
     {
         "source": "src/locales/kn.json",
+        "key": "Donut Chart",
+        "defaultValue": "Donut Chart",
+        "value": "Donut Chart"
+    },
+    {
+        "source": "src/locales/kn.json",
+        "key": "Nightingale Rose Chart",
+        "defaultValue": "Nightingale Rose Chart",
+        "value": "Nightingale Rose Chart"
+    },
+    {
+        "source": "src/locales/kn.json",
         "key": "Boxplot Chart",
         "defaultValue": "Boxplot Chart",
         "value": "Boxplot Chart"
@@ -958,6 +970,18 @@
         "key": "Period Net Income and Savings Rate",
         "defaultValue": "Period Net Income and Savings Rate",
         "value": "Period Net Income and Savings Rate"
+    },
+    {
+        "source": "src/locales/kn.json",
+        "key": "Income Trends",
+        "defaultValue": "Income Trends",
+        "value": "Income Trends"
+    },
+    {
+        "source": "src/locales/kn.json",
+        "key": "Expense Trends",
+        "defaultValue": "Expense Trends",
+        "value": "Expense Trends"
     },
     {
         "source": "src/locales/kn.json",
@@ -2107,6 +2131,12 @@
     },
     {
         "source": "src/locales/kn.json",
+        "key": "Show Title",
+        "defaultValue": "Show Title",
+        "value": "Show Title"
+    },
+    {
+        "source": "src/locales/kn.json",
         "key": "Widget Height",
         "defaultValue": "Widget Height",
         "value": "Widget Height"
@@ -2140,6 +2170,12 @@
         "key": "Large",
         "defaultValue": "Large",
         "value": "Large"
+    },
+    {
+        "source": "src/locales/kn.json",
+        "key": "Smooth Curve",
+        "defaultValue": "Smooth Curve",
+        "value": "Smooth Curve"
     },
     {
         "source": "src/locales/kn.json",
