@@ -1405,6 +1405,12 @@
     },
     {
         "source": "src/locales/pt_BR.json",
+        "key": "Show Alternate Date",
+        "defaultValue": "Show Alternate Date",
+        "value": "Show Alternate Date"
+    },
+    {
+        "source": "src/locales/pt_BR.json",
         "key": "No widgets",
         "defaultValue": "No widgets",
         "value": "No widgets"

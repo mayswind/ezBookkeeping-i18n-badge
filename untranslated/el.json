@@ -313,6 +313,12 @@
     },
     {
         "source": "src/locales/el.json",
+        "key": "Show Alternate Date",
+        "defaultValue": "Show Alternate Date",
+        "value": "Show Alternate Date"
+    },
+    {
+        "source": "src/locales/el.json",
         "key": "Preferences",
         "defaultValue": "Preferences",
         "value": "Preferences"
