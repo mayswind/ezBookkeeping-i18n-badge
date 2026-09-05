@@ -259,6 +259,18 @@
     },
     {
         "source": "src/locales/tr.json",
+        "key": "Search",
+        "defaultValue": "Search",
+        "value": "Search"
+    },
+    {
+        "source": "src/locales/tr.json",
+        "key": "Filter",
+        "defaultValue": "Filter",
+        "value": "Filter"
+    },
+    {
+        "source": "src/locales/tr.json",
         "key": "Move to...",
         "defaultValue": "Move to...",
         "value": "Move to..."
@@ -268,6 +280,18 @@
         "key": "Item Count",
         "defaultValue": "Item Count",
         "value": "Item Count"
+    },
+    {
+        "source": "src/locales/tr.json",
+        "key": "Previous Period",
+        "defaultValue": "Previous Period",
+        "value": "Previous Period"
+    },
+    {
+        "source": "src/locales/tr.json",
+        "key": "Next Period",
+        "defaultValue": "Next Period",
+        "value": "Next Period"
     },
     {
         "source": "src/locales/tr.json",
@@ -1102,6 +1126,12 @@
         "key": "Failed to load QR code",
         "defaultValue": "Failed to load QR code",
         "value": "Failed to load QR code"
+    },
+    {
+        "source": "src/locales/tr.json",
+        "key": "Open in Browser",
+        "defaultValue": "Open in Browser",
+        "value": "Open in Browser"
     },
     {
         "source": "src/locales/tr.json",

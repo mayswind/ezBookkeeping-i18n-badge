@@ -2113,6 +2113,18 @@
     },
     {
         "source": "src/locales/vi.json",
+        "key": "Search",
+        "defaultValue": "Search",
+        "value": "Search"
+    },
+    {
+        "source": "src/locales/vi.json",
+        "key": "Filter",
+        "defaultValue": "Filter",
+        "value": "Filter"
+    },
+    {
+        "source": "src/locales/vi.json",
         "key": "Example",
         "defaultValue": "Example",
         "value": "Example"
@@ -2284,6 +2296,18 @@
         "key": "last day",
         "defaultValue": "last day",
         "value": "last day"
+    },
+    {
+        "source": "src/locales/vi.json",
+        "key": "Previous Period",
+        "defaultValue": "Previous Period",
+        "value": "Previous Period"
+    },
+    {
+        "source": "src/locales/vi.json",
+        "key": "Next Period",
+        "defaultValue": "Next Period",
+        "value": "Next Period"
     },
     {
         "source": "src/locales/vi.json",
@@ -5950,6 +5974,12 @@
         "key": "Are you sure you want to switch to desktop version?",
         "defaultValue": "Are you sure you want to switch to desktop version?",
         "value": "Are you sure you want to switch to desktop version?"
+    },
+    {
+        "source": "src/locales/vi.json",
+        "key": "Open in Browser",
+        "defaultValue": "Open in Browser",
+        "value": "Open in Browser"
     },
     {
         "source": "src/locales/vi.json",

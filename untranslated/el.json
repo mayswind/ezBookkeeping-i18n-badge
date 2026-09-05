@@ -85,6 +85,18 @@
     },
     {
         "source": "src/locales/el.json",
+        "key": "Search",
+        "defaultValue": "Search",
+        "value": "Search"
+    },
+    {
+        "source": "src/locales/el.json",
+        "key": "Filter",
+        "defaultValue": "Filter",
+        "value": "Filter"
+    },
+    {
+        "source": "src/locales/el.json",
         "key": "Token",
         "defaultValue": "Token",
         "value": "Token"
@@ -124,6 +136,18 @@
         "key": "OR SUB",
         "defaultValue": "OR SUB",
         "value": "OR SUB"
+    },
+    {
+        "source": "src/locales/el.json",
+        "key": "Previous Period",
+        "defaultValue": "Previous Period",
+        "value": "Previous Period"
+    },
+    {
+        "source": "src/locales/el.json",
+        "key": "Next Period",
+        "defaultValue": "Next Period",
+        "value": "Next Period"
     },
     {
         "source": "src/locales/el.json",
@@ -340,6 +364,12 @@
         "key": "MCP Token",
         "defaultValue": "MCP Token",
         "value": "MCP Token"
+    },
+    {
+        "source": "src/locales/el.json",
+        "key": "Open in Browser",
+        "defaultValue": "Open in Browser",
+        "value": "Open in Browser"
     },
     {
         "source": "src/locales/el.json",

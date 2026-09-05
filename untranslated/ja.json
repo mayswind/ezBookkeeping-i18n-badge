@@ -115,6 +115,18 @@
     },
     {
         "source": "src/locales/ja.json",
+        "key": "Search",
+        "defaultValue": "Search",
+        "value": "Search"
+    },
+    {
+        "source": "src/locales/ja.json",
+        "key": "Filter",
+        "defaultValue": "Filter",
+        "value": "Filter"
+    },
+    {
+        "source": "src/locales/ja.json",
         "key": "Item Count",
         "defaultValue": "Item Count",
         "value": "Item Count"
@@ -148,6 +160,18 @@
         "key": "OR SUB",
         "defaultValue": "OR SUB",
         "value": "OR SUB"
+    },
+    {
+        "source": "src/locales/ja.json",
+        "key": "Previous Period",
+        "defaultValue": "Previous Period",
+        "value": "Previous Period"
+    },
+    {
+        "source": "src/locales/ja.json",
+        "key": "Next Period",
+        "defaultValue": "Next Period",
+        "value": "Next Period"
     },
     {
         "source": "src/locales/ja.json",
@@ -568,6 +592,12 @@
         "key": "Are you sure you want to clear custom icon cache?",
         "defaultValue": "Are you sure you want to clear custom icon cache?",
         "value": "Are you sure you want to clear custom icon cache?"
+    },
+    {
+        "source": "src/locales/ja.json",
+        "key": "Open in Browser",
+        "defaultValue": "Open in Browser",
+        "value": "Open in Browser"
     },
     {
         "source": "src/locales/ja.json",

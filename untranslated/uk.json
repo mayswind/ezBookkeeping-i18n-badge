@@ -319,9 +319,33 @@
     },
     {
         "source": "src/locales/uk.json",
+        "key": "Search",
+        "defaultValue": "Search",
+        "value": "Search"
+    },
+    {
+        "source": "src/locales/uk.json",
+        "key": "Filter",
+        "defaultValue": "Filter",
+        "value": "Filter"
+    },
+    {
+        "source": "src/locales/uk.json",
         "key": "Item Count",
         "defaultValue": "Item Count",
         "value": "Item Count"
+    },
+    {
+        "source": "src/locales/uk.json",
+        "key": "Previous Period",
+        "defaultValue": "Previous Period",
+        "value": "Previous Period"
+    },
+    {
+        "source": "src/locales/uk.json",
+        "key": "Next Period",
+        "defaultValue": "Next Period",
+        "value": "Next Period"
     },
     {
         "source": "src/locales/uk.json",
@@ -1126,6 +1150,12 @@
         "key": "Failed to load QR code",
         "defaultValue": "Failed to load QR code",
         "value": "Failed to load QR code"
+    },
+    {
+        "source": "src/locales/uk.json",
+        "key": "Open in Browser",
+        "defaultValue": "Open in Browser",
+        "value": "Open in Browser"
     },
     {
         "source": "src/locales/uk.json",

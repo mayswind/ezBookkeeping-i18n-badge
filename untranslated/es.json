@@ -529,6 +529,18 @@
     },
     {
         "source": "src/locales/es.json",
+        "key": "Search",
+        "defaultValue": "Search",
+        "value": "Search"
+    },
+    {
+        "source": "src/locales/es.json",
+        "key": "Filter",
+        "defaultValue": "Filter",
+        "value": "Filter"
+    },
+    {
+        "source": "src/locales/es.json",
         "key": "Token",
         "defaultValue": "Token",
         "value": "Token"
@@ -622,6 +634,18 @@
         "key": "last day",
         "defaultValue": "last day",
         "value": "last day"
+    },
+    {
+        "source": "src/locales/es.json",
+        "key": "Previous Period",
+        "defaultValue": "Previous Period",
+        "value": "Previous Period"
+    },
+    {
+        "source": "src/locales/es.json",
+        "key": "Next Period",
+        "defaultValue": "Next Period",
+        "value": "Next Period"
     },
     {
         "source": "src/locales/es.json",
@@ -2404,6 +2428,12 @@
         "key": "Failed to load QR code",
         "defaultValue": "Failed to load QR code",
         "value": "Failed to load QR code"
+    },
+    {
+        "source": "src/locales/es.json",
+        "key": "Open in Browser",
+        "defaultValue": "Open in Browser",
+        "value": "Open in Browser"
     },
     {
         "source": "src/locales/es.json",
