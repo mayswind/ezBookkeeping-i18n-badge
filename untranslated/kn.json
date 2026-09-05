@@ -835,6 +835,12 @@
     },
     {
         "source": "src/locales/kn.json",
+        "key": "Smooth Area Chart",
+        "defaultValue": "Smooth Area Chart",
+        "value": "Smooth Area Chart"
+    },
+    {
+        "source": "src/locales/kn.json",
         "key": "Boxplot Chart",
         "defaultValue": "Boxplot Chart",
         "value": "Boxplot Chart"
@@ -865,6 +871,12 @@
     },
     {
         "source": "src/locales/kn.json",
+        "key": "Smooth Line Chart (Grouped)",
+        "defaultValue": "Smooth Line Chart (Grouped)",
+        "value": "Smooth Line Chart (Grouped)"
+    },
+    {
+        "source": "src/locales/kn.json",
         "key": "Area Chart (Stacked)",
         "defaultValue": "Area Chart (Stacked)",
         "value": "Area Chart (Stacked)"
@@ -874,6 +886,18 @@
         "key": "Area Chart (100% Stacked)",
         "defaultValue": "Area Chart (100% Stacked)",
         "value": "Area Chart (100% Stacked)"
+    },
+    {
+        "source": "src/locales/kn.json",
+        "key": "Smooth Area Chart (Stacked)",
+        "defaultValue": "Smooth Area Chart (Stacked)",
+        "value": "Smooth Area Chart (Stacked)"
+    },
+    {
+        "source": "src/locales/kn.json",
+        "key": "Smooth Area Chart (100% Stacked)",
+        "defaultValue": "Smooth Area Chart (100% Stacked)",
+        "value": "Smooth Area Chart (100% Stacked)"
     },
     {
         "source": "src/locales/kn.json",
