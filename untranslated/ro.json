@@ -97,6 +97,24 @@
     },
     {
         "source": "src/locales/ro.json",
+        "key": "error.cannot set credit limit for non credit card account",
+        "defaultValue": "Cannot set credit limit for non credit card account",
+        "value": "Cannot set credit limit for non credit card account"
+    },
+    {
+        "source": "src/locales/ro.json",
+        "key": "error.cannot set credit limit for sub account",
+        "defaultValue": "Cannot set credit limit for sub-account",
+        "value": "Cannot set credit limit for sub-account"
+    },
+    {
+        "source": "src/locales/ro.json",
+        "key": "error.must set parent account currency when set credit limit",
+        "defaultValue": "Parent account currency must be set when setting a credit limit",
+        "value": "Parent account currency must be set when setting a credit limit"
+    },
+    {
+        "source": "src/locales/ro.json",
         "key": "error.merged balance modification transaction amount overflow",
         "defaultValue": "The amount of merged balance modification transaction exceeds the supported range",
         "value": "The amount of merged balance modification transaction exceeds the supported range"
@@ -265,6 +283,18 @@
     },
     {
         "source": "src/locales/ro.json",
+        "key": "pageSpecific.accountListPage.outstandingBalance",
+        "defaultValue": "Outstanding",
+        "value": "Outstanding"
+    },
+    {
+        "source": "src/locales/ro.json",
+        "key": "pageSpecific.accountListPage.availableBalance",
+        "defaultValue": "Available",
+        "value": "Available"
+    },
+    {
+        "source": "src/locales/ro.json",
         "key": "Original",
         "defaultValue": "Original",
         "value": "Original"
@@ -376,6 +406,12 @@
         "key": "Always Show Amount",
         "defaultValue": "Always Show Amount",
         "value": "Always Show Amount"
+    },
+    {
+        "source": "src/locales/ro.json",
+        "key": "Show Available Credit for Credit Cards",
+        "defaultValue": "Show Available Credit for Credit Cards",
+        "value": "Show Available Credit for Credit Cards"
     },
     {
         "source": "src/locales/ro.json",
@@ -697,6 +733,18 @@
     },
     {
         "source": "src/locales/ro.json",
+        "key": "Available Credit",
+        "defaultValue": "Available Credit",
+        "value": "Available Credit"
+    },
+    {
+        "source": "src/locales/ro.json",
+        "key": "Credit Limit",
+        "defaultValue": "Credit Limit",
+        "value": "Credit Limit"
+    },
+    {
+        "source": "src/locales/ro.json",
         "key": "AI Clipboard Text Recognition",
         "defaultValue": "AI Clipboard Text Recognition",
         "value": "AI Clipboard Text Recognition"
@@ -760,6 +808,18 @@
         "key": "Recognize Transactions from Images",
         "defaultValue": "Recognize Transactions from Images",
         "value": "Recognize Transactions from Images"
+    },
+    {
+        "source": "src/locales/ro.json",
+        "key": "Total Assets By Currency",
+        "defaultValue": "Total Assets By Currency",
+        "value": "Total Assets By Currency"
+    },
+    {
+        "source": "src/locales/ro.json",
+        "key": "Total Liabilities By Currency",
+        "defaultValue": "Total Liabilities By Currency",
+        "value": "Total Liabilities By Currency"
     },
     {
         "source": "src/locales/ro.json",
@@ -1000,6 +1060,12 @@
         "key": "Always Require Confirmation of Clipboard Content Before Submission",
         "defaultValue": "Always Require Confirmation of Clipboard Content Before Submission",
         "value": "Always Require Confirmation of Clipboard Content Before Submission"
+    },
+    {
+        "source": "src/locales/ro.json",
+        "key": "Default Credit Card Amount",
+        "defaultValue": "Default Credit Card Amount",
+        "value": "Default Credit Card Amount"
     },
     {
         "source": "src/locales/ro.json",

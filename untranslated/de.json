@@ -127,6 +127,24 @@
     },
     {
         "source": "src/locales/de.json",
+        "key": "error.cannot set credit limit for non credit card account",
+        "defaultValue": "Cannot set credit limit for non credit card account",
+        "value": "Cannot set credit limit for non credit card account"
+    },
+    {
+        "source": "src/locales/de.json",
+        "key": "error.cannot set credit limit for sub account",
+        "defaultValue": "Cannot set credit limit for sub-account",
+        "value": "Cannot set credit limit for sub-account"
+    },
+    {
+        "source": "src/locales/de.json",
+        "key": "error.must set parent account currency when set credit limit",
+        "defaultValue": "Parent account currency must be set when setting a credit limit",
+        "value": "Parent account currency must be set when setting a credit limit"
+    },
+    {
+        "source": "src/locales/de.json",
         "key": "error.merged balance modification transaction amount overflow",
         "defaultValue": "The amount of merged balance modification transaction exceeds the supported range",
         "value": "The amount of merged balance modification transaction exceeds the supported range"
@@ -289,6 +307,18 @@
     },
     {
         "source": "src/locales/de.json",
+        "key": "pageSpecific.accountListPage.outstandingBalance",
+        "defaultValue": "Outstanding",
+        "value": "Outstanding"
+    },
+    {
+        "source": "src/locales/de.json",
+        "key": "pageSpecific.accountListPage.availableBalance",
+        "defaultValue": "Available",
+        "value": "Available"
+    },
+    {
+        "source": "src/locales/de.json",
         "key": "Original",
         "defaultValue": "Original",
         "value": "Original"
@@ -436,6 +466,12 @@
         "key": "Always Show Amount",
         "defaultValue": "Always Show Amount",
         "value": "Always Show Amount"
+    },
+    {
+        "source": "src/locales/de.json",
+        "key": "Show Available Credit for Credit Cards",
+        "defaultValue": "Show Available Credit for Credit Cards",
+        "value": "Show Available Credit for Credit Cards"
     },
     {
         "source": "src/locales/de.json",
@@ -727,6 +763,18 @@
     },
     {
         "source": "src/locales/de.json",
+        "key": "Available Credit",
+        "defaultValue": "Available Credit",
+        "value": "Available Credit"
+    },
+    {
+        "source": "src/locales/de.json",
+        "key": "Credit Limit",
+        "defaultValue": "Credit Limit",
+        "value": "Credit Limit"
+    },
+    {
+        "source": "src/locales/de.json",
         "key": "AI Clipboard Text Recognition",
         "defaultValue": "AI Clipboard Text Recognition",
         "value": "AI Clipboard Text Recognition"
@@ -784,6 +832,18 @@
         "key": "Tags",
         "defaultValue": "Tags",
         "value": "Tags"
+    },
+    {
+        "source": "src/locales/de.json",
+        "key": "Total Assets By Currency",
+        "defaultValue": "Total Assets By Currency",
+        "value": "Total Assets By Currency"
+    },
+    {
+        "source": "src/locales/de.json",
+        "key": "Total Liabilities By Currency",
+        "defaultValue": "Total Liabilities By Currency",
+        "value": "Total Liabilities By Currency"
     },
     {
         "source": "src/locales/de.json",
@@ -1060,6 +1120,12 @@
         "key": "Layout import failed. Please make sure the layout is valid and try again.",
         "defaultValue": "Layout import failed. Please make sure the layout is valid and try again.",
         "value": "Layout import failed. Please make sure the layout is valid and try again."
+    },
+    {
+        "source": "src/locales/de.json",
+        "key": "Default Credit Card Amount",
+        "defaultValue": "Default Credit Card Amount",
+        "value": "Default Credit Card Amount"
     },
     {
         "source": "src/locales/de.json",

@@ -295,6 +295,24 @@
     },
     {
         "source": "src/locales/th.json",
+        "key": "error.cannot set credit limit for non credit card account",
+        "defaultValue": "Cannot set credit limit for non credit card account",
+        "value": "Cannot set credit limit for non credit card account"
+    },
+    {
+        "source": "src/locales/th.json",
+        "key": "error.cannot set credit limit for sub account",
+        "defaultValue": "Cannot set credit limit for sub-account",
+        "value": "Cannot set credit limit for sub-account"
+    },
+    {
+        "source": "src/locales/th.json",
+        "key": "error.must set parent account currency when set credit limit",
+        "defaultValue": "Parent account currency must be set when setting a credit limit",
+        "value": "Parent account currency must be set when setting a credit limit"
+    },
+    {
+        "source": "src/locales/th.json",
         "key": "error.cannot move transaction to same account",
         "defaultValue": "Cannot move transaction to the same account",
         "value": "Cannot move transaction to the same account"
@@ -658,6 +676,18 @@
         "key": "sample.importInsightsExplorerQueries.additionalQueryDescription",
         "defaultValue": "Additional query conditions",
         "value": "Additional query conditions"
+    },
+    {
+        "source": "src/locales/th.json",
+        "key": "pageSpecific.accountListPage.outstandingBalance",
+        "defaultValue": "Outstanding",
+        "value": "Outstanding"
+    },
+    {
+        "source": "src/locales/th.json",
+        "key": "pageSpecific.accountListPage.availableBalance",
+        "defaultValue": "Available",
+        "value": "Available"
     },
     {
         "source": "src/locales/th.json",
@@ -1216,6 +1246,12 @@
         "key": "Always Show Amount",
         "defaultValue": "Always Show Amount",
         "value": "Always Show Amount"
+    },
+    {
+        "source": "src/locales/th.json",
+        "key": "Show Available Credit for Credit Cards",
+        "defaultValue": "Show Available Credit for Credit Cards",
+        "value": "Show Available Credit for Credit Cards"
     },
     {
         "source": "src/locales/th.json",
@@ -2059,6 +2095,12 @@
     },
     {
         "source": "src/locales/th.json",
+        "key": "Available Credit",
+        "defaultValue": "Available Credit",
+        "value": "Available Credit"
+    },
+    {
+        "source": "src/locales/th.json",
         "key": "Last Reconciled Time",
         "defaultValue": "Last Reconciled Time",
         "value": "Last Reconciled Time"
@@ -2068,6 +2110,12 @@
         "key": "Sub-account Last Reconciled Time",
         "defaultValue": "Sub-account Last Reconciled Time",
         "value": "Sub-account Last Reconciled Time"
+    },
+    {
+        "source": "src/locales/th.json",
+        "key": "Credit Limit",
+        "defaultValue": "Credit Limit",
+        "value": "Credit Limit"
     },
     {
         "source": "src/locales/th.json",
@@ -2440,6 +2488,18 @@
         "key": "Inflows By Account",
         "defaultValue": "Inflows By Account",
         "value": "Inflows By Account"
+    },
+    {
+        "source": "src/locales/th.json",
+        "key": "Total Assets By Currency",
+        "defaultValue": "Total Assets By Currency",
+        "value": "Total Assets By Currency"
+    },
+    {
+        "source": "src/locales/th.json",
+        "key": "Total Liabilities By Currency",
+        "defaultValue": "Total Liabilities By Currency",
+        "value": "Total Liabilities By Currency"
     },
     {
         "source": "src/locales/th.json",
@@ -2824,6 +2884,12 @@
         "key": "Hide Categories Without Accounts",
         "defaultValue": "Hide Categories Without Accounts",
         "value": "Hide Categories Without Accounts"
+    },
+    {
+        "source": "src/locales/th.json",
+        "key": "Default Credit Card Amount",
+        "defaultValue": "Default Credit Card Amount",
+        "value": "Default Credit Card Amount"
     },
     {
         "source": "src/locales/th.json",

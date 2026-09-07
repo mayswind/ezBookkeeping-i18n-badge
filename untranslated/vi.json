@@ -1399,6 +1399,24 @@
     },
     {
         "source": "src/locales/vi.json",
+        "key": "error.cannot set credit limit for non credit card account",
+        "defaultValue": "Cannot set credit limit for non credit card account",
+        "value": "Cannot set credit limit for non credit card account"
+    },
+    {
+        "source": "src/locales/vi.json",
+        "key": "error.cannot set credit limit for sub account",
+        "defaultValue": "Cannot set credit limit for sub-account",
+        "value": "Cannot set credit limit for sub-account"
+    },
+    {
+        "source": "src/locales/vi.json",
+        "key": "error.must set parent account currency when set credit limit",
+        "defaultValue": "Parent account currency must be set when setting a credit limit",
+        "value": "Parent account currency must be set when setting a credit limit"
+    },
+    {
+        "source": "src/locales/vi.json",
         "key": "error.import file encoding is empty",
         "defaultValue": "Import file encoding is empty",
         "value": "Import file encoding is empty"
@@ -2002,6 +2020,18 @@
         "key": "sample.importInsightsExplorerQueries.additionalQueryDescription",
         "defaultValue": "Additional query conditions",
         "value": "Additional query conditions"
+    },
+    {
+        "source": "src/locales/vi.json",
+        "key": "pageSpecific.accountListPage.outstandingBalance",
+        "defaultValue": "Outstanding",
+        "value": "Outstanding"
+    },
+    {
+        "source": "src/locales/vi.json",
+        "key": "pageSpecific.accountListPage.availableBalance",
+        "defaultValue": "Available",
+        "value": "Available"
     },
     {
         "source": "src/locales/vi.json",
@@ -2764,6 +2794,12 @@
         "key": "Always Show Amount",
         "defaultValue": "Always Show Amount",
         "value": "Always Show Amount"
+    },
+    {
+        "source": "src/locales/vi.json",
+        "key": "Show Available Credit for Credit Cards",
+        "defaultValue": "Show Available Credit for Credit Cards",
+        "value": "Show Available Credit for Credit Cards"
     },
     {
         "source": "src/locales/vi.json",
@@ -3631,6 +3667,12 @@
     },
     {
         "source": "src/locales/vi.json",
+        "key": "Available Credit",
+        "defaultValue": "Available Credit",
+        "value": "Available Credit"
+    },
+    {
+        "source": "src/locales/vi.json",
         "key": "Find account",
         "defaultValue": "Find account",
         "value": "Find account"
@@ -3664,6 +3706,12 @@
         "key": "Statement Date",
         "defaultValue": "Statement Date",
         "value": "Statement Date"
+    },
+    {
+        "source": "src/locales/vi.json",
+        "key": "Credit Limit",
+        "defaultValue": "Credit Limit",
+        "value": "Credit Limit"
     },
     {
         "source": "src/locales/vi.json",
@@ -4777,6 +4825,18 @@
     },
     {
         "source": "src/locales/vi.json",
+        "key": "Total Assets By Currency",
+        "defaultValue": "Total Assets By Currency",
+        "value": "Total Assets By Currency"
+    },
+    {
+        "source": "src/locales/vi.json",
+        "key": "Total Liabilities By Currency",
+        "defaultValue": "Total Liabilities By Currency",
+        "value": "Total Liabilities By Currency"
+    },
+    {
+        "source": "src/locales/vi.json",
         "key": "Asset Trends Settings",
         "defaultValue": "Asset Trends Settings",
         "value": "Asset Trends Settings"
@@ -5266,6 +5326,12 @@
         "key": "Hide Categories Without Accounts",
         "defaultValue": "Hide Categories Without Accounts",
         "value": "Hide Categories Without Accounts"
+    },
+    {
+        "source": "src/locales/vi.json",
+        "key": "Default Credit Card Amount",
+        "defaultValue": "Default Credit Card Amount",
+        "value": "Default Credit Card Amount"
     },
     {
         "source": "src/locales/vi.json",

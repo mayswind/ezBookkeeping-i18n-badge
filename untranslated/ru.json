@@ -217,6 +217,24 @@
     },
     {
         "source": "src/locales/ru.json",
+        "key": "error.cannot set credit limit for non credit card account",
+        "defaultValue": "Cannot set credit limit for non credit card account",
+        "value": "Cannot set credit limit for non credit card account"
+    },
+    {
+        "source": "src/locales/ru.json",
+        "key": "error.cannot set credit limit for sub account",
+        "defaultValue": "Cannot set credit limit for sub-account",
+        "value": "Cannot set credit limit for sub-account"
+    },
+    {
+        "source": "src/locales/ru.json",
+        "key": "error.must set parent account currency when set credit limit",
+        "defaultValue": "Parent account currency must be set when setting a credit limit",
+        "value": "Parent account currency must be set when setting a credit limit"
+    },
+    {
+        "source": "src/locales/ru.json",
         "key": "error.cannot add tags to too many transactions one time",
         "defaultValue": "You cannot add tags to too many transactions one time",
         "value": "You cannot add tags to too many transactions one time"
@@ -400,6 +418,18 @@
         "key": "sample.importInsightsExplorerQueries.additionalQueryDescription",
         "defaultValue": "Additional query conditions",
         "value": "Additional query conditions"
+    },
+    {
+        "source": "src/locales/ru.json",
+        "key": "pageSpecific.accountListPage.outstandingBalance",
+        "defaultValue": "Outstanding",
+        "value": "Outstanding"
+    },
+    {
+        "source": "src/locales/ru.json",
+        "key": "pageSpecific.accountListPage.availableBalance",
+        "defaultValue": "Available",
+        "value": "Available"
     },
     {
         "source": "src/locales/ru.json",
@@ -676,6 +706,12 @@
         "key": "Always Show Amount",
         "defaultValue": "Always Show Amount",
         "value": "Always Show Amount"
+    },
+    {
+        "source": "src/locales/ru.json",
+        "key": "Show Available Credit for Credit Cards",
+        "defaultValue": "Show Available Credit for Credit Cards",
+        "value": "Show Available Credit for Credit Cards"
     },
     {
         "source": "src/locales/ru.json",
@@ -1303,6 +1339,12 @@
     },
     {
         "source": "src/locales/ru.json",
+        "key": "Available Credit",
+        "defaultValue": "Available Credit",
+        "value": "Available Credit"
+    },
+    {
+        "source": "src/locales/ru.json",
         "key": "Last Reconciled Time",
         "defaultValue": "Last Reconciled Time",
         "value": "Last Reconciled Time"
@@ -1312,6 +1354,12 @@
         "key": "Sub-account Last Reconciled Time",
         "defaultValue": "Sub-account Last Reconciled Time",
         "value": "Sub-account Last Reconciled Time"
+    },
+    {
+        "source": "src/locales/ru.json",
+        "key": "Credit Limit",
+        "defaultValue": "Credit Limit",
+        "value": "Credit Limit"
     },
     {
         "source": "src/locales/ru.json",
@@ -1444,6 +1492,18 @@
         "key": "Q3 Balance (Third Quartile)",
         "defaultValue": "Q3 Balance (Third Quartile)",
         "value": "Q3 Balance (Third Quartile)"
+    },
+    {
+        "source": "src/locales/ru.json",
+        "key": "Total Assets By Currency",
+        "defaultValue": "Total Assets By Currency",
+        "value": "Total Assets By Currency"
+    },
+    {
+        "source": "src/locales/ru.json",
+        "key": "Total Liabilities By Currency",
+        "defaultValue": "Total Liabilities By Currency",
+        "value": "Total Liabilities By Currency"
     },
     {
         "source": "src/locales/ru.json",
@@ -1768,6 +1828,12 @@
         "key": "Auto Upload AI Recognition Image as Transaction Picture",
         "defaultValue": "Auto Upload AI Recognition Image as Transaction Picture",
         "value": "Auto Upload AI Recognition Image as Transaction Picture"
+    },
+    {
+        "source": "src/locales/ru.json",
+        "key": "Default Credit Card Amount",
+        "defaultValue": "Default Credit Card Amount",
+        "value": "Default Credit Card Amount"
     },
     {
         "source": "src/locales/ru.json",

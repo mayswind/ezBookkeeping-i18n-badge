@@ -79,9 +79,39 @@
     },
     {
         "source": "src/locales/el.json",
+        "key": "error.cannot set credit limit for non credit card account",
+        "defaultValue": "Cannot set credit limit for non credit card account",
+        "value": "Cannot set credit limit for non credit card account"
+    },
+    {
+        "source": "src/locales/el.json",
+        "key": "error.cannot set credit limit for sub account",
+        "defaultValue": "Cannot set credit limit for sub-account",
+        "value": "Cannot set credit limit for sub-account"
+    },
+    {
+        "source": "src/locales/el.json",
+        "key": "error.must set parent account currency when set credit limit",
+        "defaultValue": "Parent account currency must be set when setting a credit limit",
+        "value": "Parent account currency must be set when setting a credit limit"
+    },
+    {
+        "source": "src/locales/el.json",
         "key": "error.date range is invalid",
         "defaultValue": "Date range is invalid",
         "value": "Date range is invalid"
+    },
+    {
+        "source": "src/locales/el.json",
+        "key": "pageSpecific.accountListPage.outstandingBalance",
+        "defaultValue": "Outstanding",
+        "value": "Outstanding"
+    },
+    {
+        "source": "src/locales/el.json",
+        "key": "pageSpecific.accountListPage.availableBalance",
+        "defaultValue": "Available",
+        "value": "Available"
     },
     {
         "source": "src/locales/el.json",
@@ -205,6 +235,12 @@
     },
     {
         "source": "src/locales/el.json",
+        "key": "Show Available Credit for Credit Cards",
+        "defaultValue": "Show Available Credit for Credit Cards",
+        "value": "Show Available Credit for Credit Cards"
+    },
+    {
+        "source": "src/locales/el.json",
         "key": "This Month's Income and Expense Overview",
         "defaultValue": "This Month's Income and Expense Overview",
         "value": "This Month's Income and Expense Overview"
@@ -280,6 +316,30 @@
         "key": "Last month total",
         "defaultValue": "Last month total",
         "value": "Last month total"
+    },
+    {
+        "source": "src/locales/el.json",
+        "key": "Available Credit",
+        "defaultValue": "Available Credit",
+        "value": "Available Credit"
+    },
+    {
+        "source": "src/locales/el.json",
+        "key": "Credit Limit",
+        "defaultValue": "Credit Limit",
+        "value": "Credit Limit"
+    },
+    {
+        "source": "src/locales/el.json",
+        "key": "Total Assets By Currency",
+        "defaultValue": "Total Assets By Currency",
+        "value": "Total Assets By Currency"
+    },
+    {
+        "source": "src/locales/el.json",
+        "key": "Total Liabilities By Currency",
+        "defaultValue": "Total Liabilities By Currency",
+        "value": "Total Liabilities By Currency"
     },
     {
         "source": "src/locales/el.json",
@@ -364,6 +424,12 @@
         "key": "Show Alternate Date",
         "defaultValue": "Show Alternate Date",
         "value": "Show Alternate Date"
+    },
+    {
+        "source": "src/locales/el.json",
+        "key": "Default Credit Card Amount",
+        "defaultValue": "Default Credit Card Amount",
+        "value": "Default Credit Card Amount"
     },
     {
         "source": "src/locales/el.json",
