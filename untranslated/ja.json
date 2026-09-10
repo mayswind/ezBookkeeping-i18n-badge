@@ -349,6 +349,12 @@
     },
     {
         "source": "src/locales/ja.json",
+        "key": "Average Amount per Active Day",
+        "defaultValue": "Average Amount per Active Day",
+        "value": "Average Amount per Active Day"
+    },
+    {
+        "source": "src/locales/ja.json",
         "key": "Available Credit",
         "defaultValue": "Available Credit",
         "value": "Available Credit"

@@ -229,6 +229,12 @@
     },
     {
         "source": "src/locales/de.json",
+        "key": "Average Amount per Active Day",
+        "defaultValue": "Average Amount per Active Day",
+        "value": "Average Amount per Active Day"
+    },
+    {
+        "source": "src/locales/de.json",
         "key": "Kurtosis",
         "defaultValue": "Kurtosis",
         "value": "Kurtosis"

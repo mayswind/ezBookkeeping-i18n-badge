@@ -1105,6 +1105,12 @@
     },
     {
         "source": "src/locales/ru.json",
+        "key": "Average Amount per Active Day",
+        "defaultValue": "Average Amount per Active Day",
+        "value": "Average Amount per Active Day"
+    },
+    {
+        "source": "src/locales/ru.json",
         "key": "Expense / Income Ratio",
         "defaultValue": "Expense / Income Ratio",
         "value": "Expense / Income Ratio"

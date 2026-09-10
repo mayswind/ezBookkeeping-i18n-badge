@@ -1189,6 +1189,12 @@
     },
     {
         "source": "src/locales/es.json",
+        "key": "Average Amount per Active Day",
+        "defaultValue": "Average Amount per Active Day",
+        "value": "Average Amount per Active Day"
+    },
+    {
+        "source": "src/locales/es.json",
         "key": "Median-to-Mean Ratio",
         "defaultValue": "Median-to-Mean Ratio",
         "value": "Median-to-Mean Ratio"
