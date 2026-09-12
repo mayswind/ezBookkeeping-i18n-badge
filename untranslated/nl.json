@@ -1777,6 +1777,204 @@
     },
     {
         "source": "src/locales/nl.json",
+        "key": "sample.insightsExplorerCustomChart.headerComment",
+        "defaultValue": "Example script:",
+        "value": "Example script:"
+    },
+    {
+        "source": "src/locales/nl.json",
+        "key": "sample.insightsExplorerCustomChart.functionDescription",
+        "defaultValue": "The buildChartOptions function will be called to build the custom chart options for Apache ECharts, and the function name must be 'buildChartOptions'",
+        "value": "The buildChartOptions function will be called to build the custom chart options for Apache ECharts, and the function name must be 'buildChartOptions'"
+    },
+    {
+        "source": "src/locales/nl.json",
+        "key": "sample.insightsExplorerCustomChart.customChartTransactionDescription",
+        "defaultValue": "Transaction information",
+        "value": "Transaction information"
+    },
+    {
+        "source": "src/locales/nl.json",
+        "key": "sample.insightsExplorerCustomChart.functionReturnDescription",
+        "defaultValue": "An object representing the Apache ECharts chart options. For detailed information on Apache ECharts chart options, please refer to the official documentation: https://echarts.apache.org/en/option.html",
+        "value": "An object representing the Apache ECharts chart options. For detailed information on Apache ECharts chart options, please refer to the official documentation: https://echarts.apache.org/en/option.html"
+    },
+    {
+        "source": "src/locales/nl.json",
+        "key": "sample.insightsExplorerCustomChart.transactionsFieldsDescription",
+        "defaultValue": "An array of transaction information objects",
+        "value": "An array of transaction information objects"
+    },
+    {
+        "source": "src/locales/nl.json",
+        "key": "sample.insightsExplorerCustomChart.allTransactionFieldsDescription",
+        "defaultValue": "Available fields of each transaction object:",
+        "value": "Available fields of each transaction object:"
+    },
+    {
+        "source": "src/locales/nl.json",
+        "key": "sample.insightsExplorerCustomChart.transactionField.id",
+        "defaultValue": "Transaction ID",
+        "value": "Transaction ID"
+    },
+    {
+        "source": "src/locales/nl.json",
+        "key": "sample.insightsExplorerCustomChart.transactionField.unixTime",
+        "defaultValue": "Transaction time as a Unix timestamp in seconds",
+        "value": "Transaction time as a Unix timestamp in seconds"
+    },
+    {
+        "source": "src/locales/nl.json",
+        "key": "sample.insightsExplorerCustomChart.transactionField.year",
+        "defaultValue": "Gregorian calendar year in the transaction timezone",
+        "value": "Gregorian calendar year in the transaction timezone"
+    },
+    {
+        "source": "src/locales/nl.json",
+        "key": "sample.insightsExplorerCustomChart.transactionField.month",
+        "defaultValue": "Gregorian calendar month (1–12) in the transaction timezone",
+        "value": "Gregorian calendar month (1–12) in the transaction timezone"
+    },
+    {
+        "source": "src/locales/nl.json",
+        "key": "sample.insightsExplorerCustomChart.transactionField.dayOfMonth",
+        "defaultValue": "Day of the month (1–31) in the transaction timezone",
+        "value": "Day of the month (1–31) in the transaction timezone"
+    },
+    {
+        "source": "src/locales/nl.json",
+        "key": "sample.insightsExplorerCustomChart.transactionField.dayOfWeek",
+        "defaultValue": "Day of the week (0–6, Sunday is 0) in the transaction timezone",
+        "value": "Day of the week (0–6, Sunday is 0) in the transaction timezone"
+    },
+    {
+        "source": "src/locales/nl.json",
+        "key": "sample.insightsExplorerCustomChart.transactionField.hour",
+        "defaultValue": "Hour (0–23) in the transaction timezone",
+        "value": "Hour (0–23) in the transaction timezone"
+    },
+    {
+        "source": "src/locales/nl.json",
+        "key": "sample.insightsExplorerCustomChart.transactionField.minute",
+        "defaultValue": "Minute (0–59) in the transaction timezone",
+        "value": "Minute (0–59) in the transaction timezone"
+    },
+    {
+        "source": "src/locales/nl.json",
+        "key": "sample.insightsExplorerCustomChart.transactionField.second",
+        "defaultValue": "Second (0–59) in the transaction timezone",
+        "value": "Second (0–59) in the transaction timezone"
+    },
+    {
+        "source": "src/locales/nl.json",
+        "key": "sample.insightsExplorerCustomChart.transactionField.utcOffset",
+        "defaultValue": "Transaction timezone offset from UTC in minutes",
+        "value": "Transaction timezone offset from UTC in minutes"
+    },
+    {
+        "source": "src/locales/nl.json",
+        "key": "sample.insightsExplorerCustomChart.transactionField.type",
+        "defaultValue": "Transaction type, corresponding to a value in TransactionType",
+        "value": "Transaction type, corresponding to a value in TransactionType"
+    },
+    {
+        "source": "src/locales/nl.json",
+        "key": "sample.insightsExplorerCustomChart.transactionField.primaryCategoryName",
+        "defaultValue": "Primary category name",
+        "value": "Primary category name"
+    },
+    {
+        "source": "src/locales/nl.json",
+        "key": "sample.insightsExplorerCustomChart.transactionField.secondaryCategoryName",
+        "defaultValue": "Secondary category name",
+        "value": "Secondary category name"
+    },
+    {
+        "source": "src/locales/nl.json",
+        "key": "sample.insightsExplorerCustomChart.transactionField.sourceAccountName",
+        "defaultValue": "Source account name",
+        "value": "Source account name"
+    },
+    {
+        "source": "src/locales/nl.json",
+        "key": "sample.insightsExplorerCustomChart.transactionField.destinationAccountName",
+        "defaultValue": "Destination account name, available for transfer transactions",
+        "value": "Destination account name, available for transfer transactions"
+    },
+    {
+        "source": "src/locales/nl.json",
+        "key": "sample.insightsExplorerCustomChart.transactionField.sourceCurrency",
+        "defaultValue": "Currency code of the source account",
+        "value": "Currency code of the source account"
+    },
+    {
+        "source": "src/locales/nl.json",
+        "key": "sample.insightsExplorerCustomChart.transactionField.destinationCurrency",
+        "defaultValue": "Currency code of the destination account, available for transfer transactions",
+        "value": "Currency code of the destination account, available for transfer transactions"
+    },
+    {
+        "source": "src/locales/nl.json",
+        "key": "sample.insightsExplorerCustomChart.transactionField.sourceAmount",
+        "defaultValue": "Source amount (including two decimal places expressed without a decimal separator, for example '12345' represents 123.45)",
+        "value": "Source amount (including two decimal places expressed without a decimal separator, for example '12345' represents 123.45)"
+    },
+    {
+        "source": "src/locales/nl.json",
+        "key": "sample.insightsExplorerCustomChart.transactionField.destinationAmount",
+        "defaultValue": "Destination amount (available for transfer transaction, format is the same as the source amount)",
+        "value": "Destination amount (available for transfer transaction, format is the same as the source amount)"
+    },
+    {
+        "source": "src/locales/nl.json",
+        "key": "sample.insightsExplorerCustomChart.transactionField.tagNames",
+        "defaultValue": "Array of transaction tag names",
+        "value": "Array of transaction tag names"
+    },
+    {
+        "source": "src/locales/nl.json",
+        "key": "sample.insightsExplorerCustomChart.transactionField.geoLocation",
+        "defaultValue": "Transaction geolocation containing latitude and longitude",
+        "value": "Transaction geolocation containing latitude and longitude"
+    },
+    {
+        "source": "src/locales/nl.json",
+        "key": "sample.insightsExplorerCustomChart.transactionField.comment",
+        "defaultValue": "Transaction description",
+        "value": "Transaction description"
+    },
+    {
+        "source": "src/locales/nl.json",
+        "key": "sample.insightsExplorerCustomChart.availableGlobalConstants",
+        "defaultValue": "Available global constants:",
+        "value": "Available global constants:"
+    },
+    {
+        "source": "src/locales/nl.json",
+        "key": "sample.insightsExplorerCustomChart.transactionTypeDescription",
+        "defaultValue": "Transaction type constants",
+        "value": "Transaction type constants"
+    },
+    {
+        "source": "src/locales/nl.json",
+        "key": "sample.insightsExplorerCustomChart.chartColorsDescription",
+        "defaultValue": "The chart color palette configured in the application",
+        "value": "The chart color palette configured in the application"
+    },
+    {
+        "source": "src/locales/nl.json",
+        "key": "sample.insightsExplorerCustomChart.sumTransactionAmountsDescription",
+        "defaultValue": "Calculates the sum of the source amounts of the transactions",
+        "value": "Calculates the sum of the source amounts of the transactions"
+    },
+    {
+        "source": "src/locales/nl.json",
+        "key": "sample.insightsExplorerCustomChart.sumTransactionAmountsReturnDescription",
+        "defaultValue": "Returns the sum of the source amounts of the transactions, as a number",
+        "value": "Returns the sum of the source amounts of the transactions, as a number"
+    },
+    {
+        "source": "src/locales/nl.json",
         "key": "sample.importInsightsExplorerQueries.queryIdDescription",
         "defaultValue": "[optional] Unique UUID for the query. Must be a valid UUID and unique within the same exploration. If omitted, a UUID is generated automatically.",
         "value": "[optional] Unique UUID for the query. Must be a valid UUID and unique within the same exploration. If omitted, a UUID is generated automatically."
@@ -2320,6 +2518,54 @@
         "key": "Calendar Heatmap Chart",
         "defaultValue": "Calendar Heatmap Chart",
         "value": "Calendar Heatmap Chart"
+    },
+    {
+        "source": "src/locales/nl.json",
+        "key": "Custom Chart",
+        "defaultValue": "Custom Chart",
+        "value": "Custom Chart"
+    },
+    {
+        "source": "src/locales/nl.json",
+        "key": "Chart Code",
+        "defaultValue": "Chart Code",
+        "value": "Chart Code"
+    },
+    {
+        "source": "src/locales/nl.json",
+        "key": "Display Layout",
+        "defaultValue": "Display Layout",
+        "value": "Display Layout"
+    },
+    {
+        "source": "src/locales/nl.json",
+        "key": "Code and Chart",
+        "defaultValue": "Code and Chart",
+        "value": "Code and Chart"
+    },
+    {
+        "source": "src/locales/nl.json",
+        "key": "Code and Chart Data",
+        "defaultValue": "Code and Chart Data",
+        "value": "Code and Chart Data"
+    },
+    {
+        "source": "src/locales/nl.json",
+        "key": "Code",
+        "defaultValue": "Code",
+        "value": "Code"
+    },
+    {
+        "source": "src/locales/nl.json",
+        "key": "Chart Data",
+        "defaultValue": "Chart Data",
+        "value": "Chart Data"
+    },
+    {
+        "source": "src/locales/nl.json",
+        "key": "No buildChartOptions function defined",
+        "defaultValue": "No buildChartOptions function defined",
+        "value": "No buildChartOptions function defined"
     },
     {
         "source": "src/locales/nl.json",
