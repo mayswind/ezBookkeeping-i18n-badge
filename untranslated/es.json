@@ -637,6 +637,18 @@
     },
     {
         "source": "src/locales/es.json",
+        "key": "sample.insightsExplorerCustomChart.transactionField.sourceAmountInDefaultCurrency",
+        "defaultValue": "Source amount converted to the user's default currency (unavailable when the exchange rate is missing, format is the same as the source amount)",
+        "value": "Source amount converted to the user's default currency (unavailable when the exchange rate is missing, format is the same as the source amount)"
+    },
+    {
+        "source": "src/locales/es.json",
+        "key": "sample.insightsExplorerCustomChart.transactionField.destinationAmountInDefaultCurrency",
+        "defaultValue": "Destination amount converted to the user's default currency (available for transfer transactions when the exchange rate exists, format is the same as the source amount)",
+        "value": "Destination amount converted to the user's default currency (available for transfer transactions when the exchange rate exists, format is the same as the source amount)"
+    },
+    {
+        "source": "src/locales/es.json",
         "key": "sample.insightsExplorerCustomChart.transactionField.tagNames",
         "defaultValue": "Array of transaction tag names",
         "value": "Array of transaction tag names"
