@@ -169,6 +169,12 @@
     },
     {
         "source": "src/locales/vi.json",
+        "key": "format.misc.ruleIndex",
+        "defaultValue": "Rule #{index}",
+        "value": "Rule #{index}"
+    },
+    {
+        "source": "src/locales/vi.json",
         "key": "format.misc.oauth2bindTip",
         "defaultValue": "You're signing in to the {userName} user using {providerName}. Please enter your ezBookkeeping password to verify.",
         "value": "You're signing in to the {userName} user using {providerName}. Please enter your ezBookkeeping password to verify."
@@ -2581,6 +2587,12 @@
     },
     {
         "source": "src/locales/vi.json",
+        "key": "Is",
+        "defaultValue": "Is",
+        "value": "Is"
+    },
+    {
+        "source": "src/locales/vi.json",
         "key": "In",
         "defaultValue": "In",
         "value": "In"
@@ -4771,12 +4783,6 @@
     },
     {
         "source": "src/locales/vi.json",
-        "key": "Batch Replace Categories / Accounts / Tags",
-        "defaultValue": "Batch Replace Categories / Accounts / Tags",
-        "value": "Batch Replace Categories / Accounts / Tags"
-    },
-    {
-        "source": "src/locales/vi.json",
         "key": "Create Nonexistent Expense Categories",
         "defaultValue": "Create Nonexistent Expense Categories",
         "value": "Create Nonexistent Expense Categories"
@@ -4798,54 +4804,6 @@
         "key": "Create Nonexistent Transaction Tags",
         "defaultValue": "Create Nonexistent Transaction Tags",
         "value": "Create Nonexistent Transaction Tags"
-    },
-    {
-        "source": "src/locales/vi.json",
-        "key": "Batch Convert Expense Transaction to Income Transaction",
-        "defaultValue": "Batch Convert Expense Transaction to Income Transaction",
-        "value": "Batch Convert Expense Transaction to Income Transaction"
-    },
-    {
-        "source": "src/locales/vi.json",
-        "key": "Batch Convert Expense Transaction to Transfer Transaction",
-        "defaultValue": "Batch Convert Expense Transaction to Transfer Transaction",
-        "value": "Batch Convert Expense Transaction to Transfer Transaction"
-    },
-    {
-        "source": "src/locales/vi.json",
-        "key": "Batch Convert Income Transaction to Expense Transaction",
-        "defaultValue": "Batch Convert Income Transaction to Expense Transaction",
-        "value": "Batch Convert Income Transaction to Expense Transaction"
-    },
-    {
-        "source": "src/locales/vi.json",
-        "key": "Batch Convert Income Transaction to Transfer Transaction",
-        "defaultValue": "Batch Convert Income Transaction to Transfer Transaction",
-        "value": "Batch Convert Income Transaction to Transfer Transaction"
-    },
-    {
-        "source": "src/locales/vi.json",
-        "key": "Batch Convert Transfer Transaction to Expense Transaction",
-        "defaultValue": "Batch Convert Transfer Transaction to Expense Transaction",
-        "value": "Batch Convert Transfer Transaction to Expense Transaction"
-    },
-    {
-        "source": "src/locales/vi.json",
-        "key": "Batch Convert Transfer Transaction to Income Transaction",
-        "defaultValue": "Batch Convert Transfer Transaction to Income Transaction",
-        "value": "Batch Convert Transfer Transaction to Income Transaction"
-    },
-    {
-        "source": "src/locales/vi.json",
-        "key": "Batch Convert Selected Amounts to Positive Values",
-        "defaultValue": "Batch Convert Selected Amounts to Positive Values",
-        "value": "Batch Convert Selected Amounts to Positive Values"
-    },
-    {
-        "source": "src/locales/vi.json",
-        "key": "Batch Convert Selected Amounts to Negative Values",
-        "defaultValue": "Batch Convert Selected Amounts to Negative Values",
-        "value": "Batch Convert Selected Amounts to Negative Values"
     },
     {
         "source": "src/locales/vi.json",
@@ -4909,9 +4867,135 @@
     },
     {
         "source": "src/locales/vi.json",
+        "key": "Batch Apply Rules",
+        "defaultValue": "Batch Apply Rules",
+        "value": "Batch Apply Rules"
+    },
+    {
+        "source": "src/locales/vi.json",
         "key": "Add Rule",
         "defaultValue": "Add Rule",
         "value": "Add Rule"
+    },
+    {
+        "source": "src/locales/vi.json",
+        "key": "Apply to Selected Transactions",
+        "defaultValue": "Apply to Selected Transactions",
+        "value": "Apply to Selected Transactions"
+    },
+    {
+        "source": "src/locales/vi.json",
+        "key": "Apply to All Transactions",
+        "defaultValue": "Apply to All Transactions",
+        "value": "Apply to All Transactions"
+    },
+    {
+        "source": "src/locales/vi.json",
+        "key": "Modify Rule Name",
+        "defaultValue": "Modify Rule Name",
+        "value": "Modify Rule Name"
+    },
+    {
+        "source": "src/locales/vi.json",
+        "key": "Match Condition",
+        "defaultValue": "Match Condition",
+        "value": "Match Condition"
+    },
+    {
+        "source": "src/locales/vi.json",
+        "key": "Action",
+        "defaultValue": "Action",
+        "value": "Action"
+    },
+    {
+        "source": "src/locales/vi.json",
+        "key": "Set Transaction Type",
+        "defaultValue": "Set Transaction Type",
+        "value": "Set Transaction Type"
+    },
+    {
+        "source": "src/locales/vi.json",
+        "key": "Set Expense Category",
+        "defaultValue": "Set Expense Category",
+        "value": "Set Expense Category"
+    },
+    {
+        "source": "src/locales/vi.json",
+        "key": "Set Income Category",
+        "defaultValue": "Set Income Category",
+        "value": "Set Income Category"
+    },
+    {
+        "source": "src/locales/vi.json",
+        "key": "Set Transfer Category",
+        "defaultValue": "Set Transfer Category",
+        "value": "Set Transfer Category"
+    },
+    {
+        "source": "src/locales/vi.json",
+        "key": "Set Source Account",
+        "defaultValue": "Set Source Account",
+        "value": "Set Source Account"
+    },
+    {
+        "source": "src/locales/vi.json",
+        "key": "Set Destination Account",
+        "defaultValue": "Set Destination Account",
+        "value": "Set Destination Account"
+    },
+    {
+        "source": "src/locales/vi.json",
+        "key": "Add Tag",
+        "defaultValue": "Add Tag",
+        "value": "Add Tag"
+    },
+    {
+        "source": "src/locales/vi.json",
+        "key": "Replace Tag",
+        "defaultValue": "Replace Tag",
+        "value": "Replace Tag"
+    },
+    {
+        "source": "src/locales/vi.json",
+        "key": "Delete Tag",
+        "defaultValue": "Delete Tag",
+        "value": "Delete Tag"
+    },
+    {
+        "source": "src/locales/vi.json",
+        "key": "Set Source Amount",
+        "defaultValue": "Set Source Amount",
+        "value": "Set Source Amount"
+    },
+    {
+        "source": "src/locales/vi.json",
+        "key": "Set Destination Amount",
+        "defaultValue": "Set Destination Amount",
+        "value": "Set Destination Amount"
+    },
+    {
+        "source": "src/locales/vi.json",
+        "key": "Set Timezone",
+        "defaultValue": "Set Timezone",
+        "value": "Set Timezone"
+    },
+    {
+        "source": "src/locales/vi.json",
+        "key": "Positive",
+        "defaultValue": "Positive",
+        "value": "Positive"
+    },
+    {
+        "source": "src/locales/vi.json",
+        "key": "Negative",
+        "defaultValue": "Negative",
+        "value": "Negative"
+    },
+    {
+        "source": "src/locales/vi.json",
+        "key": "No rules",
+        "defaultValue": "No rules",
+        "value": "No rules"
     },
     {
         "source": "src/locales/vi.json",

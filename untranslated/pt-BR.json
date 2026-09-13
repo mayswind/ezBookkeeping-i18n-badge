@@ -103,6 +103,12 @@
     },
     {
         "source": "src/locales/pt_BR.json",
+        "key": "format.misc.ruleIndex",
+        "defaultValue": "Rule #{index}",
+        "value": "Rule #{index}"
+    },
+    {
+        "source": "src/locales/pt_BR.json",
         "key": "dataExport.defaultInsightsExplorerQueryFileName",
         "defaultValue": "ezBookkeeping_insights_explorer_query",
         "value": "ezBookkeeping_insights_explorer_query"
@@ -652,6 +658,12 @@
         "key": "Every N Days",
         "defaultValue": "Every N Days",
         "value": "Every N Days"
+    },
+    {
+        "source": "src/locales/pt_BR.json",
+        "key": "Is",
+        "defaultValue": "Is",
+        "value": "Is"
     },
     {
         "source": "src/locales/pt_BR.json",
@@ -1522,6 +1534,132 @@
         "key": "Recognize Transactions from Images",
         "defaultValue": "Recognize Transactions from Images",
         "value": "Recognize Transactions from Images"
+    },
+    {
+        "source": "src/locales/pt_BR.json",
+        "key": "Batch Apply Rules",
+        "defaultValue": "Batch Apply Rules",
+        "value": "Batch Apply Rules"
+    },
+    {
+        "source": "src/locales/pt_BR.json",
+        "key": "Apply to Selected Transactions",
+        "defaultValue": "Apply to Selected Transactions",
+        "value": "Apply to Selected Transactions"
+    },
+    {
+        "source": "src/locales/pt_BR.json",
+        "key": "Apply to All Transactions",
+        "defaultValue": "Apply to All Transactions",
+        "value": "Apply to All Transactions"
+    },
+    {
+        "source": "src/locales/pt_BR.json",
+        "key": "Modify Rule Name",
+        "defaultValue": "Modify Rule Name",
+        "value": "Modify Rule Name"
+    },
+    {
+        "source": "src/locales/pt_BR.json",
+        "key": "Match Condition",
+        "defaultValue": "Match Condition",
+        "value": "Match Condition"
+    },
+    {
+        "source": "src/locales/pt_BR.json",
+        "key": "Action",
+        "defaultValue": "Action",
+        "value": "Action"
+    },
+    {
+        "source": "src/locales/pt_BR.json",
+        "key": "Set Transaction Type",
+        "defaultValue": "Set Transaction Type",
+        "value": "Set Transaction Type"
+    },
+    {
+        "source": "src/locales/pt_BR.json",
+        "key": "Set Expense Category",
+        "defaultValue": "Set Expense Category",
+        "value": "Set Expense Category"
+    },
+    {
+        "source": "src/locales/pt_BR.json",
+        "key": "Set Income Category",
+        "defaultValue": "Set Income Category",
+        "value": "Set Income Category"
+    },
+    {
+        "source": "src/locales/pt_BR.json",
+        "key": "Set Transfer Category",
+        "defaultValue": "Set Transfer Category",
+        "value": "Set Transfer Category"
+    },
+    {
+        "source": "src/locales/pt_BR.json",
+        "key": "Set Source Account",
+        "defaultValue": "Set Source Account",
+        "value": "Set Source Account"
+    },
+    {
+        "source": "src/locales/pt_BR.json",
+        "key": "Set Destination Account",
+        "defaultValue": "Set Destination Account",
+        "value": "Set Destination Account"
+    },
+    {
+        "source": "src/locales/pt_BR.json",
+        "key": "Add Tag",
+        "defaultValue": "Add Tag",
+        "value": "Add Tag"
+    },
+    {
+        "source": "src/locales/pt_BR.json",
+        "key": "Replace Tag",
+        "defaultValue": "Replace Tag",
+        "value": "Replace Tag"
+    },
+    {
+        "source": "src/locales/pt_BR.json",
+        "key": "Delete Tag",
+        "defaultValue": "Delete Tag",
+        "value": "Delete Tag"
+    },
+    {
+        "source": "src/locales/pt_BR.json",
+        "key": "Set Source Amount",
+        "defaultValue": "Set Source Amount",
+        "value": "Set Source Amount"
+    },
+    {
+        "source": "src/locales/pt_BR.json",
+        "key": "Set Destination Amount",
+        "defaultValue": "Set Destination Amount",
+        "value": "Set Destination Amount"
+    },
+    {
+        "source": "src/locales/pt_BR.json",
+        "key": "Set Timezone",
+        "defaultValue": "Set Timezone",
+        "value": "Set Timezone"
+    },
+    {
+        "source": "src/locales/pt_BR.json",
+        "key": "Positive",
+        "defaultValue": "Positive",
+        "value": "Positive"
+    },
+    {
+        "source": "src/locales/pt_BR.json",
+        "key": "Negative",
+        "defaultValue": "Negative",
+        "value": "Negative"
+    },
+    {
+        "source": "src/locales/pt_BR.json",
+        "key": "No rules",
+        "defaultValue": "No rules",
+        "value": "No rules"
     },
     {
         "source": "src/locales/pt_BR.json",

@@ -13,6 +13,12 @@
     },
     {
         "source": "src/locales/ja.json",
+        "key": "format.misc.ruleIndex",
+        "defaultValue": "Rule #{index}",
+        "value": "Rule #{index}"
+    },
+    {
+        "source": "src/locales/ja.json",
         "key": "dataExport.defaultOverviewLayoutFileName",
         "defaultValue": "ezBookkeeping_overview_layout",
         "value": "ezBookkeeping_overview_layout"
@@ -415,6 +421,12 @@
     },
     {
         "source": "src/locales/ja.json",
+        "key": "Is",
+        "defaultValue": "Is",
+        "value": "Is"
+    },
+    {
+        "source": "src/locales/ja.json",
         "key": "Donut Chart",
         "defaultValue": "Donut Chart",
         "value": "Donut Chart"
@@ -622,6 +634,132 @@
         "key": "Credit Limit",
         "defaultValue": "Credit Limit",
         "value": "Credit Limit"
+    },
+    {
+        "source": "src/locales/ja.json",
+        "key": "Batch Apply Rules",
+        "defaultValue": "Batch Apply Rules",
+        "value": "Batch Apply Rules"
+    },
+    {
+        "source": "src/locales/ja.json",
+        "key": "Apply to Selected Transactions",
+        "defaultValue": "Apply to Selected Transactions",
+        "value": "Apply to Selected Transactions"
+    },
+    {
+        "source": "src/locales/ja.json",
+        "key": "Apply to All Transactions",
+        "defaultValue": "Apply to All Transactions",
+        "value": "Apply to All Transactions"
+    },
+    {
+        "source": "src/locales/ja.json",
+        "key": "Modify Rule Name",
+        "defaultValue": "Modify Rule Name",
+        "value": "Modify Rule Name"
+    },
+    {
+        "source": "src/locales/ja.json",
+        "key": "Match Condition",
+        "defaultValue": "Match Condition",
+        "value": "Match Condition"
+    },
+    {
+        "source": "src/locales/ja.json",
+        "key": "Action",
+        "defaultValue": "Action",
+        "value": "Action"
+    },
+    {
+        "source": "src/locales/ja.json",
+        "key": "Set Transaction Type",
+        "defaultValue": "Set Transaction Type",
+        "value": "Set Transaction Type"
+    },
+    {
+        "source": "src/locales/ja.json",
+        "key": "Set Expense Category",
+        "defaultValue": "Set Expense Category",
+        "value": "Set Expense Category"
+    },
+    {
+        "source": "src/locales/ja.json",
+        "key": "Set Income Category",
+        "defaultValue": "Set Income Category",
+        "value": "Set Income Category"
+    },
+    {
+        "source": "src/locales/ja.json",
+        "key": "Set Transfer Category",
+        "defaultValue": "Set Transfer Category",
+        "value": "Set Transfer Category"
+    },
+    {
+        "source": "src/locales/ja.json",
+        "key": "Set Source Account",
+        "defaultValue": "Set Source Account",
+        "value": "Set Source Account"
+    },
+    {
+        "source": "src/locales/ja.json",
+        "key": "Set Destination Account",
+        "defaultValue": "Set Destination Account",
+        "value": "Set Destination Account"
+    },
+    {
+        "source": "src/locales/ja.json",
+        "key": "Add Tag",
+        "defaultValue": "Add Tag",
+        "value": "Add Tag"
+    },
+    {
+        "source": "src/locales/ja.json",
+        "key": "Replace Tag",
+        "defaultValue": "Replace Tag",
+        "value": "Replace Tag"
+    },
+    {
+        "source": "src/locales/ja.json",
+        "key": "Delete Tag",
+        "defaultValue": "Delete Tag",
+        "value": "Delete Tag"
+    },
+    {
+        "source": "src/locales/ja.json",
+        "key": "Set Source Amount",
+        "defaultValue": "Set Source Amount",
+        "value": "Set Source Amount"
+    },
+    {
+        "source": "src/locales/ja.json",
+        "key": "Set Destination Amount",
+        "defaultValue": "Set Destination Amount",
+        "value": "Set Destination Amount"
+    },
+    {
+        "source": "src/locales/ja.json",
+        "key": "Set Timezone",
+        "defaultValue": "Set Timezone",
+        "value": "Set Timezone"
+    },
+    {
+        "source": "src/locales/ja.json",
+        "key": "Positive",
+        "defaultValue": "Positive",
+        "value": "Positive"
+    },
+    {
+        "source": "src/locales/ja.json",
+        "key": "Negative",
+        "defaultValue": "Negative",
+        "value": "Negative"
+    },
+    {
+        "source": "src/locales/ja.json",
+        "key": "No rules",
+        "defaultValue": "No rules",
+        "value": "No rules"
     },
     {
         "source": "src/locales/ja.json",
