@@ -1093,6 +1093,12 @@
     },
     {
         "source": "src/locales/ta.json",
+        "key": "Add Transaction Button",
+        "defaultValue": "Add Transaction Button",
+        "value": "Add Transaction Button"
+    },
+    {
+        "source": "src/locales/ta.json",
         "key": "Transaction Gallery",
         "defaultValue": "Transaction Gallery",
         "value": "Transaction Gallery"

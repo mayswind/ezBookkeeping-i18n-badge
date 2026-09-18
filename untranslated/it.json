@@ -2071,6 +2071,12 @@
     },
     {
         "source": "src/locales/it.json",
+        "key": "Add Transaction Button",
+        "defaultValue": "Add Transaction Button",
+        "value": "Add Transaction Button"
+    },
+    {
+        "source": "src/locales/it.json",
         "key": "Transaction Calendar",
         "defaultValue": "Transaction Calendar",
         "value": "Transaction Calendar"

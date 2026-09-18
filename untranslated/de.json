@@ -493,6 +493,12 @@
     },
     {
         "source": "src/locales/de.json",
+        "key": "Add Transaction Button",
+        "defaultValue": "Add Transaction Button",
+        "value": "Add Transaction Button"
+    },
+    {
+        "source": "src/locales/de.json",
         "key": "Editor",
         "defaultValue": "Editor",
         "value": "Editor"

@@ -805,6 +805,12 @@
     },
     {
         "source": "src/locales/uk.json",
+        "key": "Add Transaction Button",
+        "defaultValue": "Add Transaction Button",
+        "value": "Add Transaction Button"
+    },
+    {
+        "source": "src/locales/uk.json",
         "key": "Explorations",
         "defaultValue": "Explorations",
         "value": "Explorations"

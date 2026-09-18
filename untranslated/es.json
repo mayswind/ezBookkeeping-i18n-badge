@@ -1219,6 +1219,12 @@
     },
     {
         "source": "src/locales/es.json",
+        "key": "Add Transaction Button",
+        "defaultValue": "Add Transaction Button",
+        "value": "Add Transaction Button"
+    },
+    {
+        "source": "src/locales/es.json",
         "key": "Transaction Gallery",
         "defaultValue": "Transaction Gallery",
         "value": "Transaction Gallery"
