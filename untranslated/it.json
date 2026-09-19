@@ -1,42 +1,6 @@
 [
     {
         "source": "src/locales/it.json",
-        "key": "format.misc.nHour",
-        "defaultValue": "{n} Hour",
-        "value": "{n} Hour"
-    },
-    {
-        "source": "src/locales/it.json",
-        "key": "format.misc.nHours",
-        "defaultValue": "{n} Hours",
-        "value": "{n} Hours"
-    },
-    {
-        "source": "src/locales/it.json",
-        "key": "format.misc.nDay",
-        "defaultValue": "{n} Day",
-        "value": "{n} Day"
-    },
-    {
-        "source": "src/locales/it.json",
-        "key": "format.misc.nDays",
-        "defaultValue": "{n} Days",
-        "value": "{n} Days"
-    },
-    {
-        "source": "src/locales/it.json",
-        "key": "format.misc.nMonth",
-        "defaultValue": "{n} Month",
-        "value": "{n} Month"
-    },
-    {
-        "source": "src/locales/it.json",
-        "key": "format.misc.nMonths",
-        "defaultValue": "{n} Months",
-        "value": "{n} Months"
-    },
-    {
-        "source": "src/locales/it.json",
         "key": "format.misc.charactersRemaining",
         "defaultValue": "{count} remaining",
         "value": "{count} remaining"
@@ -55,36 +19,6 @@
     },
     {
         "source": "src/locales/it.json",
-        "key": "format.misc.lastMonthDay",
-        "defaultValue": "Last {ordinal} day",
-        "value": "Last {ordinal} day"
-    },
-    {
-        "source": "src/locales/it.json",
-        "key": "format.misc.lastMonthDayInLowercase",
-        "defaultValue": "last {ordinal} day",
-        "value": "last {ordinal} day"
-    },
-    {
-        "source": "src/locales/it.json",
-        "key": "format.misc.eachLastMonthDayInMonthDays",
-        "defaultValue": "last {ordinal}",
-        "value": "last {ordinal}"
-    },
-    {
-        "source": "src/locales/it.json",
-        "key": "format.misc.everyMultiDaysOfYear",
-        "defaultValue": "Every {days} of year",
-        "value": "Every {days} of year"
-    },
-    {
-        "source": "src/locales/it.json",
-        "key": "format.misc.everyNDays",
-        "defaultValue": "Every {n} days",
-        "value": "Every {n} days"
-    },
-    {
-        "source": "src/locales/it.json",
         "key": "format.misc.previewCount",
         "defaultValue": "Preview Count: {count}",
         "value": "Preview Count: {count}"
@@ -94,78 +28,6 @@
         "key": "format.misc.queryIndex",
         "defaultValue": "Query #{index}",
         "value": "Query #{index}"
-    },
-    {
-        "source": "src/locales/it.json",
-        "key": "format.misc.youHaveDeletedTransactions",
-        "defaultValue": "You have deleted {count} transactions",
-        "value": "You have deleted {count} transactions"
-    },
-    {
-        "source": "src/locales/it.json",
-        "key": "format.misc.recognizingImagesProcess",
-        "defaultValue": "Recognizing images, Completed: {success}, Failed: {failed}, Total: {total} images.",
-        "value": "Recognizing images, Completed: {success}, Failed: {failed}, Total: {total} images."
-    },
-    {
-        "source": "src/locales/it.json",
-        "key": "format.misc.recognizedImagesProcess",
-        "defaultValue": "Completed: {success}, Failed: {failed}, Total: {total} images.",
-        "value": "Completed: {success}, Failed: {failed}, Total: {total} images."
-    },
-    {
-        "source": "src/locales/it.json",
-        "key": "format.misc.importingTransactions",
-        "defaultValue": "Importing ({process}%)",
-        "value": "Importing ({process}%)"
-    },
-    {
-        "source": "src/locales/it.json",
-        "key": "format.misc.moveTransactionsInAccountTip",
-        "defaultValue": "You CANNOT undo this action. This will move all transactions from {fromAccount} to {toAccount}.",
-        "value": "You CANNOT undo this action. This will move all transactions from {fromAccount} to {toAccount}."
-    },
-    {
-        "source": "src/locales/it.json",
-        "key": "format.misc.clearTransactionsInAccountTip",
-        "defaultValue": "You CANNOT undo this action. This will clear your transactions data in {account}. Please enter your current password to confirm.",
-        "value": "You CANNOT undo this action. This will clear your transactions data in {account}. Please enter your current password to confirm."
-    },
-    {
-        "source": "src/locales/it.json",
-        "key": "format.misc.queryIdInvalidTip",
-        "defaultValue": "Query ID \"{id}\" is invalid. Please check and try again.",
-        "value": "Query ID \"{id}\" is invalid. Please check and try again."
-    },
-    {
-        "source": "src/locales/it.json",
-        "key": "format.misc.queryInvalidTip",
-        "defaultValue": "Query (ID: \"{id}\") is invalid. Please check and try again.",
-        "value": "Query (ID: \"{id}\") is invalid. Please check and try again."
-    },
-    {
-        "source": "src/locales/it.json",
-        "key": "format.misc.queryIdDuplicatedTip",
-        "defaultValue": "Query ID \"{id}\" is duplicated. Please check and try again.",
-        "value": "Query ID \"{id}\" is duplicated. Please check and try again."
-    },
-    {
-        "source": "src/locales/it.json",
-        "key": "format.misc.deleteTransactionsTip",
-        "defaultValue": "You CANNOT undo this action. This will delete {count} transactions. Please enter your current password to confirm.",
-        "value": "You CANNOT undo this action. This will delete {count} transactions. Please enter your current password to confirm."
-    },
-    {
-        "source": "src/locales/it.json",
-        "key": "format.misc.clearTransactionsTagsTip",
-        "defaultValue": "You CANNOT undo this action. This will clear all tags from {count} transactions.",
-        "value": "You CANNOT undo this action. This will clear all tags from {count} transactions."
-    },
-    {
-        "source": "src/locales/it.json",
-        "key": "format.misc.ruleIndex",
-        "defaultValue": "Rule #{index}",
-        "value": "Rule #{index}"
     },
     {
         "source": "src/locales/it.json",
