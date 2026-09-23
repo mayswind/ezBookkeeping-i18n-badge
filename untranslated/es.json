@@ -1,18 +1,6 @@
 [
     {
         "source": "src/locales/es.json",
-        "key": "format.misc.nMonth",
-        "defaultValue": "{n} Month",
-        "value": "{n} Month"
-    },
-    {
-        "source": "src/locales/es.json",
-        "key": "format.misc.nMonths",
-        "defaultValue": "{n} Months",
-        "value": "{n} Months"
-    },
-    {
-        "source": "src/locales/es.json",
         "key": "format.misc.charactersRemaining",
         "defaultValue": "{count} remaining",
         "value": "{count} remaining"
@@ -1099,18 +1087,6 @@
     },
     {
         "source": "src/locales/es.json",
-        "key": "List",
-        "defaultValue": "List",
-        "value": "List"
-    },
-    {
-        "source": "src/locales/es.json",
-        "key": "Use Last Reconciled Time",
-        "defaultValue": "Use Last Reconciled Time",
-        "value": "Use Last Reconciled Time"
-    },
-    {
-        "source": "src/locales/es.json",
         "key": "Last reconciled time or later",
         "defaultValue": "Last reconciled time or later",
         "value": "Last reconciled time or later"
@@ -1159,39 +1135,15 @@
     },
     {
         "source": "src/locales/es.json",
-        "key": "Income Trends",
-        "defaultValue": "Income Trends",
-        "value": "Income Trends"
-    },
-    {
-        "source": "src/locales/es.json",
-        "key": "Expense Trends",
-        "defaultValue": "Expense Trends",
-        "value": "Expense Trends"
-    },
-    {
-        "source": "src/locales/es.json",
         "key": "Net Assets Trends",
         "defaultValue": "Net Assets Trends",
         "value": "Net Assets Trends"
     },
     {
         "source": "src/locales/es.json",
-        "key": "Expense Category Ranking",
-        "defaultValue": "Expense Category Ranking",
-        "value": "Expense Category Ranking"
-    },
-    {
-        "source": "src/locales/es.json",
         "key": "Recent Transactions",
         "defaultValue": "Recent Transactions",
         "value": "Recent Transactions"
-    },
-    {
-        "source": "src/locales/es.json",
-        "key": "Transaction Calendar Heatmap",
-        "defaultValue": "Transaction Calendar Heatmap",
-        "value": "Transaction Calendar Heatmap"
     },
     {
         "source": "src/locales/es.json",
@@ -1225,57 +1177,15 @@
     },
     {
         "source": "src/locales/es.json",
-        "key": "Transaction Gallery",
-        "defaultValue": "Transaction Gallery",
-        "value": "Transaction Gallery"
-    },
-    {
-        "source": "src/locales/es.json",
-        "key": "Explorations",
-        "defaultValue": "Explorations",
-        "value": "Explorations"
-    },
-    {
-        "source": "src/locales/es.json",
         "key": "No available exploration",
         "defaultValue": "No available exploration",
         "value": "No available exploration"
     },
     {
         "source": "src/locales/es.json",
-        "key": "New Exploration",
-        "defaultValue": "New Exploration",
-        "value": "New Exploration"
-    },
-    {
-        "source": "src/locales/es.json",
         "key": "Untitled Exploration",
         "defaultValue": "Untitled Exploration",
         "value": "Untitled Exploration"
-    },
-    {
-        "source": "src/locales/es.json",
-        "key": "Save Exploration",
-        "defaultValue": "Save Exploration",
-        "value": "Save Exploration"
-    },
-    {
-        "source": "src/locales/es.json",
-        "key": "Save As New Exploration",
-        "defaultValue": "Save As New Exploration",
-        "value": "Save As New Exploration"
-    },
-    {
-        "source": "src/locales/es.json",
-        "key": "Import Queries",
-        "defaultValue": "Import Queries",
-        "value": "Import Queries"
-    },
-    {
-        "source": "src/locales/es.json",
-        "key": "Export Queries",
-        "defaultValue": "Export Queries",
-        "value": "Export Queries"
     },
     {
         "source": "src/locales/es.json",
@@ -1303,12 +1213,6 @@
     },
     {
         "source": "src/locales/es.json",
-        "key": "Set Exploration Name",
-        "defaultValue": "Set Exploration Name",
-        "value": "Set Exploration Name"
-    },
-    {
-        "source": "src/locales/es.json",
         "key": "Rename Exploration",
         "defaultValue": "Rename Exploration",
         "value": "Rename Exploration"
@@ -1330,18 +1234,6 @@
         "key": "Delete Exploration",
         "defaultValue": "Delete Exploration",
         "value": "Delete Exploration"
-    },
-    {
-        "source": "src/locales/es.json",
-        "key": "Change Exploration Display Order",
-        "defaultValue": "Change Exploration Display Order",
-        "value": "Change Exploration Display Order"
-    },
-    {
-        "source": "src/locales/es.json",
-        "key": "Exploration Name",
-        "defaultValue": "Exploration Name",
-        "value": "Exploration Name"
     },
     {
         "source": "src/locales/es.json",
@@ -1414,18 +1306,6 @@
         "key": "Unable to delete this exploration",
         "defaultValue": "Unable to delete this exploration",
         "value": "Unable to delete this exploration"
-    },
-    {
-        "source": "src/locales/es.json",
-        "key": "Show Hidden Explorations",
-        "defaultValue": "Show Hidden Explorations",
-        "value": "Show Hidden Explorations"
-    },
-    {
-        "source": "src/locales/es.json",
-        "key": "Hide Hidden Explorations",
-        "defaultValue": "Hide Hidden Explorations",
-        "value": "Hide Hidden Explorations"
     },
     {
         "source": "src/locales/es.json",
@@ -1624,12 +1504,6 @@
         "key": "Unable to update last reconciled time",
         "defaultValue": "Unable to update last reconciled time",
         "value": "Unable to update last reconciled time"
-    },
-    {
-        "source": "src/locales/es.json",
-        "key": "AI Clipboard Text Recognition",
-        "defaultValue": "AI Clipboard Text Recognition",
-        "value": "AI Clipboard Text Recognition"
     },
     {
         "source": "src/locales/es.json",
@@ -2053,33 +1927,9 @@
     },
     {
         "source": "src/locales/es.json",
-        "key": "Total Assets By Currency",
-        "defaultValue": "Total Assets By Currency",
-        "value": "Total Assets By Currency"
-    },
-    {
-        "source": "src/locales/es.json",
-        "key": "Total Liabilities By Currency",
-        "defaultValue": "Total Liabilities By Currency",
-        "value": "Total Liabilities By Currency"
-    },
-    {
-        "source": "src/locales/es.json",
         "key": "Aggregate by Billing Cycle",
         "defaultValue": "Aggregate by Billing Cycle",
         "value": "Aggregate by Billing Cycle"
-    },
-    {
-        "source": "src/locales/es.json",
-        "key": "General Settings",
-        "defaultValue": "General Settings",
-        "value": "General Settings"
-    },
-    {
-        "source": "src/locales/es.json",
-        "key": "Chart Color Scheme",
-        "defaultValue": "Chart Color Scheme",
-        "value": "Chart Color Scheme"
     },
     {
         "source": "src/locales/es.json",
@@ -2113,12 +1963,6 @@
     },
     {
         "source": "src/locales/es.json",
-        "key": "Home Page Layout",
-        "defaultValue": "Home Page Layout",
-        "value": "Home Page Layout"
-    },
-    {
-        "source": "src/locales/es.json",
         "key": "Desktop Home Page Layout",
         "defaultValue": "Desktop Home Page Layout",
         "value": "Desktop Home Page Layout"
@@ -2131,21 +1975,9 @@
     },
     {
         "source": "src/locales/es.json",
-        "key": "Add Widget",
-        "defaultValue": "Add Widget",
-        "value": "Add Widget"
-    },
-    {
-        "source": "src/locales/es.json",
         "key": "Remove Widget",
         "defaultValue": "Remove Widget",
         "value": "Remove Widget"
-    },
-    {
-        "source": "src/locales/es.json",
-        "key": "Clear Layout",
-        "defaultValue": "Clear Layout",
-        "value": "Clear Layout"
     },
     {
         "source": "src/locales/es.json",
@@ -2239,12 +2071,6 @@
     },
     {
         "source": "src/locales/es.json",
-        "key": "No widgets",
-        "defaultValue": "No widgets",
-        "value": "No widgets"
-    },
-    {
-        "source": "src/locales/es.json",
         "key": "Resize",
         "defaultValue": "Resize",
         "value": "Resize"
@@ -2263,45 +2089,15 @@
     },
     {
         "source": "src/locales/es.json",
-        "key": "Clear all widgets from the layout?",
-        "defaultValue": "Clear all widgets from the layout?",
-        "value": "Clear all widgets from the layout?"
-    },
-    {
-        "source": "src/locales/es.json",
-        "key": "Reset the layout to its default value?",
-        "defaultValue": "Reset the layout to its default value?",
-        "value": "Reset the layout to its default value?"
-    },
-    {
-        "source": "src/locales/es.json",
         "key": "Layout import failed. Please make sure the layout is valid and try again.",
         "defaultValue": "Layout import failed. Please make sure the layout is valid and try again.",
         "value": "Layout import failed. Please make sure the layout is valid and try again."
     },
     {
         "source": "src/locales/es.json",
-        "key": "Default Keyword Search Matching Mode",
-        "defaultValue": "Default Keyword Search Matching Mode",
-        "value": "Default Keyword Search Matching Mode"
-    },
-    {
-        "source": "src/locales/es.json",
         "key": "Matching Mode",
         "defaultValue": "Matching Mode",
         "value": "Matching Mode"
-    },
-    {
-        "source": "src/locales/es.json",
-        "key": "Database Default Setting",
-        "defaultValue": "Database Default Setting",
-        "value": "Database Default Setting"
-    },
-    {
-        "source": "src/locales/es.json",
-        "key": "Ignore Case",
-        "defaultValue": "Ignore Case",
-        "value": "Ignore Case"
     },
     {
         "source": "src/locales/es.json",
@@ -2347,48 +2143,6 @@
     },
     {
         "source": "src/locales/es.json",
-        "key": "Transaction Picture Upload Quality",
-        "defaultValue": "Transaction Picture Upload Quality",
-        "value": "Transaction Picture Upload Quality"
-    },
-    {
-        "source": "src/locales/es.json",
-        "key": "Always Require Confirmation of Clipboard Content Before Submission",
-        "defaultValue": "Always Require Confirmation of Clipboard Content Before Submission",
-        "value": "Always Require Confirmation of Clipboard Content Before Submission"
-    },
-    {
-        "source": "src/locales/es.json",
-        "key": "Auto Upload AI Recognition Image as Transaction Picture",
-        "defaultValue": "Auto Upload AI Recognition Image as Transaction Picture",
-        "value": "Auto Upload AI Recognition Image as Transaction Picture"
-    },
-    {
-        "source": "src/locales/es.json",
-        "key": "Import Transaction Dialog",
-        "defaultValue": "Import Transaction Dialog",
-        "value": "Import Transaction Dialog"
-    },
-    {
-        "source": "src/locales/es.json",
-        "key": "Remember Last Selected File Type",
-        "defaultValue": "Remember Last Selected File Type",
-        "value": "Remember Last Selected File Type"
-    },
-    {
-        "source": "src/locales/es.json",
-        "key": "Insights Explorer Page",
-        "defaultValue": "Insights Explorer Page",
-        "value": "Insights Explorer Page"
-    },
-    {
-        "source": "src/locales/es.json",
-        "key": "Account Category Order",
-        "defaultValue": "Account Category Order",
-        "value": "Account Category Order"
-    },
-    {
-        "source": "src/locales/es.json",
         "key": "Account category order saved",
         "defaultValue": "Account category order saved",
         "value": "Account category order saved"
@@ -2401,33 +2155,15 @@
     },
     {
         "source": "src/locales/es.json",
-        "key": "Hide Categories Without Accounts",
-        "defaultValue": "Hide Categories Without Accounts",
-        "value": "Hide Categories Without Accounts"
-    },
-    {
-        "source": "src/locales/es.json",
         "key": "Default Credit Card Amount",
         "defaultValue": "Default Credit Card Amount",
         "value": "Default Credit Card Amount"
     },
     {
         "source": "src/locales/es.json",
-        "key": "Default Date Range for Reconciliation Statement Button",
-        "defaultValue": "Default Date Range for Reconciliation Statement Button",
-        "value": "Default Date Range for Reconciliation Statement Button"
-    },
-    {
-        "source": "src/locales/es.json",
         "key": "Default Date Range for Reconciliation Statement Page",
         "defaultValue": "Default Date Range for Reconciliation Statement Page",
         "value": "Default Date Range for Reconciliation Statement Page"
-    },
-    {
-        "source": "src/locales/es.json",
-        "key": "Preferences",
-        "defaultValue": "Preferences",
-        "value": "Preferences"
     },
     {
         "source": "src/locales/es.json",
@@ -2515,45 +2251,15 @@
     },
     {
         "source": "src/locales/es.json",
-        "key": "Custom Icons",
-        "defaultValue": "Custom Icons",
-        "value": "Custom Icons"
-    },
-    {
-        "source": "src/locales/es.json",
         "key": "System Icons",
         "defaultValue": "System Icons",
         "value": "System Icons"
     },
     {
         "source": "src/locales/es.json",
-        "key": "No available custom icons",
-        "defaultValue": "No available custom icons",
-        "value": "No available custom icons"
-    },
-    {
-        "source": "src/locales/es.json",
-        "key": "Upload",
-        "defaultValue": "Upload",
-        "value": "Upload"
-    },
-    {
-        "source": "src/locales/es.json",
-        "key": "Upload Custom Icon",
-        "defaultValue": "Upload Custom Icon",
-        "value": "Upload Custom Icon"
-    },
-    {
-        "source": "src/locales/es.json",
         "key": "Select Another Image",
         "defaultValue": "Select Another Image",
         "value": "Select Another Image"
-    },
-    {
-        "source": "src/locales/es.json",
-        "key": "You can drag and drop, paste or click to select an icon",
-        "defaultValue": "You can drag and drop, paste or click to select an icon",
-        "value": "You can drag and drop, paste or click to select an icon"
     },
     {
         "source": "src/locales/es.json",
