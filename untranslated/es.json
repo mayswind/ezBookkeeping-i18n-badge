@@ -13,12 +13,6 @@
     },
     {
         "source": "src/locales/es.json",
-        "key": "format.misc.lastMonthDay",
-        "defaultValue": "Last {ordinal} day",
-        "value": "Last {ordinal} day"
-    },
-    {
-        "source": "src/locales/es.json",
         "key": "format.misc.lastMonthDayInLowercase",
         "defaultValue": "last {ordinal} day",
         "value": "last {ordinal} day"
@@ -40,12 +34,6 @@
         "key": "format.misc.everyNDays",
         "defaultValue": "Every {n} days",
         "value": "Every {n} days"
-    },
-    {
-        "source": "src/locales/es.json",
-        "key": "format.misc.queryIndex",
-        "defaultValue": "Query #{index}",
-        "value": "Query #{index}"
     },
     {
         "source": "src/locales/es.json",
@@ -799,27 +787,9 @@
     },
     {
         "source": "src/locales/es.json",
-        "key": "Sort by Name (A to Z)",
-        "defaultValue": "Sort by Name (A to Z)",
-        "value": "Sort by Name (A to Z)"
-    },
-    {
-        "source": "src/locales/es.json",
-        "key": "Sort by Name (Z to A)",
-        "defaultValue": "Sort by Name (Z to A)",
-        "value": "Sort by Name (Z to A)"
-    },
-    {
-        "source": "src/locales/es.json",
         "key": "Color",
         "defaultValue": "Color",
         "value": "Color"
-    },
-    {
-        "source": "src/locales/es.json",
-        "key": "Item Count",
-        "defaultValue": "Item Count",
-        "value": "Item Count"
     },
     {
         "source": "src/locales/es.json",
@@ -859,12 +829,6 @@
     },
     {
         "source": "src/locales/es.json",
-        "key": "Last day",
-        "defaultValue": "Last day",
-        "value": "Last day"
-    },
-    {
-        "source": "src/locales/es.json",
         "key": "last day",
         "defaultValue": "last day",
         "value": "last day"
@@ -883,33 +847,9 @@
     },
     {
         "source": "src/locales/es.json",
-        "key": "Daily",
-        "defaultValue": "Daily",
-        "value": "Daily"
-    },
-    {
-        "source": "src/locales/es.json",
-        "key": "Yearly",
-        "defaultValue": "Yearly",
-        "value": "Yearly"
-    },
-    {
-        "source": "src/locales/es.json",
-        "key": "Every N Days",
-        "defaultValue": "Every N Days",
-        "value": "Every N Days"
-    },
-    {
-        "source": "src/locales/es.json",
         "key": "Is",
         "defaultValue": "Is",
         "value": "Is"
-    },
-    {
-        "source": "src/locales/es.json",
-        "key": "Not in",
-        "defaultValue": "Not in",
-        "value": "Not in"
     },
     {
         "source": "src/locales/es.json",
@@ -961,75 +901,9 @@
     },
     {
         "source": "src/locales/es.json",
-        "key": "Donut Chart",
-        "defaultValue": "Donut Chart",
-        "value": "Donut Chart"
-    },
-    {
-        "source": "src/locales/es.json",
-        "key": "Nightingale Rose Chart",
-        "defaultValue": "Nightingale Rose Chart",
-        "value": "Nightingale Rose Chart"
-    },
-    {
-        "source": "src/locales/es.json",
-        "key": "Smooth Area Chart",
-        "defaultValue": "Smooth Area Chart",
-        "value": "Smooth Area Chart"
-    },
-    {
-        "source": "src/locales/es.json",
         "key": "Boxplot Chart",
         "defaultValue": "Boxplot Chart",
         "value": "Boxplot Chart"
-    },
-    {
-        "source": "src/locales/es.json",
-        "key": "Smooth Line Chart (Grouped)",
-        "defaultValue": "Smooth Line Chart (Grouped)",
-        "value": "Smooth Line Chart (Grouped)"
-    },
-    {
-        "source": "src/locales/es.json",
-        "key": "Smooth Area Chart (Stacked)",
-        "defaultValue": "Smooth Area Chart (Stacked)",
-        "value": "Smooth Area Chart (Stacked)"
-    },
-    {
-        "source": "src/locales/es.json",
-        "key": "Smooth Area Chart (100% Stacked)",
-        "defaultValue": "Smooth Area Chart (100% Stacked)",
-        "value": "Smooth Area Chart (100% Stacked)"
-    },
-    {
-        "source": "src/locales/es.json",
-        "key": "Treemap Chart",
-        "defaultValue": "Treemap Chart",
-        "value": "Treemap Chart"
-    },
-    {
-        "source": "src/locales/es.json",
-        "key": "Sunburst Chart",
-        "defaultValue": "Sunburst Chart",
-        "value": "Sunburst Chart"
-    },
-    {
-        "source": "src/locales/es.json",
-        "key": "Heatmap Chart",
-        "defaultValue": "Heatmap Chart",
-        "value": "Heatmap Chart"
-    },
-    {
-        "source": "src/locales/es.json",
-        "key": "Calendar Heatmap Chart",
-        "defaultValue": "Calendar Heatmap Chart",
-        "value": "Calendar Heatmap Chart"
-    },
-    {
-        "source": "src/locales/es.json",
-        "key": "Custom Chart",
-        "defaultValue": "Custom Chart",
-        "value": "Custom Chart"
     },
     {
         "source": "src/locales/es.json",
@@ -1075,12 +949,6 @@
     },
     {
         "source": "src/locales/es.json",
-        "key": "Sort By",
-        "defaultValue": "Sort By",
-        "value": "Sort By"
-    },
-    {
-        "source": "src/locales/es.json",
         "key": "Data copied",
         "defaultValue": "Data copied",
         "value": "Data copied"
@@ -1090,60 +958,6 @@
         "key": "Last reconciled time or later",
         "defaultValue": "Last reconciled time or later",
         "value": "Last reconciled time or later"
-    },
-    {
-        "source": "src/locales/es.json",
-        "key": "Account Balance List",
-        "defaultValue": "Account Balance List",
-        "value": "Account Balance List"
-    },
-    {
-        "source": "src/locales/es.json",
-        "key": "Always Show Amount",
-        "defaultValue": "Always Show Amount",
-        "value": "Always Show Amount"
-    },
-    {
-        "source": "src/locales/es.json",
-        "key": "Show Available Credit for Credit Cards",
-        "defaultValue": "Show Available Credit for Credit Cards",
-        "value": "Show Available Credit for Credit Cards"
-    },
-    {
-        "source": "src/locales/es.json",
-        "key": "This Month's Income and Expense Overview",
-        "defaultValue": "This Month's Income and Expense Overview",
-        "value": "This Month's Income and Expense Overview"
-    },
-    {
-        "source": "src/locales/es.json",
-        "key": "This Month's Expense Progress",
-        "defaultValue": "This Month's Expense Progress",
-        "value": "This Month's Expense Progress"
-    },
-    {
-        "source": "src/locales/es.json",
-        "key": "Period Income and Expense",
-        "defaultValue": "Period Income and Expense",
-        "value": "Period Income and Expense"
-    },
-    {
-        "source": "src/locales/es.json",
-        "key": "Period Net Income and Savings Rate",
-        "defaultValue": "Period Net Income and Savings Rate",
-        "value": "Period Net Income and Savings Rate"
-    },
-    {
-        "source": "src/locales/es.json",
-        "key": "Net Assets Trends",
-        "defaultValue": "Net Assets Trends",
-        "value": "Net Assets Trends"
-    },
-    {
-        "source": "src/locales/es.json",
-        "key": "Recent Transactions",
-        "defaultValue": "Recent Transactions",
-        "value": "Recent Transactions"
     },
     {
         "source": "src/locales/es.json",
@@ -1177,12 +991,6 @@
     },
     {
         "source": "src/locales/es.json",
-        "key": "No available exploration",
-        "defaultValue": "No available exploration",
-        "value": "No available exploration"
-    },
-    {
-        "source": "src/locales/es.json",
         "key": "Untitled Exploration",
         "defaultValue": "Untitled Exploration",
         "value": "Untitled Exploration"
@@ -1201,42 +1009,6 @@
     },
     {
         "source": "src/locales/es.json",
-        "key": "Enter Edit Mode",
-        "defaultValue": "Enter Edit Mode",
-        "value": "Enter Edit Mode"
-    },
-    {
-        "source": "src/locales/es.json",
-        "key": "Exit Edit Mode",
-        "defaultValue": "Exit Edit Mode",
-        "value": "Exit Edit Mode"
-    },
-    {
-        "source": "src/locales/es.json",
-        "key": "Rename Exploration",
-        "defaultValue": "Rename Exploration",
-        "value": "Rename Exploration"
-    },
-    {
-        "source": "src/locales/es.json",
-        "key": "Hide Exploration",
-        "defaultValue": "Hide Exploration",
-        "value": "Hide Exploration"
-    },
-    {
-        "source": "src/locales/es.json",
-        "key": "Unhide Exploration",
-        "defaultValue": "Unhide Exploration",
-        "value": "Unhide Exploration"
-    },
-    {
-        "source": "src/locales/es.json",
-        "key": "Delete Exploration",
-        "defaultValue": "Delete Exploration",
-        "value": "Delete Exploration"
-    },
-    {
-        "source": "src/locales/es.json",
         "key": "Add Sub Condition",
         "defaultValue": "Add Sub Condition",
         "value": "Add Sub Condition"
@@ -1246,12 +1018,6 @@
         "key": "Unable to retrieve exploration list",
         "defaultValue": "Unable to retrieve exploration list",
         "value": "Unable to retrieve exploration list"
-    },
-    {
-        "source": "src/locales/es.json",
-        "key": "Exploration list is up to date",
-        "defaultValue": "Exploration list is up to date",
-        "value": "Exploration list is up to date"
     },
     {
         "source": "src/locales/es.json",
@@ -1324,60 +1090,6 @@
         "key": "Series",
         "defaultValue": "Series",
         "value": "Series"
-    },
-    {
-        "source": "src/locales/es.json",
-        "key": "Description (Exact)",
-        "defaultValue": "Description (Exact)",
-        "value": "Description (Exact)"
-    },
-    {
-        "source": "src/locales/es.json",
-        "key": "Description (Ignore Case)",
-        "defaultValue": "Description (Ignore Case)",
-        "value": "Description (Ignore Case)"
-    },
-    {
-        "source": "src/locales/es.json",
-        "key": "Description (Normalized)",
-        "defaultValue": "Description (Normalized)",
-        "value": "Description (Normalized)"
-    },
-    {
-        "source": "src/locales/es.json",
-        "key": "Average Amount per Active Day",
-        "defaultValue": "Average Amount per Active Day",
-        "value": "Average Amount per Active Day"
-    },
-    {
-        "source": "src/locales/es.json",
-        "key": "Median-to-Mean Ratio",
-        "defaultValue": "Median-to-Mean Ratio",
-        "value": "Median-to-Mean Ratio"
-    },
-    {
-        "source": "src/locales/es.json",
-        "key": "Outlier Count",
-        "defaultValue": "Outlier Count",
-        "value": "Outlier Count"
-    },
-    {
-        "source": "src/locales/es.json",
-        "key": "Outlier Ratio",
-        "defaultValue": "Outlier Ratio",
-        "value": "Outlier Ratio"
-    },
-    {
-        "source": "src/locales/es.json",
-        "key": "Gini Coefficient",
-        "defaultValue": "Gini Coefficient",
-        "value": "Gini Coefficient"
-    },
-    {
-        "source": "src/locales/es.json",
-        "key": "Herfindahl-Hirschman Index",
-        "defaultValue": "Herfindahl-Hirschman Index",
-        "value": "Herfindahl-Hirschman Index"
     },
     {
         "source": "src/locales/es.json",
@@ -1981,30 +1693,6 @@
     },
     {
         "source": "src/locales/es.json",
-        "key": "Import Layout",
-        "defaultValue": "Import Layout",
-        "value": "Import Layout"
-    },
-    {
-        "source": "src/locales/es.json",
-        "key": "Export Layout",
-        "defaultValue": "Export Layout",
-        "value": "Export Layout"
-    },
-    {
-        "source": "src/locales/es.json",
-        "key": "Widget Settings",
-        "defaultValue": "Widget Settings",
-        "value": "Widget Settings"
-    },
-    {
-        "source": "src/locales/es.json",
-        "key": "Widget Title",
-        "defaultValue": "Widget Title",
-        "value": "Widget Title"
-    },
-    {
-        "source": "src/locales/es.json",
         "key": "Show Title",
         "defaultValue": "Show Title",
         "value": "Show Title"
@@ -2047,24 +1735,6 @@
     },
     {
         "source": "src/locales/es.json",
-        "key": "Smooth Curve",
-        "defaultValue": "Smooth Curve",
-        "value": "Smooth Curve"
-    },
-    {
-        "source": "src/locales/es.json",
-        "key": "Show Horizontal Axis Labels",
-        "defaultValue": "Show Horizontal Axis Labels",
-        "value": "Show Horizontal Axis Labels"
-    },
-    {
-        "source": "src/locales/es.json",
-        "key": "Show Legend",
-        "defaultValue": "Show Legend",
-        "value": "Show Legend"
-    },
-    {
-        "source": "src/locales/es.json",
         "key": "Show Alternate Date",
         "defaultValue": "Show Alternate Date",
         "value": "Show Alternate Date"
@@ -2080,12 +1750,6 @@
         "key": "This widget has no configurable parameters",
         "defaultValue": "This widget has no configurable parameters",
         "value": "This widget has no configurable parameters"
-    },
-    {
-        "source": "src/locales/es.json",
-        "key": "Discard unsaved layout changes?",
-        "defaultValue": "Discard unsaved layout changes?",
-        "value": "Discard unsaved layout changes?"
     },
     {
         "source": "src/locales/es.json",
@@ -2167,30 +1831,6 @@
     },
     {
         "source": "src/locales/es.json",
-        "key": "SSV (Semicolon-separated values) File",
-        "defaultValue": "SSV (Semicolon-separated values) File",
-        "value": "SSV (Semicolon-separated values) File"
-    },
-    {
-        "source": "src/locales/es.json",
-        "key": "Export to SSV (Semicolon-separated values) File",
-        "defaultValue": "Export to SSV (Semicolon-separated values) File",
-        "value": "Export to SSV (Semicolon-separated values) File"
-    },
-    {
-        "source": "src/locales/es.json",
-        "key": "Mermaid (Pie Chart)",
-        "defaultValue": "Mermaid (Pie Chart)",
-        "value": "Mermaid (Pie Chart)"
-    },
-    {
-        "source": "src/locales/es.json",
-        "key": "Mermaid (XY Chart)",
-        "defaultValue": "Mermaid (XY Chart)",
-        "value": "Mermaid (XY Chart)"
-    },
-    {
-        "source": "src/locales/es.json",
         "key": "Third-Party Login",
         "defaultValue": "Third-Party Login",
         "value": "Third-Party Login"
@@ -2242,18 +1882,6 @@
         "key": "Unable to unlink third-party login",
         "defaultValue": "Unable to unlink third-party login",
         "value": "Unable to unlink third-party login"
-    },
-    {
-        "source": "src/locales/es.json",
-        "key": "Category Level",
-        "defaultValue": "Category Level",
-        "value": "Category Level"
-    },
-    {
-        "source": "src/locales/es.json",
-        "key": "System Icons",
-        "defaultValue": "System Icons",
-        "value": "System Icons"
     },
     {
         "source": "src/locales/es.json",
@@ -2359,12 +1987,6 @@
     },
     {
         "source": "src/locales/es.json",
-        "key": "No Expiration",
-        "defaultValue": "No Expiration",
-        "value": "No Expiration"
-    },
-    {
-        "source": "src/locales/es.json",
         "key": "API Token",
         "defaultValue": "API Token",
         "value": "API Token"
@@ -2413,129 +2035,9 @@
     },
     {
         "source": "src/locales/es.json",
-        "key": "Browser Cache Management",
-        "defaultValue": "Browser Cache Management",
-        "value": "Browser Cache Management"
-    },
-    {
-        "source": "src/locales/es.json",
-        "key": "File Cache",
-        "defaultValue": "File Cache",
-        "value": "File Cache"
-    },
-    {
-        "source": "src/locales/es.json",
-        "key": "Used storage",
-        "defaultValue": "Used storage",
-        "value": "Used storage"
-    },
-    {
-        "source": "src/locales/es.json",
-        "key": "Application Code",
-        "defaultValue": "Application Code",
-        "value": "Application Code"
-    },
-    {
-        "source": "src/locales/es.json",
-        "key": "Resource Files",
-        "defaultValue": "Resource Files",
-        "value": "Resource Files"
-    },
-    {
-        "source": "src/locales/es.json",
-        "key": "Map Data",
-        "defaultValue": "Map Data",
-        "value": "Map Data"
-    },
-    {
-        "source": "src/locales/es.json",
         "key": "Others",
         "defaultValue": "Others",
         "value": "Others"
-    },
-    {
-        "source": "src/locales/es.json",
-        "key": "Cache Expiration Time",
-        "defaultValue": "Cache Expiration Time",
-        "value": "Cache Expiration Time"
-    },
-    {
-        "source": "src/locales/es.json",
-        "key": "Cache Expiration for Map Data",
-        "defaultValue": "Cache Expiration for Map Data",
-        "value": "Cache Expiration for Map Data"
-    },
-    {
-        "source": "src/locales/es.json",
-        "key": "Cache Expiration for Exchange Rates Data",
-        "defaultValue": "Cache Expiration for Exchange Rates Data",
-        "value": "Cache Expiration for Exchange Rates Data"
-    },
-    {
-        "source": "src/locales/es.json",
-        "key": "Disable Cache",
-        "defaultValue": "Disable Cache",
-        "value": "Disable Cache"
-    },
-    {
-        "source": "src/locales/es.json",
-        "key": "Clear All File Cache",
-        "defaultValue": "Clear All File Cache",
-        "value": "Clear All File Cache"
-    },
-    {
-        "source": "src/locales/es.json",
-        "key": "Are you sure you want to clear all file cache?",
-        "defaultValue": "Are you sure you want to clear all file cache?",
-        "value": "Are you sure you want to clear all file cache?"
-    },
-    {
-        "source": "src/locales/es.json",
-        "key": "Clear Map Data Cache",
-        "defaultValue": "Clear Map Data Cache",
-        "value": "Clear Map Data Cache"
-    },
-    {
-        "source": "src/locales/es.json",
-        "key": "Are you sure you want to clear map data cache?",
-        "defaultValue": "Are you sure you want to clear map data cache?",
-        "value": "Are you sure you want to clear map data cache?"
-    },
-    {
-        "source": "src/locales/es.json",
-        "key": "Clear Custom Icon Cache",
-        "defaultValue": "Clear Custom Icon Cache",
-        "value": "Clear Custom Icon Cache"
-    },
-    {
-        "source": "src/locales/es.json",
-        "key": "Are you sure you want to clear custom icon cache?",
-        "defaultValue": "Are you sure you want to clear custom icon cache?",
-        "value": "Are you sure you want to clear custom icon cache?"
-    },
-    {
-        "source": "src/locales/es.json",
-        "key": "Clear Application Code Cache",
-        "defaultValue": "Clear Application Code Cache",
-        "value": "Clear Application Code Cache"
-    },
-    {
-        "source": "src/locales/es.json",
-        "key": "Are you sure you want to clear application code cache?",
-        "defaultValue": "Are you sure you want to clear application code cache?",
-        "value": "Are you sure you want to clear application code cache?"
-    },
-    {
-        "source": "src/locales/es.json",
-        "key": "Clear Exchange Rates Data Cache",
-        "defaultValue": "Clear Exchange Rates Data Cache",
-        "value": "Clear Exchange Rates Data Cache"
-    },
-    {
-        "source": "src/locales/es.json",
-        "key": "Are you sure you want to clear exchange rates data cache?",
-        "defaultValue": "Are you sure you want to clear exchange rates data cache?",
-        "value": "Are you sure you want to clear exchange rates data cache?"
     },
     {
         "source": "src/locales/es.json",
@@ -2584,24 +2086,6 @@
         "key": "Open in Browser",
         "defaultValue": "Open in Browser",
         "value": "Open in Browser"
-    },
-    {
-        "source": "src/locales/es.json",
-        "key": "Refresh Browser Cache",
-        "defaultValue": "Refresh Browser Cache",
-        "value": "Refresh Browser Cache"
-    },
-    {
-        "source": "src/locales/es.json",
-        "key": "Show Diagnosis Information",
-        "defaultValue": "Show Diagnosis Information",
-        "value": "Show Diagnosis Information"
-    },
-    {
-        "source": "src/locales/es.json",
-        "key": "Diagnosis Information",
-        "defaultValue": "Diagnosis Information",
-        "value": "Diagnosis Information"
     },
     {
         "source": "src/locales/es.json",
