@@ -1405,6 +1405,36 @@
     },
     {
         "source": "src/locales/tr.json",
+        "key": "Color Outliers Separately",
+        "defaultValue": "Color Outliers Separately",
+        "value": "Color Outliers Separately"
+    },
+    {
+        "source": "src/locales/tr.json",
+        "key": "Days with Highest Amounts",
+        "defaultValue": "Days with Highest Amounts",
+        "value": "Days with Highest Amounts"
+    },
+    {
+        "source": "src/locales/tr.json",
+        "key": "Amount Threshold",
+        "defaultValue": "Amount Threshold",
+        "value": "Amount Threshold"
+    },
+    {
+        "source": "src/locales/tr.json",
+        "key": "Outlier Day Count",
+        "defaultValue": "Outlier Day Count",
+        "value": "Outlier Day Count"
+    },
+    {
+        "source": "src/locales/tr.json",
+        "key": "Outlier Amount Threshold",
+        "defaultValue": "Outlier Amount Threshold",
+        "value": "Outlier Amount Threshold"
+    },
+    {
+        "source": "src/locales/tr.json",
         "key": "No widgets",
         "defaultValue": "No widgets",
         "value": "No widgets"

@@ -691,6 +691,36 @@
     },
     {
         "source": "src/locales/de.json",
+        "key": "Color Outliers Separately",
+        "defaultValue": "Color Outliers Separately",
+        "value": "Color Outliers Separately"
+    },
+    {
+        "source": "src/locales/de.json",
+        "key": "Days with Highest Amounts",
+        "defaultValue": "Days with Highest Amounts",
+        "value": "Days with Highest Amounts"
+    },
+    {
+        "source": "src/locales/de.json",
+        "key": "Amount Threshold",
+        "defaultValue": "Amount Threshold",
+        "value": "Amount Threshold"
+    },
+    {
+        "source": "src/locales/de.json",
+        "key": "Outlier Day Count",
+        "defaultValue": "Outlier Day Count",
+        "value": "Outlier Day Count"
+    },
+    {
+        "source": "src/locales/de.json",
+        "key": "Outlier Amount Threshold",
+        "defaultValue": "Outlier Amount Threshold",
+        "value": "Outlier Amount Threshold"
+    },
+    {
+        "source": "src/locales/de.json",
         "key": "Transaction Tags Included in Overview Statistics",
         "defaultValue": "Transaction Tags Included in Overview Statistics",
         "value": "Transaction Tags Included in Overview Statistics"
