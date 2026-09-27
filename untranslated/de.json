@@ -688,5 +688,11 @@
         "key": "Longitude Latitude D°M'S\"",
         "defaultValue": "Longitude Latitude D°M'S\"",
         "value": "Longitude Latitude D°M'S\""
+    },
+    {
+        "source": "src/locales/de.json",
+        "key": "Transaction Tags Included in Overview Statistics",
+        "defaultValue": "Transaction Tags Included in Overview Statistics",
+        "value": "Transaction Tags Included in Overview Statistics"
     }
 ]

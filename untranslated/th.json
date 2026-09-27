@@ -3163,6 +3163,12 @@
     },
     {
         "source": "src/locales/th.json",
+        "key": "Transaction Tags Included in Overview Statistics",
+        "defaultValue": "Transaction Tags Included in Overview Statistics",
+        "value": "Transaction Tags Included in Overview Statistics"
+    },
+    {
+        "source": "src/locales/th.json",
         "key": "Default Keyword Search Matching Mode",
         "defaultValue": "Default Keyword Search Matching Mode",
         "value": "Default Keyword Search Matching Mode"

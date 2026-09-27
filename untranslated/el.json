@@ -835,6 +835,12 @@
     },
     {
         "source": "src/locales/el.json",
+        "key": "Transaction Tags Included in Overview Statistics",
+        "defaultValue": "Transaction Tags Included in Overview Statistics",
+        "value": "Transaction Tags Included in Overview Statistics"
+    },
+    {
+        "source": "src/locales/el.json",
         "key": "Default Credit Card Amount",
         "defaultValue": "Default Credit Card Amount",
         "value": "Default Credit Card Amount"

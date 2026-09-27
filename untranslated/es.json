@@ -1759,6 +1759,12 @@
     },
     {
         "source": "src/locales/es.json",
+        "key": "Transaction Tags Included in Overview Statistics",
+        "defaultValue": "Transaction Tags Included in Overview Statistics",
+        "value": "Transaction Tags Included in Overview Statistics"
+    },
+    {
+        "source": "src/locales/es.json",
         "key": "Matching Mode",
         "defaultValue": "Matching Mode",
         "value": "Matching Mode"
