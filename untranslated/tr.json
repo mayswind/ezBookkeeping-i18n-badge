@@ -1009,6 +1009,18 @@
     },
     {
         "source": "src/locales/tr.json",
+        "key": "Inflow",
+        "defaultValue": "Inflow",
+        "value": "Inflow"
+    },
+    {
+        "source": "src/locales/tr.json",
+        "key": "Outflow",
+        "defaultValue": "Outflow",
+        "value": "Outflow"
+    },
+    {
+        "source": "src/locales/tr.json",
         "key": "Available Credit",
         "defaultValue": "Available Credit",
         "value": "Available Credit"
@@ -1480,6 +1492,24 @@
         "key": "Transaction Tags Included in Overview Statistics",
         "defaultValue": "Transaction Tags Included in Overview Statistics",
         "value": "Transaction Tags Included in Overview Statistics"
+    },
+    {
+        "source": "src/locales/tr.json",
+        "key": "Total Amount Calculation Method",
+        "defaultValue": "Total Amount Calculation Method",
+        "value": "Total Amount Calculation Method"
+    },
+    {
+        "source": "src/locales/tr.json",
+        "key": "Inflows and Outflows",
+        "defaultValue": "Inflows and Outflows",
+        "value": "Inflows and Outflows"
+    },
+    {
+        "source": "src/locales/tr.json",
+        "key": "Income and Expense",
+        "defaultValue": "Income and Expense",
+        "value": "Income and Expense"
     },
     {
         "source": "src/locales/tr.json",
