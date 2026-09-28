@@ -79,6 +79,14 @@
         "backendTotal": 10,
         "totalProgress": 62.29
     },
+    "pl": {
+        "languageTag": "pl",
+        "frontendTranslated": 2363,
+        "frontendTotal": 2395,
+        "backendTranslated": 10,
+        "backendTotal": 10,
+        "totalProgress": 98.67
+    },
     "pt-BR": {
         "languageTag": "pt-BR",
         "frontendTranslated": 2000,
