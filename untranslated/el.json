@@ -511,6 +511,24 @@
     },
     {
         "source": "src/locales/el.json",
+        "key": "AI Generate Chart Code",
+        "defaultValue": "AI Generate Chart Code",
+        "value": "AI Generate Chart Code"
+    },
+    {
+        "source": "src/locales/el.json",
+        "key": "Describe the chart you want",
+        "defaultValue": "Describe the chart you want",
+        "value": "Describe the chart you want"
+    },
+    {
+        "source": "src/locales/el.json",
+        "key": "Unable to generate code",
+        "defaultValue": "Unable to generate code",
+        "value": "Unable to generate code"
+    },
+    {
+        "source": "src/locales/el.json",
         "key": "No buildChartOptions function defined",
         "defaultValue": "No buildChartOptions function defined",
         "value": "No buildChartOptions function defined"
@@ -652,24 +670,6 @@
         "key": "Credit Limit",
         "defaultValue": "Credit Limit",
         "value": "Credit Limit"
-    },
-    {
-        "source": "src/locales/el.json",
-        "key": "AI Generate Chart Code",
-        "defaultValue": "AI Generate Chart Code",
-        "value": "AI Generate Chart Code"
-    },
-    {
-        "source": "src/locales/el.json",
-        "key": "Describe the chart you want",
-        "defaultValue": "Describe the chart you want",
-        "value": "Describe the chart you want"
-    },
-    {
-        "source": "src/locales/el.json",
-        "key": "Unable to generate code",
-        "defaultValue": "Unable to generate code",
-        "value": "Unable to generate code"
     },
     {
         "source": "src/locales/el.json",

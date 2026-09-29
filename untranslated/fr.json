@@ -1507,6 +1507,24 @@
     },
     {
         "source": "src/locales/fr.json",
+        "key": "AI Generate Chart Code",
+        "defaultValue": "AI Generate Chart Code",
+        "value": "AI Generate Chart Code"
+    },
+    {
+        "source": "src/locales/fr.json",
+        "key": "Describe the chart you want",
+        "defaultValue": "Describe the chart you want",
+        "value": "Describe the chart you want"
+    },
+    {
+        "source": "src/locales/fr.json",
+        "key": "Unable to generate code",
+        "defaultValue": "Unable to generate code",
+        "value": "Unable to generate code"
+    },
+    {
+        "source": "src/locales/fr.json",
         "key": "No buildChartOptions function defined",
         "defaultValue": "No buildChartOptions function defined",
         "value": "No buildChartOptions function defined"
@@ -2746,24 +2764,6 @@
         "key": "AI Text Content Recognition",
         "defaultValue": "AI Text Content Recognition",
         "value": "AI Text Content Recognition"
-    },
-    {
-        "source": "src/locales/fr.json",
-        "key": "AI Generate Chart Code",
-        "defaultValue": "AI Generate Chart Code",
-        "value": "AI Generate Chart Code"
-    },
-    {
-        "source": "src/locales/fr.json",
-        "key": "Describe the chart you want",
-        "defaultValue": "Describe the chart you want",
-        "value": "Describe the chart you want"
-    },
-    {
-        "source": "src/locales/fr.json",
-        "key": "Unable to generate code",
-        "defaultValue": "Unable to generate code",
-        "value": "Unable to generate code"
     },
     {
         "source": "src/locales/fr.json",
