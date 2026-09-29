@@ -73,24 +73,6 @@
     },
     {
         "source": "src/locales/es.json",
-        "key": "format.misc.deleteTransactionsTip",
-        "defaultValue": "You CANNOT undo this action. This will delete {count} transactions. Please enter your current password to confirm.",
-        "value": "You CANNOT undo this action. This will delete {count} transactions. Please enter your current password to confirm."
-    },
-    {
-        "source": "src/locales/es.json",
-        "key": "format.misc.clearTransactionsTagsTip",
-        "defaultValue": "You CANNOT undo this action. This will clear all tags from {count} transactions.",
-        "value": "You CANNOT undo this action. This will clear all tags from {count} transactions."
-    },
-    {
-        "source": "src/locales/es.json",
-        "key": "format.misc.ruleIndex",
-        "defaultValue": "Rule #{index}",
-        "value": "Rule #{index}"
-    },
-    {
-        "source": "src/locales/es.json",
         "key": "dataExport.defaultExportFilename",
         "defaultValue": "ezBookkeeping_export_data",
         "value": "ezBookkeeping_export_data"
@@ -745,18 +727,6 @@
     },
     {
         "source": "src/locales/es.json",
-        "key": "pageSpecific.accountListPage.outstandingBalance",
-        "defaultValue": "Outstanding",
-        "value": "Outstanding"
-    },
-    {
-        "source": "src/locales/es.json",
-        "key": "pageSpecific.accountListPage.availableBalance",
-        "defaultValue": "Available",
-        "value": "Available"
-    },
-    {
-        "source": "src/locales/es.json",
         "key": "Export",
         "defaultValue": "Export",
         "value": "Export"
@@ -808,12 +778,6 @@
         "key": "Visible",
         "defaultValue": "Visible",
         "value": "Visible"
-    },
-    {
-        "source": "src/locales/es.json",
-        "key": "Open Menu",
-        "defaultValue": "Open Menu",
-        "value": "Open Menu"
     },
     {
         "source": "src/locales/es.json",
@@ -877,12 +841,6 @@
     },
     {
         "source": "src/locales/es.json",
-        "key": "Is",
-        "defaultValue": "Is",
-        "value": "Is"
-    },
-    {
-        "source": "src/locales/es.json",
         "key": "Matches regex",
         "defaultValue": "Matches regex",
         "value": "Matches regex"
@@ -892,48 +850,6 @@
         "key": "Does not match regex",
         "defaultValue": "Does not match regex",
         "value": "Does not match regex"
-    },
-    {
-        "source": "src/locales/es.json",
-        "key": "Minute offset is between",
-        "defaultValue": "Minute offset is between",
-        "value": "Minute offset is between"
-    },
-    {
-        "source": "src/locales/es.json",
-        "key": "Minute offset is not between",
-        "defaultValue": "Minute offset is not between",
-        "value": "Minute offset is not between"
-    },
-    {
-        "source": "src/locales/es.json",
-        "key": "Latitude is between",
-        "defaultValue": "Latitude is between",
-        "value": "Latitude is between"
-    },
-    {
-        "source": "src/locales/es.json",
-        "key": "Latitude is not between",
-        "defaultValue": "Latitude is not between",
-        "value": "Latitude is not between"
-    },
-    {
-        "source": "src/locales/es.json",
-        "key": "Longitude is between",
-        "defaultValue": "Longitude is between",
-        "value": "Longitude is between"
-    },
-    {
-        "source": "src/locales/es.json",
-        "key": "Longitude is not between",
-        "defaultValue": "Longitude is not between",
-        "value": "Longitude is not between"
-    },
-    {
-        "source": "src/locales/es.json",
-        "key": "Boxplot Chart",
-        "defaultValue": "Boxplot Chart",
-        "value": "Boxplot Chart"
     },
     {
         "source": "src/locales/es.json",
@@ -1111,12 +1027,6 @@
     },
     {
         "source": "src/locales/es.json",
-        "key": "Are you sure you want to delete this exploration?",
-        "defaultValue": "Are you sure you want to delete this exploration?",
-        "value": "Are you sure you want to delete this exploration?"
-    },
-    {
-        "source": "src/locales/es.json",
         "key": "Unable to delete this exploration",
         "defaultValue": "Unable to delete this exploration",
         "value": "Unable to delete this exploration"
@@ -1141,39 +1051,9 @@
     },
     {
         "source": "src/locales/es.json",
-        "key": "Update Categories for Expense Transactions",
-        "defaultValue": "Update Categories for Expense Transactions",
-        "value": "Update Categories for Expense Transactions"
-    },
-    {
-        "source": "src/locales/es.json",
-        "key": "Update Categories for Income Transactions",
-        "defaultValue": "Update Categories for Income Transactions",
-        "value": "Update Categories for Income Transactions"
-    },
-    {
-        "source": "src/locales/es.json",
-        "key": "Update Categories for Transfer Transactions",
-        "defaultValue": "Update Categories for Transfer Transactions",
-        "value": "Update Categories for Transfer Transactions"
-    },
-    {
-        "source": "src/locales/es.json",
         "key": "Unable to update categories for transactions",
         "defaultValue": "Unable to update categories for transactions",
         "value": "Unable to update categories for transactions"
-    },
-    {
-        "source": "src/locales/es.json",
-        "key": "Update Accounts for Transactions",
-        "defaultValue": "Update Accounts for Transactions",
-        "value": "Update Accounts for Transactions"
-    },
-    {
-        "source": "src/locales/es.json",
-        "key": "Update Destination Accounts for Transactions",
-        "defaultValue": "Update Destination Accounts for Transactions",
-        "value": "Update Destination Accounts for Transactions"
     },
     {
         "source": "src/locales/es.json",
@@ -1183,33 +1063,9 @@
     },
     {
         "source": "src/locales/es.json",
-        "key": "Add Tags to Transactions",
-        "defaultValue": "Add Tags to Transactions",
-        "value": "Add Tags to Transactions"
-    },
-    {
-        "source": "src/locales/es.json",
-        "key": "Remove Tags from Transactions",
-        "defaultValue": "Remove Tags from Transactions",
-        "value": "Remove Tags from Transactions"
-    },
-    {
-        "source": "src/locales/es.json",
-        "key": "Clear All Tags from Transactions",
-        "defaultValue": "Clear All Tags from Transactions",
-        "value": "Clear All Tags from Transactions"
-    },
-    {
-        "source": "src/locales/es.json",
         "key": "Unable to update tags for transactions",
         "defaultValue": "Unable to update tags for transactions",
         "value": "Unable to update tags for transactions"
-    },
-    {
-        "source": "src/locales/es.json",
-        "key": "Delete Transactions",
-        "defaultValue": "Delete Transactions",
-        "value": "Delete Transactions"
     },
     {
         "source": "src/locales/es.json",
@@ -1231,12 +1087,6 @@
     },
     {
         "source": "src/locales/es.json",
-        "key": "Available Credit",
-        "defaultValue": "Available Credit",
-        "value": "Available Credit"
-    },
-    {
-        "source": "src/locales/es.json",
         "key": "Last Reconciled Time",
         "defaultValue": "Last Reconciled Time",
         "value": "Last Reconciled Time"
@@ -1246,12 +1096,6 @@
         "key": "Sub-account Last Reconciled Time",
         "defaultValue": "Sub-account Last Reconciled Time",
         "value": "Sub-account Last Reconciled Time"
-    },
-    {
-        "source": "src/locales/es.json",
-        "key": "Credit Limit",
-        "defaultValue": "Credit Limit",
-        "value": "Credit Limit"
     },
     {
         "source": "src/locales/es.json",
@@ -1303,12 +1147,6 @@
     },
     {
         "source": "src/locales/es.json",
-        "key": "Refresh Accounts, Categories and Tags",
-        "defaultValue": "Refresh Accounts, Categories and Tags",
-        "value": "Refresh Accounts, Categories and Tags"
-    },
-    {
-        "source": "src/locales/es.json",
         "key": "Excel Workbook File (.xlsx)",
         "defaultValue": "Excel Workbook File (.xlsx)",
         "value": "Excel Workbook File (.xlsx)"
@@ -1357,24 +1195,6 @@
     },
     {
         "source": "src/locales/es.json",
-        "key": "IANA Time Zone Name",
-        "defaultValue": "IANA Time Zone Name",
-        "value": "IANA Time Zone Name"
-    },
-    {
-        "source": "src/locales/es.json",
-        "key": "Load Script File",
-        "defaultValue": "Load Script File",
-        "value": "Load Script File"
-    },
-    {
-        "source": "src/locales/es.json",
-        "key": "Save Script File",
-        "defaultValue": "Save Script File",
-        "value": "Save Script File"
-    },
-    {
-        "source": "src/locales/es.json",
         "key": "Cannot load script file",
         "defaultValue": "Cannot load script file",
         "value": "Cannot load script file"
@@ -1399,12 +1219,6 @@
     },
     {
         "source": "src/locales/es.json",
-        "key": "No parse function defined",
-        "defaultValue": "No parse function defined",
-        "value": "No parse function defined"
-    },
-    {
-        "source": "src/locales/es.json",
         "key": "Failed to parse time",
         "defaultValue": "Failed to parse time",
         "value": "Failed to parse time"
@@ -1414,54 +1228,6 @@
         "key": "Failed to execute custom script",
         "defaultValue": "Failed to execute custom script",
         "value": "Failed to execute custom script"
-    },
-    {
-        "source": "src/locales/es.json",
-        "key": "Batch Replace Selected Transaction Tags",
-        "defaultValue": "Batch Replace Selected Transaction Tags",
-        "value": "Batch Replace Selected Transaction Tags"
-    },
-    {
-        "source": "src/locales/es.json",
-        "key": "Batch Replace Selected Transaction Timezones",
-        "defaultValue": "Batch Replace Selected Transaction Timezones",
-        "value": "Batch Replace Selected Transaction Timezones"
-    },
-    {
-        "source": "src/locales/es.json",
-        "key": "Batch Add Transaction Tags",
-        "defaultValue": "Batch Add Transaction Tags",
-        "value": "Batch Add Transaction Tags"
-    },
-    {
-        "source": "src/locales/es.json",
-        "key": "Create Nonexistent Expense Categories",
-        "defaultValue": "Create Nonexistent Expense Categories",
-        "value": "Create Nonexistent Expense Categories"
-    },
-    {
-        "source": "src/locales/es.json",
-        "key": "Create Nonexistent Income Categories",
-        "defaultValue": "Create Nonexistent Income Categories",
-        "value": "Create Nonexistent Income Categories"
-    },
-    {
-        "source": "src/locales/es.json",
-        "key": "Create Nonexistent Transfer Categories",
-        "defaultValue": "Create Nonexistent Transfer Categories",
-        "value": "Create Nonexistent Transfer Categories"
-    },
-    {
-        "source": "src/locales/es.json",
-        "key": "Create Nonexistent Transaction Tags",
-        "defaultValue": "Create Nonexistent Transaction Tags",
-        "value": "Create Nonexistent Transaction Tags"
-    },
-    {
-        "source": "src/locales/es.json",
-        "key": "Clear All Filters",
-        "defaultValue": "Clear All Filters",
-        "value": "Clear All Filters"
     },
     {
         "source": "src/locales/es.json",
@@ -1504,156 +1270,6 @@
         "key": "Target Value",
         "defaultValue": "Target Value",
         "value": "Target Value"
-    },
-    {
-        "source": "src/locales/es.json",
-        "key": "Batch Apply Rules",
-        "defaultValue": "Batch Apply Rules",
-        "value": "Batch Apply Rules"
-    },
-    {
-        "source": "src/locales/es.json",
-        "key": "Add Rule",
-        "defaultValue": "Add Rule",
-        "value": "Add Rule"
-    },
-    {
-        "source": "src/locales/es.json",
-        "key": "Apply to Selected Transactions",
-        "defaultValue": "Apply to Selected Transactions",
-        "value": "Apply to Selected Transactions"
-    },
-    {
-        "source": "src/locales/es.json",
-        "key": "Apply to All Transactions",
-        "defaultValue": "Apply to All Transactions",
-        "value": "Apply to All Transactions"
-    },
-    {
-        "source": "src/locales/es.json",
-        "key": "Modify Rule Name",
-        "defaultValue": "Modify Rule Name",
-        "value": "Modify Rule Name"
-    },
-    {
-        "source": "src/locales/es.json",
-        "key": "Match Condition",
-        "defaultValue": "Match Condition",
-        "value": "Match Condition"
-    },
-    {
-        "source": "src/locales/es.json",
-        "key": "Action",
-        "defaultValue": "Action",
-        "value": "Action"
-    },
-    {
-        "source": "src/locales/es.json",
-        "key": "Set Transaction Type",
-        "defaultValue": "Set Transaction Type",
-        "value": "Set Transaction Type"
-    },
-    {
-        "source": "src/locales/es.json",
-        "key": "Set Expense Category",
-        "defaultValue": "Set Expense Category",
-        "value": "Set Expense Category"
-    },
-    {
-        "source": "src/locales/es.json",
-        "key": "Set Income Category",
-        "defaultValue": "Set Income Category",
-        "value": "Set Income Category"
-    },
-    {
-        "source": "src/locales/es.json",
-        "key": "Set Transfer Category",
-        "defaultValue": "Set Transfer Category",
-        "value": "Set Transfer Category"
-    },
-    {
-        "source": "src/locales/es.json",
-        "key": "Set Source Account",
-        "defaultValue": "Set Source Account",
-        "value": "Set Source Account"
-    },
-    {
-        "source": "src/locales/es.json",
-        "key": "Set Destination Account",
-        "defaultValue": "Set Destination Account",
-        "value": "Set Destination Account"
-    },
-    {
-        "source": "src/locales/es.json",
-        "key": "Add Tag",
-        "defaultValue": "Add Tag",
-        "value": "Add Tag"
-    },
-    {
-        "source": "src/locales/es.json",
-        "key": "Replace Tag",
-        "defaultValue": "Replace Tag",
-        "value": "Replace Tag"
-    },
-    {
-        "source": "src/locales/es.json",
-        "key": "Delete Tag",
-        "defaultValue": "Delete Tag",
-        "value": "Delete Tag"
-    },
-    {
-        "source": "src/locales/es.json",
-        "key": "Set Source Amount",
-        "defaultValue": "Set Source Amount",
-        "value": "Set Source Amount"
-    },
-    {
-        "source": "src/locales/es.json",
-        "key": "Set Destination Amount",
-        "defaultValue": "Set Destination Amount",
-        "value": "Set Destination Amount"
-    },
-    {
-        "source": "src/locales/es.json",
-        "key": "Set Timezone",
-        "defaultValue": "Set Timezone",
-        "value": "Set Timezone"
-    },
-    {
-        "source": "src/locales/es.json",
-        "key": "Positive",
-        "defaultValue": "Positive",
-        "value": "Positive"
-    },
-    {
-        "source": "src/locales/es.json",
-        "key": "Negative",
-        "defaultValue": "Negative",
-        "value": "Negative"
-    },
-    {
-        "source": "src/locales/es.json",
-        "key": "No rules",
-        "defaultValue": "No rules",
-        "value": "No rules"
-    },
-    {
-        "source": "src/locales/es.json",
-        "key": "Load Replace Rule File",
-        "defaultValue": "Load Replace Rule File",
-        "value": "Load Replace Rule File"
-    },
-    {
-        "source": "src/locales/es.json",
-        "key": "Save Replace Rule File",
-        "defaultValue": "Save Replace Rule File",
-        "value": "Save Replace Rule File"
-    },
-    {
-        "source": "src/locales/es.json",
-        "key": "Replace rule file is invalid",
-        "defaultValue": "Replace rule file is invalid",
-        "value": "Replace rule file is invalid"
     },
     {
         "source": "src/locales/es.json",
@@ -1705,12 +1321,6 @@
     },
     {
         "source": "src/locales/es.json",
-        "key": "Chart color scheme saved",
-        "defaultValue": "Chart color scheme saved",
-        "value": "Chart color scheme saved"
-    },
-    {
-        "source": "src/locales/es.json",
         "key": "Chart color scheme imported",
         "defaultValue": "Chart color scheme imported",
         "value": "Chart color scheme imported"
@@ -1732,18 +1342,6 @@
         "key": "Unable to move color",
         "defaultValue": "Unable to move color",
         "value": "Unable to move color"
-    },
-    {
-        "source": "src/locales/es.json",
-        "key": "Desktop Home Page Layout",
-        "defaultValue": "Desktop Home Page Layout",
-        "value": "Desktop Home Page Layout"
-    },
-    {
-        "source": "src/locales/es.json",
-        "key": "Mobile Home Page Layout",
-        "defaultValue": "Mobile Home Page Layout",
-        "value": "Mobile Home Page Layout"
     },
     {
         "source": "src/locales/es.json",
@@ -1879,48 +1477,6 @@
     },
     {
         "source": "src/locales/es.json",
-        "key": "Quick Save Button Style",
-        "defaultValue": "Quick Save Button Style",
-        "value": "Quick Save Button Style"
-    },
-    {
-        "source": "src/locales/es.json",
-        "key": "Bottom Left Floating",
-        "defaultValue": "Bottom Left Floating",
-        "value": "Bottom Left Floating"
-    },
-    {
-        "source": "src/locales/es.json",
-        "key": "Bottom Center Floating",
-        "defaultValue": "Bottom Center Floating",
-        "value": "Bottom Center Floating"
-    },
-    {
-        "source": "src/locales/es.json",
-        "key": "Bottom Right Floating",
-        "defaultValue": "Bottom Right Floating",
-        "value": "Bottom Right Floating"
-    },
-    {
-        "source": "src/locales/es.json",
-        "key": "Bottom Fixed",
-        "defaultValue": "Bottom Fixed",
-        "value": "Bottom Fixed"
-    },
-    {
-        "source": "src/locales/es.json",
-        "key": "Quick Add Button Action",
-        "defaultValue": "Quick Add Button Action",
-        "value": "Quick Add Button Action"
-    },
-    {
-        "source": "src/locales/es.json",
-        "key": "Always Show Transaction Pictures",
-        "defaultValue": "Always Show Transaction Pictures",
-        "value": "Always Show Transaction Pictures"
-    },
-    {
-        "source": "src/locales/es.json",
         "key": "Account category order saved",
         "defaultValue": "Account category order saved",
         "value": "Account category order saved"
@@ -1930,18 +1486,6 @@
         "key": "Unable to move account category",
         "defaultValue": "Unable to move account category",
         "value": "Unable to move account category"
-    },
-    {
-        "source": "src/locales/es.json",
-        "key": "Default Credit Card Amount",
-        "defaultValue": "Default Credit Card Amount",
-        "value": "Default Credit Card Amount"
-    },
-    {
-        "source": "src/locales/es.json",
-        "key": "Default Date Range for Reconciliation Statement Page",
-        "defaultValue": "Default Date Range for Reconciliation Statement Page",
-        "value": "Default Date Range for Reconciliation Statement Page"
     },
     {
         "source": "src/locales/es.json",
@@ -2116,18 +1660,6 @@
         "key": "Custom Expiration Time (Seconds)",
         "defaultValue": "Custom Expiration Time (Seconds)",
         "value": "Custom Expiration Time (Seconds)"
-    },
-    {
-        "source": "src/locales/es.json",
-        "key": "API Token",
-        "defaultValue": "API Token",
-        "value": "API Token"
-    },
-    {
-        "source": "src/locales/es.json",
-        "key": "MCP Token",
-        "defaultValue": "MCP Token",
-        "value": "MCP Token"
     },
     {
         "source": "src/locales/es.json",
