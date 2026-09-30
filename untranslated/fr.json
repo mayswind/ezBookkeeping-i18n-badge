@@ -253,6 +253,12 @@
     },
     {
         "source": "src/locales/fr.json",
+        "key": "currency.name.XCG",
+        "defaultValue": "Caribbean Guilder",
+        "value": "Caribbean Guilder"
+    },
+    {
+        "source": "src/locales/fr.json",
         "key": "category.Communication",
         "defaultValue": "Communication",
         "value": "Communication"

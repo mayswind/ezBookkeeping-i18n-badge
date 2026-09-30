@@ -79,6 +79,12 @@
     },
     {
         "source": "src/locales/pl.json",
+        "key": "currency.name.XCG",
+        "defaultValue": "Caribbean Guilder",
+        "value": "Caribbean Guilder"
+    },
+    {
+        "source": "src/locales/pl.json",
         "key": "Token",
         "defaultValue": "Token",
         "value": "Token"

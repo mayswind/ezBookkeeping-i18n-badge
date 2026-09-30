@@ -271,6 +271,12 @@
     },
     {
         "source": "src/locales/kn.json",
+        "key": "currency.name.XCG",
+        "defaultValue": "Caribbean Guilder",
+        "value": "Caribbean Guilder"
+    },
+    {
+        "source": "src/locales/kn.json",
         "key": "error.last reconciled time is not enabled",
         "defaultValue": "Last reconciled time is not enabled",
         "value": "Last reconciled time is not enabled"

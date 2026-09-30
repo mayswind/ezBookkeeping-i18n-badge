@@ -1219,6 +1219,12 @@
     },
     {
         "source": "src/locales/nl.json",
+        "key": "currency.name.XCG",
+        "defaultValue": "Caribbean Guilder",
+        "value": "Caribbean Guilder"
+    },
+    {
+        "source": "src/locales/nl.json",
         "key": "currency.name.XOF",
         "defaultValue": "West African CFA Franc",
         "value": "West African CFA Franc"

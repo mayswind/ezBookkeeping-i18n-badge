@@ -97,6 +97,12 @@
     },
     {
         "source": "src/locales/de.json",
+        "key": "currency.name.XCG",
+        "defaultValue": "Caribbean Guilder",
+        "value": "Caribbean Guilder"
+    },
+    {
+        "source": "src/locales/de.json",
         "key": "error.no prompt for AI coding",
         "defaultValue": "There is no prompt for AI coding",
         "value": "There is no prompt for AI coding"

@@ -85,6 +85,12 @@
     },
     {
         "source": "src/locales/el.json",
+        "key": "currency.name.XCG",
+        "defaultValue": "Caribbean Guilder",
+        "value": "Caribbean Guilder"
+    },
+    {
+        "source": "src/locales/el.json",
         "key": "error.cannot set credit limit for non credit card account",
         "defaultValue": "Cannot set credit limit for non credit card account",
         "value": "Cannot set credit limit for non credit card account"

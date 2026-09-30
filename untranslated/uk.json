@@ -145,6 +145,12 @@
     },
     {
         "source": "src/locales/uk.json",
+        "key": "currency.name.XCG",
+        "defaultValue": "Caribbean Guilder",
+        "value": "Caribbean Guilder"
+    },
+    {
+        "source": "src/locales/uk.json",
         "key": "error.account balance overflow",
         "defaultValue": "Account balance would exceed the supported range",
         "value": "Account balance would exceed the supported range"

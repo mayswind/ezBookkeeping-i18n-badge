@@ -85,6 +85,12 @@
     },
     {
         "source": "src/locales/ro.json",
+        "key": "currency.name.XCG",
+        "defaultValue": "Caribbean Guilder",
+        "value": "Caribbean Guilder"
+    },
+    {
+        "source": "src/locales/ro.json",
         "key": "currency.name.ZWG",
         "defaultValue": "Zimbabwe Gold",
         "value": "Zimbabwe Gold"

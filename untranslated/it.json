@@ -217,6 +217,12 @@
     },
     {
         "source": "src/locales/it.json",
+        "key": "currency.name.XCG",
+        "defaultValue": "Caribbean Guilder",
+        "value": "Caribbean Guilder"
+    },
+    {
+        "source": "src/locales/it.json",
         "key": "error.cannot login by password",
         "defaultValue": "You cannot login by password",
         "value": "You cannot login by password"
