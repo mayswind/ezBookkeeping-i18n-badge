@@ -2665,6 +2665,108 @@
     },
     {
         "source": "src/locales/ru.json",
+        "key": "Developer Tools",
+        "defaultValue": "Developer Tools",
+        "value": "Developer Tools"
+    },
+    {
+        "source": "src/locales/ru.json",
+        "key": "Preview Language Configuration",
+        "defaultValue": "Preview Language Configuration",
+        "value": "Preview Language Configuration"
+    },
+    {
+        "source": "src/locales/ru.json",
+        "key": "Current Language",
+        "defaultValue": "Current Language",
+        "value": "Current Language"
+    },
+    {
+        "source": "src/locales/ru.json",
+        "key": "Text Direction",
+        "defaultValue": "Text Direction",
+        "value": "Text Direction"
+    },
+    {
+        "source": "src/locales/ru.json",
+        "key": "Left to right (LTR)",
+        "defaultValue": "Left to right (LTR)",
+        "value": "Left to right (LTR)"
+    },
+    {
+        "source": "src/locales/ru.json",
+        "key": "Right to left (RTL)",
+        "defaultValue": "Right to left (RTL)",
+        "value": "Right to left (RTL)"
+    },
+    {
+        "source": "src/locales/ru.json",
+        "key": "Language Configuration",
+        "defaultValue": "Language Configuration",
+        "value": "Language Configuration"
+    },
+    {
+        "source": "src/locales/ru.json",
+        "key": "Load Language Configuration File",
+        "defaultValue": "Load Language Configuration File",
+        "value": "Load Language Configuration File"
+    },
+    {
+        "source": "src/locales/ru.json",
+        "key": "Apply Preview",
+        "defaultValue": "Apply Preview",
+        "value": "Apply Preview"
+    },
+    {
+        "source": "src/locales/ru.json",
+        "key": "Restore Built-in Language",
+        "defaultValue": "Restore Built-in Language",
+        "value": "Restore Built-in Language"
+    },
+    {
+        "source": "src/locales/ru.json",
+        "key": "This tool temporarily replaces the language configuration for the current language. Changes only affect the current session and are discarded when the page is refreshed.",
+        "defaultValue": "This tool temporarily replaces the language configuration for the current language. Changes only affect the current session and are discarded when the page is refreshed.",
+        "value": "This tool temporarily replaces the language configuration for the current language. Changes only affect the current session and are discarded when the page is refreshed."
+    },
+    {
+        "source": "src/locales/ru.json",
+        "key": "Paste a language JSON object or load a local file, then click Apply Preview. After editing the file, load it again to test the updated content. The JSON replaces the entire current language configuration.",
+        "defaultValue": "Paste a language JSON object or load a local file, then click Apply Preview. After editing the file, load it again to test the updated content. The JSON replaces the entire current language configuration.",
+        "value": "Paste a language JSON object or load a local file, then click Apply Preview. After editing the file, load it again to test the updated content. The JSON replaces the entire current language configuration."
+    },
+    {
+        "source": "src/locales/ru.json",
+        "key": "Language preview applied. You can navigate to other pages to check the result.",
+        "defaultValue": "Language preview applied. You can navigate to other pages to check the result.",
+        "value": "Language preview applied. You can navigate to other pages to check the result."
+    },
+    {
+        "source": "src/locales/ru.json",
+        "key": "Built-in language configuration restored",
+        "defaultValue": "Built-in language configuration restored",
+        "value": "Built-in language configuration restored"
+    },
+    {
+        "source": "src/locales/ru.json",
+        "key": "Unable to load language configuration file",
+        "defaultValue": "Unable to load language configuration file",
+        "value": "Unable to load language configuration file"
+    },
+    {
+        "source": "src/locales/ru.json",
+        "key": "Unable to apply language preview",
+        "defaultValue": "Unable to apply language preview",
+        "value": "Unable to apply language preview"
+    },
+    {
+        "source": "src/locales/ru.json",
+        "key": "Unable to restore the language configuration",
+        "defaultValue": "Unable to restore the language configuration",
+        "value": "Unable to restore the language configuration"
+    },
+    {
+        "source": "src/locales/ru.json",
         "key": "Failed to load QR code",
         "defaultValue": "Failed to load QR code",
         "value": "Failed to load QR code"
