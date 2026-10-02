@@ -895,6 +895,12 @@
     },
     {
         "source": "src/locales/pt_BR.json",
+        "key": "Account Unreconciled Transactions",
+        "defaultValue": "Account Unreconciled Transactions",
+        "value": "Account Unreconciled Transactions"
+    },
+    {
+        "source": "src/locales/pt_BR.json",
         "key": "Always Show Amount",
         "defaultValue": "Always Show Amount",
         "value": "Always Show Amount"
@@ -1468,6 +1474,18 @@
         "key": "Unable to delete these transactions",
         "defaultValue": "Unable to delete these transactions",
         "value": "Unable to delete these transactions"
+    },
+    {
+        "source": "src/locales/pt_BR.json",
+        "key": "Unable to retrieve unreconciled transaction counts",
+        "defaultValue": "Unable to retrieve unreconciled transaction counts",
+        "value": "Unable to retrieve unreconciled transaction counts"
+    },
+    {
+        "source": "src/locales/pt_BR.json",
+        "key": "Last reconciled time is not enabled",
+        "defaultValue": "Last reconciled time is not enabled",
+        "value": "Last reconciled time is not enabled"
     },
     {
         "source": "src/locales/pt_BR.json",

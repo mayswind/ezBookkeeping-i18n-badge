@@ -547,6 +547,12 @@
     },
     {
         "source": "src/locales/de.json",
+        "key": "Account Unreconciled Transactions",
+        "defaultValue": "Account Unreconciled Transactions",
+        "value": "Account Unreconciled Transactions"
+    },
+    {
+        "source": "src/locales/de.json",
         "key": "Add Transaction Button",
         "defaultValue": "Add Transaction Button",
         "value": "Add Transaction Button"
@@ -568,6 +574,12 @@
         "key": "Kurtosis",
         "defaultValue": "Kurtosis",
         "value": "Kurtosis"
+    },
+    {
+        "source": "src/locales/de.json",
+        "key": "Unable to retrieve unreconciled transaction counts",
+        "defaultValue": "Unable to retrieve unreconciled transaction counts",
+        "value": "Unable to retrieve unreconciled transaction counts"
     },
     {
         "source": "src/locales/de.json",

@@ -931,6 +931,12 @@
     },
     {
         "source": "src/locales/es.json",
+        "key": "Account Unreconciled Transactions",
+        "defaultValue": "Account Unreconciled Transactions",
+        "value": "Account Unreconciled Transactions"
+    },
+    {
+        "source": "src/locales/es.json",
         "key": "Monthly Expense Progress",
         "defaultValue": "Monthly Expense Progress",
         "value": "Monthly Expense Progress"
@@ -1078,6 +1084,18 @@
         "key": "Unable to delete these transactions",
         "defaultValue": "Unable to delete these transactions",
         "value": "Unable to delete these transactions"
+    },
+    {
+        "source": "src/locales/es.json",
+        "key": "Unable to retrieve unreconciled transaction counts",
+        "defaultValue": "Unable to retrieve unreconciled transaction counts",
+        "value": "Unable to retrieve unreconciled transaction counts"
+    },
+    {
+        "source": "src/locales/es.json",
+        "key": "Last reconciled time is not enabled",
+        "defaultValue": "Last reconciled time is not enabled",
+        "value": "Last reconciled time is not enabled"
     },
     {
         "source": "src/locales/es.json",

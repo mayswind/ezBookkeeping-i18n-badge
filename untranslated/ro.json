@@ -727,6 +727,12 @@
     },
     {
         "source": "src/locales/ro.json",
+        "key": "Account Unreconciled Transactions",
+        "defaultValue": "Account Unreconciled Transactions",
+        "value": "Account Unreconciled Transactions"
+    },
+    {
+        "source": "src/locales/ro.json",
         "key": "Always Show Amount",
         "defaultValue": "Always Show Amount",
         "value": "Always Show Amount"
@@ -1060,6 +1066,12 @@
         "key": "Herfindahl-Hirschman Index",
         "defaultValue": "Herfindahl-Hirschman Index",
         "value": "Herfindahl-Hirschman Index"
+    },
+    {
+        "source": "src/locales/ro.json",
+        "key": "Unable to retrieve unreconciled transaction counts",
+        "defaultValue": "Unable to retrieve unreconciled transaction counts",
+        "value": "Unable to retrieve unreconciled transaction counts"
     },
     {
         "source": "src/locales/ro.json",
