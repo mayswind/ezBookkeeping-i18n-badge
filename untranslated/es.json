@@ -937,6 +937,18 @@
     },
     {
         "source": "src/locales/es.json",
+        "key": "Nothing to reconcile",
+        "defaultValue": "Nothing to reconcile",
+        "value": "Nothing to reconcile"
+    },
+    {
+        "source": "src/locales/es.json",
+        "key": "Hide when there are no accounts with unreconciled transactions",
+        "defaultValue": "Hide when there are no accounts with unreconciled transactions",
+        "value": "Hide when there are no accounts with unreconciled transactions"
+    },
+    {
+        "source": "src/locales/es.json",
         "key": "Monthly Expense Progress",
         "defaultValue": "Monthly Expense Progress",
         "value": "Monthly Expense Progress"

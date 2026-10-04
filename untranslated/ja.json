@@ -583,6 +583,18 @@
     },
     {
         "source": "src/locales/ja.json",
+        "key": "Nothing to reconcile",
+        "defaultValue": "Nothing to reconcile",
+        "value": "Nothing to reconcile"
+    },
+    {
+        "source": "src/locales/ja.json",
+        "key": "Hide when there are no accounts with unreconciled transactions",
+        "defaultValue": "Hide when there are no accounts with unreconciled transactions",
+        "value": "Hide when there are no accounts with unreconciled transactions"
+    },
+    {
+        "source": "src/locales/ja.json",
         "key": "Always Show Amount",
         "defaultValue": "Always Show Amount",
         "value": "Always Show Amount"
