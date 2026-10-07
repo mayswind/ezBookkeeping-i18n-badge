@@ -1771,6 +1771,12 @@
     },
     {
         "source": "src/locales/fr.json",
+        "key": "Default Action",
+        "defaultValue": "Default Action",
+        "value": "Default Action"
+    },
+    {
+        "source": "src/locales/fr.json",
         "key": "Transaction Gallery",
         "defaultValue": "Transaction Gallery",
         "value": "Transaction Gallery"

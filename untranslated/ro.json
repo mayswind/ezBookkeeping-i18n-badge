@@ -847,6 +847,12 @@
     },
     {
         "source": "src/locales/ro.json",
+        "key": "Default Action",
+        "defaultValue": "Default Action",
+        "value": "Default Action"
+    },
+    {
+        "source": "src/locales/ro.json",
         "key": "Explorations",
         "defaultValue": "Explorations",
         "value": "Explorations"

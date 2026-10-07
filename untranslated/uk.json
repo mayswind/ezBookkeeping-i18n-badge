@@ -883,6 +883,12 @@
     },
     {
         "source": "src/locales/uk.json",
+        "key": "Default Action",
+        "defaultValue": "Default Action",
+        "value": "Default Action"
+    },
+    {
+        "source": "src/locales/uk.json",
         "key": "Explorations",
         "defaultValue": "Explorations",
         "value": "Explorations"

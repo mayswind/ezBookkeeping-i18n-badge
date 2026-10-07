@@ -571,6 +571,12 @@
     },
     {
         "source": "src/locales/de.json",
+        "key": "Default Action",
+        "defaultValue": "Default Action",
+        "value": "Default Action"
+    },
+    {
+        "source": "src/locales/de.json",
         "key": "Editor",
         "defaultValue": "Editor",
         "value": "Editor"

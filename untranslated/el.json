@@ -667,6 +667,12 @@
     },
     {
         "source": "src/locales/el.json",
+        "key": "Default Action",
+        "defaultValue": "Default Action",
+        "value": "Default Action"
+    },
+    {
+        "source": "src/locales/el.json",
         "key": "Average Amount per Active Day",
         "defaultValue": "Average Amount per Active Day",
         "value": "Average Amount per Active Day"

@@ -2011,6 +2011,12 @@
     },
     {
         "source": "src/locales/it.json",
+        "key": "Default Action",
+        "defaultValue": "Default Action",
+        "value": "Default Action"
+    },
+    {
+        "source": "src/locales/it.json",
         "key": "Transaction Calendar",
         "defaultValue": "Transaction Calendar",
         "value": "Transaction Calendar"

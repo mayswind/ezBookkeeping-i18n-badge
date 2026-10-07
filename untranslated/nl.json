@@ -2905,6 +2905,12 @@
     },
     {
         "source": "src/locales/nl.json",
+        "key": "Default Action",
+        "defaultValue": "Default Action",
+        "value": "Default Action"
+    },
+    {
+        "source": "src/locales/nl.json",
         "key": "Transaction Gallery",
         "defaultValue": "Transaction Gallery",
         "value": "Transaction Gallery"

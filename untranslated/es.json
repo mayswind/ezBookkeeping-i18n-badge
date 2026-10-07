@@ -979,6 +979,12 @@
     },
     {
         "source": "src/locales/es.json",
+        "key": "Default Action",
+        "defaultValue": "Default Action",
+        "value": "Default Action"
+    },
+    {
+        "source": "src/locales/es.json",
         "key": "Untitled Exploration",
         "defaultValue": "Untitled Exploration",
         "value": "Untitled Exploration"
