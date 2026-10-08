@@ -3499,9 +3499,9 @@
     },
     {
         "source": "src/locales/kn.json",
-        "key": "This tool temporarily replaces the language configuration for the current language. Changes only affect the current session and are discarded when the page is refreshed.",
-        "defaultValue": "This tool temporarily replaces the language configuration for the current language. Changes only affect the current session and are discarded when the page is refreshed.",
-        "value": "This tool temporarily replaces the language configuration for the current language. Changes only affect the current session and are discarded when the page is refreshed."
+        "key": "This tool temporarily replaces the language configuration for the current language. The updated configuration only takes effect in the current tab session.",
+        "defaultValue": "This tool temporarily replaces the language configuration for the current language. The updated configuration only takes effect in the current tab session.",
+        "value": "This tool temporarily replaces the language configuration for the current language. The updated configuration only takes effect in the current tab session."
     },
     {
         "source": "src/locales/kn.json",
