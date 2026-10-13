@@ -13,6 +13,54 @@
     },
     {
         "source": "src/locales/ja.json",
+        "key": "format.misc.lineIndex",
+        "defaultValue": "Line {index}",
+        "value": "Line {index}"
+    },
+    {
+        "source": "src/locales/ja.json",
+        "key": "format.misc.recordIndex",
+        "defaultValue": "Record {index}",
+        "value": "Record {index}"
+    },
+    {
+        "source": "src/locales/ja.json",
+        "key": "format.misc.sheetIndex",
+        "defaultValue": "Sheet {index}",
+        "value": "Sheet {index}"
+    },
+    {
+        "source": "src/locales/ja.json",
+        "key": "format.misc.rowIndex",
+        "defaultValue": "Row {index}",
+        "value": "Row {index}"
+    },
+    {
+        "source": "src/locales/ja.json",
+        "key": "format.misc.multiIndexJoinSeparator",
+        "defaultValue": " / ",
+        "value": " / "
+    },
+    {
+        "source": "src/locales/ja.json",
+        "key": "format.misc.importTransactionParseErrorWithRecordIdAndData",
+        "defaultValue": "Unable to parse {recordId}: {error} ({data})",
+        "value": "Unable to parse {recordId}: {error} ({data})"
+    },
+    {
+        "source": "src/locales/ja.json",
+        "key": "format.misc.importTransactionParseErrorWithRecordId",
+        "defaultValue": "Unable to parse {recordId}: {error}",
+        "value": "Unable to parse {recordId}: {error}"
+    },
+    {
+        "source": "src/locales/ja.json",
+        "key": "format.misc.importTransactionParseErrorWithData",
+        "defaultValue": "Unable to parse: {error} ({data})",
+        "value": "Unable to parse: {error} ({data})"
+    },
+    {
+        "source": "src/locales/ja.json",
         "key": "format.misc.ruleIndex",
         "defaultValue": "Rule #{index}",
         "value": "Rule #{index}"

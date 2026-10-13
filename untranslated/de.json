@@ -1,6 +1,36 @@
 [
     {
         "source": "src/locales/de.json",
+        "key": "format.misc.lineIndex",
+        "defaultValue": "Line {index}",
+        "value": "Line {index}"
+    },
+    {
+        "source": "src/locales/de.json",
+        "key": "format.misc.recordIndex",
+        "defaultValue": "Record {index}",
+        "value": "Record {index}"
+    },
+    {
+        "source": "src/locales/de.json",
+        "key": "format.misc.sheetIndex",
+        "defaultValue": "Sheet {index}",
+        "value": "Sheet {index}"
+    },
+    {
+        "source": "src/locales/de.json",
+        "key": "format.misc.rowIndex",
+        "defaultValue": "Row {index}",
+        "value": "Row {index}"
+    },
+    {
+        "source": "src/locales/de.json",
+        "key": "format.misc.multiIndexJoinSeparator",
+        "defaultValue": " / ",
+        "value": " / "
+    },
+    {
+        "source": "src/locales/de.json",
         "key": "format.misc.recognizingImagesProcess",
         "defaultValue": "Recognizing images, Completed: {success}, Failed: {failed}, Total: {total} images.",
         "value": "Recognizing images, Completed: {success}, Failed: {failed}, Total: {total} images."
@@ -10,6 +40,24 @@
         "key": "format.misc.recognizedImagesProcess",
         "defaultValue": "Completed: {success}, Failed: {failed}, Total: {total} images.",
         "value": "Completed: {success}, Failed: {failed}, Total: {total} images."
+    },
+    {
+        "source": "src/locales/de.json",
+        "key": "format.misc.importTransactionParseErrorWithRecordIdAndData",
+        "defaultValue": "Unable to parse {recordId}: {error} ({data})",
+        "value": "Unable to parse {recordId}: {error} ({data})"
+    },
+    {
+        "source": "src/locales/de.json",
+        "key": "format.misc.importTransactionParseErrorWithRecordId",
+        "defaultValue": "Unable to parse {recordId}: {error}",
+        "value": "Unable to parse {recordId}: {error}"
+    },
+    {
+        "source": "src/locales/de.json",
+        "key": "format.misc.importTransactionParseErrorWithData",
+        "defaultValue": "Unable to parse: {error} ({data})",
+        "value": "Unable to parse: {error} ({data})"
     },
     {
         "source": "src/locales/de.json",
