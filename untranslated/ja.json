@@ -37,12 +37,6 @@
     },
     {
         "source": "src/locales/ja.json",
-        "key": "format.misc.multiIndexJoinSeparator",
-        "defaultValue": " / ",
-        "value": " / "
-    },
-    {
-        "source": "src/locales/ja.json",
         "key": "format.misc.importTransactionParseErrorWithRecordIdAndData",
         "defaultValue": "Unable to parse {recordId}: {error} ({data})",
         "value": "Unable to parse {recordId}: {error} ({data})"

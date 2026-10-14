@@ -1,8 +1,1 @@
-[
-    {
-        "source": "src/locales/zh_Hans.json",
-        "key": "format.misc.multiIndexJoinSeparator",
-        "defaultValue": " / ",
-        "value": " / "
-    }
-]
+[]

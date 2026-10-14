@@ -25,12 +25,6 @@
     },
     {
         "source": "src/locales/es.json",
-        "key": "format.misc.multiIndexJoinSeparator",
-        "defaultValue": " / ",
-        "value": " / "
-    },
-    {
-        "source": "src/locales/es.json",
         "key": "format.misc.charactersRemaining",
         "defaultValue": "{count} remaining",
         "value": "{count} remaining"

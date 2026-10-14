@@ -61,12 +61,6 @@
     },
     {
         "source": "src/locales/th.json",
-        "key": "format.misc.multiIndexJoinSeparator",
-        "defaultValue": " / ",
-        "value": " / "
-    },
-    {
-        "source": "src/locales/th.json",
         "key": "format.misc.charactersRemaining",
         "defaultValue": "{count} remaining",
         "value": "{count} remaining"

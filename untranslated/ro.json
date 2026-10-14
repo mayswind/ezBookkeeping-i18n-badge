@@ -37,12 +37,6 @@
     },
     {
         "source": "src/locales/ro.json",
-        "key": "format.misc.multiIndexJoinSeparator",
-        "defaultValue": " / ",
-        "value": " / "
-    },
-    {
-        "source": "src/locales/ro.json",
         "key": "format.misc.charactersRemaining",
         "defaultValue": "{count} remaining",
         "value": "{count} remaining"

@@ -25,12 +25,6 @@
     },
     {
         "source": "src/locales/de.json",
-        "key": "format.misc.multiIndexJoinSeparator",
-        "defaultValue": " / ",
-        "value": " / "
-    },
-    {
-        "source": "src/locales/de.json",
         "key": "format.misc.recognizingImagesProcess",
         "defaultValue": "Recognizing images, Completed: {success}, Failed: {failed}, Total: {total} images.",
         "value": "Recognizing images, Completed: {success}, Failed: {failed}, Total: {total} images."
