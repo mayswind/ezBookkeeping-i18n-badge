@@ -67,6 +67,18 @@
     },
     {
         "source": "src/locales/uk.json",
+        "key": "format.misc.importTransactionBatchResult",
+        "defaultValue": "Successfully imported {count} of {totalCount} transactions.",
+        "value": "Successfully imported {count} of {totalCount} transactions."
+    },
+    {
+        "source": "src/locales/uk.json",
+        "key": "format.misc.importTransactionStoppedWithCause",
+        "defaultValue": "Data import stopped: {cause}",
+        "value": "Data import stopped: {cause}"
+    },
+    {
+        "source": "src/locales/uk.json",
         "key": "format.misc.importTransactionParseErrorWithRecordIdAndData",
         "defaultValue": "Unable to parse {recordId}: {error} ({data})",
         "value": "Unable to parse {recordId}: {error} ({data})"
@@ -1225,6 +1237,30 @@
     },
     {
         "source": "src/locales/uk.json",
+        "key": "View Transactions Not Imported",
+        "defaultValue": "View Transactions Not Imported",
+        "value": "View Transactions Not Imported"
+    },
+    {
+        "source": "src/locales/uk.json",
+        "key": "Check Import Result",
+        "defaultValue": "Check Import Result",
+        "value": "Check Import Result"
+    },
+    {
+        "source": "src/locales/uk.json",
+        "key": "Would you like to view the transactions that have not been imported? Transactions already imported will be kept.",
+        "defaultValue": "Would you like to view the transactions that have not been imported? Transactions already imported will be kept.",
+        "value": "Would you like to view the transactions that have not been imported? Transactions already imported will be kept."
+    },
+    {
+        "source": "src/locales/uk.json",
+        "key": "The import result could not be confirmed. Check the result before importing again to avoid duplicate transactions.",
+        "defaultValue": "The import result could not be confirmed. Check the result before importing again to avoid duplicate transactions.",
+        "value": "The import result could not be confirmed. Check the result before importing again to avoid duplicate transactions."
+    },
+    {
+        "source": "src/locales/uk.json",
         "key": "AI Text Content Recognition",
         "defaultValue": "AI Text Content Recognition",
         "value": "AI Text Content Recognition"
@@ -1258,6 +1294,12 @@
         "key": "Recognize Transactions from Images",
         "defaultValue": "Recognize Transactions from Images",
         "value": "Recognize Transactions from Images"
+    },
+    {
+        "source": "src/locales/uk.json",
+        "key": "Unable to get transactions import process",
+        "defaultValue": "Unable to get transactions import process",
+        "value": "Unable to get transactions import process"
     },
     {
         "source": "src/locales/uk.json",
