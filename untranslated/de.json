@@ -925,6 +925,12 @@
     },
     {
         "source": "src/locales/de.json",
+        "key": "Show Selected Tags on Top in Tag Picker",
+        "defaultValue": "Show Selected Tags on Top in Tag Picker",
+        "value": "Show Selected Tags on Top in Tag Picker"
+    },
+    {
+        "source": "src/locales/de.json",
         "key": "Save as CSV (Comma-separated values) File",
         "defaultValue": "Save as CSV (Comma-separated values) File",
         "value": "Save as CSV (Comma-separated values) File"

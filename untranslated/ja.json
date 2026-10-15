@@ -1183,6 +1183,12 @@
     },
     {
         "source": "src/locales/ja.json",
+        "key": "Show Selected Tags on Top in Tag Picker",
+        "defaultValue": "Show Selected Tags on Top in Tag Picker",
+        "value": "Show Selected Tags on Top in Tag Picker"
+    },
+    {
+        "source": "src/locales/ja.json",
         "key": "Default Credit Card Amount",
         "defaultValue": "Default Credit Card Amount",
         "value": "Default Credit Card Amount"
@@ -1216,6 +1222,12 @@
         "key": "Category Level",
         "defaultValue": "Category Level",
         "value": "Category Level"
+    },
+    {
+        "source": "src/locales/ja.json",
+        "key": "Selected Tags",
+        "defaultValue": "Selected Tags",
+        "value": "Selected Tags"
     },
     {
         "source": "src/locales/ja.json",

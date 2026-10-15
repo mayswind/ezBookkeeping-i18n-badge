@@ -5845,6 +5845,12 @@
     },
     {
         "source": "src/locales/vi.json",
+        "key": "Show Selected Tags on Top in Tag Picker",
+        "defaultValue": "Show Selected Tags on Top in Tag Picker",
+        "value": "Show Selected Tags on Top in Tag Picker"
+    },
+    {
+        "source": "src/locales/vi.json",
         "key": "Always Show Transaction Pictures",
         "defaultValue": "Always Show Transaction Pictures",
         "value": "Always Show Transaction Pictures"
@@ -6244,6 +6250,12 @@
         "key": "Unable to delete this tag group",
         "defaultValue": "Unable to delete this tag group",
         "value": "Unable to delete this tag group"
+    },
+    {
+        "source": "src/locales/vi.json",
+        "key": "Selected Tags",
+        "defaultValue": "Selected Tags",
+        "value": "Selected Tags"
     },
     {
         "source": "src/locales/vi.json",

@@ -2545,6 +2545,12 @@
     },
     {
         "source": "src/locales/sl.json",
+        "key": "Show Selected Tags on Top in Tag Picker",
+        "defaultValue": "Show Selected Tags on Top in Tag Picker",
+        "value": "Show Selected Tags on Top in Tag Picker"
+    },
+    {
+        "source": "src/locales/sl.json",
         "key": "Transaction Picture Upload Quality",
         "defaultValue": "Transaction Picture Upload Quality",
         "value": "Transaction Picture Upload Quality"
@@ -2728,6 +2734,12 @@
         "key": "Unable to delete this tag group",
         "defaultValue": "Unable to delete this tag group",
         "value": "Unable to delete this tag group"
+    },
+    {
+        "source": "src/locales/sl.json",
+        "key": "Selected Tags",
+        "defaultValue": "Selected Tags",
+        "value": "Selected Tags"
     },
     {
         "source": "src/locales/sl.json",

@@ -178,5 +178,17 @@
         "key": "Unable to get transactions import process",
         "defaultValue": "Unable to get transactions import process",
         "value": "Unable to get transactions import process"
+    },
+    {
+        "source": "src/locales/pl.json",
+        "key": "Show Selected Tags on Top in Tag Picker",
+        "defaultValue": "Show Selected Tags on Top in Tag Picker",
+        "value": "Show Selected Tags on Top in Tag Picker"
+    },
+    {
+        "source": "src/locales/pl.json",
+        "key": "Selected Tags",
+        "defaultValue": "Selected Tags",
+        "value": "Selected Tags"
     }
 ]

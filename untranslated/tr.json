@@ -1705,6 +1705,12 @@
     },
     {
         "source": "src/locales/tr.json",
+        "key": "Show Selected Tags on Top in Tag Picker",
+        "defaultValue": "Show Selected Tags on Top in Tag Picker",
+        "value": "Show Selected Tags on Top in Tag Picker"
+    },
+    {
+        "source": "src/locales/tr.json",
         "key": "Always Require Confirmation of Clipboard Content Before Submission",
         "defaultValue": "Always Require Confirmation of Clipboard Content Before Submission",
         "value": "Always Require Confirmation of Clipboard Content Before Submission"
@@ -1744,6 +1750,12 @@
         "key": "Category Level",
         "defaultValue": "Category Level",
         "value": "Category Level"
+    },
+    {
+        "source": "src/locales/tr.json",
+        "key": "Selected Tags",
+        "defaultValue": "Selected Tags",
+        "value": "Selected Tags"
     },
     {
         "source": "src/locales/tr.json",
