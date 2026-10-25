@@ -25,6 +25,18 @@
     },
     {
         "source": "src/locales/el.json",
+        "key": "format.misc.batchTransactionCount",
+        "defaultValue": "{count} transactions",
+        "value": "{count} transactions"
+    },
+    {
+        "source": "src/locales/el.json",
+        "key": "format.misc.confirmBatchAddTransactions",
+        "defaultValue": "Are you sure you want to add {count} transactions?",
+        "value": "Are you sure you want to add {count} transactions?"
+    },
+    {
+        "source": "src/locales/el.json",
         "key": "format.misc.importTransactionBatchResult",
         "defaultValue": "Successfully imported {count} of {totalCount} transactions.",
         "value": "Successfully imported {count} of {totalCount} transactions."
@@ -160,6 +172,18 @@
         "key": "error.must set parent account currency when set credit limit",
         "defaultValue": "Parent account currency must be set when setting a credit limit",
         "value": "Parent account currency must be set when setting a credit limit"
+    },
+    {
+        "source": "src/locales/el.json",
+        "key": "error.no transactions",
+        "defaultValue": "No transactions",
+        "value": "No transactions"
+    },
+    {
+        "source": "src/locales/el.json",
+        "key": "error.too many transactions",
+        "defaultValue": "Too many transactions",
+        "value": "Too many transactions"
     },
     {
         "source": "src/locales/el.json",
@@ -760,6 +784,12 @@
         "key": "Credit Limit",
         "defaultValue": "Credit Limit",
         "value": "Credit Limit"
+    },
+    {
+        "source": "src/locales/el.json",
+        "key": "Add Multiple Transactions",
+        "defaultValue": "Add Multiple Transactions",
+        "value": "Add Multiple Transactions"
     },
     {
         "source": "src/locales/el.json",

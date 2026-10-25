@@ -25,6 +25,18 @@
     },
     {
         "source": "src/locales/pl.json",
+        "key": "format.misc.batchTransactionCount",
+        "defaultValue": "{count} transactions",
+        "value": "{count} transactions"
+    },
+    {
+        "source": "src/locales/pl.json",
+        "key": "format.misc.confirmBatchAddTransactions",
+        "defaultValue": "Are you sure you want to add {count} transactions?",
+        "value": "Are you sure you want to add {count} transactions?"
+    },
+    {
+        "source": "src/locales/pl.json",
         "key": "format.misc.importTransactionBatchResult",
         "defaultValue": "Successfully imported {count} of {totalCount} transactions.",
         "value": "Successfully imported {count} of {totalCount} transactions."
@@ -133,6 +145,18 @@
     },
     {
         "source": "src/locales/pl.json",
+        "key": "error.no transactions",
+        "defaultValue": "No transactions",
+        "value": "No transactions"
+    },
+    {
+        "source": "src/locales/pl.json",
+        "key": "error.too many transactions",
+        "defaultValue": "Too many transactions",
+        "value": "Too many transactions"
+    },
+    {
+        "source": "src/locales/pl.json",
         "key": "Token",
         "defaultValue": "Token",
         "value": "Token"
@@ -148,6 +172,12 @@
         "key": "E-mail",
         "defaultValue": "E-mail",
         "value": "E-mail"
+    },
+    {
+        "source": "src/locales/pl.json",
+        "key": "Add Multiple Transactions",
+        "defaultValue": "Add Multiple Transactions",
+        "value": "Add Multiple Transactions"
     },
     {
         "source": "src/locales/pl.json",

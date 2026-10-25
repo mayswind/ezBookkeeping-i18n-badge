@@ -115,6 +115,18 @@
     },
     {
         "source": "src/locales/fr.json",
+        "key": "format.misc.batchTransactionCount",
+        "defaultValue": "{count} transactions",
+        "value": "{count} transactions"
+    },
+    {
+        "source": "src/locales/fr.json",
+        "key": "format.misc.confirmBatchAddTransactions",
+        "defaultValue": "Are you sure you want to add {count} transactions?",
+        "value": "Are you sure you want to add {count} transactions?"
+    },
+    {
+        "source": "src/locales/fr.json",
         "key": "format.misc.youHaveDeletedTransactions",
         "defaultValue": "You have deleted {count} transactions",
         "value": "You have deleted {count} transactions"
@@ -430,6 +442,18 @@
         "key": "error.merged balance modification transaction amount overflow",
         "defaultValue": "The amount of merged balance modification transaction exceeds the supported range",
         "value": "The amount of merged balance modification transaction exceeds the supported range"
+    },
+    {
+        "source": "src/locales/fr.json",
+        "key": "error.no transactions",
+        "defaultValue": "No transactions",
+        "value": "No transactions"
+    },
+    {
+        "source": "src/locales/fr.json",
+        "key": "error.too many transactions",
+        "defaultValue": "Too many transactions",
+        "value": "Too many transactions"
     },
     {
         "source": "src/locales/fr.json",
@@ -2836,6 +2860,12 @@
         "key": "Latitude",
         "defaultValue": "Latitude",
         "value": "Latitude"
+    },
+    {
+        "source": "src/locales/fr.json",
+        "key": "Add Multiple Transactions",
+        "defaultValue": "Add Multiple Transactions",
+        "value": "Add Multiple Transactions"
     },
     {
         "source": "src/locales/fr.json",

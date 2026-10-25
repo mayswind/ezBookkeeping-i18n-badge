@@ -25,6 +25,18 @@
     },
     {
         "source": "src/locales/de.json",
+        "key": "format.misc.batchTransactionCount",
+        "defaultValue": "{count} transactions",
+        "value": "{count} transactions"
+    },
+    {
+        "source": "src/locales/de.json",
+        "key": "format.misc.confirmBatchAddTransactions",
+        "defaultValue": "Are you sure you want to add {count} transactions?",
+        "value": "Are you sure you want to add {count} transactions?"
+    },
+    {
+        "source": "src/locales/de.json",
         "key": "format.misc.recognizingImagesProcess",
         "defaultValue": "Recognizing images, Completed: {success}, Failed: {failed}, Total: {total} images.",
         "value": "Recognizing images, Completed: {success}, Failed: {failed}, Total: {total} images."
@@ -154,6 +166,18 @@
         "key": "currency.name.XCG",
         "defaultValue": "Caribbean Guilder",
         "value": "Caribbean Guilder"
+    },
+    {
+        "source": "src/locales/de.json",
+        "key": "error.no transactions",
+        "defaultValue": "No transactions",
+        "value": "No transactions"
+    },
+    {
+        "source": "src/locales/de.json",
+        "key": "error.too many transactions",
+        "defaultValue": "Too many transactions",
+        "value": "Too many transactions"
     },
     {
         "source": "src/locales/de.json",
@@ -664,6 +688,12 @@
         "key": "Outflow",
         "defaultValue": "Outflow",
         "value": "Outflow"
+    },
+    {
+        "source": "src/locales/de.json",
+        "key": "Add Multiple Transactions",
+        "defaultValue": "Add Multiple Transactions",
+        "value": "Add Multiple Transactions"
     },
     {
         "source": "src/locales/de.json",
