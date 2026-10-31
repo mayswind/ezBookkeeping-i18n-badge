@@ -139,6 +139,12 @@
     },
     {
         "source": "src/locales/es.json",
+        "key": "format.misc.ruleCount",
+        "defaultValue": "{count} rules",
+        "value": "{count} rules"
+    },
+    {
+        "source": "src/locales/es.json",
         "key": "dataExport.defaultExportFilename",
         "defaultValue": "ezBookkeeping_export_data",
         "value": "ezBookkeeping_export_data"
@@ -418,6 +424,30 @@
         "key": "error.user custom icon is in use",
         "defaultValue": "This custom icon is used by an account or category and cannot be deleted",
         "value": "This custom icon is used by an account or category and cannot be deleted"
+    },
+    {
+        "source": "src/locales/es.json",
+        "key": "error.import preset id is invalid",
+        "defaultValue": "Import preset ID is invalid",
+        "value": "Import preset ID is invalid"
+    },
+    {
+        "source": "src/locales/es.json",
+        "key": "error.import preset not found",
+        "defaultValue": "Import preset is not found",
+        "value": "Import preset is not found"
+    },
+    {
+        "source": "src/locales/es.json",
+        "key": "error.import preset data is invalid",
+        "defaultValue": "Import preset data is invalid",
+        "value": "Import preset data is invalid"
+    },
+    {
+        "source": "src/locales/es.json",
+        "key": "error.import preset data is too large",
+        "defaultValue": "Import preset data is too large",
+        "value": "Import preset data is too large"
     },
     {
         "source": "src/locales/es.json",
@@ -826,6 +856,12 @@
         "key": "Cancel Generation",
         "defaultValue": "Cancel Generation",
         "value": "Cancel Generation"
+    },
+    {
+        "source": "src/locales/es.json",
+        "key": "Selected",
+        "defaultValue": "Selected",
+        "value": "Selected"
     },
     {
         "source": "src/locales/es.json",
@@ -1429,6 +1465,18 @@
     },
     {
         "source": "src/locales/es.json",
+        "key": "Replace Rules",
+        "defaultValue": "Replace Rules",
+        "value": "Replace Rules"
+    },
+    {
+        "source": "src/locales/es.json",
+        "key": "Clear All Rules",
+        "defaultValue": "Clear All Rules",
+        "value": "Clear All Rules"
+    },
+    {
+        "source": "src/locales/es.json",
         "key": "Transaction picture is disabled",
         "defaultValue": "Transaction picture is disabled",
         "value": "Transaction picture is disabled"
@@ -1804,6 +1852,126 @@
         "key": "System Colors",
         "defaultValue": "System Colors",
         "value": "System Colors"
+    },
+    {
+        "source": "src/locales/es.json",
+        "key": "Import Presets",
+        "defaultValue": "Import Presets",
+        "value": "Import Presets"
+    },
+    {
+        "source": "src/locales/es.json",
+        "key": "User Presets",
+        "defaultValue": "User Presets",
+        "value": "User Presets"
+    },
+    {
+        "source": "src/locales/es.json",
+        "key": "No available import presets",
+        "defaultValue": "No available import presets",
+        "value": "No available import presets"
+    },
+    {
+        "source": "src/locales/es.json",
+        "key": "Automatically Execute Script",
+        "defaultValue": "Automatically Execute Script",
+        "value": "Automatically Execute Script"
+    },
+    {
+        "source": "src/locales/es.json",
+        "key": "Are you sure you want to delete this import preset?",
+        "defaultValue": "Are you sure you want to delete this import preset?",
+        "value": "Are you sure you want to delete this import preset?"
+    },
+    {
+        "source": "src/locales/es.json",
+        "key": "Add Import Preset",
+        "defaultValue": "Add Import Preset",
+        "value": "Add Import Preset"
+    },
+    {
+        "source": "src/locales/es.json",
+        "key": "Edit Import Preset",
+        "defaultValue": "Edit Import Preset",
+        "value": "Edit Import Preset"
+    },
+    {
+        "source": "src/locales/es.json",
+        "key": "Preset Name",
+        "defaultValue": "Preset Name",
+        "value": "Preset Name"
+    },
+    {
+        "source": "src/locales/es.json",
+        "key": "Preset name cannot be blank",
+        "defaultValue": "Preset name cannot be blank",
+        "value": "Preset name cannot be blank"
+    },
+    {
+        "source": "src/locales/es.json",
+        "key": "Data Mapping File",
+        "defaultValue": "Data Mapping File",
+        "value": "Data Mapping File"
+    },
+    {
+        "source": "src/locales/es.json",
+        "key": "Unable to retrieve import preset list",
+        "defaultValue": "Unable to retrieve import preset list",
+        "value": "Unable to retrieve import preset list"
+    },
+    {
+        "source": "src/locales/es.json",
+        "key": "Import preset list is up to date",
+        "defaultValue": "Import preset list is up to date",
+        "value": "Import preset list is up to date"
+    },
+    {
+        "source": "src/locales/es.json",
+        "key": "Import preset list has been updated",
+        "defaultValue": "Import preset list has been updated",
+        "value": "Import preset list has been updated"
+    },
+    {
+        "source": "src/locales/es.json",
+        "key": "Unable to retrieve import preset",
+        "defaultValue": "Unable to retrieve import preset",
+        "value": "Unable to retrieve import preset"
+    },
+    {
+        "source": "src/locales/es.json",
+        "key": "Unable to add import preset",
+        "defaultValue": "Unable to add import preset",
+        "value": "Unable to add import preset"
+    },
+    {
+        "source": "src/locales/es.json",
+        "key": "Unable to save import preset",
+        "defaultValue": "Unable to save import preset",
+        "value": "Unable to save import preset"
+    },
+    {
+        "source": "src/locales/es.json",
+        "key": "Unable to move import preset",
+        "defaultValue": "Unable to move import preset",
+        "value": "Unable to move import preset"
+    },
+    {
+        "source": "src/locales/es.json",
+        "key": "Unable to delete import preset",
+        "defaultValue": "Unable to delete import preset",
+        "value": "Unable to delete import preset"
+    },
+    {
+        "source": "src/locales/es.json",
+        "key": "You have added a new import preset",
+        "defaultValue": "You have added a new import preset",
+        "value": "You have added a new import preset"
+    },
+    {
+        "source": "src/locales/es.json",
+        "key": "You have saved this import preset",
+        "defaultValue": "You have saved this import preset",
+        "value": "You have saved this import preset"
     },
     {
         "source": "src/locales/es.json",

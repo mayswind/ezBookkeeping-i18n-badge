@@ -241,6 +241,12 @@
     },
     {
         "source": "src/locales/vi.json",
+        "key": "format.misc.ruleCount",
+        "defaultValue": "{count} rules",
+        "value": "{count} rules"
+    },
+    {
+        "source": "src/locales/vi.json",
         "key": "format.misc.oauth2bindTip",
         "defaultValue": "You're signing in to the {userName} user using {providerName}. Please enter your ezBookkeeping password to verify.",
         "value": "You're signing in to the {userName} user using {providerName}. Please enter your ezBookkeeping password to verify."
@@ -1915,6 +1921,30 @@
     },
     {
         "source": "src/locales/vi.json",
+        "key": "error.import preset id is invalid",
+        "defaultValue": "Import preset ID is invalid",
+        "value": "Import preset ID is invalid"
+    },
+    {
+        "source": "src/locales/vi.json",
+        "key": "error.import preset not found",
+        "defaultValue": "Import preset is not found",
+        "value": "Import preset is not found"
+    },
+    {
+        "source": "src/locales/vi.json",
+        "key": "error.import preset data is invalid",
+        "defaultValue": "Import preset data is invalid",
+        "value": "Import preset data is invalid"
+    },
+    {
+        "source": "src/locales/vi.json",
+        "key": "error.import preset data is too large",
+        "defaultValue": "Import preset data is too large",
+        "value": "Import preset data is too large"
+    },
+    {
+        "source": "src/locales/vi.json",
         "key": "error.failure count exceeded maximum limit",
         "defaultValue": "Failure count exceeded maximum limit, please try again after some time",
         "value": "Failure count exceeded maximum limit, please try again after some time"
@@ -2422,6 +2452,12 @@
         "key": "Not set",
         "defaultValue": "Not set",
         "value": "Not set"
+    },
+    {
+        "source": "src/locales/vi.json",
+        "key": "Selected",
+        "defaultValue": "Selected",
+        "value": "Selected"
     },
     {
         "source": "src/locales/vi.json",
@@ -5089,6 +5125,12 @@
     },
     {
         "source": "src/locales/vi.json",
+        "key": "Replace Rules",
+        "defaultValue": "Replace Rules",
+        "value": "Replace Rules"
+    },
+    {
+        "source": "src/locales/vi.json",
         "key": "Batch Apply Rules",
         "defaultValue": "Batch Apply Rules",
         "value": "Batch Apply Rules"
@@ -5230,6 +5272,12 @@
         "key": "Save Replace Rule File",
         "defaultValue": "Save Replace Rule File",
         "value": "Save Replace Rule File"
+    },
+    {
+        "source": "src/locales/vi.json",
+        "key": "Clear All Rules",
+        "defaultValue": "Clear All Rules",
+        "value": "Clear All Rules"
     },
     {
         "source": "src/locales/vi.json",
@@ -6406,6 +6454,126 @@
         "key": "System Colors",
         "defaultValue": "System Colors",
         "value": "System Colors"
+    },
+    {
+        "source": "src/locales/vi.json",
+        "key": "Import Presets",
+        "defaultValue": "Import Presets",
+        "value": "Import Presets"
+    },
+    {
+        "source": "src/locales/vi.json",
+        "key": "User Presets",
+        "defaultValue": "User Presets",
+        "value": "User Presets"
+    },
+    {
+        "source": "src/locales/vi.json",
+        "key": "No available import presets",
+        "defaultValue": "No available import presets",
+        "value": "No available import presets"
+    },
+    {
+        "source": "src/locales/vi.json",
+        "key": "Automatically Execute Script",
+        "defaultValue": "Automatically Execute Script",
+        "value": "Automatically Execute Script"
+    },
+    {
+        "source": "src/locales/vi.json",
+        "key": "Are you sure you want to delete this import preset?",
+        "defaultValue": "Are you sure you want to delete this import preset?",
+        "value": "Are you sure you want to delete this import preset?"
+    },
+    {
+        "source": "src/locales/vi.json",
+        "key": "Add Import Preset",
+        "defaultValue": "Add Import Preset",
+        "value": "Add Import Preset"
+    },
+    {
+        "source": "src/locales/vi.json",
+        "key": "Edit Import Preset",
+        "defaultValue": "Edit Import Preset",
+        "value": "Edit Import Preset"
+    },
+    {
+        "source": "src/locales/vi.json",
+        "key": "Preset Name",
+        "defaultValue": "Preset Name",
+        "value": "Preset Name"
+    },
+    {
+        "source": "src/locales/vi.json",
+        "key": "Preset name cannot be blank",
+        "defaultValue": "Preset name cannot be blank",
+        "value": "Preset name cannot be blank"
+    },
+    {
+        "source": "src/locales/vi.json",
+        "key": "Data Mapping File",
+        "defaultValue": "Data Mapping File",
+        "value": "Data Mapping File"
+    },
+    {
+        "source": "src/locales/vi.json",
+        "key": "Unable to retrieve import preset list",
+        "defaultValue": "Unable to retrieve import preset list",
+        "value": "Unable to retrieve import preset list"
+    },
+    {
+        "source": "src/locales/vi.json",
+        "key": "Import preset list is up to date",
+        "defaultValue": "Import preset list is up to date",
+        "value": "Import preset list is up to date"
+    },
+    {
+        "source": "src/locales/vi.json",
+        "key": "Import preset list has been updated",
+        "defaultValue": "Import preset list has been updated",
+        "value": "Import preset list has been updated"
+    },
+    {
+        "source": "src/locales/vi.json",
+        "key": "Unable to retrieve import preset",
+        "defaultValue": "Unable to retrieve import preset",
+        "value": "Unable to retrieve import preset"
+    },
+    {
+        "source": "src/locales/vi.json",
+        "key": "Unable to add import preset",
+        "defaultValue": "Unable to add import preset",
+        "value": "Unable to add import preset"
+    },
+    {
+        "source": "src/locales/vi.json",
+        "key": "Unable to save import preset",
+        "defaultValue": "Unable to save import preset",
+        "value": "Unable to save import preset"
+    },
+    {
+        "source": "src/locales/vi.json",
+        "key": "Unable to move import preset",
+        "defaultValue": "Unable to move import preset",
+        "value": "Unable to move import preset"
+    },
+    {
+        "source": "src/locales/vi.json",
+        "key": "Unable to delete import preset",
+        "defaultValue": "Unable to delete import preset",
+        "value": "Unable to delete import preset"
+    },
+    {
+        "source": "src/locales/vi.json",
+        "key": "You have added a new import preset",
+        "defaultValue": "You have added a new import preset",
+        "value": "You have added a new import preset"
+    },
+    {
+        "source": "src/locales/vi.json",
+        "key": "You have saved this import preset",
+        "defaultValue": "You have saved this import preset",
+        "value": "You have saved this import preset"
     },
     {
         "source": "src/locales/vi.json",
