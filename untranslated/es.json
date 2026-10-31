@@ -229,6 +229,12 @@
     },
     {
         "source": "src/locales/es.json",
+        "key": "color.amount.Blue",
+        "defaultValue": "Blue",
+        "value": "Blue"
+    },
+    {
+        "source": "src/locales/es.json",
         "key": "currency.name.PKR",
         "defaultValue": "Pakistani Rupee",
         "value": "Pakistani Rupee"
@@ -1672,6 +1678,12 @@
         "key": "Income and Expense",
         "defaultValue": "Income and Expense",
         "value": "Income and Expense"
+    },
+    {
+        "source": "src/locales/es.json",
+        "key": "Show Transaction Picture Indicator",
+        "defaultValue": "Show Transaction Picture Indicator",
+        "value": "Show Transaction Picture Indicator"
     },
     {
         "source": "src/locales/es.json",

@@ -217,6 +217,12 @@
     },
     {
         "source": "src/locales/uk.json",
+        "key": "color.amount.Blue",
+        "defaultValue": "Blue",
+        "value": "Blue"
+    },
+    {
+        "source": "src/locales/uk.json",
         "key": "currency.name.XCG",
         "defaultValue": "Caribbean Guilder",
         "value": "Caribbean Guilder"
@@ -1780,6 +1786,12 @@
         "key": "Income and Expense",
         "defaultValue": "Income and Expense",
         "value": "Income and Expense"
+    },
+    {
+        "source": "src/locales/uk.json",
+        "key": "Show Transaction Picture Indicator",
+        "defaultValue": "Show Transaction Picture Indicator",
+        "value": "Show Transaction Picture Indicator"
     },
     {
         "source": "src/locales/uk.json",

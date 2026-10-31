@@ -433,6 +433,12 @@
     },
     {
         "source": "src/locales/vi.json",
+        "key": "color.amount.Blue",
+        "defaultValue": "Blue",
+        "value": "Blue"
+    },
+    {
+        "source": "src/locales/vi.json",
         "key": "currency.name.AED",
         "defaultValue": "United Arab Emirates Dirham",
         "value": "United Arab Emirates Dirham"
@@ -5860,6 +5866,12 @@
         "key": "Income and Expense",
         "defaultValue": "Income and Expense",
         "value": "Income and Expense"
+    },
+    {
+        "source": "src/locales/vi.json",
+        "key": "Show Transaction Picture Indicator",
+        "defaultValue": "Show Transaction Picture Indicator",
+        "value": "Show Transaction Picture Indicator"
     },
     {
         "source": "src/locales/vi.json",

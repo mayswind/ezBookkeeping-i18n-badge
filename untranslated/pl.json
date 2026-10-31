@@ -151,6 +151,12 @@
     },
     {
         "source": "src/locales/pl.json",
+        "key": "color.amount.Blue",
+        "defaultValue": "Blue",
+        "value": "Blue"
+    },
+    {
+        "source": "src/locales/pl.json",
         "key": "error.no transactions",
         "defaultValue": "No transactions",
         "value": "No transactions"
@@ -256,6 +262,12 @@
         "key": "Clear All Rules",
         "defaultValue": "Clear All Rules",
         "value": "Clear All Rules"
+    },
+    {
+        "source": "src/locales/pl.json",
+        "key": "Show Transaction Picture Indicator",
+        "defaultValue": "Show Transaction Picture Indicator",
+        "value": "Show Transaction Picture Indicator"
     },
     {
         "source": "src/locales/pl.json",
