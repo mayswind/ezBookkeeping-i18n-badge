@@ -157,6 +157,12 @@
     },
     {
         "source": "src/locales/pl.json",
+        "key": "error.at least one mcp tool must be enabled",
+        "defaultValue": "At least one MCP tool must be enabled",
+        "value": "At least one MCP tool must be enabled"
+    },
+    {
+        "source": "src/locales/pl.json",
         "key": "error.no transactions",
         "defaultValue": "No transactions",
         "value": "No transactions"
@@ -166,6 +172,12 @@
         "key": "error.too many transactions",
         "defaultValue": "Too many transactions",
         "value": "Too many transactions"
+    },
+    {
+        "source": "src/locales/pl.json",
+        "key": "error.mcp tool is not enabled",
+        "defaultValue": "MCP tool is not enabled",
+        "value": "MCP tool is not enabled"
     },
     {
         "source": "src/locales/pl.json",
@@ -400,5 +412,53 @@
         "key": "You have saved this import preset",
         "defaultValue": "You have saved this import preset",
         "value": "You have saved this import preset"
+    },
+    {
+        "source": "src/locales/pl.json",
+        "key": "Enable All MCP Tools",
+        "defaultValue": "Enable All MCP Tools",
+        "value": "Enable All MCP Tools"
+    },
+    {
+        "source": "src/locales/pl.json",
+        "key": "Enabled MCP Tools",
+        "defaultValue": "Enabled MCP Tools",
+        "value": "Enabled MCP Tools"
+    },
+    {
+        "source": "src/locales/pl.json",
+        "key": "Query Transactions",
+        "defaultValue": "Query Transactions",
+        "value": "Query Transactions"
+    },
+    {
+        "source": "src/locales/pl.json",
+        "key": "Query All Accounts",
+        "defaultValue": "Query All Accounts",
+        "value": "Query All Accounts"
+    },
+    {
+        "source": "src/locales/pl.json",
+        "key": "Query All Account Balances",
+        "defaultValue": "Query All Account Balances",
+        "value": "Query All Account Balances"
+    },
+    {
+        "source": "src/locales/pl.json",
+        "key": "Query All Transaction Categories",
+        "defaultValue": "Query All Transaction Categories",
+        "value": "Query All Transaction Categories"
+    },
+    {
+        "source": "src/locales/pl.json",
+        "key": "Query All Transaction Tags",
+        "defaultValue": "Query All Transaction Tags",
+        "value": "Query All Transaction Tags"
+    },
+    {
+        "source": "src/locales/pl.json",
+        "key": "Query Latest Exchange Rates",
+        "defaultValue": "Query Latest Exchange Rates",
+        "value": "Query Latest Exchange Rates"
     }
 ]

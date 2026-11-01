@@ -1387,6 +1387,12 @@
     },
     {
         "source": "src/locales/nl.json",
+        "key": "error.at least one mcp tool must be enabled",
+        "defaultValue": "At least one MCP tool must be enabled",
+        "value": "At least one MCP tool must be enabled"
+    },
+    {
+        "source": "src/locales/nl.json",
         "key": "error.passcode is empty",
         "defaultValue": "Passcode is empty",
         "value": "Passcode is empty"
@@ -1498,6 +1504,12 @@
         "key": "error.invalid json file",
         "defaultValue": "Invalid JSON file",
         "value": "Invalid JSON file"
+    },
+    {
+        "source": "src/locales/nl.json",
+        "key": "error.mcp tool is not enabled",
+        "defaultValue": "MCP tool is not enabled",
+        "value": "MCP tool is not enabled"
     },
     {
         "source": "src/locales/nl.json",
@@ -5608,6 +5620,54 @@
         "key": "MCP Token",
         "defaultValue": "MCP Token",
         "value": "MCP Token"
+    },
+    {
+        "source": "src/locales/nl.json",
+        "key": "Enable All MCP Tools",
+        "defaultValue": "Enable All MCP Tools",
+        "value": "Enable All MCP Tools"
+    },
+    {
+        "source": "src/locales/nl.json",
+        "key": "Enabled MCP Tools",
+        "defaultValue": "Enabled MCP Tools",
+        "value": "Enabled MCP Tools"
+    },
+    {
+        "source": "src/locales/nl.json",
+        "key": "Query Transactions",
+        "defaultValue": "Query Transactions",
+        "value": "Query Transactions"
+    },
+    {
+        "source": "src/locales/nl.json",
+        "key": "Query All Accounts",
+        "defaultValue": "Query All Accounts",
+        "value": "Query All Accounts"
+    },
+    {
+        "source": "src/locales/nl.json",
+        "key": "Query All Account Balances",
+        "defaultValue": "Query All Account Balances",
+        "value": "Query All Account Balances"
+    },
+    {
+        "source": "src/locales/nl.json",
+        "key": "Query All Transaction Categories",
+        "defaultValue": "Query All Transaction Categories",
+        "value": "Query All Transaction Categories"
+    },
+    {
+        "source": "src/locales/nl.json",
+        "key": "Query All Transaction Tags",
+        "defaultValue": "Query All Transaction Tags",
+        "value": "Query All Transaction Tags"
+    },
+    {
+        "source": "src/locales/nl.json",
+        "key": "Query Latest Exchange Rates",
+        "defaultValue": "Query Latest Exchange Rates",
+        "value": "Query Latest Exchange Rates"
     },
     {
         "source": "src/locales/nl.json",

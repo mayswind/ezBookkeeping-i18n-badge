@@ -259,6 +259,12 @@
     },
     {
         "source": "src/locales/es.json",
+        "key": "error.at least one mcp tool must be enabled",
+        "defaultValue": "At least one MCP tool must be enabled",
+        "value": "At least one MCP tool must be enabled"
+    },
+    {
+        "source": "src/locales/es.json",
         "key": "error.parent account cannot set last reconciled time",
         "defaultValue": "Parent account cannot set last reconciled time",
         "value": "Parent account cannot set last reconciled time"
@@ -334,6 +340,12 @@
         "key": "error.scheduled transaction start date is required",
         "defaultValue": "Scheduled transaction start date is required",
         "value": "Scheduled transaction start date is required"
+    },
+    {
+        "source": "src/locales/es.json",
+        "key": "error.mcp tool is not enabled",
+        "defaultValue": "MCP tool is not enabled",
+        "value": "MCP tool is not enabled"
     },
     {
         "source": "src/locales/es.json",
@@ -2008,6 +2020,54 @@
         "key": "Custom Expiration Time (Seconds)",
         "defaultValue": "Custom Expiration Time (Seconds)",
         "value": "Custom Expiration Time (Seconds)"
+    },
+    {
+        "source": "src/locales/es.json",
+        "key": "Enable All MCP Tools",
+        "defaultValue": "Enable All MCP Tools",
+        "value": "Enable All MCP Tools"
+    },
+    {
+        "source": "src/locales/es.json",
+        "key": "Enabled MCP Tools",
+        "defaultValue": "Enabled MCP Tools",
+        "value": "Enabled MCP Tools"
+    },
+    {
+        "source": "src/locales/es.json",
+        "key": "Query Transactions",
+        "defaultValue": "Query Transactions",
+        "value": "Query Transactions"
+    },
+    {
+        "source": "src/locales/es.json",
+        "key": "Query All Accounts",
+        "defaultValue": "Query All Accounts",
+        "value": "Query All Accounts"
+    },
+    {
+        "source": "src/locales/es.json",
+        "key": "Query All Account Balances",
+        "defaultValue": "Query All Account Balances",
+        "value": "Query All Account Balances"
+    },
+    {
+        "source": "src/locales/es.json",
+        "key": "Query All Transaction Categories",
+        "defaultValue": "Query All Transaction Categories",
+        "value": "Query All Transaction Categories"
+    },
+    {
+        "source": "src/locales/es.json",
+        "key": "Query All Transaction Tags",
+        "defaultValue": "Query All Transaction Tags",
+        "value": "Query All Transaction Tags"
+    },
+    {
+        "source": "src/locales/es.json",
+        "key": "Query Latest Exchange Rates",
+        "defaultValue": "Query Latest Exchange Rates",
+        "value": "Query Latest Exchange Rates"
     },
     {
         "source": "src/locales/es.json",
