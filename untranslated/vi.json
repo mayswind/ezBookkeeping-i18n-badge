@@ -1,11 +1,6 @@
 [
     {
         "source": "src/locales/vi.json",
-        "key": "language.Hindi",
-        "defaultValue": "Hindi"
-    },
-    {
-        "source": "src/locales/vi.json",
         "key": "format.misc.nHour",
         "defaultValue": "{n} Hour",
         "value": "{n} Hour"
@@ -6660,12 +6655,6 @@
     },
     {
         "source": "src/locales/vi.json",
-        "key": "Query Transactions",
-        "defaultValue": "Query Transactions",
-        "value": "Query Transactions"
-    },
-    {
-        "source": "src/locales/vi.json",
         "key": "Query All Accounts",
         "defaultValue": "Query All Accounts",
         "value": "Query All Accounts"
@@ -6693,6 +6682,12 @@
         "key": "Query Latest Exchange Rates",
         "defaultValue": "Query Latest Exchange Rates",
         "value": "Query Latest Exchange Rates"
+    },
+    {
+        "source": "src/locales/vi.json",
+        "key": "Query Transactions",
+        "defaultValue": "Query Transactions",
+        "value": "Query Transactions"
     },
     {
         "source": "src/locales/vi.json",

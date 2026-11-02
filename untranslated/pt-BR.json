@@ -1,11 +1,6 @@
 [
     {
         "source": "src/locales/pt_BR.json",
-        "key": "language.Hindi",
-        "defaultValue": "Hindi"
-    },
-    {
-        "source": "src/locales/pt_BR.json",
         "key": "format.misc.nMonth",
         "defaultValue": "{n} Month",
         "value": "{n} Month"
@@ -2706,12 +2701,6 @@
     },
     {
         "source": "src/locales/pt_BR.json",
-        "key": "Query Transactions",
-        "defaultValue": "Query Transactions",
-        "value": "Query Transactions"
-    },
-    {
-        "source": "src/locales/pt_BR.json",
         "key": "Query All Accounts",
         "defaultValue": "Query All Accounts",
         "value": "Query All Accounts"
@@ -2739,6 +2728,12 @@
         "key": "Query Latest Exchange Rates",
         "defaultValue": "Query Latest Exchange Rates",
         "value": "Query Latest Exchange Rates"
+    },
+    {
+        "source": "src/locales/pt_BR.json",
+        "key": "Query Transactions",
+        "defaultValue": "Query Transactions",
+        "value": "Query Transactions"
     },
     {
         "source": "src/locales/pt_BR.json",

@@ -1,11 +1,6 @@
 [
     {
         "source": "src/locales/el.json",
-        "key": "language.Hindi",
-        "defaultValue": "Hindi"
-    },
-    {
-        "source": "src/locales/el.json",
         "key": "format.misc.lineIndex",
         "defaultValue": "Line {index}",
         "value": "Line {index}"
@@ -1368,12 +1363,6 @@
     },
     {
         "source": "src/locales/el.json",
-        "key": "Query Transactions",
-        "defaultValue": "Query Transactions",
-        "value": "Query Transactions"
-    },
-    {
-        "source": "src/locales/el.json",
         "key": "Query All Accounts",
         "defaultValue": "Query All Accounts",
         "value": "Query All Accounts"
@@ -1401,6 +1390,12 @@
         "key": "Query Latest Exchange Rates",
         "defaultValue": "Query Latest Exchange Rates",
         "value": "Query Latest Exchange Rates"
+    },
+    {
+        "source": "src/locales/el.json",
+        "key": "Query Transactions",
+        "defaultValue": "Query Transactions",
+        "value": "Query Transactions"
     },
     {
         "source": "src/locales/el.json",
