@@ -1,6 +1,11 @@
 [
     {
         "source": "src/locales/tr.json",
+        "key": "language.Hindi",
+        "defaultValue": "Hindi"
+    },
+    {
+        "source": "src/locales/tr.json",
         "key": "format.misc.nMonth",
         "defaultValue": "{n} Month",
         "value": "{n} Month"

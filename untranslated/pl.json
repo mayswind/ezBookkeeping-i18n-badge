@@ -1,6 +1,11 @@
 [
     {
         "source": "src/locales/pl.json",
+        "key": "language.Hindi",
+        "defaultValue": "Hindi"
+    },
+    {
+        "source": "src/locales/pl.json",
         "key": "format.misc.lineIndex",
         "defaultValue": "Line {index}",
         "value": "Line {index}"
