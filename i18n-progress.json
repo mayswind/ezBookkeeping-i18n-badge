@@ -41,11 +41,11 @@
     },
     "hi": {
         "languageTag": "hi",
-        "frontendTranslated": 1264,
+        "frontendTranslated": 2368,
         "frontendTotal": 2482,
         "backendTranslated": 10,
         "backendTotal": 10,
-        "totalProgress": 51.12
+        "totalProgress": 95.43
     },
     "it": {
         "languageTag": "it",
