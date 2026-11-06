@@ -685,8 +685,32 @@
     },
     {
         "source": "src/locales/hi.json",
+        "key": "User Avatars",
+        "defaultValue": "User Avatars",
+        "value": "User Avatars"
+    },
+    {
+        "source": "src/locales/hi.json",
         "key": "Delete Transaction",
         "defaultValue": "Delete Transaction",
         "value": "Delete Transaction"
+    },
+    {
+        "source": "src/locales/hi.json",
+        "key": "Clear File Cache",
+        "defaultValue": "Clear File Cache",
+        "value": "Clear File Cache"
+    },
+    {
+        "source": "src/locales/hi.json",
+        "key": "Cache has been cleared",
+        "defaultValue": "Cache has been cleared",
+        "value": "Cache has been cleared"
+    },
+    {
+        "source": "src/locales/hi.json",
+        "key": "Unable to clear cache",
+        "defaultValue": "Unable to clear cache",
+        "value": "Unable to clear cache"
     }
 ]

@@ -2413,6 +2413,12 @@
     },
     {
         "source": "src/locales/pt_BR.json",
+        "key": "User Avatars",
+        "defaultValue": "User Avatars",
+        "value": "User Avatars"
+    },
+    {
+        "source": "src/locales/pt_BR.json",
         "key": "Save as CSV (Comma-separated values) File",
         "defaultValue": "Save as CSV (Comma-separated values) File",
         "value": "Save as CSV (Comma-separated values) File"
@@ -2743,15 +2749,21 @@
     },
     {
         "source": "src/locales/pt_BR.json",
-        "key": "Clear Custom Icon Cache",
-        "defaultValue": "Clear Custom Icon Cache",
-        "value": "Clear Custom Icon Cache"
+        "key": "Clear File Cache",
+        "defaultValue": "Clear File Cache",
+        "value": "Clear File Cache"
     },
     {
         "source": "src/locales/pt_BR.json",
-        "key": "Are you sure you want to clear custom icon cache?",
-        "defaultValue": "Are you sure you want to clear custom icon cache?",
-        "value": "Are you sure you want to clear custom icon cache?"
+        "key": "Cache has been cleared",
+        "defaultValue": "Cache has been cleared",
+        "value": "Cache has been cleared"
+    },
+    {
+        "source": "src/locales/pt_BR.json",
+        "key": "Unable to clear cache",
+        "defaultValue": "Unable to clear cache",
+        "value": "Unable to clear cache"
     },
     {
         "source": "src/locales/pt_BR.json",

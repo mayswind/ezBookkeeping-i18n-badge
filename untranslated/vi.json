@@ -6061,6 +6061,12 @@
     },
     {
         "source": "src/locales/vi.json",
+        "key": "User Avatars",
+        "defaultValue": "User Avatars",
+        "value": "User Avatars"
+    },
+    {
+        "source": "src/locales/vi.json",
         "key": "File Format",
         "defaultValue": "File Format",
         "value": "File Format"
@@ -6853,51 +6859,21 @@
     },
     {
         "source": "src/locales/vi.json",
-        "key": "Clear All File Cache",
-        "defaultValue": "Clear All File Cache",
-        "value": "Clear All File Cache"
+        "key": "Clear File Cache",
+        "defaultValue": "Clear File Cache",
+        "value": "Clear File Cache"
     },
     {
         "source": "src/locales/vi.json",
-        "key": "Are you sure you want to clear all file cache?",
-        "defaultValue": "Are you sure you want to clear all file cache?",
-        "value": "Are you sure you want to clear all file cache?"
+        "key": "Cache has been cleared",
+        "defaultValue": "Cache has been cleared",
+        "value": "Cache has been cleared"
     },
     {
         "source": "src/locales/vi.json",
-        "key": "Clear Map Data Cache",
-        "defaultValue": "Clear Map Data Cache",
-        "value": "Clear Map Data Cache"
-    },
-    {
-        "source": "src/locales/vi.json",
-        "key": "Are you sure you want to clear map data cache?",
-        "defaultValue": "Are you sure you want to clear map data cache?",
-        "value": "Are you sure you want to clear map data cache?"
-    },
-    {
-        "source": "src/locales/vi.json",
-        "key": "Clear Custom Icon Cache",
-        "defaultValue": "Clear Custom Icon Cache",
-        "value": "Clear Custom Icon Cache"
-    },
-    {
-        "source": "src/locales/vi.json",
-        "key": "Are you sure you want to clear custom icon cache?",
-        "defaultValue": "Are you sure you want to clear custom icon cache?",
-        "value": "Are you sure you want to clear custom icon cache?"
-    },
-    {
-        "source": "src/locales/vi.json",
-        "key": "Clear Application Code Cache",
-        "defaultValue": "Clear Application Code Cache",
-        "value": "Clear Application Code Cache"
-    },
-    {
-        "source": "src/locales/vi.json",
-        "key": "Are you sure you want to clear application code cache?",
-        "defaultValue": "Are you sure you want to clear application code cache?",
-        "value": "Are you sure you want to clear application code cache?"
+        "key": "Unable to clear cache",
+        "defaultValue": "Unable to clear cache",
+        "value": "Unable to clear cache"
     },
     {
         "source": "src/locales/vi.json",
