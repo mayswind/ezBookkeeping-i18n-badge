@@ -2137,6 +2137,12 @@
     },
     {
         "source": "src/locales/ro.json",
+        "key": "Delete Transaction",
+        "defaultValue": "Delete Transaction",
+        "value": "Delete Transaction"
+    },
+    {
+        "source": "src/locales/ro.json",
         "key": "Clear Custom Icon Cache",
         "defaultValue": "Clear Custom Icon Cache",
         "value": "Clear Custom Icon Cache"

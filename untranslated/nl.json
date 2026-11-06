@@ -5671,6 +5671,12 @@
     },
     {
         "source": "src/locales/nl.json",
+        "key": "Delete Transaction",
+        "defaultValue": "Delete Transaction",
+        "value": "Delete Transaction"
+    },
+    {
+        "source": "src/locales/nl.json",
         "key": "Your token does not expire, please keep it secure.",
         "defaultValue": "Your token does not expire, please keep it secure.",
         "value": "Your token does not expire, please keep it secure."

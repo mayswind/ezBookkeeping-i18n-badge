@@ -1219,6 +1219,12 @@
     },
     {
         "source": "src/locales/de.json",
+        "key": "Delete Transaction",
+        "defaultValue": "Delete Transaction",
+        "value": "Delete Transaction"
+    },
+    {
+        "source": "src/locales/de.json",
         "key": "Developer Tools",
         "defaultValue": "Developer Tools",
         "value": "Developer Tools"

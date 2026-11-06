@@ -682,5 +682,11 @@
         "key": "sample.importInsightsExplorerQueries.additionalQueryDescription",
         "defaultValue": "Additional query conditions",
         "value": "Additional query conditions"
+    },
+    {
+        "source": "src/locales/hi.json",
+        "key": "Delete Transaction",
+        "defaultValue": "Delete Transaction",
+        "value": "Delete Transaction"
     }
 ]

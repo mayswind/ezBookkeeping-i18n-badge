@@ -3679,6 +3679,12 @@
     },
     {
         "source": "src/locales/kn.json",
+        "key": "Delete Transaction",
+        "defaultValue": "Delete Transaction",
+        "value": "Delete Transaction"
+    },
+    {
+        "source": "src/locales/kn.json",
         "key": "Browser Cache Management",
         "defaultValue": "Browser Cache Management",
         "value": "Browser Cache Management"

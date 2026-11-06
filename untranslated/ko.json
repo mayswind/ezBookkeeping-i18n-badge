@@ -3109,6 +3109,12 @@
     },
     {
         "source": "src/locales/ko.json",
+        "key": "Delete Transaction",
+        "defaultValue": "Delete Transaction",
+        "value": "Delete Transaction"
+    },
+    {
+        "source": "src/locales/ko.json",
         "key": "Browser Cache Management",
         "defaultValue": "Browser Cache Management",
         "value": "Browser Cache Management"

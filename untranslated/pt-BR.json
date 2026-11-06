@@ -2737,6 +2737,12 @@
     },
     {
         "source": "src/locales/pt_BR.json",
+        "key": "Delete Transaction",
+        "defaultValue": "Delete Transaction",
+        "value": "Delete Transaction"
+    },
+    {
+        "source": "src/locales/pt_BR.json",
         "key": "Clear Custom Icon Cache",
         "defaultValue": "Clear Custom Icon Cache",
         "value": "Clear Custom Icon Cache"

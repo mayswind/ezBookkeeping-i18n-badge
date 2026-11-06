@@ -2983,6 +2983,12 @@
     },
     {
         "source": "src/locales/ta.json",
+        "key": "Delete Transaction",
+        "defaultValue": "Delete Transaction",
+        "value": "Delete Transaction"
+    },
+    {
+        "source": "src/locales/ta.json",
         "key": "Browser Cache Management",
         "defaultValue": "Browser Cache Management",
         "value": "Browser Cache Management"
