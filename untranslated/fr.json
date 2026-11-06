@@ -2665,6 +2665,12 @@
     },
     {
         "source": "src/locales/fr.json",
+        "key": "Delete Transaction",
+        "defaultValue": "Delete Transaction",
+        "value": "Delete Transaction"
+    },
+    {
+        "source": "src/locales/fr.json",
         "key": "Unable to delete these transactions",
         "defaultValue": "Unable to delete these transactions",
         "value": "Unable to delete these transactions"
@@ -4324,12 +4330,6 @@
         "key": "Query Transactions",
         "defaultValue": "Query Transactions",
         "value": "Query Transactions"
-    },
-    {
-        "source": "src/locales/fr.json",
-        "key": "Delete Transaction",
-        "defaultValue": "Delete Transaction",
-        "value": "Delete Transaction"
     },
     {
         "source": "src/locales/fr.json",

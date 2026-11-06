@@ -1255,6 +1255,12 @@
     },
     {
         "source": "src/locales/uk.json",
+        "key": "Delete Transaction",
+        "defaultValue": "Delete Transaction",
+        "value": "Delete Transaction"
+    },
+    {
+        "source": "src/locales/uk.json",
         "key": "Unable to retrieve unreconciled transaction counts",
         "defaultValue": "Unable to retrieve unreconciled transaction counts",
         "value": "Unable to retrieve unreconciled transaction counts"
@@ -2170,12 +2176,6 @@
         "key": "Query Transactions",
         "defaultValue": "Query Transactions",
         "value": "Query Transactions"
-    },
-    {
-        "source": "src/locales/uk.json",
-        "key": "Delete Transaction",
-        "defaultValue": "Delete Transaction",
-        "value": "Delete Transaction"
     },
     {
         "source": "src/locales/uk.json",

@@ -685,15 +685,15 @@
     },
     {
         "source": "src/locales/hi.json",
-        "key": "User Avatars",
-        "defaultValue": "User Avatars",
-        "value": "User Avatars"
-    },
-    {
-        "source": "src/locales/hi.json",
         "key": "Delete Transaction",
         "defaultValue": "Delete Transaction",
         "value": "Delete Transaction"
+    },
+    {
+        "source": "src/locales/hi.json",
+        "key": "User Avatars",
+        "defaultValue": "User Avatars",
+        "value": "User Avatars"
     },
     {
         "source": "src/locales/hi.json",

@@ -169,18 +169,18 @@
     },
     "zh-Hans": {
         "languageTag": "zh-Hans",
-        "frontendTranslated": 2478,
+        "frontendTranslated": 2479,
         "frontendTotal": 2479,
         "backendTranslated": 10,
         "backendTotal": 10,
-        "totalProgress": 99.96
+        "totalProgress": 100
     },
     "zh-Hant": {
         "languageTag": "zh-Hant",
-        "frontendTranslated": 2478,
+        "frontendTranslated": 2479,
         "frontendTotal": 2479,
         "backendTranslated": 10,
         "backendTotal": 10,
-        "totalProgress": 99.96
+        "totalProgress": 100
     }
 }
