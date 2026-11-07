@@ -2155,6 +2155,12 @@
     },
     {
         "source": "src/locales/tr.json",
+        "key": "Cache Expiration for Transaction Pictures",
+        "defaultValue": "Cache Expiration for Transaction Pictures",
+        "value": "Cache Expiration for Transaction Pictures"
+    },
+    {
+        "source": "src/locales/tr.json",
         "key": "Clear File Cache",
         "defaultValue": "Clear File Cache",
         "value": "Clear File Cache"

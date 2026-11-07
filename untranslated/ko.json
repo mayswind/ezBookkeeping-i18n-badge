@@ -3175,6 +3175,12 @@
     },
     {
         "source": "src/locales/ko.json",
+        "key": "Cache Expiration for Transaction Pictures",
+        "defaultValue": "Cache Expiration for Transaction Pictures",
+        "value": "Cache Expiration for Transaction Pictures"
+    },
+    {
+        "source": "src/locales/ko.json",
         "key": "Cache Expiration for Exchange Rates Data",
         "defaultValue": "Cache Expiration for Exchange Rates Data",
         "value": "Cache Expiration for Exchange Rates Data"
