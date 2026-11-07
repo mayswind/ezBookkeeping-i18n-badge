@@ -1,0 +1,104 @@
+[
+    {
+        "source": "src/locales/sk.json",
+        "key": "dataExport.defaultExportFilename",
+        "defaultValue": "ezBookkeeping_export_data",
+        "value": "ezBookkeeping_export_data"
+    },
+    {
+        "source": "src/locales/sk.json",
+        "key": "dataExport.exportFilename",
+        "defaultValue": "ezBookkeeping_{nickname}_export_data",
+        "value": "ezBookkeeping_{nickname}_export_data"
+    },
+    {
+        "source": "src/locales/sk.json",
+        "key": "dataExport.defaultExportStatisticsFileName",
+        "defaultValue": "ezBookkeeping_statistics_data",
+        "value": "ezBookkeeping_statistics_data"
+    },
+    {
+        "source": "src/locales/sk.json",
+        "key": "dataExport.exportStatisticsFileName",
+        "defaultValue": "ezBookkeeping_{nickname}_statistics_data",
+        "value": "ezBookkeeping_{nickname}_statistics_data"
+    },
+    {
+        "source": "src/locales/sk.json",
+        "key": "dataExport.defaultExportReconciliationStatementsFileName",
+        "defaultValue": "ezBookkeeping_reconciliation_statements",
+        "value": "ezBookkeeping_reconciliation_statements"
+    },
+    {
+        "source": "src/locales/sk.json",
+        "key": "dataExport.exportReconciliationStatementsFileName",
+        "defaultValue": "ezBookkeeping_{nickname}_reconciliation_statements",
+        "value": "ezBookkeeping_{nickname}_reconciliation_statements"
+    },
+    {
+        "source": "src/locales/sk.json",
+        "key": "dataExport.defaultInsightsExplorerQueryFileName",
+        "defaultValue": "ezBookkeeping_insights_explorer_query",
+        "value": "ezBookkeeping_insights_explorer_query"
+    },
+    {
+        "source": "src/locales/sk.json",
+        "key": "dataExport.insightsExplorerQueryFileName",
+        "defaultValue": "ezBookkeeping_{nickname}_insights_explorer_query",
+        "value": "ezBookkeeping_{nickname}_insights_explorer_query"
+    },
+    {
+        "source": "src/locales/sk.json",
+        "key": "dataExport.defaultImportDataMappingFileName",
+        "defaultValue": "ezBookkeeping_import_data_mapping",
+        "value": "ezBookkeeping_import_data_mapping"
+    },
+    {
+        "source": "src/locales/sk.json",
+        "key": "dataExport.defaultImportHandlingScript",
+        "defaultValue": "ezBookkeeping_handling_script",
+        "value": "ezBookkeeping_handling_script"
+    },
+    {
+        "source": "src/locales/sk.json",
+        "key": "dataExport.defaultImportReplaceRuleFileName",
+        "defaultValue": "ezBookkeeping_import_replace_rule",
+        "value": "ezBookkeeping_import_replace_rule"
+    },
+    {
+        "source": "src/locales/sk.json",
+        "key": "dataExport.defaultImportCheckResultFileName",
+        "defaultValue": "ezBookkeeping_import_check_result",
+        "value": "ezBookkeeping_import_check_result"
+    },
+    {
+        "source": "src/locales/sk.json",
+        "key": "dataExport.defaultOverviewLayoutFileName",
+        "defaultValue": "ezBookkeeping_overview_layout",
+        "value": "ezBookkeeping_overview_layout"
+    },
+    {
+        "source": "src/locales/sk.json",
+        "key": "Filter",
+        "defaultValue": "Filter",
+        "value": "Filter"
+    },
+    {
+        "source": "src/locales/sk.json",
+        "key": "Token",
+        "defaultValue": "Token",
+        "value": "Token"
+    },
+    {
+        "source": "src/locales/sk.json",
+        "key": "E-mail",
+        "defaultValue": "E-mail",
+        "value": "E-mail"
+    },
+    {
+        "source": "src/locales/sk.json",
+        "key": "Editor",
+        "defaultValue": "Editor",
+        "value": "Editor"
+    }
+]
