@@ -61,18 +61,6 @@
     },
     {
         "source": "src/locales/es.json",
-        "key": "format.misc.batchTransactionCount",
-        "defaultValue": "{count} transactions",
-        "value": "{count} transactions"
-    },
-    {
-        "source": "src/locales/es.json",
-        "key": "format.misc.confirmBatchAddTransactions",
-        "defaultValue": "Are you sure you want to add {count} transactions?",
-        "value": "Are you sure you want to add {count} transactions?"
-    },
-    {
-        "source": "src/locales/es.json",
         "key": "format.misc.youHaveDeletedTransactions",
         "defaultValue": "You have deleted {count} transactions",
         "value": "You have deleted {count} transactions"
@@ -1327,12 +1315,6 @@
     },
     {
         "source": "src/locales/es.json",
-        "key": "Add Multiple Transactions",
-        "defaultValue": "Add Multiple Transactions",
-        "value": "Add Multiple Transactions"
-    },
-    {
-        "source": "src/locales/es.json",
         "key": "View Transactions Not Imported",
         "defaultValue": "View Transactions Not Imported",
         "value": "View Transactions Not Imported"
@@ -1486,18 +1468,6 @@
         "key": "Target Value",
         "defaultValue": "Target Value",
         "value": "Target Value"
-    },
-    {
-        "source": "src/locales/es.json",
-        "key": "Replace Rules",
-        "defaultValue": "Replace Rules",
-        "value": "Replace Rules"
-    },
-    {
-        "source": "src/locales/es.json",
-        "key": "Clear All Rules",
-        "defaultValue": "Clear All Rules",
-        "value": "Clear All Rules"
     },
     {
         "source": "src/locales/es.json",
@@ -1813,27 +1783,9 @@
     },
     {
         "source": "src/locales/es.json",
-        "key": "Select Another Image",
-        "defaultValue": "Select Another Image",
-        "value": "Select Another Image"
-    },
-    {
-        "source": "src/locales/es.json",
-        "key": "Use the mouse wheel to zoom and drag the image to adjust the crop",
-        "defaultValue": "Use the mouse wheel to zoom and drag the image to adjust the crop",
-        "value": "Use the mouse wheel to zoom and drag the image to adjust the crop"
-    },
-    {
-        "source": "src/locales/es.json",
         "key": "Unable to crop image",
         "defaultValue": "Unable to crop image",
         "value": "Unable to crop image"
-    },
-    {
-        "source": "src/locales/es.json",
-        "key": "You have added a new custom icon",
-        "defaultValue": "You have added a new custom icon",
-        "value": "You have added a new custom icon"
     },
     {
         "source": "src/locales/es.json",
@@ -1867,12 +1819,6 @@
     },
     {
         "source": "src/locales/es.json",
-        "key": "Are you sure you want to delete this custom icon?",
-        "defaultValue": "Are you sure you want to delete this custom icon?",
-        "value": "Are you sure you want to delete this custom icon?"
-    },
-    {
-        "source": "src/locales/es.json",
         "key": "Unable to delete custom icon",
         "defaultValue": "Unable to delete custom icon",
         "value": "Unable to delete custom icon"
@@ -1891,63 +1837,9 @@
     },
     {
         "source": "src/locales/es.json",
-        "key": "Import Presets",
-        "defaultValue": "Import Presets",
-        "value": "Import Presets"
-    },
-    {
-        "source": "src/locales/es.json",
         "key": "User Presets",
         "defaultValue": "User Presets",
         "value": "User Presets"
-    },
-    {
-        "source": "src/locales/es.json",
-        "key": "No available import presets",
-        "defaultValue": "No available import presets",
-        "value": "No available import presets"
-    },
-    {
-        "source": "src/locales/es.json",
-        "key": "Automatically Execute Script",
-        "defaultValue": "Automatically Execute Script",
-        "value": "Automatically Execute Script"
-    },
-    {
-        "source": "src/locales/es.json",
-        "key": "Are you sure you want to delete this import preset?",
-        "defaultValue": "Are you sure you want to delete this import preset?",
-        "value": "Are you sure you want to delete this import preset?"
-    },
-    {
-        "source": "src/locales/es.json",
-        "key": "Add Import Preset",
-        "defaultValue": "Add Import Preset",
-        "value": "Add Import Preset"
-    },
-    {
-        "source": "src/locales/es.json",
-        "key": "Edit Import Preset",
-        "defaultValue": "Edit Import Preset",
-        "value": "Edit Import Preset"
-    },
-    {
-        "source": "src/locales/es.json",
-        "key": "Preset Name",
-        "defaultValue": "Preset Name",
-        "value": "Preset Name"
-    },
-    {
-        "source": "src/locales/es.json",
-        "key": "Preset name cannot be blank",
-        "defaultValue": "Preset name cannot be blank",
-        "value": "Preset name cannot be blank"
-    },
-    {
-        "source": "src/locales/es.json",
-        "key": "Data Mapping File",
-        "defaultValue": "Data Mapping File",
-        "value": "Data Mapping File"
     },
     {
         "source": "src/locales/es.json",
