@@ -79,15 +79,45 @@
     },
     {
         "source": "src/locales/pl.json",
+        "key": "Pagination Navigation",
+        "defaultValue": "Pagination Navigation",
+        "value": "Pagination Navigation"
+    },
+    {
+        "source": "src/locales/pl.json",
+        "key": "Next Page",
+        "defaultValue": "Next Page",
+        "value": "Next Page"
+    },
+    {
+        "source": "src/locales/pl.json",
+        "key": "Previous Page",
+        "defaultValue": "Previous Page",
+        "value": "Previous Page"
+    },
+    {
+        "source": "src/locales/pl.json",
         "key": "Token",
         "defaultValue": "Token",
         "value": "Token"
     },
     {
         "source": "src/locales/pl.json",
+        "key": "Hidden",
+        "defaultValue": "Hidden",
+        "value": "Hidden"
+    },
+    {
+        "source": "src/locales/pl.json",
         "key": "Format",
         "defaultValue": "Format",
         "value": "Format"
+    },
+    {
+        "source": "src/locales/pl.json",
+        "key": "Loading...",
+        "defaultValue": "Loading...",
+        "value": "Loading..."
     },
     {
         "source": "src/locales/pl.json",
@@ -100,6 +130,24 @@
         "key": "User Avatars",
         "defaultValue": "User Avatars",
         "value": "User Avatars"
+    },
+    {
+        "source": "src/locales/pl.json",
+        "key": "Select color with eyedropper",
+        "defaultValue": "Select color with eyedropper",
+        "value": "Select color with eyedropper"
+    },
+    {
+        "source": "src/locales/pl.json",
+        "key": "Hue",
+        "defaultValue": "Hue",
+        "value": "Hue"
+    },
+    {
+        "source": "src/locales/pl.json",
+        "key": "HEX value",
+        "defaultValue": "HEX value",
+        "value": "HEX value"
     },
     {
         "source": "src/locales/pl.json",

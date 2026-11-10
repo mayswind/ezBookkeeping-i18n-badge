@@ -499,6 +499,24 @@
     },
     {
         "source": "src/locales/el.json",
+        "key": "Pagination Navigation",
+        "defaultValue": "Pagination Navigation",
+        "value": "Pagination Navigation"
+    },
+    {
+        "source": "src/locales/el.json",
+        "key": "Next Page",
+        "defaultValue": "Next Page",
+        "value": "Next Page"
+    },
+    {
+        "source": "src/locales/el.json",
+        "key": "Previous Page",
+        "defaultValue": "Previous Page",
+        "value": "Previous Page"
+    },
+    {
+        "source": "src/locales/el.json",
         "key": "Search",
         "defaultValue": "Search",
         "value": "Search"
@@ -514,6 +532,12 @@
         "key": "Token",
         "defaultValue": "Token",
         "value": "Token"
+    },
+    {
+        "source": "src/locales/el.json",
+        "key": "Hidden",
+        "defaultValue": "Hidden",
+        "value": "Hidden"
     },
     {
         "source": "src/locales/el.json",
@@ -676,6 +700,12 @@
         "key": "Sort By",
         "defaultValue": "Sort By",
         "value": "Sort By"
+    },
+    {
+        "source": "src/locales/el.json",
+        "key": "Loading...",
+        "defaultValue": "Loading...",
+        "value": "Loading..."
     },
     {
         "source": "src/locales/el.json",
@@ -1228,6 +1258,24 @@
         "key": "Selected Tags",
         "defaultValue": "Selected Tags",
         "value": "Selected Tags"
+    },
+    {
+        "source": "src/locales/el.json",
+        "key": "Select color with eyedropper",
+        "defaultValue": "Select color with eyedropper",
+        "value": "Select color with eyedropper"
+    },
+    {
+        "source": "src/locales/el.json",
+        "key": "Hue",
+        "defaultValue": "Hue",
+        "value": "Hue"
+    },
+    {
+        "source": "src/locales/el.json",
+        "key": "HEX value",
+        "defaultValue": "HEX value",
+        "value": "HEX value"
     },
     {
         "source": "src/locales/el.json",

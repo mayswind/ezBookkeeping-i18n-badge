@@ -1,8 +1,56 @@
 [
     {
         "source": "src/locales/tr.json",
+        "key": "Pagination Navigation",
+        "defaultValue": "Pagination Navigation",
+        "value": "Pagination Navigation"
+    },
+    {
+        "source": "src/locales/tr.json",
+        "key": "Next Page",
+        "defaultValue": "Next Page",
+        "value": "Next Page"
+    },
+    {
+        "source": "src/locales/tr.json",
+        "key": "Previous Page",
+        "defaultValue": "Previous Page",
+        "value": "Previous Page"
+    },
+    {
+        "source": "src/locales/tr.json",
+        "key": "Hidden",
+        "defaultValue": "Hidden",
+        "value": "Hidden"
+    },
+    {
+        "source": "src/locales/tr.json",
+        "key": "Loading...",
+        "defaultValue": "Loading...",
+        "value": "Loading..."
+    },
+    {
+        "source": "src/locales/tr.json",
         "key": "Transfer",
         "defaultValue": "Transfer",
         "value": "Transfer"
+    },
+    {
+        "source": "src/locales/tr.json",
+        "key": "Select color with eyedropper",
+        "defaultValue": "Select color with eyedropper",
+        "value": "Select color with eyedropper"
+    },
+    {
+        "source": "src/locales/tr.json",
+        "key": "Hue",
+        "defaultValue": "Hue",
+        "value": "Hue"
+    },
+    {
+        "source": "src/locales/tr.json",
+        "key": "HEX value",
+        "defaultValue": "HEX value",
+        "value": "HEX value"
     }
 ]

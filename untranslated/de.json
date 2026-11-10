@@ -553,6 +553,24 @@
     },
     {
         "source": "src/locales/de.json",
+        "key": "Pagination Navigation",
+        "defaultValue": "Pagination Navigation",
+        "value": "Pagination Navigation"
+    },
+    {
+        "source": "src/locales/de.json",
+        "key": "Next Page",
+        "defaultValue": "Next Page",
+        "value": "Next Page"
+    },
+    {
+        "source": "src/locales/de.json",
+        "key": "Previous Page",
+        "defaultValue": "Previous Page",
+        "value": "Previous Page"
+    },
+    {
+        "source": "src/locales/de.json",
         "key": "Status",
         "defaultValue": "Status",
         "value": "Status"
@@ -568,6 +586,12 @@
         "key": "Token",
         "defaultValue": "Token",
         "value": "Token"
+    },
+    {
+        "source": "src/locales/de.json",
+        "key": "Hidden",
+        "defaultValue": "Hidden",
+        "value": "Hidden"
     },
     {
         "source": "src/locales/de.json",
@@ -670,6 +694,12 @@
         "key": "Details",
         "defaultValue": "Details",
         "value": "Details"
+    },
+    {
+        "source": "src/locales/de.json",
+        "key": "Loading...",
+        "defaultValue": "Loading...",
+        "value": "Loading..."
     },
     {
         "source": "src/locales/de.json",
@@ -1060,6 +1090,24 @@
         "key": "Save as SSV (Semicolon-separated values) File",
         "defaultValue": "Save as SSV (Semicolon-separated values) File",
         "value": "Save as SSV (Semicolon-separated values) File"
+    },
+    {
+        "source": "src/locales/de.json",
+        "key": "Select color with eyedropper",
+        "defaultValue": "Select color with eyedropper",
+        "value": "Select color with eyedropper"
+    },
+    {
+        "source": "src/locales/de.json",
+        "key": "Hue",
+        "defaultValue": "Hue",
+        "value": "Hue"
+    },
+    {
+        "source": "src/locales/de.json",
+        "key": "HEX value",
+        "defaultValue": "HEX value",
+        "value": "HEX value"
     },
     {
         "source": "src/locales/de.json",
