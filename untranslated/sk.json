@@ -1,6 +1,12 @@
 [
     {
         "source": "src/locales/sk.json",
+        "key": "format.misc.nextExecutionTime",
+        "defaultValue": "Next execution: {time}",
+        "value": "Next execution: {time}"
+    },
+    {
+        "source": "src/locales/sk.json",
         "key": "dataExport.defaultExportFilename",
         "defaultValue": "ezBookkeeping_export_data",
         "value": "ezBookkeeping_export_data"
@@ -79,6 +85,12 @@
     },
     {
         "source": "src/locales/sk.json",
+        "key": "pageSpecific.scheduledTransactionListPage.disabled",
+        "defaultValue": "Disabled",
+        "value": "Disabled"
+    },
+    {
+        "source": "src/locales/sk.json",
         "key": "Pagination Navigation",
         "defaultValue": "Pagination Navigation",
         "value": "Pagination Navigation"
@@ -148,6 +160,48 @@
         "key": "Your profile has been successfully updated, but the language resources could not be loaded.",
         "defaultValue": "Your profile has been successfully updated, but the language resources could not be loaded.",
         "value": "Your profile has been successfully updated, but the language resources could not be loaded."
+    },
+    {
+        "source": "src/locales/sk.json",
+        "key": "List View",
+        "defaultValue": "List View",
+        "value": "List View"
+    },
+    {
+        "source": "src/locales/sk.json",
+        "key": "Calendar View",
+        "defaultValue": "Calendar View",
+        "value": "Calendar View"
+    },
+    {
+        "source": "src/locales/sk.json",
+        "key": "Active",
+        "defaultValue": "Active",
+        "value": "Active"
+    },
+    {
+        "source": "src/locales/sk.json",
+        "key": "Expired",
+        "defaultValue": "Expired",
+        "value": "Expired"
+    },
+    {
+        "source": "src/locales/sk.json",
+        "key": "Show Hidden Scheduled Transactions",
+        "defaultValue": "Show Hidden Scheduled Transactions",
+        "value": "Show Hidden Scheduled Transactions"
+    },
+    {
+        "source": "src/locales/sk.json",
+        "key": "Hide Hidden Scheduled Transactions",
+        "defaultValue": "Hide Hidden Scheduled Transactions",
+        "value": "Hide Hidden Scheduled Transactions"
+    },
+    {
+        "source": "src/locales/sk.json",
+        "key": "Unable to retrieve scheduled transaction calendar",
+        "defaultValue": "Unable to retrieve scheduled transaction calendar",
+        "value": "Unable to retrieve scheduled transaction calendar"
     },
     {
         "source": "src/locales/sk.json",

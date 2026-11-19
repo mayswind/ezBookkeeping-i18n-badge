@@ -43,6 +43,12 @@
     },
     {
         "source": "src/locales/it.json",
+        "key": "format.misc.nextExecutionTime",
+        "defaultValue": "Next execution: {time}",
+        "value": "Next execution: {time}"
+    },
+    {
+        "source": "src/locales/it.json",
         "key": "format.misc.previewCount",
         "defaultValue": "Preview Count: {count}",
         "value": "Preview Count: {count}"
@@ -1228,6 +1234,12 @@
         "key": "pageSpecific.accountListPage.availableBalance",
         "defaultValue": "Available",
         "value": "Available"
+    },
+    {
+        "source": "src/locales/it.json",
+        "key": "pageSpecific.scheduledTransactionListPage.disabled",
+        "defaultValue": "Disabled",
+        "value": "Disabled"
     },
     {
         "source": "src/locales/it.json",
@@ -4930,6 +4942,48 @@
         "key": "Selected Tags",
         "defaultValue": "Selected Tags",
         "value": "Selected Tags"
+    },
+    {
+        "source": "src/locales/it.json",
+        "key": "List View",
+        "defaultValue": "List View",
+        "value": "List View"
+    },
+    {
+        "source": "src/locales/it.json",
+        "key": "Calendar View",
+        "defaultValue": "Calendar View",
+        "value": "Calendar View"
+    },
+    {
+        "source": "src/locales/it.json",
+        "key": "Active",
+        "defaultValue": "Active",
+        "value": "Active"
+    },
+    {
+        "source": "src/locales/it.json",
+        "key": "Expired",
+        "defaultValue": "Expired",
+        "value": "Expired"
+    },
+    {
+        "source": "src/locales/it.json",
+        "key": "Show Hidden Scheduled Transactions",
+        "defaultValue": "Show Hidden Scheduled Transactions",
+        "value": "Show Hidden Scheduled Transactions"
+    },
+    {
+        "source": "src/locales/it.json",
+        "key": "Hide Hidden Scheduled Transactions",
+        "defaultValue": "Hide Hidden Scheduled Transactions",
+        "value": "Hide Hidden Scheduled Transactions"
+    },
+    {
+        "source": "src/locales/it.json",
+        "key": "Unable to retrieve scheduled transaction calendar",
+        "defaultValue": "Unable to retrieve scheduled transaction calendar",
+        "value": "Unable to retrieve scheduled transaction calendar"
     },
     {
         "source": "src/locales/it.json",
