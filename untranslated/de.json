@@ -25,9 +25,9 @@
     },
     {
         "source": "src/locales/de.json",
-        "key": "format.misc.nextExecutionTime",
-        "defaultValue": "Next execution: {time}",
-        "value": "Next execution: {time}"
+        "key": "format.misc.nextPostingTime",
+        "defaultValue": "Next posting: {time}",
+        "value": "Next posting: {time}"
     },
     {
         "source": "src/locales/de.json",
